@@ -1,10 +1,10 @@
-setwd("D:/Mario Documents/UNC/STOR 390/STOR390_WEBSITE/Group Assignments")
+setwd("D:/Mario Documents/UNC/STOR 538/STOR538_WEBSITE/Group Assignments")
 
 library(tidyverse)
 library(readxl)
 
 #Read Rosters
-Section=read_excel("Roster.xlsx")[,1]
+Section=read_csv("Roster.csv")[,1]
 
 #Function to Divide Sections into Groups
 Group.select.func<-function(data,random.seed){
