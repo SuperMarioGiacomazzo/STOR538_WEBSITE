@@ -87,9 +87,11 @@ The statistical programming language R will be used to generate visualizations a
 
 - Personal Trainer: **[Andy Ackerman](http://stat-or.unc.edu/people/graduate-students-department)**
 
-- Syllabus: **[Section 1]()**
+- Syllabus: **[Section 1](https://drive.google.com/file/d/1MGXcioW0wNm-DE9wufoP0M3jxR8RJ7Yd/view?usp=sharing)**
 
 - Description: Survey the application of statistics and mathematics to the sports industry exploring the history of analytics across various sports, understanding the advantages of sports analytics for both on-field performance and off-field business decisions, and examining current research to encourage creative thought of future development.
+
+- **[University Approved Absences](https://unc-ch.formstack.com/forms/university_approved_absence_request?sso=5f3154c3179f5)**: Fill out the online form.
 
   </div>
   <div class="column">
@@ -100,7 +102,7 @@ The statistical programming language R will be used to generate visualizations a
 - Zoom Links: 
     - **[Game Day:](https://unc.zoom.us/j/95044748614)** MWF, 4PM - 4:50PM
     - **[Press Conference:](https://unc.zoom.us/j/96354599519)** T, 9AM - 3PM 
-    - **[Andy's Training:](https://unc.zoom.us/j/95858531708)** TTh (3:30PM - 4:30PM) & F (2:30PM - 3:30PM)
+    - **[Andy's Training:](https://unc.zoom.us/j/95858531708)** TTh, 3:30PM - 4:30PM / F, 2:30PM - 3:30PM
 
 
 
