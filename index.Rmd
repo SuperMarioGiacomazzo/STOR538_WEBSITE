@@ -133,7 +133,7 @@ The statistical programming language R will be used to generate visualizations a
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-|Aug. 10|Syllabus     | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeUZhibzggxIDcUYNzg42y8EEzNfwVCb3JkSvARvzwfSIT01Q/viewform?usp=sf_link) ||
+|Aug. 10| [Syllabus](https://unc.zoom.us/rec/share/xs9oD5re2lpJbo3Iy3DFePd5ILiiaaa81CRMrPFZzUZ_WuO3Ie9YN8ySTIfA4k8P?startTime=1597089547000)     | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeUZhibzggxIDcUYNzg42y8EEzNfwVCb3JkSvARvzwfSIT01Q/viewform?usp=sf_link)||
 |Aug. 12|Sports Analytics I | [Slides](https://drive.google.com/file/d/15WWEfSqKUUPbtZrUWoB68_ClPVEXQ7q9/view?usp=sharing) |Ch. 1 SPAN, [Web 1](https://sportsshow.net/top-10-most-popular-sports-in-the-world/), [Web 2](https://sportsshow.net/most-popular-sports-in-america/), [Web 3](https://howmuch.net/articles/sports-leagues-by-revenue), [Web 4](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america) |
 |Aug. 14|Sports Analytics II | [Slides](https://drive.google.com/file/d/1-ilBRleZt77-e-IxauhdQjvX5qLqxO-S/view?usp=sharing) | Ch. 1-7 SPAN|
 |||| [Web 1a](https://scholarblogs.emory.edu/esma/2016/09/21/a-short-course-on-sports-analytics-part-1/), [Web 1b](https://scholarblogs.emory.edu/esma/2016/09/28/understanding-the-organization-sports-analytics-series-part-2/), [Web 1c](https://scholarblogs.emory.edu/esma/2016/10/04/questioning-the-value-of-analytics-sports-analytics-series-part-3/), [Web 1d](https://scholarblogs.emory.edu/esma/2016/10/27/decision-biases-sports-analytics-series-part-4/), [Web 1e](https://scholarblogs.emory.edu/esma/2016/11/08/moving-towards-modeling-lessons-from-other-arenas-sports-analytics-series-part-5/)|
