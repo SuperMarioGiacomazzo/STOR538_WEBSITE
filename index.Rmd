@@ -538,16 +538,16 @@ Any assignments requiring a deliverable will be submitted via **[Sakai](https://
 
 | Due Date (Time) | Gameday Speeches (GS) | Regular Season (RS) | Playoffs (P) | Championship (C)| 
 |-----------------|:---------------------:|:-------------------:|:------------:|:---------------:|
-|Aug. 14 (10:10AM)||RS1|||
-|Aug. 21 (10:10AM)|GS1 (Ch. 3 HSMAS)||||
-|Aug. 28 (10:10AM)||RS2|||
-|Sep. 4 (10:10AM)|GS2 (Ch. 10 HSMAS)||||
-|Sep. 11 (10:10AM)||RS3|||
-|Sep. 18 (10:10AM)|GS3 (Ch. 8 HSMAS)||||
-|Sep. 25 (5:00PM)|||P1||
-|Oct. 2  (10:10AM)||RS4|||
-|Oct. 9 (10:10AM)|GS4 (Ch. 13 HSMAS)||||
-|Oct. 16 (10:10AM)||RS5|||
+|Aug. 21 (10:10AM)||RS1|||
+|Aug. 28 (10:10AM)|GS1 (Ch. 3 HSMAS)||||
+|Sep. 4 (10:10AM)||RS2|||
+|Sep. 11 (10:10AM)|GS2 (Ch. 10 HSMAS)||||
+|Sep. 18 (10:10AM)||RS3|||
+|Sep. 25 (10:10AM)|GS3 (Ch. 8 HSMAS)||||
+|Oct. 2 (5:00PM)|||P1||
+|Oct. 9  (10:10AM)||RS4|||
+|Oct. 16 (10:10AM)|GS4 (Ch. 13 HSMAS)||||
+|Oct. 23 (10:10AM)||RS5|||
 |Oct. 30 (5:00PM)|||P2||
 |Nov. 6 (10:10AM)|GS5 (Ch. 21 HSMAS)||||
 |TBD (TBD)||||C|
