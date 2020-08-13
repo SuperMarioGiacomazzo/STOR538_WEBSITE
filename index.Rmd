@@ -134,7 +134,7 @@ The statistical programming language R will be used to generate visualizations a
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
 |Aug. 10| [Syllabus](https://unc.zoom.us/rec/share/xs9oD5re2lpJbo3Iy3DFePd5ILiiaaa81CRMrPFZzUZ_WuO3Ie9YN8ySTIfA4k8P?startTime=1597089547000)     | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeUZhibzggxIDcUYNzg42y8EEzNfwVCb3JkSvARvzwfSIT01Q/viewform?usp=sf_link)||
-|Aug. 12|Sports Analytics I | [Slides](https://drive.google.com/file/d/15WWEfSqKUUPbtZrUWoB68_ClPVEXQ7q9/view?usp=sharing) |Ch. 1 SPAN, [Web 1](https://sportsshow.net/top-10-most-popular-sports-in-the-world/), [Web 2](https://sportsshow.net/most-popular-sports-in-america/), [Web 3](https://howmuch.net/articles/sports-leagues-by-revenue), [Web 4](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america) |
+|Aug. 12| [Sports Analytics I](https://unc.zoom.us/rec/share/yJxcJqjq-k9IeLPH7VzxS74lML7Beaa823QZrKUJyEde7AXfCHvLDF1AKmNo_fUS) | [Slides](https://drive.google.com/file/d/15WWEfSqKUUPbtZrUWoB68_ClPVEXQ7q9/view?usp=sharing) |Ch. 1 SPAN, [Web 1](https://sportsshow.net/top-10-most-popular-sports-in-the-world/), [Web 2](https://sportsshow.net/most-popular-sports-in-america/), [Web 3](https://howmuch.net/articles/sports-leagues-by-revenue), [Web 4](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america) |
 |Aug. 14|Sports Analytics II | [Slides](https://drive.google.com/file/d/1-ilBRleZt77-e-IxauhdQjvX5qLqxO-S/view?usp=sharing) | Ch. 1-7 SPAN|
 |||| [Web 1a](https://scholarblogs.emory.edu/esma/2016/09/21/a-short-course-on-sports-analytics-part-1/), [Web 1b](https://scholarblogs.emory.edu/esma/2016/09/28/understanding-the-organization-sports-analytics-series-part-2/), [Web 1c](https://scholarblogs.emory.edu/esma/2016/10/04/questioning-the-value-of-analytics-sports-analytics-series-part-3/), [Web 1d](https://scholarblogs.emory.edu/esma/2016/10/27/decision-biases-sports-analytics-series-part-4/), [Web 1e](https://scholarblogs.emory.edu/esma/2016/11/08/moving-towards-modeling-lessons-from-other-arenas-sports-analytics-series-part-5/)|
 |||| [Web 2a](https://scholarblogs.emory.edu/esma/2017/10/08/player-analytics-fundamentals-part-1/), [Web 2b](https://scholarblogs.emory.edu/esma/2017/10/15/player-analytics-fundamentals-part-2-performance-metrics/), [Web 2c](https://scholarblogs.emory.edu/esma/2017/10/27/player-analytics-fundamentals-part-3-metrics-and-experts/), [Web 2d](https://scholarblogs.emory.edu/esma/2017/11/12/player-analytics-fundamentals-part-4-statistical-models/), [Web 2e](https://scholarblogs.emory.edu/esma/2017/11/28/player-analytics-fundamentals-part-5-modeling-102/)|
@@ -538,18 +538,18 @@ Any assignments requiring a deliverable will be submitted via **[Sakai](https://
 
 | Due Date (Time) | Gameday Speeches (GS) | Regular Season (RS) | Playoffs (P) | Championship (C)| 
 |-----------------|:---------------------:|:-------------------:|:------------:|:---------------:|
-|Aug. 21 (10:10AM)||RS1|||
-|Aug. 28 (10:10AM)|GS1 (Ch. 3 HSMAS)||||
-|Sep. 4 (10:10AM)||RS2|||
-|Sep. 11 (10:10AM)|GS2 (Ch. 10 HSMAS)||||
-|Sep. 18 (10:10AM)||RS3|||
-|Sep. 25 (10:10AM)|GS3 (Ch. 8 HSMAS)||||
+|Aug. 21 (4:00PM)||RS1|||
+|Aug. 28 (4:00PM)|GS1 (Ch. 3 HSMAS)||||
+|Sep. 4 (4:00PM)||RS2|||
+|Sep. 11 (4:00PM)|GS2 (Ch. 10 HSMAS)||||
+|Sep. 18 (4:00PM)||RS3|||
+|Sep. 25 (4:00PM)|GS3 (Ch. 8 HSMAS)||||
 |Oct. 2 (5:00PM)|||P1||
-|Oct. 9  (10:10AM)||RS4|||
-|Oct. 16 (10:10AM)|GS4 (Ch. 13 HSMAS)||||
-|Oct. 23 (10:10AM)||RS5|||
+|Oct. 9  (4:00PM)||RS4|||
+|Oct. 16 (4:00PM)|GS4 (Ch. 13 HSMAS)||||
+|Oct. 23 (4:00PM)||RS5|||
 |Oct. 30 (5:00PM)|||P2||
-|Nov. 6 (10:10AM)|GS5 (Ch. 21 HSMAS)||||
+|Nov. 6 (4:00PM)|GS5 (Ch. 21 HSMAS)||||
 |TBD (TBD)||||C|
 |          |                   |               |           |              |
 
