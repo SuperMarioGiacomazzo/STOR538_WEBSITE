@@ -140,7 +140,7 @@ The statistical programming language R will be used to generate visualizations a
 |||| [Web 2a](https://scholarblogs.emory.edu/esma/2017/10/08/player-analytics-fundamentals-part-1/), [Web 2b](https://scholarblogs.emory.edu/esma/2017/10/15/player-analytics-fundamentals-part-2-performance-metrics/), [Web 2c](https://scholarblogs.emory.edu/esma/2017/10/27/player-analytics-fundamentals-part-3-metrics-and-experts/), [Web 2d](https://scholarblogs.emory.edu/esma/2017/11/12/player-analytics-fundamentals-part-4-statistical-models/), [Web 2e](https://scholarblogs.emory.edu/esma/2017/11/28/player-analytics-fundamentals-part-5-modeling-102/)|
 |Aug. 17| [Sports Analytics III](https://unc.zoom.us/rec/share/yJFxH5_J1GdOXNKS2VjSBYEmBaLlaaa8hyQWqPoPy0cgp634kVNvFh5P0T76l18t?startTime=1597694183000)| [Slides](https://drive.google.com/file/d/1NSZ0DC7c7nQeRG6YBDXR_uudIZPqsKvH/view?usp=sharing) | [Web 1](https://www.itproportal.com/features/how-sports-teams-athletes-and-fans-reap-the-rewards-of-big-data/), [Web 2](https://www.forbes.com/sites/forbestechcouncil/2019/01/31/how-data-analysis-in-sports-is-changing-the-game/#3dc126cc3f7b), [Web 3](https://www.marketwatch.com/press-release/sports-analytics-market-size-and-share-forecast-to-2024-global-industry-analysis-by-dynamics-trends-company-overview-growth-factors-2020-05-21)  
 ||||[Web 4](https://www.soccermetrics.net/misc-stuff/sports-analytics-career-advice), [Web 5](http://statsheetstuffer.com/conferences/), [Web 6](http://sportsanalyticsconferences.com/)|
-|Aug. 19|Sports Analytics IV| [Slides](https://drive.google.com/file/d/1QpWi-sGDeCNK1gYCvy-7ZnoXn6F8oh3-/view?usp=sharing) | [Web 1](https://www.sportsmanagementworldwide.com/), [Web 2](https://www.udemy.com/courses/search/?src=ukw&q=sports%20analytics), [Article 1](https://drive.google.com/file/d/1RdVg3vop-6G3iQMvo-IAofCh5bY2FoNj/view?usp=sharing) |
+|Aug. 19| [Sports Analytics IV](https://unc.zoom.us/rec/share/_8lULo322T1OX7Px4hHWWrUYQpWiX6a81SkaqaYEmYtoAgIBPewKb_WaElnOOww?startTime=1597867043000) | [Slides](https://drive.google.com/file/d/1QpWi-sGDeCNK1gYCvy-7ZnoXn6F8oh3-/view?usp=sharing) | [Web 1](https://www.sportsmanagementworldwide.com/), [Web 2](https://www.udemy.com/courses/search/?src=ukw&q=sports%20analytics), [Article 1](https://drive.google.com/file/d/1RdVg3vop-6G3iQMvo-IAofCh5bY2FoNj/view?usp=sharing) |
 |Aug. 21|Baseball I| [Slides](https://drive.google.com/file/d/1JF1HkGycOjgpFvi2JgiCqRrKtDrrrNML/view?usp=sharing) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](https://drive.google.com/file/d/1hSq2MuQUmKZ6_HPktQGbfyf4TQjrHSK-/view?usp=sharing) |
 |Aug. 24|Baseball II| [Slides](https://drive.google.com/file/d/1OcH52ppOwIIQdSFdsZtdVRIWxO7S0faC/view?usp=sharing) |Ch.1-2 MATH, Ch.7 SM|
 |Aug. 26|Baseball III| [Slides](https://drive.google.com/file/d/1905wwf839TrWNmAJxzVIxqfJWWpEzz8Y/view?usp=sharing) |Ch. 3 MATH|
@@ -559,14 +559,14 @@ Any assignments requiring a deliverable will be submitted via **[Sakai](https://
 Many of the assessments in this course will be done in a teams of 4 or 5 playas randomly chosen. For each team-based assignment, you will be given a different team. This will force you to interact with the majority of the class throughout the semester. After each team-based assignment, you will grade the contribution of your teammates on a scale from 0 to 3, and this will contribute to your overall grade for the given assignment. A decent portion of your final grade will be influenced by this.
 
 Check out the following links to find your group by assignment: 
-**[GS1]()** 
-**[GS2]()**
-**[GS3]()**
-**[P1]()**
-**[GS4]()**
-**[P2]()**
-**[GS5]()**
-**[C]()**
+**[GS1](https://drive.google.com/file/d/1DRgOGHhEuwDWfnq8psBelcBu4K9BQQZq/view?usp=sharing)** 
+**[GS2](https://drive.google.com/file/d/13ROZ71njIUkmA_SQ7sI58YAqLSUmWFwO/view?usp=sharing)**
+**[GS3](https://drive.google.com/file/d/1DRgOGHhEuwDWfnq8psBelcBu4K9BQQZq/view?usp=sharing)**
+**[P1](https://drive.google.com/file/d/1N1CJh3Ux4DtZNLqnbRzflOxAHemPUMyu/view?usp=sharing)**
+**[GS4](https://drive.google.com/file/d/16UZPQjYT8AXhK97IqTvOuS7FiU8V962z/view?usp=sharing)**
+**[P2](https://drive.google.com/file/d/1ES33w5Ssq9Y0fshAwdY8JtY61081zCAN/view?usp=sharing)**
+**[GS5](https://drive.google.com/file/d/16UZPQjYT8AXhK97IqTvOuS7FiU8V962z/view?usp=sharing)**
+**[C](https://drive.google.com/file/d/1vgkqiIwrDo50thjLjyauPHMlMLrtOloc/view?usp=sharing)**
 
 The following link contains all teams alphabetically: **[All Teams]()**
 
