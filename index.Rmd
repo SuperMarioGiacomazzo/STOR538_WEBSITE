@@ -150,8 +150,9 @@ The statistical programming language R will be used to generate visualizations a
 |Sep. 4| [Baseball IV (Cont.)](https://unc.zoom.us/rec/share/JLeGLdIzQ8jiseLCqZX84VtHZpgF5fjeGSBSItJV3S7yvMGDsITRAzVdASg-rWex.2r5LN_XYPdAr8rsS?startTime=1599249472000) |||
 |Sep. 7|No Labor Day|||
 |Sep. 9| [Baseball V](https://unc.zoom.us/rec/share/tbtW0xWXvXrxJcnskW6SqUXIYS9MnDVykiW7iswYjM8H6C2ANqbjuJTKiU9SSNqp.9i1JqhywA1NtKH7B?startTime=1599681224000) | [Slides](https://drive.google.com/file/d/1K57fSmep6IrnqmSKXCDtWOu4GMDMluZf/view?usp=sharing) |Ch. 6 MATH|
-|Sep. 11|Baseball VI| [Slides](https://drive.google.com/file/d/1LHq6Bk4NnCA_zsj0Wy4MIZt1_ATdbeJp/view?usp=sharing) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp), [Article 1](https://drive.google.com/file/d/1Xjq2XlbYR6wl-b-CQ8Mu5NPUgZoJ2OIt/view?usp=sharing)|
-|Sep. 14|Baseball VII| [Slides](https://drive.google.com/file/d/1DEqvQM-gP17AL-TqBLd9KcJqNto6sRrA/view?usp=sharing) |Ch. 11,16 MATH, [Article 1](https://drive.google.com/file/d/1CJCMH1MVIftzroXR3R_-FQV7nIH6pQOf/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1JH-KZKAx-8MRxHogNnLWtL7hZLzInRgY/view?usp=sharing)|
+|Sep. 11| [Baseball V (Cont.)](https://unc.zoom.us/rec/share/cpbWOygCXFQih7BzLzJF4PTvFZiPTQH2a0wun20eCnS52CmwFVMok-BELtkcF8Ra.j4NDSLC_Y2ObgxvR?startTime=1599681224000) | [Slides](https://drive.google.com/file/d/1K57fSmep6IrnqmSKXCDtWOu4GMDMluZf/view?usp=sharing) |Ch. 6 MATH|
+|Sep. 14|Baseball VI| [Slides](https://drive.google.com/file/d/1LHq6Bk4NnCA_zsj0Wy4MIZt1_ATdbeJp/view?usp=sharing) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp), [Article 1](https://drive.google.com/file/d/1Xjq2XlbYR6wl-b-CQ8Mu5NPUgZoJ2OIt/view?usp=sharing)|
+|Sep. 16|Baseball VII| [Slides](https://drive.google.com/file/d/1DEqvQM-gP17AL-TqBLd9KcJqNto6sRrA/view?usp=sharing) |Ch. 11,16 MATH, [Article 1](https://drive.google.com/file/d/1CJCMH1MVIftzroXR3R_-FQV7nIH6pQOf/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1JH-KZKAx-8MRxHogNnLWtL7hZLzInRgY/view?usp=sharing)|
 |||||
 
 ## Second Period
