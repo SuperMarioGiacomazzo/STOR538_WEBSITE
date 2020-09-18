@@ -16,9 +16,9 @@ streak.count=1:15
 for(i in hitting.streak){
   n.streak=0
   count=0
-  for(j in 1:(length(hit.sim)-i+1)){
+  for(j in 2:(length(hit.sim)-i+1)){
     count=count+1
-    if(sum(hit.sim[j:(j+i-1)]==1)==i){
+    if(sum(hit.sim[j:(j+i-1)]==1)==i & hit.sim[j-1]==0 & hit.sim[j+i]==0){
       n.streak=n.streak+1
     }else{
       n.streak=n.streak+0
@@ -38,9 +38,9 @@ slump.count=1:15
 for(i in hitting.slump){
   n.slump=0
   count=0
-  for(j in 1:(length(hit.sim)-i+1)){
+  for(j in 2:(length(hit.sim)-i+1)){
     count=count+1
-    if(sum(hit.sim[j:(j+i-1)]==0)==i){
+    if(sum(hit.sim[j:(j+i-1)]==0)==i & hit.sim[j-1]==1 & hit.sim[j+i]==1){
       n.slump=n.slump+1
     }else{
       n.slump=n.slump+0
@@ -110,6 +110,10 @@ Data$n
 1-dpois(0,0.024)
 1-.4^0*exp(-0.4)/1
 
+1-dpois(0,0.024)
+
 Data2=Pitching %>% filter(G==35) %>% 
   filter(yearID>=1900 & yearID<=2006)
 
+2.4*9926
+1/.024
