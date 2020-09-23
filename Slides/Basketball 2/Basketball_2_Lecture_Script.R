@@ -2,7 +2,7 @@ options(scipen=9999)
 library(tidyverse)
 
 #Import Game Data
-GameData=read_csv("D:/Mario Documents/UNC/STOR 390/STOR390_WEBSITE/Slides/Basketball 2/GameData.csv")
+GameData=read_csv("D:/Mario Documents/UNC/STOR 538/STOR538_WEBSITE/Slides/Basketball 2/GameData.csv")
 head(GameData)
 
 #Modifed Data
@@ -15,20 +15,30 @@ for(j in 1:20){
 }
 
 GameData2[,12:20]=-GameData2[,12:20]
-Games.Played=colSums(GameData2[,3:20])
+Games.Played=abs(colSums(GameData2[,3:20]))
 
+GameData2b=GameData2
 
 #Added Constraint to Data (Sum of Effects = 0)
-GameData2[21,]=c(NA,0,rep(1/18,18))
+GameData2[21,]=c(NA,0,rep(1,18))
+GameData2b[21,]=c(NA,0,Games.Played)
+
 
 #Create Matrix A
 A=as.matrix(GameData2[,3:20])
+Ab=as.matrix(GameData2b[,3:20])
 
 #Create Vector y
 y=as.matrix(GameData2[,2])
+yb=as.matrix(GameData2b[,2])
 
 #Solve Linear Equations
 b=solve(t(A)%*%A)%*%t(A)%*%y
+bb=solve(t(Ab)%*%Ab)%*%t(Ab)%*%y
+
+OUT=cbind(Games.Played,b,bb)
+
+plot(x=OUT[,1],y=(OUT[,2]-OUT[,3]))
 
 #Print for Slides
 colnames(A)=NULL
