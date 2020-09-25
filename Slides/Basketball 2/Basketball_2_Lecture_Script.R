@@ -34,7 +34,9 @@ yb=as.matrix(GameData2b[,2])
 
 #Solve Linear Equations
 b=solve(t(A)%*%A)%*%t(A)%*%y
+mean(b)
 bb=solve(t(Ab)%*%Ab)%*%t(Ab)%*%y
+mean(bb)
 
 OUT=cbind(Games.Played,b,bb)
 
@@ -54,6 +56,7 @@ for(k in 1:20){
   Team2Total=sum(as.numeric(b)[as.numeric(GameData[k,8:12])])
   Approx.Score[k]=Team1Total-Team2Total
 }
+
 plot(x=y[-21],y=Approx.Score,col="red",pch=16,
      xlab="Actual Result",ylab="Estimated Result")
 abline(a=0,b=1,lty=2)
@@ -76,3 +79,67 @@ for(k in 1:dim(Games.Played.15)[1]){
 x2=mean(Team.Points2)-mean(Opponent.Points)
 
 x1-x2
+
+#Test Results from Website
+y=c(-40,-25,60,0,-30,-12.5,-12.5,-30,50,30,-50)
+A=matrix(c(1,1,1,0,0,-1,-1,-1,0,0,
+           1,1,1,0,0,-1,-1,0,-1,0,
+           1,0,0,1,1,-1,0,0,-1,-1,
+           1,0,0,1,1,0,0,-1,-1,-1,
+           0,1,1,1,0,0,-1,-1,-1,0,
+           0,1,1,0,1,0,-1,-1,0,-1,
+           1,1,1,0,0,0,-1,0,-1,-1,
+           1,1,1,0,0,-1,0,0,-1,-1,
+           0,0,1,1,1,-1,0,0,-1,-1,
+           1,0,1,1,0,-1,-1,-1,0,0,
+           1,0,0,1,1,0,-1,-1,-1,0),nrow=11,ncol=10,byrow=T)
+
+t(A)%*%A
+colSums(A)
+b=solve(t(A)%*%A)%*%t(A)%*%y
+mean(b)
+
+A2=rbind(A,rep(1,10))
+y2=c(y,0)
+b2=solve(t(A2)%*%A2)%*%t(A2)%*%y2
+mean(b2)
+
+mean(c(-30.5,0,-56,36.5,-31.75,-65.5,-38.25,8.25,40.5,-60.75))
+
+lm(y~.-1,data=as.data.frame(cbind(A,y)))
+
+lm(y2~.-1,data=as.data.frame(cbind(A2,y2)))
+
+#Constraint
+y=c(30,40,20,15,60,14,17,25)
+
+X=matrix(c(1,0,0,0,
+           1,0,0,0,
+           0,1,0,0,
+           0,1,0,0,
+           0,0,1,0,
+           0,0,1,0,
+           0,0,0,1,
+           0,0,0,1),nrow=8,ncol=4,byrow=T)
+data=as.data.frame(cbind(y,X))
+
+lm(y~.,data=data)
+lm(y~.-1,data=data)
+
+y2=c(30,40,20,15,60,14,17,25,0)
+
+X2=matrix(c(1,1,0,0,0,
+           1,1,0,0,0,
+           1,0,1,0,0,
+           1,0,1,0,0,
+           1,0,0,1,0,
+           1,0,0,1,0,
+           1,0,0,0,1,
+           1,0,0,0,1,
+           0,1,1,1,1),nrow=9,ncol=5,byrow=T)
+data2=as.data.frame(cbind(y2,X2))
+
+lm(y2~.-1,data2)
+
+solve(t(X2)%*%X2)%*%t(X2)%*%y2
+35-27.625
