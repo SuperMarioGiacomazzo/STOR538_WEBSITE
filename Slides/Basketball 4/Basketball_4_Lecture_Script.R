@@ -3,9 +3,9 @@ library(tidyverse)
 library(rvest)
 
 #Import Game Data
-Player=read_csv("D:/Mario Documents/UNC/STOR 390/STOR390_WEBSITE/Slides/Basketball 4/players.csv")
-Salary=read_csv("D:/Mario Documents/UNC/STOR 390/STOR390_WEBSITE/Slides/Basketball 4/salaries_1985to2018.csv")
-Games=read_csv("D:/Mario Documents/UNC/STOR 390/STOR390_WEBSITE/Slides/Basketball 4/nba.games.stats.csv")
+Player=read_csv("D:/Mario Documents/UNC/STOR 538/STOR538_WEBSITE/Slides/Basketball 4/players.csv")
+Salary=read_csv("D:/Mario Documents/UNC/STOR 538/STOR538_WEBSITE/Slides/Basketball 4/salaries_1985to2018.csv")
+Games=read_csv("D:/Mario Documents/UNC/STOR 538/STOR538_WEBSITE/Slides/Basketball 4/nba.games.stats.csv")
 
 #Investigation of Salary
 head(Salary)
