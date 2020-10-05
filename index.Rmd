@@ -129,7 +129,7 @@ The statistical programming language R will be used to generate visualizations a
 
 # **Film Sessions** {.tabset}
 
-## First Period
+## First Half
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
@@ -156,7 +156,7 @@ The statistical programming language R will be used to generate visualizations a
 |Sep. 18| [Baseball VII (Cont.)](https://unc.zoom.us/rec/share/Vni4j6D7A7xW-CTGqUvMnq48PEYmopcTvDbUrsPdz6wuZfZ0lObyANGqsuU_Q3fU.XVfSA-Id8dDR2LWQ?startTime=1600458886000) | [Slides](https://drive.google.com/file/d/1DEqvQM-gP17AL-TqBLd9KcJqNto6sRrA/view?usp=sharing) ||
 |||||
 
-## Second Period
+## Second Half
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
@@ -165,23 +165,24 @@ The statistical programming language R will be used to generate visualizations a
 |Sep. 25| [Basketball II (Cont.)](https://unc.zoom.us/rec/share/aAvOq5OlSowbGbPN8Y-AHWXxr8WOoZAaJfzfjHW_wwDRXFNMsjIMgQxBnlAHB1Ot.OZJqirXHLWWwY0Ry?startTime=1601063617000)| ||
 |Sep. 28| [Basketball III](https://unc.zoom.us/rec/share/yxaZ_my5XiA-0DASMlJCaqxKJ2e1J0Ae6v8773Vw3VZSBsh88qujkYiiz1-GNAfr.W3B8fpo2z2yPRWba?startTime=1601323008000) | [Slides](https://drive.google.com/file/d/1Bv9Lml49Ol2KtGvE496pELHyVFoK6Qns/view?usp=sharing) |Ch. 31-32 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)|
 |Sep. 30| [Basketball IV](https://unc.zoom.us/rec/share/SIVFSA5HU0OBcEWOpeJ8ByNHq7XH_4s5Ny0Wo3HEZ8o6ca_pcnzr-J9Dxp5uHnG6.uFyRC4FHDU25-pzH?startTime=1601495564000) | [Slides](https://drive.google.com/file/d/1-rkIlKiWnwzfkFbCwmehx-7TLXjxDBED/view?usp=sharing) |Ch. 33 MATH|
-|Oct 2| Basketball IV (Cont.) | [Slides](https://drive.google.com/file/d/1-rkIlKiWnwzfkFbCwmehx-7TLXjxDBED/view?usp=sharing) |Ch. 33 MATH|
+|Oct 2| [Basketball IV (Cont.)](https://unc.zoom.us/rec/share/nNggeRWxbQlWRCNp9EnyMEBMKu1aAcXcGtXJUJ45a-LEbKO2gaQVrmFhYxWKYOb7.K_2e3mvZc3tDUHOE?startTime=1601668260000) | [Slides](https://drive.google.com/file/d/1-rkIlKiWnwzfkFbCwmehx-7TLXjxDBED/view?usp=sharing) |Ch. 33 MATH|
 |Oct. 5|Basketball V| [Slides](https://drive.google.com/file/d/1dB1Pp1wJyP3G_aDWLpkkx66P4shOohqp/view?usp=sharing) |Ch. 34-35 MATH, [Web 1](https://www.nytimes.com/2011/04/13/sports/ncaabasketball/13gamble.html), [Web 2](https://las.illinois.edu/news/2006-09-01/no-foul), [Article 1](https://drive.google.com/file/d/13YsmyYAYiP9uRrrWCYn4Zihfd3nxWoQv/view?usp=sharing)|
 |Oct. 7|Basketball VI| [Slides](https://drive.google.com/file/d/11guOwhM8vZBsw527wGuTtPe5M57XlsDY/view?usp=sharing) |Ch. 37 MATH, [Web 1](https://www.inpredictable.com/2016/05/endgame-strategy-in-nba.html), [Web 2](http://www.82games.com/lawhorn.htm)|
 |||| [Article 1](https://drive.google.com/file/d/1S0-ni39wz2t148Hk_dSq1v5Uve2dLFWY/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1RhtPHOjsln3tR1NcNRjZ3w82iw2IyFTj/view?usp=sharing), [Article 3](https://drive.google.com/file/d/1oPZKZsc-MGDg8840SbBmp318LX-oR7hV/view?usp=sharing)|
-|Oct. 9|Prediction Project|||
-|Oct. 12|Football I| [Slides](https://drive.google.com/file/d/12n_Dok2pLA9tRcssjGrM2gVic4coDiKE/view?usp=sharing) |Ch. 18 MATH|
-|Oct. 14|Football II| [Slides](https://drive.google.com/file/d/1gKr7DyHJBVBJr-bJJyFbyt4CRlb9HE_C/view?usp=sharing) |Ch. 19 MATH, [Web 1](https://hbr.org/2019/04/whos-the-most-important-member-of-an-nfl-franchise), [Web 2](https://bleacherreport.com/articles/1691533-which-metric-matters-most-when-evaluating-nfl-quarterbacks), [Article 1](https://drive.google.com/file/d/1D8A2sLP26O7YG-t7Sz5aZyrFm7dcux_I/view?usp=sharing) |
-|Oct. 16|Football III| [Slides](https://drive.google.com/file/d/1_BJJEU8Wc6RFQzkjJUnFVEi_wtVIEPp3/view?usp=sharing) |Ch. 20 MATH, [Article 1](https://drive.google.com/file/d/1RnP3Ob88JdGRdNyWhKYxFEMEfQVlpiiZ/view?usp=sharing), [Article 2](https://drive.google.com/file/d/15CR45R7dUS4csuRLz3YZsiKTXYZMyx2F/view?usp=sharing), [Article 3](https://drive.google.com/file/d/14ZtYeAq0Ith7gyhEHQqDLUVGp0Ci8ssm/view?usp=sharing) |
-|Oct. 19|Football IV| [Slides](https://drive.google.com/file/d/1T-hxsCfQnNd4EWbHyHGUKkyLY-nlVkJ6/view?usp=sharing) | Ch. 21 MATH, [Web 1](https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c), [Article 1](https://drive.google.com/file/d/1dM7UsQVay5nRLG8eqCfK-7NjAq0xoCJ9/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1PcEhklJ0I8qH-EAcMI4cYH2Jna7zkaKo/view?usp=sharing) |
-|Oct. 21|Football V| [Slides](https://drive.google.com/file/d/1hDe-eTp5hSSfcnhOs84dlTVA_RSzeHCA/view?usp=sharing) | Ch. 22 MATH|
-|Oct. 23|Football VI| [Slides](https://drive.google.com/file/d/1D_crXcO8SKiOpCX7Nq2tpUI6pT1hoCE6/view?usp=sharing) | Ch. 23 MATH, [Web 1](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html), [Web 2](https://plato.stanford.edu/entries/game-theory/), [Web 3](https://www.fieldgulls.com/seahawks-analysis/2015/1/9/7517551/understanding-effective-play-calling-with-game-theory) |
-|Oct. 26 |Football VII| [Slides](https://drive.google.com/file/d/1W4lJTKoRQlGFX4Z5ucZwYyzYWJBDKDzd/view?usp=sharing)  | Ch. 26-27 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1) |
+|Oct. 9|Mental Health Day|||
+|Oct. 12|Prediction Project|||
+|Oct. 14|Football I| [Slides](https://drive.google.com/file/d/12n_Dok2pLA9tRcssjGrM2gVic4coDiKE/view?usp=sharing) |Ch. 18 MATH|
+|Oct. 16|Football II| [Slides](https://drive.google.com/file/d/1gKr7DyHJBVBJr-bJJyFbyt4CRlb9HE_C/view?usp=sharing) |Ch. 19 MATH, [Web 1](https://hbr.org/2019/04/whos-the-most-important-member-of-an-nfl-franchise), [Web 2](https://bleacherreport.com/articles/1691533-which-metric-matters-most-when-evaluating-nfl-quarterbacks), [Article 1](https://drive.google.com/file/d/1D8A2sLP26O7YG-t7Sz5aZyrFm7dcux_I/view?usp=sharing) |
+|Oct. 19|Football III| [Slides](https://drive.google.com/file/d/1_BJJEU8Wc6RFQzkjJUnFVEi_wtVIEPp3/view?usp=sharing) |Ch. 20 MATH, [Article 1](https://drive.google.com/file/d/1RnP3Ob88JdGRdNyWhKYxFEMEfQVlpiiZ/view?usp=sharing), [Article 2](https://drive.google.com/file/d/15CR45R7dUS4csuRLz3YZsiKTXYZMyx2F/view?usp=sharing), [Article 3](https://drive.google.com/file/d/14ZtYeAq0Ith7gyhEHQqDLUVGp0Ci8ssm/view?usp=sharing) |
+|Oct. 21|Football IV| [Slides](https://drive.google.com/file/d/1T-hxsCfQnNd4EWbHyHGUKkyLY-nlVkJ6/view?usp=sharing) | Ch. 21 MATH, [Web 1](https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c), [Article 1](https://drive.google.com/file/d/1dM7UsQVay5nRLG8eqCfK-7NjAq0xoCJ9/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1PcEhklJ0I8qH-EAcMI4cYH2Jna7zkaKo/view?usp=sharing) |
+|Oct. 23|Football V| [Slides](https://drive.google.com/file/d/1hDe-eTp5hSSfcnhOs84dlTVA_RSzeHCA/view?usp=sharing) | Ch. 22 MATH|
+|Oct. 26|Football VI| [Slides](https://drive.google.com/file/d/1D_crXcO8SKiOpCX7Nq2tpUI6pT1hoCE6/view?usp=sharing) | Ch. 23 MATH, [Web 1](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html), [Web 2](https://plato.stanford.edu/entries/game-theory/), [Web 3](https://www.fieldgulls.com/seahawks-analysis/2015/1/9/7517551/understanding-effective-play-calling-with-game-theory) |
+|Oct. 30 |Football VII| [Slides](https://drive.google.com/file/d/1W4lJTKoRQlGFX4Z5ucZwYyzYWJBDKDzd/view?usp=sharing)  | Ch. 26-27 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1) |
 |||  | [Article 1](https://drive.google.com/file/d/1Fduezv2BojgM__edY-3kP_C03Ds4iDm_/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1F2zx60VkSlFi5lvgo_pCsRSgE7ULAES8/view?usp=sharing) |
-|Oct. 28 |Football VII (Cont.)|||
+|Nov. 2 |Football VII (Cont.)|||
 |||||
 
-## Third Period
+## Overtime
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
