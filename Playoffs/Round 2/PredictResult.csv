@@ -1,23 +1,41 @@
-"Date","Home","Visitor","Actual","1","2","3","4","5","6","7","8","9"
-"11/16/2019","Clemson","Wake Forest","W","W","W","W","W","W","W","W","W","W"
-"11/16/2019","Duke","Syracuse","L","W","W","L","W","L","W","W","W","W"
-"11/16/2019","Florida State","Alabama State","W","W","W","L","W","W","W","W","W","W"
-"11/16/2019","Georgia Tech","Virginia Tech","L","L","L","L","L","L","L","L","L","L"
-"11/16/2019","NC State","Louisville","L","L","L","W","L","W","L","L","L","W"
-"11/21/2019","Georgia Tech","NC State","W","L","L","W","L","W","W","L","L","L"
-"11/23/2019","Notre Dame","Boston College","W","W","W","W","W","W","W","W","W","W"
-"11/23/2019","FIU","Miami","W","L","L","W","L","W","L","L","L","L"
-"11/23/2019","Wake Forest","Duke","W","L","W","L","W","W","W","W","L","W"
-"11/23/2019","Louisville","Syracuse","W","W","W","L","W","L","W","W","W","L"
-"11/23/2019","North Carolina","Mercer","W","W","W","W","W","W","W","W","W","W"
-"11/23/2019","Virginia Tech","Pittsburgh","W","L","W","W","W","W","W","W","W","L"
-"11/23/2019","Virginia","Liberty","W","W","W","W","W","W","W","W","W","W"
-"11/29/2019","Virginia","Virginia Tech","W","W","L","L","W","L","L","L","L","W"
-"11/30/2019","Pittsburgh","Boston College","L","W","L","L","W","L","L","L","L","W"
-"11/30/2019","South Carolina","Clemson","L","L","L","L","L","L","L","L","L","L"
-"11/30/2019","Duke","Miami","W","L","L","W","L","W","W","L","W","L"
-"11/30/2019","Florida","Florida State","W","W","W","W","W","W","W","W","W","W"
-"11/30/2019","Georgia Tech","Georgia","L","L","L","L","L","L","L","L","L","L"
-"11/30/2019","Kentucky","Louisville","W","L","L","W","W","W","L","L","L","W"
-"11/30/2019","NC State","North Carolina","L","L","L","W","L","W","L","L","W","L"
-"11/30/2019","Syracuse","Wake Forest","W","L","L","W","L","W","L","L","L","L"
+Date,Away Team,Home Team,Actual,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+11/1/2020,New England Patriots,Buffalo Bills,,,,,,,,,,,,,,,,
+11/1/2020,Tennessee Titans,Cincinnati Bengals,,,,,,,,,,,,,,,,
+11/1/2020,Las Vegas Raiders,Cleveland Browns,,,,,,,,,,,,,,,,
+11/1/2020,Indianapolis Colts,Detroit Lions,,,,,,,,,,,,,,,,
+11/1/2020,Minnesota Vikings,Green Bay Packers,,,,,,,,,,,,,,,,
+11/1/2020,New York Jets,Kansas City Chiefs,,,,,,,,,,,,,,,,
+11/1/2020,Los Angeles Rams,Miami Dolphins,,,,,,,,,,,,,,,,
+11/1/2020,Pittsburgh Steelers,Baltimore Ravens,,,,,,,,,,,,,,,,
+11/1/2020,Jacksonville Jaguars,Los Angeles Chargers,,,,,,,,,,,,,,,,
+11/1/2020,New Orleans Saints,Chicago Bears,,,,,,,,,,,,,,,,
+11/1/2020,San Francisco 49ers,Seattle Seahawks,,,,,,,,,,,,,,,,
+11/1/2020,Dallas Cowboys,Philadelphia Eagles,,,,,,,,,,,,,,,,
+11/2/2020,Tampa Bay Buccaneers,New York Giants,,,,,,,,,,,,,,,,
+11/5/2020,Green Bay Packers,San Francisco 49ers,,,,,,,,,,,,,,,,
+11/8/2020,Denver Broncos,Atlanta Falcons,,,,,,,,,,,,,,,,
+11/8/2020,Seattle Seahawks,Buffalo Bills,,,,,,,,,,,,,,,,
+11/8/2020,Baltimore Ravens,Indianapolis Colts,,,,,,,,,,,,,,,,
+11/8/2020,Houston Texans,Jacksonville Jaguars,,,,,,,,,,,,,,,,
+11/8/2020,Carolina Panthers,Kansas City Chiefs,,,,,,,,,,,,,,,,
+11/8/2020,Detroit Lions,Minnesota Vikings,,,,,,,,,,,,,,,,
+11/8/2020,Chicago Bears,Tennessee Titans,,,,,,,,,,,,,,,,
+11/8/2020,New York Giants,Washington Redskins,,,,,,,,,,,,,,,,
+11/8/2020,Las Vegas Raiders,Los Angeles Chargers,,,,,,,,,,,,,,,,
+11/8/2020,Miami Dolphins,Arizona Cardinals,,,,,,,,,,,,,,,,
+11/8/2020,Pittsburgh Steelers,Dallas Cowboys,,,,,,,,,,,,,,,,
+11/8/2020,New Orleans Saints,Tampa Bay Buccaneers,,,,,,,,,,,,,,,,
+11/9/2020,New England Patriots,New York Jets,,,,,,,,,,,,,,,,
+11/12/2020,Indianapolis Colts,Tennessee Titans,,,,,,,,,,,,,,,,
+11/15/2020,Tampa Bay Buccaneers,Carolina Panthers,,,,,,,,,,,,,,,,
+11/15/2020,Houston Texans,Cleveland Browns,,,,,,,,,,,,,,,,
+11/15/2020,Washington Redskins,Detroit Lions,,,,,,,,,,,,,,,,
+11/15/2020,Jacksonville Jaguars,Green Bay Packers,,,,,,,,,,,,,,,,
+11/15/2020,Philadelphia Eagles,New York Giants,,,,,,,,,,,,,,,,
+11/15/2020,Cincinnati Bengals,Pittsburgh Steelers,,,,,,,,,,,,,,,,
+11/15/2020,Buffalo Bills,Arizona Cardinals,,,,,,,,,,,,,,,,
+11/15/2020,Denver Broncos,Las Vegas Raiders,,,,,,,,,,,,,,,,
+11/15/2020,New York Jets,Miami Dolphins,,,,,,,,,,,,,,,,
+11/15/2020,Seattle Seahawks,Los Angeles Rams,,,,,,,,,,,,,,,,
+11/15/2020,San Francisco 49ers,New Orleans Saints,,,,,,,,,,,,,,,,
+11/15/2020,Baltimore Ravens,New England Patriots,,,,,,,,,,,,,,,,

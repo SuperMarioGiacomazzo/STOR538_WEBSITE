@@ -1,23 +1,41 @@
-"Date","Home","Visitor","Actual","1","2","3","4","5","6","7","8","9"
-"11/16/2019","Clemson","Wake Forest",49,21.5,9.1178,26.26065653,28,10,10,21,5,30.91327347
-"11/16/2019","Duke","Syracuse",-43,5.5,-0.0849,-8.600120431,10,0,0,1,10,15.81057186
-"11/16/2019","Florida State","Alabama State",37,22,5.2266,-17.26677713,35,3,13,22,20,16.75409955
-"11/16/2019","Georgia Tech","Virginia Tech",-45,-3.5,-12.9624,-12.75589422,-6,-6,-9,-12,-18,0.001034009
-"11/16/2019","NC State","Louisville",-14,-5,-9.1984,9.089414665,-3,10,-16,-10,-13,0.977352075
-"11/21/2019","Georgia Tech","NC State",2,-0.5,-6.4089,1.232079148,-1,0,5,-4,-5,5.913485907
-"11/23/2019","Notre Dame","Boston College",33,5.5,1.2907,10.34500756,21,7,5,14,20,20.49812935
-"11/23/2019","FIU","Miami",6,-12.5,-3.3538,11.62732685,-21,7,-3,-4,3,9.022333473
-"11/23/2019","Wake Forest","Duke",12,5.5,12.4076,-1.147403847,1,3,16,11,-5,28.81054089
-"11/23/2019","Louisville","Syracuse",22,10.5,8.0437,-25.40079632,10,-3,6,8,10,27.22917909
-"11/23/2019","North Carolina","Mercer",49,28,-0.9519,3.971859827,45,7,8,17,2,14.90320337
-"11/23/2019","Virginia Tech","Pittsburgh",28,-0.5,7.9272,11.53435901,3,6,17,10,0,23.86269599
-"11/23/2019","Virginia","Liberty",28,14,-3.1765,10.46397075,21,3,6,24,5,21.09436807
-"11/29/2019","Virginia","Virginia Tech",9,7,0.478,-4.574293371,6,-3,-2,-1,-9,16.90625092
-"11/30/2019","Pittsburgh","Boston College",-7,-4,-10.7352,-3.350528405,3,-9,-17,-15,-12,-1.484877164
-"11/30/2019","South Carolina","Clemson",-35,-11,-20.1384,-20.74677498,-10,-14,-24,-18,-9,-1.863592935
-"11/30/2019","Duke","Miami",10,1,-4.6023,13.01383434,-3,4,16,-4,4,11.22342203
-"11/30/2019","Florida","Florida State",23,12.5,5.0515,14.71310931,17,7,15,5,10,25.3732065
-"11/30/2019","Georgia Tech","Georgia",-45,-11,-16.5798,-11.65062064,-35,-4,-12,-17,-18,-3.398484387
-"11/30/2019","Kentucky","Louisville",32,-5,-10.777,20.24581953,3,8,-7,-10,-10,2.035771832
-"11/30/2019","NC State","North Carolina",-31,-5,-3.7675,4.679891148,-1,9,-11,-7,1,6.807618848
-"11/30/2019","Syracuse","Wake Forest",9,-8,-11.1624,17.11525175,-6,3,-16,-12,-6,0.694588531
+Date,Away Team,Home Team,Actual,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+11/1/2020,New England Patriots,Buffalo Bills,,,,,,,,,,,,,,,
+11/1/2020,Tennessee Titans,Cincinnati Bengals,,,,,,,,,,,,,,,
+11/1/2020,Las Vegas Raiders,Cleveland Browns,,,,,,,,,,,,,,,
+11/1/2020,Indianapolis Colts,Detroit Lions,,,,,,,,,,,,,,,
+11/1/2020,Minnesota Vikings,Green Bay Packers,,,,,,,,,,,,,,,
+11/1/2020,New York Jets,Kansas City Chiefs,,,,,,,,,,,,,,,
+11/1/2020,Los Angeles Rams,Miami Dolphins,,,,,,,,,,,,,,,
+11/1/2020,Pittsburgh Steelers,Baltimore Ravens,,,,,,,,,,,,,,,
+11/1/2020,Jacksonville Jaguars,Los Angeles Chargers,,,,,,,,,,,,,,,
+11/1/2020,New Orleans Saints,Chicago Bears,,,,,,,,,,,,,,,
+11/1/2020,San Francisco 49ers,Seattle Seahawks,,,,,,,,,,,,,,,
+11/1/2020,Dallas Cowboys,Philadelphia Eagles,,,,,,,,,,,,,,,
+11/2/2020,Tampa Bay Buccaneers,New York Giants,,,,,,,,,,,,,,,
+11/5/2020,Green Bay Packers,San Francisco 49ers,,,,,,,,,,,,,,,
+11/8/2020,Denver Broncos,Atlanta Falcons,,,,,,,,,,,,,,,
+11/8/2020,Seattle Seahawks,Buffalo Bills,,,,,,,,,,,,,,,
+11/8/2020,Baltimore Ravens,Indianapolis Colts,,,,,,,,,,,,,,,
+11/8/2020,Houston Texans,Jacksonville Jaguars,,,,,,,,,,,,,,,
+11/8/2020,Carolina Panthers,Kansas City Chiefs,,,,,,,,,,,,,,,
+11/8/2020,Detroit Lions,Minnesota Vikings,,,,,,,,,,,,,,,
+11/8/2020,Chicago Bears,Tennessee Titans,,,,,,,,,,,,,,,
+11/8/2020,New York Giants,Washington Redskins,,,,,,,,,,,,,,,
+11/8/2020,Las Vegas Raiders,Los Angeles Chargers,,,,,,,,,,,,,,,
+11/8/2020,Miami Dolphins,Arizona Cardinals,,,,,,,,,,,,,,,
+11/8/2020,Pittsburgh Steelers,Dallas Cowboys,,,,,,,,,,,,,,,
+11/8/2020,New Orleans Saints,Tampa Bay Buccaneers,,,,,,,,,,,,,,,
+11/9/2020,New England Patriots,New York Jets,,,,,,,,,,,,,,,
+11/12/2020,Indianapolis Colts,Tennessee Titans,,,,,,,,,,,,,,,
+11/15/2020,Tampa Bay Buccaneers,Carolina Panthers,,,,,,,,,,,,,,,
+11/15/2020,Houston Texans,Cleveland Browns,,,,,,,,,,,,,,,
+11/15/2020,Washington Redskins,Detroit Lions,,,,,,,,,,,,,,,
+11/15/2020,Jacksonville Jaguars,Green Bay Packers,,,,,,,,,,,,,,,
+11/15/2020,Philadelphia Eagles,New York Giants,,,,,,,,,,,,,,,
+11/15/2020,Cincinnati Bengals,Pittsburgh Steelers,,,,,,,,,,,,,,,
+11/15/2020,Buffalo Bills,Arizona Cardinals,,,,,,,,,,,,,,,
+11/15/2020,Denver Broncos,Las Vegas Raiders,,,,,,,,,,,,,,,
+11/15/2020,New York Jets,Miami Dolphins,,,,,,,,,,,,,,,
+11/15/2020,Seattle Seahawks,Los Angeles Rams,,,,,,,,,,,,,,,
+11/15/2020,San Francisco 49ers,New Orleans Saints,,,,,,,,,,,,,,,
+11/15/2020,Baltimore Ravens,New England Patriots,,,,,,,,,,,,,,,

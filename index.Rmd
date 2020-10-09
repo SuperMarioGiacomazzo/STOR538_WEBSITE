@@ -377,78 +377,81 @@ The first playoff round is worth a total of 45 points based on the following rub
 
 ## Playoffs Round 2
 
-<!-- The second round will be a predictive modeling project related to the world of sports betting. For this project, we will be collaborating with  **[Dan Rubin](https://www.linkedin.com/in/dan-rubin)**, founder and CEO of **[Cleat Street](https://www.cleat-street.com/about-us)**. To get started, download the data folder using the following link: **[DATA](https://drive.google.com/file/d/1_hC91ixWLcEzC1BiYUaapom0_7VkYn--/view?usp=sharing)**. Three important CSVs are contained in this folder, **GameStats**, **GameResults**, and **Predictions**. As I outline this project, I will reference these three spreadsheets. -->
+The second round will be a predictive modeling project related to the world of sports betting in the NFL. Thanks to our great teaching assistants, Matt Johnson and Andy Ackerman, for helping in the planning of this project. Access the data at the **[repository](https://github.com/mattymo18/STOR-538-Project2)**. Here you will find important NFL data from 2000 to 2019. 
 
-<!-- The primary goal of this project is to design models for prediction of three variables -- $Spread$, $Total$, and $Result$ -- often used in sports gambling. Below you can find clear definitions of these three outcome variables. It is imperative that you follow these specifications. Your group will be making predictions of the three variables for all ACC football games between November 16 and November 30, inclusively. Your predictions should be saved in the dataset called **[Predictions](https://docs.google.com/spreadsheets/d/1dsfr04Q7H2ukrBH9RfGsDhLGgeCIvKNtBQNq7or0KvE/edit?usp=sharing)**. Here you will find missing values where future predictions will be placed. This completed file should be submitted along with a paper summarizing your methodology. You will not only be graded by your methodology, but also by your predictive accuracy. Predictions for $Spread$ will be evaluated by root mean squared error (RMSE), predictions for $Total$ will be evaluated by mean absolute error (MAE), and predictions for $Result$ will be evaluated by classification accuracy (ACC). For each of the variables, the top 3 groups will get 3 points, the middle 3 groups will get 2 points, the bottom 3 groups will get 1 point. -->
+The primary goal of this project is to design models for prediction of three variables -- $Spread$, $Total$, and $Result$ -- often used in sports gambling. Below you can find clear definitions of these three outcome variables. It is imperative that you follow these specifications. Your group will be making predictions of the three variables for all NFL games between November 1 and November 15, inclusively. Your predictions should be saved in the dataset called **[Predictions](https://docs.google.com/spreadsheets/d/1A2zuXVJrUs2FmYU6abawoKJLeLvqqyL-wiH9ANWx6FE/edit?usp=sharing)**. Here you will find missing values where future predictions will be placed. This completed file should be submitted along with a paper summarizing your methodology. You will not only be graded by your methodology, but also by your predictive accuracy. Predictions for $Spread$ will be evaluated by root mean squared error (RMSE), predictions for $Total$ will be evaluated by mean absolute error (MAE), and predictions for $Result$ will be evaluated by classification accuracy (ACC). For each of the variables, the top 5 groups will get 3 points, the middle 5 groups will get 2 points, the bottom 4 groups will get 1 point.
 
-<!-- - $Spread = \textrm{Home Points} - \textrm{Away Points}$ -->
+- $Spread = \textrm{Home Points} - \textrm{Away Points}$
 
-<!-- - $Total = \textrm{Home Points} + \textrm{Away Points}$ -->
+- $Total = \textrm{Home Points} + \textrm{Away Points}$
 
-<!-- - $Result = \begin{cases}  -->
-<!--       1 & \textrm{if Home Team Wins} \\ -->
-<!--       0 & \textrm{if Home Team Loses} -->
-<!--    \end{cases}$ -->
-
-
-<!-- To build adequate predictive models, historical data is needed for training and testing. The two files, **[GameStats](https://docs.google.com/spreadsheets/d/1dVbdfaJF_SfHRPLIAdniZOe51-yiHFgn6xg-oyhmNJ0/edit#gid=302673161)** and **[GameResults](https://docs.google.com/spreadsheets/d/1tQabGbHBXX13-z4YLttPjnUnBsxxphPRhmkVxP0ymcE/edit?usp=sharing)**, contain historical NCAA football data from games dating back to the 2015-2016 season. Dan Rubin compiled this information from **[Sports Reference](https://www.sports-reference.com/)** and **[Bet Labs](https://www.betlabssports.com/)**.  **GameStats** contains passing, rushing, kicking, and turnover statistics for every NCAA football game. For each game, there are two rows of stats, one for the home team and another for the away team. You will need to carefully think about how to clean this data so every row is a unique game with both the home team's stats and away team's stats are spread across the columns. **GameResults** has the $Spread$, $Total$, and $Result$ for a good portion of these games. Your immediate task is cleaning **GameStats** so the statistical infromation can be joined to the outomce information in **GameResults**. -->
-
-<!-- The data you are given is elementary and basic. Because of this, you are required to engineer new variables and use outside data. This is highly recommended to gain a competitive edge in the sports betting market. For the engineering of new variables, consider creating differences and ratios between the stats for the home and away teams. Also, it may be useful to create variables that represent past information such as recent results or lagged variables.  These are just two basic examples. For the use of outside data, explore research for what other variables could be important for predicting these three variables. For example, weather could be highly useful in predicting $Total$, but far less useful in predicting $Result$. For access to outside data, consider the three sources below specific to college footballl data. -->
-
-<!-- - [Sports Database](https://sportsdatabase.com/ncaafb/query)  -->
-<!-- - [Sports Reference](https://www.sports-reference.com/cfb/) -->
-<!-- - [College Football API](https://api.collegefootballdata.com/api/docs/?url=/api-docs.json#/), [Usage in R](https://www.seth.cool/2019/08/17/using-an-api-to-get-college-football-data/) -->
-
-<!-- Your study should be summarized in a paper of 3 to 7 pages. The paper and predictions should be submitted on **[Sakai](https://sakai.unc.edu/welcome/)** before 5:00PM on the due date. Each group should have their own paper and predictions, but both need to be submitted by every member of the group. Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). When you submit your paper on **[Sakai](https://sakai.unc.edu/welcome/)**, you should write the full names of the other group members and the value of their contribution. Your individual value will be determined by the average score of the other members in your group gave you.  -->
-
-<!-- On the first page, you should title your paper and give the names of the team members who contributed. The content of the paper should be organized in the following 4 subsections: -->
-
-<!-- ### 1) Data Information -->
-
-<!-- In this section, you should discuss three things. -->
-
-<!-- First, you should explain the steps taken to get the datasets cleaned and joined. How did you handle missing data? What did you do to identify outliers and how did you handle these instances? Were there any games intentionally removed and what were the reasons? -->
-
-<!-- Second, you should discuss any variables engineered and defend the reason. You are required to create at least **one variable** that doesn't exist in the dataset or online. You should be able to explain why you think the variable you created would help in predicting game outcomes. -->
-
-<!-- Third, you should discuss all outside data you joined into your dataset to hopefully improve prediction. You are required to utilize at least **one variable** that is not currently contained in any of the datasets. This could be weather, attendance, advanced stats, quarterback information, time of possession, lagged variables, etc. For all data you bring into your predictive models from outside sources, you should site the source and defend the reason for incorporating the data into your model. -->
-
-<!-- ### 2) Methodology for $Spread$ -->
-
-<!-- You should clearly describe your group's best predictive model for $Spread$ and the steps you took to get there. Discuss what variables were useful and useless for predicting spread. Since $Spread$ is a numeric variable, I highly recommend a basic linear regression as a baseline with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the best model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best. -->
-
-<!-- ### 3) Methodology for $Total$ -->
-
-<!-- You should clearly describe your group's best predictive model for $Total$ and the steps you took to get there. Discuss what variables were useful and useless for predicting spread. $Total$ is a numeric variable but could be highly skewed, I highly recommend nonlinear transformations or a poisson regression with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the best model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best. -->
-
-<!-- ### 4) Methodology for $Result$ -->
-
-<!-- You should clearly describe your group's best predictive model for $Result$ and the steps you took to get there. Discuss what variables were useful and useless for predicting spread. Since $Result$ is a numeric variable, I highly recommend a basic logistic regression as a baseline with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (random forests, classification trees, K-Nearest Neighbors, etc.), utilizing cross-validation, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the best model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally so someone with basic understanding in statistics and the sport. You are not required to presenting tables or figures, but these can be used to defend why the model you are calling the "best" is actually best. -->
+- $Result = \begin{cases}
+      1 & \textrm{if Home Team Wins} \\
+      0 & \textrm{if Home Team Loses}
+   \end{cases}$
 
 
-<!-- ### Rubric -->
+To build adequare predictive models, historical data is needed for training and testing. The dataset **[Game.Results](https://github.com/mattymo18/STOR-538-Project2/blob/master/Source-Data/Game.Results.csv)** contains important information about every game in the NFL since 2000. I would advise only using a subset of the data from recent years. The dataset **[nfl_stadiums](https://github.com/mattymo18/STOR-538-Project2/blob/master/Source-Data/nfl_stadiums.csv)** contains information on all NFL stadiums. The dataset **[nfl_teams](https://github.com/mattymo18/STOR-538-Project2/blob/master/Source-Data/nfl_teams.csv)** contains important information necessary for linking datasets according to team name and abbreviations. Season-level offensive data and defensive data for every NFL team since 2010 can be found in the folders **[Offensive-Stats](https://github.com/mattymo18/STOR-538-Project2/tree/master/Source-Data/Offensive-Stats)** and **[Defensive-Stats](https://github.com/mattymo18/STOR-538-Project2/tree/master/Source-Data/Defensive-Stats)**. Descriptions of all of these datasets can be found on Matt Johnson's **[repository](https://github.com/mattymo18/STOR-538-Project2)**.
 
-<!-- The second playoff round is worth a total of 48 points based on the following rubric: -->
+The data you are given is elementary and basic. Because of this, you are required to engineer new variables and use outside data. This is highly recommended to gain a competitive edge in the sports betting market. For the engineering of new variables, consider creating differences and ratios between the stats for the home and away teams. Also, it may be useful to create variables that represent past information such as moving averages or lagged variables.  These are just two basic examples. For the use of outside data, explore research for what other variables could be important for predicting these three variables. 
 
-<!-- | Criteria | 0 | 1 | 2 | 3 | -->
-<!-- |:-----------:|:------:|:------:|:------:|:------:| -->
-<!-- |Title Page |Instructions Not Followed|Missing Entire Element|Missing a Team Member|Title+Team Members | -->
-<!-- |Data: Cleaning Summary|Unclear|Slightly Unclear|Slightly Clear|Clear| -->
-<!-- |Data: New Variable|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended| -->
-<!-- |Data: Outside Data|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended| -->
-<!-- |Spread: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough| -->
-<!-- |Spread: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description| -->
-<!-- |Spread: Prediction|None|Bottom Third|Middle Third|Top Third| -->
-<!-- |Total: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough| -->
-<!-- |Total: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description| -->
-<!-- |Total: Prediction|None|Bottom Third|Middle Third|Top Third| -->
-<!-- |Result: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough| -->
-<!-- |Result: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description| -->
-<!-- |Result: Prediction|None|Bottom Third|Middle Third|Top Third| -->
-<!-- |Spelling|>5 Errors| 3-5 Errors|1-2 Errors|No Errors| -->
-<!-- |Value|Bad|Okay|Good|Excellent| -->
-<!-- |Submitted|Late|||On Time| -->
-<!-- |||||| -->
+- [NFL Play-by-Play on Kaggle](https://www.kaggle.com/maxhorowitz/nflplaybyplay2009to2016?select=NFL+Play+by+Play+2009-2018+%28v5%29.csv)
+- [NFL Injuries on Data.World](https://www.kaggle.com/sgonza03/nfl-major-injuries)
+- [Pro-Football Reference](https://www.pro-football-reference.com/)
+- [QB Statistics on Kaggle](https://www.kaggle.com/speckledpingu/nfl-qb-stats)
+- [Player Statistics on Kaggle](https://www.kaggle.com/kendallgillies/nflstatistics?select=Basic_Stats.csv)
+- [R Package: nflfastR](https://cran.r-project.org/web/packages/nflfastR/index.html), [Twitter](https://twitter.com/nflfastr?lang=en), [Vignettes](https://github.com/mrcaseb/nflfastR/tree/master/vignettes) [My Sample Code](https://drive.google.com/file/d/1qWoPnBwSH6kXMOYrc4Ts9L_Td8b6gduJ/view?usp=sharing)
+
+Your study should be summarized in a paper of 3 to 7 pages. The paper and predictions should be submitted on **[Sakai](https://sakai.unc.edu/welcome/)** before 5:00PM on the due date. Each group should have their own paper and predictions, but both need to be submitted by every member of the group. Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). When you submit your paper on **[Sakai](https://sakai.unc.edu/welcome/)**, you should write the full names of the other group members and the value of their contribution. Your individual value will be determined by the average score of the other members in your group gave you.
+
+On the first page, you should title your paper and give the names of the team members who contributed. The content of the paper should be organized in the following 4 subsections:
+
+### 1) Data Information
+
+In this section, you should discuss three things.
+
+First, you should explain the steps taken to get the datasets cleaned and joined. How did you handle missing data? What did you do to identify outliers and how did you handle these instances? Were there any games intentionally removed and what were the reasons?
+
+Second, you should discuss any variables engineered and defend the reason. You are required to create/engineer at least **one variable** that doesn't exist in any dataset in **[repository](https://github.com/mattymo18/STOR-538-Project2)** or from other sources. You should be able to explain why you think the variable you created would help in predicting game outcomes.
+
+Third, you should discuss all outside data you joined into your dataset to hopefully improve prediction. You are required to utilize at least **one variable** that is not currently contained in any of the datasets. This could be weather, attendance, advanced stats, quarterback information, time of possession, lagged variables, etc. For all data you bring into your predictive models from outside sources, you should site the source and defend the reason for incorporating the data into your model.
+
+### 2) Methodology for $Spread$
+
+You should clearly describe your group's best predictive model for $Spread$ and the steps you took to get there. Discuss what variables were useful and useless for predicting spread. Since $Spread$ is a numeric variable, I highly recommend a basic linear regression as a baseline with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the best model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best.
+
+### 3) Methodology for $Total$
+
+You should clearly describe your group's best predictive model for $Total$ and the steps you took to get there. Discuss what variables were useful and useless for predicting spread. $Total$ is a numeric variable but could be highly skewed, I highly recommend nonlinear transformations or a poisson regression with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the best model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best.
+
+### 4) Methodology for $Result$
+
+You should clearly describe your group's best predictive model for $Result$ and the steps you took to get there. Discuss what variables were useful and useless for predicting spread. Since $Result$ is a numeric variable, I highly recommend a basic logistic regression as a baseline with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (random forests, classification trees, K-Nearest Neighbors, etc.), utilizing cross-validation, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the best model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally so someone with basic understanding in statistics and the sport. You are not required to presenting tables or figures, but these can be used to defend why the model you are calling the "best" is actually best.
+
+
+### Rubric
+
+The second playoff round is worth a total of 48 points based on the following rubric:
+
+| Criteria | 0 | 1 | 2 | 3 |
+|:-----------:|:------:|:------:|:------:|:------:|
+|Title Page |Instructions Not Followed|Missing Entire Element|Missing a Team Member|Title+Team Members |
+|Data: Cleaning Summary|Unclear|Slightly Unclear|Slightly Clear|Clear|
+|Data: New Variable|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended|
+|Data: Outside Data|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended|
+|Spread: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough|
+|Spread: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description|
+|Spread: Prediction|None|Bottom Third|Middle Third|Top Third|
+|Total: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough|
+|Total: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description|
+|Total: Prediction|None|Bottom Third|Middle Third|Top Third|
+|Result: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough|
+|Result: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description|
+|Result: Prediction|None|Bottom Third|Middle Third|Top Third|
+|Spelling|>5 Errors| 3-5 Errors|1-2 Errors|No Errors|
+|Value|Bad|Okay|Good|Excellent|
+|Submitted|Late|||On Time|
+||||||
 
 
 -------
