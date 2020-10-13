@@ -169,12 +169,12 @@ The statistical programming language R will be used to generate visualizations a
 |Oct. 5| [Basketball V](https://unc.zoom.us/rec/share/kIUesviGToS9Llp8teyAjz5hnr35EeNVuYBKBe8Qtonpw_qvjggc9QKTUv9mbQJs.6nDXiEd9n9Y4RxoR?startTime=1601927948000) | [Slides](https://drive.google.com/file/d/1dB1Pp1wJyP3G_aDWLpkkx66P4shOohqp/view?usp=sharing) |Ch. 34-35 MATH, [Web 1](https://www.nytimes.com/2011/04/13/sports/ncaabasketball/13gamble.html), [Web 2](https://las.illinois.edu/news/2006-09-01/no-foul), [Article 1](https://drive.google.com/file/d/13YsmyYAYiP9uRrrWCYn4Zihfd3nxWoQv/view?usp=sharing)|
 |Oct. 7| [Basketball VI](https://unc.zoom.us/rec/share/Vzcal3MnhwldKuA5p4ovPU3iaVQ7WAvpHCcneJ5CLkWj7d8ka8ZatvUZ2n7aTa0a.wJQwkRJqqmTQq0WS?startTime=1602100691000) | [Slides](https://drive.google.com/file/d/11guOwhM8vZBsw527wGuTtPe5M57XlsDY/view?usp=sharing) |Ch. 37 MATH, [Web 1](https://www.inpredictable.com/2016/05/endgame-strategy-in-nba.html), [Web 2](http://www.82games.com/lawhorn.htm)|
 |||| [Article 1](https://drive.google.com/file/d/1S0-ni39wz2t148Hk_dSq1v5Uve2dLFWY/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1RhtPHOjsln3tR1NcNRjZ3w82iw2IyFTj/view?usp=sharing), [Article 3](https://drive.google.com/file/d/1oPZKZsc-MGDg8840SbBmp318LX-oR7hV/view?usp=sharing)|
-|Oct. 9|Mental Health Day|||
-|Oct. 12|Prediction Project|||
+|Oct. 9| [Mental Health Day](https://www.youtube.com/watch?v=NQcYZplTXnQ) |||
+|Oct. 12| [Prediction Project](https://unc.zoom.us/rec/share/zUrd20bzqKs9qkWzyqBuH4gzUzIdl2HiG7A0L9nJcfLvFco12KdhpM4GPck5-uSl.BG3ifZC5eIoyiAQl?startTime=1602532103000) |||
 |Oct. 14|Football I| [Slides](https://drive.google.com/file/d/12n_Dok2pLA9tRcssjGrM2gVic4coDiKE/view?usp=sharing) |Ch. 18 MATH|
 |Oct. 16|Football II| [Slides](https://drive.google.com/file/d/1gKr7DyHJBVBJr-bJJyFbyt4CRlb9HE_C/view?usp=sharing) |Ch. 19 MATH, [Web 1](https://hbr.org/2019/04/whos-the-most-important-member-of-an-nfl-franchise), [Web 2](https://bleacherreport.com/articles/1691533-which-metric-matters-most-when-evaluating-nfl-quarterbacks), [Article 1](https://drive.google.com/file/d/1D8A2sLP26O7YG-t7Sz5aZyrFm7dcux_I/view?usp=sharing) |
-|Oct. 19|Football III| [Slides](https://drive.google.com/file/d/1_BJJEU8Wc6RFQzkjJUnFVEi_wtVIEPp3/view?usp=sharing) |Ch. 20 MATH, [Article 1](https://drive.google.com/file/d/1RnP3Ob88JdGRdNyWhKYxFEMEfQVlpiiZ/view?usp=sharing), [Article 2](https://drive.google.com/file/d/15CR45R7dUS4csuRLz3YZsiKTXYZMyx2F/view?usp=sharing), [Article 3](https://drive.google.com/file/d/14ZtYeAq0Ith7gyhEHQqDLUVGp0Ci8ssm/view?usp=sharing) |
-|Oct. 21|Football IV| [Slides](https://drive.google.com/file/d/1T-hxsCfQnNd4EWbHyHGUKkyLY-nlVkJ6/view?usp=sharing) | Ch. 21 MATH, [Web 1](https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c), [Article 1](https://drive.google.com/file/d/1dM7UsQVay5nRLG8eqCfK-7NjAq0xoCJ9/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1PcEhklJ0I8qH-EAcMI4cYH2Jna7zkaKo/view?usp=sharing) |
+|Oct. 19|Football III| [Slides](https://drive.google.com/file/d/1_BJJEU8Wc6RFQzkjJUnFVEi_wtVIEPp3/view?usp=sharing) |Ch. 20 MATH, [Article 1](https://drive.google.com/file/d/1P8FjF6vXt8A3_W4Zt8LvN_tZSzH8sgMM/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1BYvJkbHOPen-0Es4KQRs_kZw7EuAzZ0g/view?usp=sharing), [Article 3](https://drive.google.com/file/d/1E87hxpT5y3_7YoQ3ui66G-RGwkyrDwRD/view?usp=sharing) |
+|Oct. 21|Football IV| [Slides](https://drive.google.com/file/d/1T-hxsCfQnNd4EWbHyHGUKkyLY-nlVkJ6/view?usp=sharing) | Ch. 21 MATH, [Web 1](https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c), [Article 1](https://drive.google.com/file/d/18akSa2JEIu_5oSldI3J8e2xJkqD8e8X3/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1_Z0CGaN90x_at0YdGVWy7YOj5Lnc6693/view?usp=sharing) |
 |Oct. 23|Football V| [Slides](https://drive.google.com/file/d/1hDe-eTp5hSSfcnhOs84dlTVA_RSzeHCA/view?usp=sharing) | Ch. 22 MATH|
 |Oct. 26|Football VI| [Slides](https://drive.google.com/file/d/1D_crXcO8SKiOpCX7Nq2tpUI6pT1hoCE6/view?usp=sharing) | Ch. 23 MATH, [Web 1](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html), [Web 2](https://plato.stanford.edu/entries/game-theory/), [Web 3](https://www.fieldgulls.com/seahawks-analysis/2015/1/9/7517551/understanding-effective-play-calling-with-game-theory) |
 |Oct. 30 |Football VII| [Slides](https://drive.google.com/file/d/1W4lJTKoRQlGFX4Z5ucZwYyzYWJBDKDzd/view?usp=sharing)  | Ch. 26-27 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1) |
@@ -186,24 +186,12 @@ The statistical programming language R will be used to generate visualizations a
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-<!-- |Nov. 4|Sports Gambling I| [Slides]() |Ch. 38-39 MATH, [Web 1](https://www.thesportsgeek.com/sports-betting/what-is-a-unit/), [Web 2](https://mybettingsites.co.uk/learn/betting-odds-explained/), [Web 3](https://www.actionnetwork.com/betting-calculators/betting-odds-calculator) | -->
-<!-- ||||[Web 4](https://www.vegas.com/gaming/gaming-tips/sports-betting/), [Web 5](https://www.thesportsgeek.com/blog/beginners-tips-understanding-parlay-119/) ,[Web 6](https://www.thelines.com/betting/teaser/), [Article 1](https://drive.google.com/file/d/1oOL7a0VLfehqTeVYTfzVBE6wIBVRKJR8/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1omqxr1bWxc3llyn-ywzwP3IFftX17_Jb/view?usp=sharing) | -->
-
-<!-- |Nov. 6|Research Week| [Slides]() || -->
-
-<!-- |Nov. 8|Sports Gambling II | [Slides]() |Ch. 40 MATH, [Web 1](https://fivethirtyeight.com/methodology/how-our-nfl-predictions-work/) | -->
-
-<!-- |Nov. 11|Championship Info||| -->
-
-<!-- |Nov. 13|Sports Gambling III| [Slides]() |Ch. 44 MATH, [Web 1](https://www.pinnacle.com/en/betting-articles/Betting-Strategy/How-to-use-kelly-criterion-for-betting/2BT2LK6K2QWQ7QJ8), [Web 2](https://www.oddsshark.com/sports-betting/best-sports-betting-strategies), [Article 1](https://drive.google.com/file/d/1ypqy9_5fxR11scJDb4m1TZZRbrS0OawX/view?usp=sharing)| -->
-
-<!-- |Nov. 15|Media Days||| -->
-
-<!-- |Nov. 18| Hockey I | [Slides]() | Ch. 14 HSMAS, [Article 1](https://drive.google.com/drive/folders/1VG6S2eDBE64SBOrZ__hlM9H5PDK3W_1V), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick) | -->
-
-<!-- |Nov. 20|Hockey II| [Slides]() | Ch. 15 HSMAS, [Web 1](http://hockeygoalies.org/stats/glossary.html), [Web 2](https://rdrr.io/cran/nhlscrapr/) | -->
-
-<!-- |Nov. 22|Hockey II (Cont.) ||| -->
+|Nov. 4|Sports Gambling I| [Slides]() |Ch. 38-39 MATH, [Web 1](https://www.thesportsgeek.com/sports-betting/what-is-a-unit/), [Web 2](https://mybettingsites.co.uk/learn/betting-odds-explained/), [Web 3](https://www.actionnetwork.com/betting-calculators/betting-odds-calculator) |
+||||[Web 4](https://www.vegas.com/gaming/gaming-tips/sports-betting/), [Web 5](https://www.thesportsgeek.com/blog/beginners-tips-understanding-parlay-119/) ,[Web 6](https://www.thelines.com/betting/teaser/), [Article 1](https://drive.google.com/file/d/1oOL7a0VLfehqTeVYTfzVBE6wIBVRKJR8/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1omqxr1bWxc3llyn-ywzwP3IFftX17_Jb/view?usp=sharing) | 
+|Nov. 6|Sports Gambling II | [Slides]() |Ch. 40 MATH, [Web 1](https://fivethirtyeight.com/methodology/how-our-nfl-predictions-work/) |
+|Nov. 9|Sports Gambling III| [Slides]() |Ch. 44 MATH, [Web 1](https://www.pinnacle.com/en/betting-articles/Betting-Strategy/How-to-use-kelly-criterion-for-betting/2BT2LK6K2QWQ7QJ8), [Web 2](https://www.oddsshark.com/sports-betting/best-sports-betting-strategies), [Article 1](https://drive.google.com/file/d/1ypqy9_5fxR11scJDb4m1TZZRbrS0OawX/view?usp=sharing)|
+|Nov. 11| Hockey I | [Slides]() | Ch. 14 HSMAS, [Article 1](https://drive.google.com/drive/folders/1VG6S2eDBE64SBOrZ__hlM9H5PDK3W_1V), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick) |
+|Nov. 13|Hockey II| [Slides]() | Ch. 15 HSMAS, [Web 1](http://hockeygoalies.org/stats/glossary.html), [Web 2](https://rdrr.io/cran/nhlscrapr/) |
 <!-- ||||| -->
 
 
