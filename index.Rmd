@@ -193,6 +193,7 @@ The statistical programming language R will be used to generate visualizations a
 |Nov. 9|Sports Gambling III| [Slides]() |Ch. 44 MATH, [Web 1](https://www.pinnacle.com/en/betting-articles/Betting-Strategy/How-to-use-kelly-criterion-for-betting/2BT2LK6K2QWQ7QJ8), [Web 2](https://www.oddsshark.com/sports-betting/best-sports-betting-strategies), [Article 1](https://drive.google.com/file/d/1ypqy9_5fxR11scJDb4m1TZZRbrS0OawX/view?usp=sharing)|
 |Nov. 11| Hockey I | [Slides]() | Ch. 14 HSMAS, [Article 1](https://drive.google.com/drive/folders/1VG6S2eDBE64SBOrZ__hlM9H5PDK3W_1V), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick) |
 |Nov. 13|Hockey II| [Slides]() | Ch. 15 HSMAS, [Web 1](http://hockeygoalies.org/stats/glossary.html), [Web 2](https://rdrr.io/cran/nhlscrapr/) |
+|Nov. 16|Final Project|  |  |
 <!-- ||||| -->
 
 
@@ -476,7 +477,7 @@ Like the playoffs, this final assignment will be done in a team. Sometime during
 |14|6:10PM - 6:20PM|
 |||
 
-Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). To grade your teammates, use the following [Google Form]().
+Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). To grade your teammates, use the following [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSet592BiOFiSUdjiCUS_4L-tcwSFvvRPd2P1kxlGRivNg9hoA/viewform?usp=sf_link).
 
 On the first page, you should title your paper and give the names of the team members. The content of the paper should be organized in the following 4 subsections:
 
@@ -581,33 +582,33 @@ Check out the following links to find your group by assignment:
 The following link contains all teams alphabetically: **[All Teams](https://drive.google.com/file/d/1zt2n6fLtYqQuvYh1S0lr54MvjNL7N0eT/view?usp=sharing)**
 
 
-<!-- # **Results from Playoffs Round 2** -->
+# **Results from Playoffs Round 2**
 
-<!-- The predictions of all 9 teams can be accessed from the hyperlinks below. These three files contain predictions for the three separate variables and will be updated each week for the next two weeks. The order of the predictions is not organized according to your team numbers.   -->
+The predictions of all 14 teams can be accessed from the hyperlinks below. These three files contain predictions for the three separate variables and will be updated each week for the next two weeks. The order of the predictions is not organized according to your team numbers.
 
-<!-- - [Spread](https://docs.google.com/spreadsheets/d/1yGeN7UZYx7D-5viwTapUPMDXzXaeM6FPs4Hj5vmIPIo/edit?usp=sharing) -->
-<!-- - [Total](https://docs.google.com/spreadsheets/d/1ZVonDvImSvH4P9awmL_9uXPUH_BmGWpYLCj_HJKeUH4/edit?usp=sharing) -->
-<!-- - [Result](https://docs.google.com/spreadsheets/d/1ado3iMtx2DgIwm76zRmvB9-DzfQt6p2ZT4cG8KWQ7Rw/edit?usp=sharing) -->
+- [Spread]()
+- [Total]()
+- [Result]()
 
-<!-- The table below contains the current group ranking according to the three variables of interest. For $Spread$, I include the $RMSE$ of the groups in first and last place; for $Total$, I include the $MAE$ of the groups in first and last place; and for $Result$, I include the $ACC$ of the groups in first and last place. This ranking will be updated each week for the next two weeks. -->
+The table below contains the current group ranking according to the three variables of interest. For $Spread$, I include the $RMSE$ of the groups in first and last place; for $Total$, I include the $MAE$ of the groups in first and last place; and for $Result$, I include the $ACC$ of the groups in first and last place. This ranking will be updated each week for the next three weeks.
 
-<!-- | Group | Spread 1 | Spread 2 | Spread 3 | Total 1 | Total 2 | Total 3 |  Result 1 | Result 2 | Result 3 |  -->
-<!-- |:-------:|:-------------:|:-------------:|:-------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:| -->
-<!-- |1|||||||||| -->
-<!-- |2|||||||||| -->
-<!-- |3|||||||||| -->
-<!-- |4|||||||||| -->
-<!-- |5|||||||||| -->
-<!-- |6|||||||||| -->
-<!-- |7|||||||||| -->
-<!-- |8|||||||||| -->
-<!-- |9|||||||||| -->
-<!-- |10|||||||||| -->
-<!-- |11|||||||||| -->
-<!-- |12|||||||||| -->
-<!-- |13|||||||||| -->
-<!-- |14|||||||||| -->
-<!-- ||||||||||| -->
+| Group | Spread 1 | Spread 2 | Spread 3 | Total 1 | Total 2 | Total 3 |  Result 1 | Result 2 | Result 3 |
+|:-------:|:-------------:|:-------------:|:-------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|
+|1||||||||||
+|2||||||||||
+|3||||||||||
+|4||||||||||
+|5||||||||||
+|6||||||||||
+|7||||||||||
+|8||||||||||
+|9||||||||||
+|10||||||||||
+|11||||||||||
+|12||||||||||
+|13||||||||||
+|14||||||||||
+|||||||||||
 
 
 This page was last updated on `r Sys.time()` Eastern Time by Super Mario.
