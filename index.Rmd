@@ -584,30 +584,30 @@ The following link contains all teams alphabetically: **[All Teams](https://driv
 
 # **Results from Playoffs Round 2**
 
-The predictions of all 14 teams can be accessed from the hyperlinks below. These three files contain predictions for the three separate variables and will be updated each week for the next two weeks. The order of the predictions is not organized according to your team numbers.
+The predictions of all 14 teams can be accessed from the hyperlinks below. These three files contain predictions for the three separate variables and will be updated each week for the next two weeks.
 
-- [Spread]()
-- [Total]()
-- [Result]()
+- [Spread](https://drive.google.com/file/d/16dVFjIfrgwZ_MRsiGZS3fcegnm7Wj9f4/view?usp=sharing)
+- [Total](https://drive.google.com/file/d/1-2QEd8N7wiJs7GFR9x6GExogzv8dBXk1/view?usp=sharing)
+- [Result](https://drive.google.com/file/d/1htQfj_tYnDh3dM7WblLJ9UwVmPTt9qDi/view?usp=sharing)
 
 The table below contains the current group ranking according to the three variables of interest. For $Spread$, I include the $RMSE$ of the groups in first and last place; for $Total$, I include the $MAE$ of the groups in first and last place; and for $Result$, I include the $ACC$ of the groups in first and last place. This ranking will be updated each week for the next three weeks.
 
 | Group | Spread 1 | Spread 2 | Spread 3 | Total 1 | Total 2 | Total 3 |  Result 1 | Result 2 | Result 3 |
 |:-------:|:-------------:|:-------------:|:-------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|
-|1||||||||||
-|2||||||||||
-|3||||||||||
-|4||||||||||
-|5||||||||||
-|6||||||||||
-|7||||||||||
-|8||||||||||
-|9||||||||||
-|10||||||||||
-|11||||||||||
-|12||||||||||
-|13||||||||||
-|14||||||||||
+|1|12|||9|||1 (0.69)|||
+|2|5|||10|||2|||
+|3|9|||1 (7.77)|||3|||
+|4|13 (13.50)|||3|||4|||
+|5|3|||11|||3|||
+|6|14|||13|||6|||
+|7|11|||8|||5|||
+|8|7|||14 (18.74)|||5 (0.38)|||
+|9|8|||5|||2|||
+|10|2|||4|||3|||
+|11|6|||6|||4|||
+|12|10|||7|||3|||
+|13|1 (9.37)|||12|||4|||
+|14|4|||2|||1 (0.69)|||
 |||||||||||
 
 
