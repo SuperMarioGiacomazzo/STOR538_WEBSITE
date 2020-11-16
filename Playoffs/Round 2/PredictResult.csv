@@ -26,16 +26,16 @@
 "11/8/2020","Dallas Cowboys","Pittsburgh Steelers",0,0,0,0,1,0,"PITT",0,1,0,0,0,0,1,0
 "11/8/2020","Tampa Bay Buccaneers","New Orleans Saints",0,0,1,1,1,1,"NO",1,1,1,1,1,0,1,1
 "11/9/2020","New York Jets","New England Patriots",0,0,0,1,0,0,"NEW",0,0,0,0,0,0,0,0
-"11/12/2020","Tennessee Titans","Indianapolis Colts",NA,1,1,1,1,0,"TEN",1,1,0,1,1,0,1,1
-"11/15/2020","Carolina Panthers","Tampa Bay Buccaneers",NA,0,0,0,1,0,"CAR",0,1,0,1,0,0,1,0
-"11/15/2020","Cleveland Browns","Houston Texans",NA,1,0,0,0,1,"CLE",1,1,0,1,1,1,0,1
-"11/15/2020","Detroit Lions","Washington Redskins",NA,1,1,1,1,1,"DET",1,1,1,1,1,1,0,1
-"11/15/2020","Green Bay Packers","Jacksonville Jaguars",NA,1,1,1,1,1,"GB",1,1,1,1,1,1,0,1
-"11/15/2020","New York Giants","Philadelphia Eagles",NA,1,0,1,1,0,"PHI",0,1,0,1,1,1,0,0
-"11/15/2020","Pittsburgh Steelers","Cincinnati Bengals",NA,1,1,1,1,1,"PITT",1,1,1,1,1,1,0,1
-"11/15/2020","Arizona Cardinals","Buffalo Bills",NA,1,1,1,0,1,"BUF",1,0,1,1,1,0,1,1
-"11/15/2020","Las Vegas Raiders","Denver Broncos",NA,1,0,1,1,1,"LV",1,1,1,1,1,1,0,1
-"11/15/2020","Miami Dolphins","Los Angeles Chargers",NA,0,1,1,0,1,"LAC",1,1,1,1,1,0,1,1
-"11/15/2020","Los Angeles Rams","Seattle Seahawks",NA,1,1,0,1,0,"SEA",0,0,1,1,1,1,0,1
-"11/15/2020","New Orleans Saints","San Francisco 49ers",NA,1,0,1,0,0,"NO",1,1,0,1,0,0,0,1
-"11/15/2020","New England Patriots","Baltimore Ravens",NA,0,0,1,1,0,"BAL",0,1,0,1,0,0,0,0
+"11/12/2020","Tennessee Titans","Indianapolis Colts",0,1,1,1,1,0,"TEN",1,1,0,1,1,0,1,1
+"11/15/2020","Carolina Panthers","Tampa Bay Buccaneers",0,0,0,0,1,0,"CAR",0,1,0,1,0,0,1,0
+"11/15/2020","Cleveland Browns","Houston Texans",1,1,0,0,0,1,"CLE",1,1,0,1,1,1,0,1
+"11/15/2020","Detroit Lions","Washington Redskins",1,1,1,1,1,1,"DET",1,1,1,1,1,1,0,1
+"11/15/2020","Green Bay Packers","Jacksonville Jaguars",1,1,1,1,1,1,"GB",1,1,1,1,1,1,0,1
+"11/15/2020","New York Giants","Philadelphia Eagles",1,1,0,1,1,0,"PHI",0,1,0,1,1,1,0,0
+"11/15/2020","Pittsburgh Steelers","Cincinnati Bengals",1,1,1,1,1,1,"PITT",1,1,1,1,1,1,0,1
+"11/15/2020","Arizona Cardinals","Buffalo Bills",1,1,1,1,0,1,"BUF",1,0,1,1,1,0,1,1
+"11/15/2020","Las Vegas Raiders","Denver Broncos",1,1,0,1,1,1,"LV",1,1,1,1,1,1,0,1
+"11/15/2020","Miami Dolphins","Los Angeles Chargers",1,0,1,1,0,1,"LAC",1,1,1,1,1,0,1,1
+"11/15/2020","Los Angeles Rams","Seattle Seahawks",1,1,1,0,1,0,"SEA",0,0,1,1,1,1,0,1
+"11/15/2020","New Orleans Saints","San Francisco 49ers",1,1,0,1,0,0,"NO",1,1,0,1,0,0,0,1
+"11/15/2020","New England Patriots","Baltimore Ravens",1,0,0,1,1,0,"BAL",0,1,0,1,0,0,0,0
