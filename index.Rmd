@@ -152,7 +152,7 @@ The statistical programming language R will be used to generate visualizations a
 <!-- |Sep. 14| [Baseball VI](https://unc.zoom.us/rec/share/bnQeNgoYAmmFneisqEG5YEGptoF3Q5k8m113VfcqND78L9Ouo6IuPVEtPrFls9Rk.cAzE71mOf-YDtHeQ?startTime=1600113447000) | [Slides](https://drive.google.com/file/d/1LHq6Bk4NnCA_zsj0Wy4MIZt1_ATdbeJp/view?usp=sharing) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp), [Article 1](https://drive.google.com/file/d/1Xjq2XlbYR6wl-b-CQ8Mu5NPUgZoJ2OIt/view?usp=sharing)| -->
 <!-- |Sep. 16|[Baseball VII](https://unc.zoom.us/rec/share/SLelCgQKwoXwR-o-xb_MLAKHm3HpJa6LlLGAKioz15EQVv9RZACmahUCAssFl9Tw.RudFjwchXz0qIlDH?startTime=1600285987000)| [Slides](https://drive.google.com/file/d/1DEqvQM-gP17AL-TqBLd9KcJqNto6sRrA/view?usp=sharing) |Ch. 11,16 MATH, [Article 1](https://drive.google.com/file/d/1CJCMH1MVIftzroXR3R_-FQV7nIH6pQOf/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1JH-KZKAx-8MRxHogNnLWtL7hZLzInRgY/view?usp=sharing)| -->
 <!-- |Sep. 18| [Baseball VII (Cont.)](https://unc.zoom.us/rec/share/Vni4j6D7A7xW-CTGqUvMnq48PEYmopcTvDbUrsPdz6wuZfZ0lObyANGqsuU_Q3fU.XVfSA-Id8dDR2LWQ?startTime=1600458886000) | [Slides](https://drive.google.com/file/d/1DEqvQM-gP17AL-TqBLd9KcJqNto6sRrA/view?usp=sharing) || -->
-|||||
+<!-- ||||| -->
 
 ## Second Half
 
@@ -533,20 +533,20 @@ Any assignments requiring a deliverable will be submitted via **[Sakai](https://
 
 | Due Date (Time) | Gameday Speeches (GS) | Regular Season (RS) | Playoffs (P) | Championship (C)| 
 |-----------------|:---------------------:|:-------------------:|:------------:|:---------------:|
-|JAN 29 ||RS1|||
-|FEB 5 |GS1 (Ch. 3 HSMAS)||||
-|FEB 12||RS2|||
-|FEB 19|GS2 (Ch. 10 HSMAS)||||
-|FEB 26||RS3|||
-|MAR 5 |GS3 (Ch. 8 HSMAS)||||
-|MAR 12|||P1||
-|MAR 19||RS4|||
-|MAR 26|GS4 (Ch. 13 HSMAS)||||
-|APR 9|||P2||
-|APR 16||RS5|||
-|APR 23 |GS5 (Ch. 21 HSMAS)||||
-|APR 30||RS6|||
-|MAY 7 ||||C|
+|JAN 29 (10:10AM) ||RS1|||
+|FEB 5 (10:10AM) |GS1 (Ch. 3 HSMAS)||||
+|FEB 12 (10:10AM)||RS2|||
+|FEB 19 (10:10AM)|GS2 (Ch. 10 HSMAS)||||
+|FEB 26 (10:10AM)||RS3|||
+|MAR 5 (10:10AM) |GS3 (Ch. 8 HSMAS)||||
+|MAR 12 (5PM)|||P1||
+|MAR 19 (10:10AM)||RS4|||
+|MAR 26 (10:10AM)|GS4 (Ch. 13 HSMAS)||||
+|APR 9 (5PM)|||P2||
+|APR 16 (10:10AM)||RS5|||
+|APR 23 (10:10AM) |GS5 (Ch. 21 HSMAS)||||
+|APR 30 (10:10AM)||RS6|||
+|MAY 7 (8AM) ||||C|
 |          |                   |               |           |              |
 
 
@@ -554,18 +554,21 @@ Any assignments requiring a deliverable will be submitted via **[Sakai](https://
 
 Many of the assessments in this course will be done in a teams of 4 or 5 playas randomly chosen. For each team-based assignment, you will be given a different team. This will force you to interact with the majority of the class throughout the semester. After each team-based assignment, you will grade the contribution of your teammates on a scale from 0 to 3, and this will contribute to your overall grade for the given assignment. A decent portion of your final grade will be influenced by this.
 
-Check out the following links to find your group by assignment: 
-**[GS1]()** 
-**[GS2]()**
-**[GS3]()**
-**[P1]()**
-**[GS4]()**
-**[P2]()**
-**[GS5]()**
-**[C]()**
-
 The following link contains all teams alphabetically: **[All Teams]()**
 
+In the table below, you can find your group for each of the specific team-based assignments. Make sure you fill out the value survey before the time the assignment is due on the due date. Do not assess the value of yourself in the survey.
+
+|Due Date  | Assessment | Team | Value Survey |
+|----------|------------|------|--------------|
+| FEB 5 | GS1 | [GS1]() | [Value for GS1](https://docs.google.com/forms/d/e/1FAIpQLSdqPjLn-IrA-hqBUCNHbe8sgf3kxMSPNaLEE2mg_S31LAGuvg/viewform?usp=sf_link) |
+| FEB 19 | GS2 | [GS2]() | [Value for GS2](https://docs.google.com/forms/d/e/1FAIpQLSdvrNNc5Ownw2c-UTkQcADNXpZ6ydgjHch2xvUmhgMtChP1fQ/viewform?usp=sf_link) |
+| MAR 5 | GS3 | [GS3]() | [Value for GS3](https://docs.google.com/forms/d/e/1FAIpQLSf6ineZ0MqIRkWAsygj9KddN9VM2Ue3viM7WLMgBob3cV1tbQ/viewform?usp=sf_link) |
+| MAR 12 | P1 | [P1]() | [Value for P1](https://docs.google.com/forms/d/e/1FAIpQLSdtz7RzpknXEG-GmUamMrlKsihCwGaJ-mdJELwttks_8ktt6w/viewform?usp=sf_link) |
+| MAR 26 | GS4 | [GS4]() | [Value for GS4](https://docs.google.com/forms/d/e/1FAIpQLSfA50fXU5EAZItKOTZRpS_qClJdFJ-pa6i8p-8BQYsrwDSK2A/viewform?usp=sf_link) |
+| APR 9 | P2 | [P2]() | [Value for P2](https://docs.google.com/forms/d/e/1FAIpQLSfU0GsueBrXlR_FTejuiJqPYqvbXxZEmay34ty8C7vitYQpDA/viewform?usp=sf_link) |
+| APR 23 | GS5 | [GS5]() | [Value for GS5](https://docs.google.com/forms/d/e/1FAIpQLSc0HBAF4QbOt4mkdDa6L4u0mgZbECEN9-l6rOIBpUpFa57oLg/viewform?usp=sf_link) |
+| MAY 7 | C| [C]() | [Value for C](https://docs.google.com/forms/d/e/1FAIpQLSet592BiOFiSUdjiCUS_4L-tcwSFvvRPd2P1kxlGRivNg9hoA/viewform?usp=sf_link) |
+| ||||
 
 # **Results from Playoffs Round 2**
 
