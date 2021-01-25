@@ -14,7 +14,7 @@ barplot(table(DATA3$Place))
 
 png('RExp.png',width=1200,height=800)
 par(mar=c(3,4,3,2),cex=1.5,cex.main=2.5)
-barplot(table(DATA3$`R Experience`),ylim=c(0,20),main="R Experience")
+barplot(table(DATA3$`R Experience`),ylim=c(0,40),main="R Experience")
 dev.off()
 
 DATA4=DATA3 %>% mutate(Graduation=as.factor(Graduation)) 
@@ -22,12 +22,13 @@ levels(DATA4$Graduation)=c("Job Outside Sports Analytics","Job In Sports Analyti
 
 png('Graduation.png',width=1200,height=800)
 par(mar=c(12,2,3,1),cex=1.5,cex.main=2.5)
-barplot(table(DATA4$`Graduation`),las=2,ylim=c(0,30),main="Graduation Goal")
+barplot(table(DATA4$`Graduation`),las=2,ylim=c(0,40),main="Graduation Goal")
 dev.off()
+
+sportswatched =  na.omit(gather(data=DATA4,6:29,key="Watch",value="Sport")$Sport)
 
 unique(sportswatched)
 
-sportswatched =  na.omit(gather(data=DATA4,6:29,key="Watch",value="Sport")$Sport)
 sportswatched2 = ifelse(sportswatched==unique(sportswatched)[7],"Arcade",sportswatched)
 sportswatched3 = ifelse(sportswatched2==unique(sportswatched)[15],"Combat Sports",sportswatched2)
 sportswatched4 = ifelse(sportswatched3==unique(sportswatched)[12],"Auto/Bike Racing",sportswatched3)
@@ -41,9 +42,10 @@ par(mar=c(14,2,3,1),cex=1.5,cex.main=2.5)
 barplot(table(fct_reorder(as.factor(sportswatched7),sportswatched7,.fun=table)),las=2,ylim=c(0,42),main="Sports Watched")
 dev.off()
 
+sportsplayed =  na.omit(gather(data=DATA4,30:54,key="Play",value="Sport")$Sport)
+
 unique(sportsplayed)
 
-sportsplayed =  na.omit(gather(data=DATA4,30:54,key="Play",value="Sport")$Sport)
 sportsplayed2 = ifelse(sportsplayed==unique(sportsplayed)[6],"Arcade",sportsplayed)
 sportsplayed3 = ifelse(sportsplayed2==unique(sportsplayed)[7],"Competitive Board Games",sportsplayed2)
 sportsplayed4 = ifelse(sportsplayed3==unique(sportsplayed)[26],"Combat Sports",sportsplayed3)
