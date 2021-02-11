@@ -145,7 +145,7 @@ The statistical programming language R will be used to generate visualizations a
 |FEB 3| [Baseball II](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=706b35a4-f223-4086-ba5a-acc401121591) | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM|
 |FEB 5| [Baseball III](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9d70c2cc-6bcd-4f5d-a491-acc6010f3225) | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH|
 |FEB 8| [Baseball IV](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6292d8a3-ba76-4dfd-b612-acc901115219) | [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)|
-|FEB 10| Baseball IV (Cont.) |||
+|FEB 10| [Baseball IV (Cont.)](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7819b86a-d672-439a-b885-accb010ed999) |||
 |FEB 12| Baseball V | [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH|
 
 <!-- |Sep. 11| [Baseball V (Cont.)](https://unc.zoom.us/rec/share/cpbWOygCXFQih7BzLzJF4PTvFZiPTQH2a0wun20eCnS52CmwFVMok-BELtkcF8Ra.j4NDSLC_Y2ObgxvR?startTime=1599681224000) | [Slides](https://drive.google.com/file/d/1K57fSmep6IrnqmSKXCDtWOu4GMDMluZf/view?usp=sharing) |Ch. 6 MATH| -->
