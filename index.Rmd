@@ -149,9 +149,9 @@ The statistical programming language R will be used to generate visualizations a
 |FEB 12| [Playoff Round 1](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29004adf-f596-4efe-b1b5-accd01136177) | | [Example](Playoffs/Round 1/Spikeball.pdf) |
 |FEB 15| Wellness Day (No Class) |  ||
 |FEB 17| Baseball V | [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH|
-<!-- |Sep. 14| [Baseball VI](https://unc.zoom.us/rec/share/bnQeNgoYAmmFneisqEG5YEGptoF3Q5k8m113VfcqND78L9Ouo6IuPVEtPrFls9Rk.cAzE71mOf-YDtHeQ?startTime=1600113447000) | [Slides](https://drive.google.com/file/d/1LHq6Bk4NnCA_zsj0Wy4MIZt1_ATdbeJp/view?usp=sharing) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp), [Article 1](https://drive.google.com/file/d/1Xjq2XlbYR6wl-b-CQ8Mu5NPUgZoJ2OIt/view?usp=sharing)| -->
-<!-- |Sep. 16|[Baseball VII](https://unc.zoom.us/rec/share/SLelCgQKwoXwR-o-xb_MLAKHm3HpJa6LlLGAKioz15EQVv9RZACmahUCAssFl9Tw.RudFjwchXz0qIlDH?startTime=1600285987000)| [Slides](https://drive.google.com/file/d/1DEqvQM-gP17AL-TqBLd9KcJqNto6sRrA/view?usp=sharing) |Ch. 11,16 MATH, [Article 1](https://drive.google.com/file/d/1CJCMH1MVIftzroXR3R_-FQV7nIH6pQOf/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1JH-KZKAx-8MRxHogNnLWtL7hZLzInRgY/view?usp=sharing)| -->
-<!-- |Sep. 18| [Baseball VII (Cont.)](https://unc.zoom.us/rec/share/Vni4j6D7A7xW-CTGqUvMnq48PEYmopcTvDbUrsPdz6wuZfZ0lObyANGqsuU_Q3fU.XVfSA-Id8dDR2LWQ?startTime=1600458886000) | [Slides](https://drive.google.com/file/d/1DEqvQM-gP17AL-TqBLd9KcJqNto6sRrA/view?usp=sharing) || -->
+|FEB 19| Baseball VI | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)|
+|FEB 22| Baseball VII| [Slides](Slides/Baseball 7/Baseball_7_Lecture.pdf) |Ch. 11,16 MATH, [Article 1](Articles/Baseball/Baseball2_Albert.pdf), [Article 2](Baseball_Arbseman_Strogatz.pdf)|
+|FEB 24| Baseball VII (Cont.) | [Slides](Slides/Baseball 7/Baseball_7_Lecture.pdf) ||
 <!-- ||||| -->
 
 ## Second Half
