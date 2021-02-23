@@ -150,8 +150,9 @@ The statistical programming language R will be used to generate visualizations a
 |FEB 15| Wellness Day (No Class) |  ||
 |FEB 17| [Baseball V](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=450a88a5-c06e-404e-be33-acd20110962c) | [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH|
 |FEB 19| [Baseball V (Cont.)](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=421798ac-65a3-49e8-9a53-acd40110abee) | [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) ||
-|FEB 22| Baseball VI | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)|
-|FEB 24| Baseball VII| [Slides](Slides/Baseball 7/Baseball_7_Lecture.pdf) |Ch. 11,16 MATH, [Article 1](Articles/Baseball/Baseball2_Albert.pdf), [Article 2](Baseball_Arbseman_Strogatz.pdf)|
+|FEB 22| [Baseball VI](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bea1a19e-73fa-4f98-b3fc-acd7010d8aed) | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)|
+|FEB 24| Baseball VI (Cont.) | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) ||
+|FEB 26| Baseball VII| [Slides](Slides/Baseball 7/Baseball_7_Lecture.pdf) |Ch. 11,16 MATH, [Article 1](Articles/Baseball/Baseball2_Albert.pdf), [Article 2](Baseball_Arbseman_Strogatz.pdf)|
 
 <!-- ||||| -->
 
@@ -159,7 +160,7 @@ The statistical programming language R will be used to generate visualizations a
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-|FEB 26| Basketball I | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) |
+|MAR 1| Basketball I | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) |
 <!-- |Sep. 23| [Basketball II](https://unc.zoom.us/rec/share/p1kjqH94SUyFAeczx64QlmvST50brBEoL0FqXJzr2pVJ0SvmasQa8bTxd4glz2v3.ySt9INPN38ilf13U?startTime=1600891156000) | [Slides](https://drive.google.com/file/d/1J0LTfMYhFZwm-7iIEHbegRGLhmu7N44m/view?usp=sharing) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](https://drive.google.com/file/d/1TJn-b9f3c4xg2cy7l9_wFYYZ06W1iP3W/view?usp=sharing) | -->
 <!-- |Sep. 25| [Basketball II (Cont.)](https://unc.zoom.us/rec/share/aAvOq5OlSowbGbPN8Y-AHWXxr8WOoZAaJfzfjHW_wwDRXFNMsjIMgQxBnlAHB1Ot.OZJqirXHLWWwY0Ry?startTime=1601063617000)| || -->
 <!-- |Sep. 28| [Basketball III](https://unc.zoom.us/rec/share/yxaZ_my5XiA-0DASMlJCaqxKJ2e1J0Ae6v8773Vw3VZSBsh88qujkYiiz1-GNAfr.W3B8fpo2z2yPRWba?startTime=1601323008000) | [Slides](https://drive.google.com/file/d/1Bv9Lml49Ol2KtGvE496pELHyVFoK6Qns/view?usp=sharing) |Ch. 31-32 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)| -->

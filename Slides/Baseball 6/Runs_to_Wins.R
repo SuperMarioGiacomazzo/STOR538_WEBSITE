@@ -6,3 +6,5 @@ print(Wins)
 print(Wins-81) #Number of Wins for an Average Team = 81
 
 
+77000000/74000
+
