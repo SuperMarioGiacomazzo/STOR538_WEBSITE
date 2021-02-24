@@ -87,7 +87,7 @@ The statistical programming language R will be used to generate visualizations a
 
 - Personal Trainer: **[Andy Ackerman](http://stat-or.unc.edu/people/graduate-students-department)**
 
-- Referee: **[Matt Johnson](https://github.com/mattymo18)**
+- Referee: **[Matt Johnson](https://mattymo18.netlify.app/)**
 
 - Syllabus: **[Section 1](https://drive.google.com/file/d/1MGXcioW0wNm-DE9wufoP0M3jxR8RJ7Yd/view?usp=sharing)**
 
