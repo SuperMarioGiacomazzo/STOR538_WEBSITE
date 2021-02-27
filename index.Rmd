@@ -152,7 +152,7 @@ The statistical programming language R will be used to generate visualizations a
 |FEB 19| [Baseball V (Cont.)](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=421798ac-65a3-49e8-9a53-acd40110abee) | [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) ||
 |FEB 22| [Baseball VI](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bea1a19e-73fa-4f98-b3fc-acd7010d8aed) | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)|
 |FEB 24| [Baseball VI (Cont.)](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=49e2e9f5-3beb-4da7-9963-acd901132742) | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) ||
-|FEB 26| Baseball VII| [Slides](Slides/Baseball 7/Baseball_7_Lecture.pdf) |Ch. 11,16 MATH, [Article 1](Articles/Baseball/Baseball2_Albert.pdf), [Article 2](Baseball_Arbseman_Strogatz.pdf)|
+|FEB 26| [Baseball VII](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=99b23467-e9e1-4b3f-9b75-acdb0110c6d7) | [Slides](Slides/Baseball 7/Baseball_7_Lecture.pdf) |Ch. 11,16 MATH, [Article 1](Articles/Baseball/Baseball2_Albert.pdf), [Article 2](Baseball_Arbseman_Strogatz.pdf)|
 
 <!-- ||||| -->
 
