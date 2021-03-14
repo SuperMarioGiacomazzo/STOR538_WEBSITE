@@ -1,41 +1,168 @@
-Date,Away Team,Home Team,Spread,Total,Result
-11/1/2020,New England Patriots,Buffalo Bills,NA,NA,NA
-11/1/2020,Tennessee Titans,Cincinnati Bengals,NA,NA,NA
-11/1/2020,Las Vegas Raiders,Cleveland Browns,NA,NA,NA
-11/1/2020,Indianapolis Colts,Detroit Lions,NA,NA,NA
-11/1/2020,Minnesota Vikings,Green Bay Packers,NA,NA,NA
-11/1/2020,New York Jets,Kansas City Chiefs,NA,NA,NA
-11/1/2020,Los Angeles Rams,Miami Dolphins,NA,NA,NA
-11/1/2020,Pittsburgh Steelers,Baltimore Ravens,NA,NA,NA
-11/1/2020,Los Angeles Chargers,Denver Broncos,NA,NA,NA
-11/1/2020,New Orleans Saints,Chicago Bears,NA,NA,NA
-11/1/2020,San Francisco 49ers,Seattle Seahawks,NA,NA,NA
-11/1/2020,Dallas Cowboys,Philadelphia Eagles,NA,NA,NA
-11/2/2020,Tampa Bay Buccaneers,New York Giants,NA,NA,NA
-11/5/2020,Green Bay Packers,San Francisco 49ers,NA,NA,NA
-11/8/2020,Denver Broncos,Atlanta Falcons,NA,NA,NA
-11/8/2020,Seattle Seahawks,Buffalo Bills,NA,NA,NA
-11/8/2020,Baltimore Ravens,Indianapolis Colts,NA,NA,NA
-11/8/2020,Houston Texans,Jacksonville Jaguars,NA,NA,NA
-11/8/2020,Carolina Panthers,Kansas City Chiefs,NA,NA,NA
-11/8/2020,Detroit Lions,Minnesota Vikings,NA,NA,NA
-11/8/2020,Chicago Bears,Tennessee Titans,NA,NA,NA
-11/8/2020,New York Giants,Washington Redskins,NA,NA,NA
-11/8/2020,Las Vegas Raiders,Los Angeles Chargers,NA,NA,NA
-11/8/2020,Miami Dolphins,Arizona Cardinals,NA,NA,NA
-11/8/2020,Pittsburgh Steelers,Dallas Cowboys,NA,NA,NA
-11/8/2020,New Orleans Saints,Tampa Bay Buccaneers,NA,NA,NA
-11/9/2020,New England Patriots,New York Jets,NA,NA,NA
-11/12/2020,Indianapolis Colts,Tennessee Titans,NA,NA,NA
-11/15/2020,Tampa Bay Buccaneers,Carolina Panthers,NA,NA,NA
-11/15/2020,Houston Texans,Cleveland Browns,NA,NA,NA
-11/15/2020,Washington Redskins,Detroit Lions,NA,NA,NA
-11/15/2020,Jacksonville Jaguars,Green Bay Packers,NA,NA,NA
-11/15/2020,Philadelphia Eagles,New York Giants,NA,NA,NA
-11/15/2020,Cincinnati Bengals,Pittsburgh Steelers,NA,NA,NA
-11/15/2020,Buffalo Bills,Arizona Cardinals,NA,NA,NA
-11/15/2020,Denver Broncos,Las Vegas Raiders,NA,NA,NA
-11/15/2020,Los Angeles Chargers,Miami Dolphins,NA,NA,NA
-11/15/2020,Seattle Seahawks,Los Angeles Rams,NA,NA,NA
-11/15/2020,San Francisco 49ers,New Orleans Saints,NA,NA,NA
-11/15/2020,Baltimore Ravens,New England Patriots,NA,NA,NA
+DATE,Away Team,Home Team,        Total,     Spread,        OREB
+4/10/2021,Los Angeles Lakers,Brooklyn Nets,,,
+4/10/2021,Philadelphia 76ers,Oklahoma City Thunder,,,
+4/10/2021,Sacramento Kings,Utah Jazz,,,
+4/10/2021,Houston Rockets,Golden State Warriors,,,
+4/10/2021,Washington Wizards,Phoenix Suns,,,
+4/10/2021,Detroit Pistons,Portland Trail Blazers,,,
+4/11/2021,Atlanta Hawks,Charlotte Hornets,,,
+4/11/2021,Boston Celtics,Denver Nuggets,,,
+4/11/2021,New Orleans Pelicans,Cleveland Cavaliers,,,
+4/11/2021,Milwaukee Bucks,Orlando Magic,,,
+4/11/2021,Toronto Raptors,New York Knicks,,,
+4/11/2021,San Antonio Spurs,Dallas Mavericks,,,
+4/11/2021,Indiana Pacers,Memphis Grizzlies,,,
+4/11/2021,Chicago Bulls,Minnesota Timberwolves,,,
+4/11/2021,Detroit Pistons,Los Angeles Clippers,,,
+4/11/2021,Miami Heat,Portland Trail Blazers,,,
+4/12/2021,Los Angeles Lakers,New York Knicks,,,
+4/12/2021,San Antonio Spurs,Orlando Magic,,,
+4/12/2021,Brooklyn Nets,Minnesota Timberwolves,,,
+4/12/2021,Philadelphia 76ers,Dallas Mavericks,,,
+4/12/2021,Chicago Bulls,Memphis Grizzlies,,,
+4/12/2021,Sacramento Kings,New Orleans Pelicans,,,
+4/12/2021,Washington Wizards,Utah Jazz,,,
+4/12/2021,Denver Nuggets,Golden State Warriors,,,
+4/12/2021,Houston Rockets,Phoenix Suns,,,
+4/13/2021,Los Angeles Clippers,Indiana Pacers,,,
+4/13/2021,Atlanta Hawks,Toronto Raptors,,,
+4/13/2021,Los Angeles Lakers,Charlotte Hornets,,,
+4/13/2021,Oklahoma City Thunder,Utah Jazz,,,
+4/13/2021,Miami Heat,Phoenix Suns,,,
+4/13/2021,Boston Celtics,Portland Trail Blazers,,,
+4/14/2021,Cleveland Cavaliers,Charlotte Hornets,,,
+4/14/2021,Brooklyn Nets,Philadelphia 76ers,,,
+4/14/2021,San Antonio Spurs,Toronto Raptors,,,
+4/14/2021,Los Angeles Clippers,Detroit Pistons,,,
+4/14/2021,Orlando Magic,Chicago Bulls,,,
+4/14/2021,Milwaukee Bucks,Minnesota Timberwolves,,,
+4/14/2021,New York Knicks,New Orleans Pelicans,,,
+4/14/2021,Indiana Pacers,Houston Rockets,,,
+4/14/2021,Golden State Warriors,Oklahoma City Thunder,,,
+44300,Dallas Mavericks,Memphis Grizzlies,,,
+44300,Miami Heat,Denver Nuggets,,,
+44300,Washington Wizards,Sacramento Kings,,,
+44301,Milwaukee Bucks,Atlanta Hawks,,,
+44301,Golden State Warriors,Cleveland Cavaliers,,,
+44301,Boston Celtics,Los Angeles Lakers,,,
+44301,Sacramento Kings,Phoenix Suns,,,
+44302,Indiana Pacers,Utah Jazz,,,
+44302,Oklahoma City Thunder,Detroit Pistons,,,
+44302,Los Angeles Clippers,Philadelphia 76ers,,,
+44302,New Orleans Pelicans,Washington Wizards,,,
+44302,Charlotte Hornets,Brooklyn Nets,,,
+44302,Orlando Magic,Toronto Raptors,,,
+44302,Memphis Grizzlies,Chicago Bulls,,,
+44302,Denver Nuggets,Houston Rockets,,,
+44302,Miami Heat,Minnesota Timberwolves,,,
+44302,Portland Trail Blazers,San Antonio Spurs,,,
+44302,New York Knicks,Dallas Mavericks,,,
+44303,Utah Jazz,Los Angeles Lakers,,,
+44303,Detroit Pistons,Washington Wizards,,,
+44303,Cleveland Cavaliers,Chicago Bulls,,,
+44303,Golden State Warriors,Boston Celtics,,,
+44303,Memphis Grizzlies,Milwaukee Bucks,,,
+44303,San Antonio Spurs,Phoenix Suns,,,
+44304,Indiana Pacers,Atlanta Hawks,,,
+44304,New Orleans Pelicans,New York Knicks,,,
+44304,Brooklyn Nets,Miami Heat,,,
+44304,Portland Trail Blazers,Charlotte Hornets,,,
+44304,Houston Rockets,Orlando Magic,,,
+44304,Oklahoma City Thunder,Toronto Raptors,,,
+44304,Sacramento Kings,Dallas Mavericks,,,
+44304,Minnesota Timberwolves,Los Angeles Clippers,,,
+44305,Cleveland Cavaliers,Detroit Pistons,,,
+44305,Chicago Bulls,Boston Celtics,,,
+44305,Golden State Warriors,Philadelphia 76ers,,,
+44305,San Antonio Spurs,Indiana Pacers,,,
+44305,Houston Rockets,Miami Heat,,,
+44305,Oklahoma City Thunder,Washington Wizards,,,
+44305,Phoenix Suns,Milwaukee Bucks,,,
+44305,Memphis Grizzlies,Denver Nuggets,,,
+44305,Utah Jazz,Los Angeles Lakers,,,
+44306,Orlando Magic,Atlanta Hawks,,,
+44306,Charlotte Hornets,New York Knicks,,,
+44306,Brooklyn Nets,New Orleans Pelicans,,,
+44306,Los Angeles Clippers,Portland Trail Blazers,,,
+44306,Minnesota Timberwolves,Sacramento Kings,,,
+44307,Chicago Bulls,Cleveland Cavaliers,,,
+44307,Oklahoma City Thunder,Indiana Pacers,,,
+44307,Phoenix Suns,Philadelphia 76ers,,,
+44307,Brooklyn Nets,Toronto Raptors,,,
+44307,Golden State Warriors,Washington Wizards,,,
+44307,Atlanta Hawks,New York Knicks,,,
+44307,Utah Jazz,Houston Rockets,,,
+44307,Detroit Pistons,Dallas Mavericks,,,
+44307,Miami Heat,San Antonio Spurs,,,
+44307,Memphis Grizzlies,Los Angeles Clippers,,,
+44307,Denver Nuggets,Portland Trail Blazers,,,
+44307,Minnesota Timberwolves,Sacramento Kings,,,
+44308,Phoenix Suns,Boston Celtics,,,
+44308,New Orleans Pelicans,Orlando Magic,,,
+44308,Philadelphia 76ers,Milwaukee Bucks,,,
+44308,Detroit Pistons,San Antonio Spurs,,,
+44308,Charlotte Hornets,Chicago Bulls,,,
+44308,Los Angeles Lakers,Dallas Mavericks,,,
+44309,Miami Heat,Atlanta Hawks,,,
+44309,Boston Celtics,Brooklyn Nets,,,
+44309,Cleveland Cavaliers,Charlotte Hornets,,,
+44309,Los Angeles Clippers,Houston Rockets,,,
+44309,Washington Wizards,Oklahoma City Thunder,,,
+44309,Denver Nuggets,Golden State Warriors,,,
+44309,Memphis Grizzlies,Portland Trail Blazers,,,
+44310,Toronto Raptors,New York Knicks,,,
+44310,Philadelphia 76ers,Milwaukee Bucks,,,
+44310,Detroit Pistons,Indiana Pacers,,,
+44310,Chicago Bulls,Miami Heat,,,
+44310,San Antonio Spurs,New Orleans Pelicans,,,
+44310,Los Angeles Lakers,Dallas Mavericks,,,
+44310,Minnesota Timberwolves,Utah Jazz,,,
+44310,Houston Rockets,Denver Nuggets,,,
+44311,Boston Celtics,Charlotte Hornets,,,
+44311,Phoenix Suns,Brooklyn Nets,,,
+44311,Memphis Grizzlies,Portland Trail Blazers,,,
+44311,Cleveland Cavaliers,Washington Wizards,,,
+44311,Milwaukee Bucks,Atlanta Hawks,,,
+44311,Indiana Pacers,Orlando Magic,,,
+44311,Sacramento Kings,Golden State Warriors,,,
+44312,Atlanta Hawks,Detroit Pistons,,,
+44312,Los Angeles Lakers,Orlando Magic,,,
+44312,Oklahoma City Thunder,Philadelphia 76ers,,,
+44312,San Antonio Spurs,Washington Wizards,,,
+44312,Phoenix Suns,New York Knicks,,,
+44312,Cleveland Cavaliers,Toronto Raptors,,,
+44312,Chicago Bulls,Miami Heat,,,
+44312,Utah Jazz,Minnesota Timberwolves,,,
+44312,Los Angeles Clippers,New Orleans Pelicans,,,
+44312,Memphis Grizzlies,Denver Nuggets,,,
+44312,Dallas Mavericks,Sacramento Kings,,,
+44313,Oklahoma City Thunder,Boston Celtics,,,
+44313,Milwaukee Bucks,Charlotte Hornets,,,
+44313,Portland Trail Blazers,Indiana Pacers,,,
+44313,Brooklyn Nets,Toronto Raptors,,,
+44313,Minnesota Timberwolves,Houston Rockets,,,
+44313,Dallas Mavericks,Golden State Warriors,,,
+44314,Orlando Magic,Cleveland Cavaliers,,,
+44314,Atlanta Hawks,Philadelphia 76ers,,,
+44314,Los Angeles Lakers,Washington Wizards,,,
+44314,Charlotte Hornets,Boston Celtics,,,
+44314,Chicago Bulls,New York Knicks,,,
+44314,San Antonio Spurs,Miami Heat,,,
+44314,Portland Trail Blazers,Memphis Grizzlies,,,
+44314,New Orleans Pelicans,Denver Nuggets,,,
+44314,Los Angeles Clippers,Phoenix Suns,,,
+44314,Utah Jazz,Sacramento Kings,,,
+44315,Dallas Mavericks,Detroit Pistons,,,
+44315,Brooklyn Nets,Indiana Pacers,,,
+44315,Milwaukee Bucks,Houston Rockets,,,
+44315,Golden State Warriors,Minnesota Timberwolves,,,
+44315,New Orleans Pelicans,Oklahoma City Thunder,,,
+44315,Toronto Raptors,Denver Nuggets,,,
+44316,Atlanta Hawks,Philadelphia 76ers,,,
+44316,San Antonio Spurs,Boston Celtics,,,
+44316,Washington Wizards,Cleveland Cavaliers,,,
+44316,Portland Trail Blazers,Brooklyn Nets,,,
+44316,Orlando Magic,Memphis Grizzlies,,,
+44316,Milwaukee Bucks,Chicago Bulls,,,
+44316,Utah Jazz,Phoenix Suns,,,
+44316,Sacramento Kings,Los Angeles Lakers,,,
