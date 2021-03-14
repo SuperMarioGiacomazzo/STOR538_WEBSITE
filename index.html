@@ -4779,8 +4779,8 @@ background-color: #13294B;
 <h3>1) Data Information</h3>
 <p>In this section, you should discuss three things.</p>
 <p>First, you should explain the steps taken to get the datasets cleaned and joined. How did you handle missing data? What did you do to identify outliers and how did you handle these instances? Were there any games intentionally removed and what were the reasons?</p>
-<p>Second, you should discuss any variables engineered and defend the reason. You are required to create/engineer at least <strong>one variable</strong> that doesn’t exist in any dataset in <strong><a href="https://github.com/mattymo18/STOR-538-Project2">repository</a></strong> or from other sources. You should be able to explain why you think the variable you created would help in predicting game outcomes.</p>
-<p>Third, you should discuss all outside data you joined into your dataset to hopefully improve prediction. You are required to utilize at least <strong>one variable</strong> that is not currently contained in any of the datasets. This could be weather, attendance, advanced stats, quarterback information, time of possession, lagged variables, etc. For all data you bring into your predictive models from outside sources, you should site the source and defend the reason for incorporating the data into your model.</p>
+<p>Second, you should discuss any variables engineered and defend the reason. You are required to create/engineer at least <strong>one variable</strong> that doesn’t exist in any dataset in <strong><a href="https://github.com/mattymo18/STOR-538-Project2-2021">repository</a></strong>. You should be able to explain why you think the variable you created would help in predicting any of the three outcome variables.</p>
+<p>Third, you should discuss all outside data you joined into your dataset to hopefully improve prediction. You are required to utilize at least <strong>one variable</strong> that is not currently contained in any of the given datasets. This could be division (yes or no), injuries, attendance, advanced stats, or any data from 2021, etc. For all data you bring into your predictive models from outside sources, you should site the source and/or defend the reason for incorporating the data into your model.</p>
 </div>
 <div id="methodology-for-spread" class="section level3">
 <h3>2) Methodology for <span class="math inline">\(Spread\)</span></h3>
@@ -4788,11 +4788,11 @@ background-color: #13294B;
 </div>
 <div id="methodology-for-total" class="section level3">
 <h3>3) Methodology for <span class="math inline">\(Total\)</span></h3>
-<p>You should clearly describe your group’s best predictive model for <span class="math inline">\(Total\)</span> and the steps you took to get there. Discuss what variables were useful and useless for predicting spread. <span class="math inline">\(Total\)</span> is a numeric variable but could be highly skewed, I highly recommend nonlinear transformations or a poisson regression with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression trees, time series, etc.), utilizing cross-validation, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the best model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the “best” is actually best.</p>
+<p>You should clearly describe your group’s best predictive model for <span class="math inline">\(Total\)</span> and the steps you took to get there. Discuss what variables were useful and useless for predicting spread. <span class="math inline">\(Total\)</span> is a numeric variable but could be highly skewed, I highly recommend nonlinear transformations or a poisson regression with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression trees, time series, etc.), utilizing cross-validation, and adding interaction/polynomial terms. There should also be out-of-sample testing for consideration in model selection and potential regularization. In this part, you should chronologically write about everything your group did to find the best model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the “best” is actually best.</p>
 </div>
 <div id="methodology-for-oreb" class="section level3">
 <h3>4) Methodology for <span class="math inline">\(OREB\)</span></h3>
-<p>You should clearly describe your group’s best predictive model for <span class="math inline">\(OREB\)</span> and the steps you took to get there. Discuss what variables were useful and useless for predicting spread. Since <span class="math inline">\(Result\)</span> is a numeric variable, I highly recommend a basic logistic regression as a baseline with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (random forests, classification trees, K-Nearest Neighbors, etc.), utilizing cross-validation, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the best model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally so someone with basic understanding in statistics and the sport. You are not required to presenting tables or figures, but these can be used to defend why the model you are calling the “best” is actually best.</p>
+<p>Your methodology for <span class="math inline">\(OREB\)</span> can be extremely similar to your methodology for <span class="math inline">\(Total\)</span> since they are both count variables. Your methodology can be similar but the optimal model for <span class="math inline">\(OREB\)</span> may contain different variables than the optimal model for <span class="math inline">\(Total\)</span>, and this should be discussed. The problem with <span class="math inline">\(OREB\)</span> is that the variable is not currently given on the game and team level in <strong><a href="https://github.com/mattymo18/STOR-538-Project2-2021/blob/master/Source-Data/games.csv">games</a></strong>. This variable is contained on the player level in the massive dataset <strong><a href="https://github.com/mattymo18/STOR-538-Project2-2021/blob/master/Source-Data/games_details.csv">games_details</a></strong>. For additional help on cleaning the data and obtaining the <span class="math inline">\(OREB\)</span> variable for each of the games in the data, check out this <a href="https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/blob/master/Playoffs/Round%202/Data%20for%20Project.R">R Script</a>. In this R file, I go through the process of aggregating the offensive rebounds for both the home team and the away team, and then I merge that information into the original data to create an <span class="math inline">\(OREB\)</span> variable.</p>
 </div>
 <div id="rubric-1" class="section level3">
 <h3>Rubric</h3>
@@ -4860,9 +4860,9 @@ background-color: #13294B;
 <tr class="odd">
 <td align="center">Spread: Prediction</td>
 <td align="center">None</td>
-<td align="center">Bottom 4</td>
-<td align="center">Middle 5</td>
-<td align="center">Top 5</td>
+<td align="center">Bottom 5</td>
+<td align="center">Middle 6</td>
+<td align="center">Top 6</td>
 </tr>
 <tr class="even">
 <td align="center">Total: Methodology</td>
@@ -4881,30 +4881,30 @@ background-color: #13294B;
 <tr class="even">
 <td align="center">Total: Prediction</td>
 <td align="center">None</td>
-<td align="center">Bottom 4</td>
-<td align="center">Middle 5</td>
-<td align="center">Top 5</td>
+<td align="center">Bottom 5</td>
+<td align="center">Middle 6</td>
+<td align="center">Top 6</td>
 </tr>
 <tr class="odd">
-<td align="center">Result: Methodology</td>
+<td align="center">OREB: Methodology</td>
 <td align="center">Poor</td>
 <td align="center">Lazy But Well Explained</td>
 <td align="center">Clear, Thorough, but Lacking Innovation</td>
 <td align="center">Clear, Innovative, and Thorough</td>
 </tr>
 <tr class="even">
-<td align="center">Result: Best Model</td>
+<td align="center">OREB: Best Model</td>
 <td align="center">Poor Description</td>
 <td align="center">Adequate Description</td>
 <td align="center">Good Description</td>
 <td align="center">Excellent Description</td>
 </tr>
 <tr class="odd">
-<td align="center">Result: Prediction</td>
+<td align="center">OREB: Prediction</td>
 <td align="center">None</td>
-<td align="center">Bottom 4</td>
-<td align="center">Middle 5</td>
-<td align="center">Top 5</td>
+<td align="center">Bottom 5</td>
+<td align="center">Middle 6</td>
+<td align="center">Top 6</td>
 </tr>
 <tr class="even">
 <td align="center">Spelling</td>
@@ -5263,8 +5263,8 @@ background-color: #13294B;
 <div id="team-sport" class="section level1">
 <h1><strong>Team Sport</strong></h1>
 <p>Many of the assessments in this course will be done in a teams of 4 or 5 playas randomly chosen. For each team-based assignment, you will be given a different team. This will force you to interact with the majority of the class throughout the semester. After each team-based assignment, you will grade the contribution of your teammates on a scale from 0 to 3, and this will contribute to your overall grade for the given assignment. A decent portion of your final grade will be influenced by this. The following link contains all teams alphabetically: <strong><a href="Group%20Assignments/All%20Teams.pdf">All Teams</a></strong></p>
-<div id="htmlwidget-b965415a68d109ec0e40" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-b965415a68d109ec0e40">{"x":{"filter":"none","data":[["Argueta,Fernando Santiago","Baker,Crystal Reshea","Basu,Sayak","Bharadwaj,Akshatha","Binsulaiman,Abdullah Mohammed A","Bordonaro,Brooke O","Bridges,Polly Thí Thuy","Burchell Jr,Clay Clay","Burhans,Tucker Field","Chadwick,Alexandria Leigh","Chen,Elise","Chen,Jessica","Childs,Grace Katelyn","Cooper,Harrison Bigelow","Cozart,Lee Armstrong","Cui,Connie Palmer","Cybrynski,Julianna Jeanne","Datta,Anisha","Deo,Advaith","Desham,Sahith Reddy","Deshmukh,Ekta Vilas","Deverteuil,Liam Simon","Edwards,Alexa Marie","Evora,Daniel Mantei","Fan,Dora","Gandecha,Raj Dilip","Ganesan,Rajee","Geng,Xuyang","Gopalswamy,Shruti","Gray,Lucy Elisabeth","Gupta,Vasu","Hamilton,Laura Clare","Hastings,Isabella Josephine","Jakkinpali,Neha Laxmi","Johnson,Kelsey Marie","Jones,Ashley Renee","Joseph,Fab","Kadlec,Abby Carolan","Kajiwara,Aoi","Kim,Janice Jiwon","Kirkman,Nicholas John","Klein,Eric Robert","Kothapalli,Rachana","Lee,Ethan S","Li,Rui","Li,Vivian","Lickteig,John Henry","Liu,Tianen","Lo,Ashlee Mylea","Mahadeshwar,Dimple Jagannath","Mauzy,Justin Scott","Miller,Eric Marshall","Millican,Reagan Mccreary","Morris,Adelynn","Moton,Ryan","Oh,Sooyeon","Pano Flores,Antonio","Patnaik,Shreya","Penwell,Alexa Marie","Poole,Meredith","Rai,Swadha","Rajeshwer,Maanasa","Rende,Jerrett David","Reuland,Oliver Charles","Shaban,Omar Hilal","Shock,Ryan Michael","Sinclair,Julianne Elizabeth","Sivaraman,Maitreyi Saradha","Sriperumbudur,Amruth Swamy","Suo,Feiya","Szarka,Sylvia Tande","Tedford,Alison Hope","Terry-Edmunds,Sam Kweta","Thuman,Sydney Olga","Tiano,Drew Joseph","Tompkins,Brent Nichols","Varani,Lex","Vytla,Nikhil","Wasyluk,Matt Michael","Weisenhorn,Simon Philip","Willingham,Charlie Hardwicke","Youngstrom,Diane Erin","Zengince,Fehmi","Ziade,Mia Carole"],[7,9,4,7,10,1,5,13,16,11,17,4,7,6,6,3,8,5,16,13,17,12,11,1,14,13,17,16,11,2,6,12,1,17,10,8,12,4,4,12,2,2,1,15,16,3,2,9,10,15,9,7,8,2,14,15,5,16,14,9,5,14,14,7,11,6,1,15,11,4,9,3,15,13,3,10,8,8,5,13,10,12,6,3],[6,4,15,6,8,5,7,13,1,13,12,2,10,6,2,2,2,3,14,8,17,11,7,13,12,14,7,7,12,8,4,11,17,4,16,14,3,4,10,10,3,16,6,9,1,1,5,6,13,13,12,9,4,9,11,11,15,12,5,16,10,5,17,8,15,3,3,5,9,1,14,1,10,16,7,2,11,8,9,15,14,17,16,15],[13,14,10,11,9,1,3,4,2,15,17,5,12,16,5,4,3,16,14,6,2,7,11,2,10,9,6,9,17,8,11,15,13,2,16,6,14,7,17,15,5,1,1,11,12,4,3,13,10,10,15,8,5,16,8,17,4,1,8,7,9,16,7,12,4,5,6,13,1,12,2,3,6,9,10,11,14,3,15,14,7,8,12,13],[11,16,3,6,15,13,9,10,4,1,4,8,14,11,6,7,4,16,13,16,3,12,5,16,1,16,9,12,7,12,14,13,5,6,6,13,15,10,10,13,8,8,14,14,5,8,5,7,3,2,11,2,4,5,11,9,17,15,3,7,6,12,12,15,3,17,17,10,7,15,1,9,10,2,4,8,1,17,11,9,2,2,14,1],[17,6,13,17,2,15,4,3,8,16,15,2,14,8,12,7,3,2,17,9,10,7,7,2,3,15,9,13,5,11,12,1,6,6,1,4,4,11,5,11,1,3,10,5,16,8,16,7,14,1,9,3,15,12,16,11,16,15,1,10,13,5,4,2,10,8,14,13,8,14,9,13,11,17,6,4,12,5,12,10,9,6,14,7],[13,12,4,14,11,7,16,14,5,9,15,16,10,3,6,7,12,17,7,1,2,10,4,17,1,5,5,1,2,6,12,15,8,15,12,3,5,8,1,7,10,17,13,6,11,16,2,2,11,3,9,15,11,8,4,3,9,16,8,16,12,10,15,10,4,4,7,13,9,3,6,1,13,13,14,2,5,8,14,17,6,9,11,14],[3,11,13,9,13,4,4,2,17,3,17,8,16,11,5,11,16,7,4,15,10,1,17,16,9,4,5,7,11,8,13,6,15,2,8,5,4,9,12,16,11,12,1,1,10,5,9,7,3,10,10,7,14,13,9,6,8,12,1,5,2,17,2,10,3,15,12,6,7,15,12,6,14,6,14,15,13,1,8,2,16,14,14,3],[10,3,7,3,12,12,10,15,12,2,17,14,11,13,5,12,3,5,14,16,2,8,14,2,3,1,1,4,13,10,13,7,17,15,2,8,1,10,11,7,11,16,16,3,2,15,4,1,4,11,16,6,7,16,11,17,8,9,6,12,8,5,7,14,13,13,4,6,9,14,15,15,5,1,9,9,6,9,5,8,4,6,17,10]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>Name<\/th>\n      <th>Gameday Speech 1<\/th>\n      <th>Gameday Speech 2<\/th>\n      <th>Playoffs Round 1<\/th>\n      <th>Gameday Speech 3<\/th>\n      <th>Gameday Speech 4<\/th>\n      <th>Playoffs Round 2<\/th>\n      <th>Gameday Speech 5<\/th>\n      <th>Championship<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"scrollX":true,"columnDefs":[{"className":"dt-center","targets":[0,1,2,3,4,5,6,7,8]}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-69c2bc925dea612071cd" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-69c2bc925dea612071cd">{"x":{"filter":"none","data":[["Argueta,Fernando Santiago","Baker,Crystal Reshea","Basu,Sayak","Bharadwaj,Akshatha","Binsulaiman,Abdullah Mohammed A","Bordonaro,Brooke O","Bridges,Polly Thí Thuy","Burchell Jr,Clay Clay","Burhans,Tucker Field","Chadwick,Alexandria Leigh","Chen,Elise","Chen,Jessica","Childs,Grace Katelyn","Cooper,Harrison Bigelow","Cozart,Lee Armstrong","Cui,Connie Palmer","Cybrynski,Julianna Jeanne","Datta,Anisha","Deo,Advaith","Desham,Sahith Reddy","Deshmukh,Ekta Vilas","Deverteuil,Liam Simon","Edwards,Alexa Marie","Evora,Daniel Mantei","Fan,Dora","Gandecha,Raj Dilip","Ganesan,Rajee","Geng,Xuyang","Gopalswamy,Shruti","Gray,Lucy Elisabeth","Gupta,Vasu","Hamilton,Laura Clare","Hastings,Isabella Josephine","Jakkinpali,Neha Laxmi","Johnson,Kelsey Marie","Jones,Ashley Renee","Joseph,Fab","Kadlec,Abby Carolan","Kajiwara,Aoi","Kim,Janice Jiwon","Kirkman,Nicholas John","Klein,Eric Robert","Kothapalli,Rachana","Lee,Ethan S","Li,Rui","Li,Vivian","Lickteig,John Henry","Liu,Tianen","Lo,Ashlee Mylea","Mahadeshwar,Dimple Jagannath","Mauzy,Justin Scott","Miller,Eric Marshall","Millican,Reagan Mccreary","Morris,Adelynn","Moton,Ryan","Oh,Sooyeon","Pano Flores,Antonio","Patnaik,Shreya","Penwell,Alexa Marie","Poole,Meredith","Rai,Swadha","Rajeshwer,Maanasa","Rende,Jerrett David","Reuland,Oliver Charles","Shaban,Omar Hilal","Shock,Ryan Michael","Sinclair,Julianne Elizabeth","Sivaraman,Maitreyi Saradha","Sriperumbudur,Amruth Swamy","Suo,Feiya","Szarka,Sylvia Tande","Tedford,Alison Hope","Terry-Edmunds,Sam Kweta","Thuman,Sydney Olga","Tiano,Drew Joseph","Tompkins,Brent Nichols","Varani,Lex","Vytla,Nikhil","Wasyluk,Matt Michael","Weisenhorn,Simon Philip","Willingham,Charlie Hardwicke","Youngstrom,Diane Erin","Zengince,Fehmi","Ziade,Mia Carole"],[7,9,4,7,10,1,5,13,16,11,17,4,7,6,6,3,8,5,16,13,17,12,11,1,14,13,17,16,11,2,6,12,1,17,10,8,12,4,4,12,2,2,1,15,16,3,2,9,10,15,9,7,8,2,14,15,5,16,14,9,5,14,14,7,11,6,1,15,11,4,9,3,15,13,3,10,8,8,5,13,10,12,6,3],[6,4,15,6,8,5,7,13,1,13,12,2,10,6,2,2,2,3,14,8,17,11,7,13,12,14,7,7,12,8,4,11,17,4,16,14,3,4,10,10,3,16,6,9,1,1,5,6,13,13,12,9,4,9,11,11,15,12,5,16,10,5,17,8,15,3,3,5,9,1,14,1,10,16,7,2,11,8,9,15,14,17,16,15],[13,14,10,11,9,1,3,4,2,15,17,5,12,16,5,4,3,16,14,6,2,7,11,2,10,9,6,9,17,8,11,15,13,2,16,6,14,7,17,15,5,1,1,11,12,4,3,13,10,10,15,8,5,16,8,17,4,1,8,7,9,16,7,12,4,5,6,13,1,12,2,3,6,9,10,11,14,3,15,14,7,8,12,13],[11,16,3,6,15,13,9,10,4,1,4,8,14,11,6,7,4,16,13,16,3,12,5,16,1,16,9,12,7,12,14,13,5,6,6,13,15,10,10,13,8,8,14,14,5,8,5,7,3,2,11,2,4,5,11,9,17,15,3,7,6,12,12,15,3,17,17,10,7,15,1,9,10,2,4,8,1,17,11,9,2,2,14,1],[17,6,13,17,2,15,4,3,8,16,15,2,14,8,12,7,3,2,17,9,10,7,7,2,3,15,9,13,5,11,12,1,6,6,1,4,4,11,5,11,1,3,10,5,16,8,16,7,14,1,9,3,15,12,16,11,16,15,1,10,13,5,4,2,10,8,14,13,8,14,9,13,11,17,6,4,12,5,12,10,9,6,14,7],[13,12,4,14,11,7,16,14,5,9,15,16,10,3,6,7,12,17,7,1,2,10,4,17,1,5,5,1,2,6,12,15,8,15,12,3,5,8,1,7,10,17,13,6,11,16,2,2,11,3,9,15,11,8,4,3,9,16,8,16,12,10,15,10,4,4,7,13,9,3,6,1,13,13,14,2,5,8,14,17,6,9,11,14],[3,11,13,9,13,4,4,2,17,3,17,8,16,11,5,11,16,7,4,15,10,1,17,16,9,4,5,7,11,8,13,6,15,2,8,5,4,9,12,16,11,12,1,1,10,5,9,7,3,10,10,7,14,13,9,6,8,12,1,5,2,17,2,10,3,15,12,6,7,15,12,6,14,6,14,15,13,1,8,2,16,14,14,3],[10,3,7,3,12,12,10,15,12,2,17,14,11,13,5,12,3,5,14,16,2,8,14,2,3,1,1,4,13,10,13,7,17,15,2,8,1,10,11,7,11,16,16,3,2,15,4,1,4,11,16,6,7,16,11,17,8,9,6,12,8,5,7,14,13,13,4,6,9,14,15,15,5,1,9,9,6,9,5,8,4,6,17,10]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>Name<\/th>\n      <th>Gameday Speech 1<\/th>\n      <th>Gameday Speech 2<\/th>\n      <th>Playoffs Round 1<\/th>\n      <th>Gameday Speech 3<\/th>\n      <th>Gameday Speech 4<\/th>\n      <th>Playoffs Round 2<\/th>\n      <th>Gameday Speech 5<\/th>\n      <th>Championship<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"scrollX":true,"columnDefs":[{"className":"dt-center","targets":[0,1,2,3,4,5,6,7,8]}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
 <p>In the table below, you can find your group for each of the specific team-based assignments. Make sure you fill out the value survey before the time the assignment is due on the due date. Do not assess the value of yourself in the survey.</p>
 <table>
 <thead>
@@ -5372,7 +5372,7 @@ background-color: #13294B;
 </tr>
 </tbody>
 </table>
-<p>This page was last updated on 2021-03-14 15:48:19 Eastern Time by Super Mario.</p>
+<p>This page was last updated on 2021-03-14 16:53:43 Eastern Time by Super Mario.</p>
 </div>
 
 

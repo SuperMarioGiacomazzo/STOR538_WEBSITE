@@ -418,7 +418,7 @@ You should clearly describe your group's best predictive model for $Total$ and t
 
 ### 4) Methodology for $OREB$
 
-Your methodology for $OREB$ can be extremely similar to your methodology for $Total$ since they are both count variables. Your methodology can be similar but the optimal model for $OREB$ may contain different variables than the optimal model for $Total$, and this should be discussed. The problem with $OREB$ is that the variable is not currently given on the game and team level in **[games](https://github.com/mattymo18/STOR-538-Project2-2021/blob/master/Source-Data/games.csv)**. This variable is contained on the player level in the massive dataset **[games_details](https://github.com/mattymo18/STOR-538-Project2-2021/blob/master/Source-Data/games_details.csv)**.
+Your methodology for $OREB$ can be extremely similar to your methodology for $Total$ since they are both count variables. Your methodology can be similar but the optimal model for $OREB$ may contain different variables than the optimal model for $Total$, and this should be discussed. The problem with $OREB$ is that the variable is not currently given on the game and team level in **[games](https://github.com/mattymo18/STOR-538-Project2-2021/blob/master/Source-Data/games.csv)**. This variable is contained on the player level in the massive dataset **[games_details](https://github.com/mattymo18/STOR-538-Project2-2021/blob/master/Source-Data/games_details.csv)**. For additional help on cleaning the data and obtaining the $OREB$ variable for each of the games in the data, check out this [R Script](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/blob/master/Playoffs/Round%202/Data%20for%20Project.R). In this R file, I go through the process of aggregating the offensive rebounds for both the home team and the away team, and then I merge that information into the original data to create an $OREB$ variable.
 
 
 ### Rubric
@@ -433,13 +433,13 @@ The second playoff round is worth a total of 48 points based on the following ru
 |Data: Outside Data|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended|
 |Spread: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough|
 |Spread: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description|
-|Spread: Prediction|None|Bottom 4| Middle 5 |Top 5|
+|Spread: Prediction|None|Bottom 5| Middle 6 |Top 6|
 |Total: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough|
 |Total: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description|
-|Total: Prediction|None|Bottom 4|Middle 5|Top 5|
-|Result: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough|
-|Result: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description|
-|Result: Prediction|None|Bottom 4|Middle 5|Top 5|
+|Total: Prediction|None|Bottom 5|Middle 6|Top 6|
+|OREB: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough|
+|OREB: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description|
+|OREB: Prediction|None|Bottom 5|Middle 6|Top 6|
 |Spelling|>5 Errors| 3-5 Errors|1-2 Errors|No Errors|
 |Value|Bad|Okay|Good|Excellent|
 |Submitted|Late|||On Time|
