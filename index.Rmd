@@ -165,7 +165,7 @@ The statistical programming language R will be used to generate visualizations a
 |MAR 8| [Basketball II (Cont.)](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f465aed2-5728-4985-87a6-ace50113b8cc)| ||
 |MAR 10| [Basketball III](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f465aed2-5728-4985-87a6-ace50113b8cc) | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 31-32 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)|
 |MAR 12|Wellness Day (No Class)| ||
-|MAR 15| Prediction Project |||
+|MAR 15| [Prediction Project](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c815bb1f-f302-471a-afab-acec00fd49da) |||
 |MAR 17| Basketball IV | [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 33 MATH| -->
 |MAR 19| Basketball IV (Cont.) | [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 33 MATH| -->
 <!-- |Oct. 5| [Basketball V](https://unc.zoom.us/rec/share/kIUesviGToS9Llp8teyAjz5hnr35EeNVuYBKBe8Qtonpw_qvjggc9QKTUv9mbQJs.6nDXiEd9n9Y4RxoR?startTime=1601927948000) | [Slides](https://drive.google.com/file/d/1dB1Pp1wJyP3G_aDWLpkkx66P4shOohqp/view?usp=sharing) |Ch. 34-35 MATH, [Web 1](https://www.nytimes.com/2011/04/13/sports/ncaabasketball/13gamble.html), [Web 2](https://las.illinois.edu/news/2006-09-01/no-foul), [Article 1](https://drive.google.com/file/d/13YsmyYAYiP9uRrrWCYn4Zihfd3nxWoQv/view?usp=sharing)| -->
