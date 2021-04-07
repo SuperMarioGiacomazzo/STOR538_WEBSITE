@@ -165,7 +165,7 @@ The statistical programming language R will be used to generate visualizations a
 |MAR 8| [Basketball II (Cont.)](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f465aed2-5728-4985-87a6-ace50113b8cc)| ||
 |MAR 10| [Basketball III](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f465aed2-5728-4985-87a6-ace50113b8cc) | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 31-32 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)|
 |MAR 12|Wellness Day (No Class)| ||
-|MAR 15| [Prediction Project](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c815bb1f-f302-471a-afab-acec00fd49da) |||
+|MAR 15| [Playoffs Round 2](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c815bb1f-f302-471a-afab-acec00fd49da) ||[Example](Playoffs/Round 2/Example.pdf)|
 |MAR 17| [Basketball IV](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f8c368a-6e9f-415d-85a7-acee00fe9561) | [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 33 MATH| -->
 |MAR 19| [Basketball IV (Cont.)](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3fdbf9d4-cc47-451f-98a2-acf000ffeb87) | [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 33 MATH| -->
 |MAR 22| [Basketball V](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5202fa43-c21b-4318-a25c-acf3010a51ea) | [Slides](Slides/Basketball 5/Basketball_5_Lecture.pdf) |Ch. 34-35 MATH, [Web 1](https://www.nytimes.com/2011/04/13/sports/ncaabasketball/13gamble.html), [Web 2](https://las.illinois.edu/news/2006-09-01/no-foul), [Article 1](Articles/Basketball/Basketball_PriceWolfers.pdf)|
@@ -546,7 +546,7 @@ Any assignments requiring a deliverable will be submitted via **[Sakai](https://
 |MAR 10 (5PM)|||P1||
 |MAR 19 (10:10AM)||RS4|||
 |MAR 26 (10:10AM)|GS4 (Ch. 13 HSMAS)||||
-|APR 12 (5PM)|||P2||
+|APR 12 (11:55PM)|||P2||
 |APR 16 (10:10AM)||RS5|||
 |APR 23 (10:10AM) |GS5 (Ch. 21 HSMAS)||||
 |APR 30 (10:10AM)||RS6|||
