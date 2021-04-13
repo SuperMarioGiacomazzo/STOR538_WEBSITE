@@ -178,7 +178,7 @@ The statistical programming language R will be used to generate visualizations a
 | APR 5 |Wellness Day III||||
 |APR 7| [Football IV](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c0a535fc-c255-467c-b75c-ad0301060469) | [Slides](Slides/Football 4/Footballl_4_Lecture.pdf) | Ch. 21 MATH, [Web 1](https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c), [Article 1](Articles/Football/Football_Pelechrinis2.pdf), [Article 2](Articles/Football/Football_PelechrinisPapalexakis.pdf) |
 |APR 9| [Football IV (Cont.)](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8154916d-3459-49a8-a848-ad050101a633) | ||
-|APR 12| Football V | [Slides](Slides/Football 5/Footballl_5_Lecture.pdf) | Ch. 22 MATH|
+|APR 12| [Football V](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c1f23a09-e469-49c0-a864-ad0800fea032) | [Slides](Slides/Football 5/Footballl_5_Lecture.pdf) | Ch. 22 MATH|
 |APR 14| Football VI | [Slides](Slides/Football 6/Footballl_6_Lecture.pdf) | Ch. 23 MATH, [Web 1](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html), [Web 2](https://plato.stanford.edu/entries/game-theory/), [Web 3](http://archive.advancedfootballanalytics.com/2008/06/game-theory-and-runpass-balance.html) |
 | APR 16 | Football VII | [Slides](Slides/Football 7/Footballl_7_Lecture.pdf)  | Ch. 26-27 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1) |
 |||  | [Article 1](Articles/Football/Football_King.pdf), [Article 2](Articles/Football/Football_MasseyThaler.pdf) | -->
@@ -308,6 +308,7 @@ Your study should be summarized in a paper of 3 to 5 pages. The paper and datase
 On the first page, you should title your paper and give the names of the team members who contributed. The content of the paper should be organized in the following 3 subsections:
 
 ### 1) Introduction to the Data
+
 In this section, you should discuss three things. 
 
 First, you should briefly discuss the sport/game your team selected and the overall purpose of analyzing data for this sport/game. For example, what did you hypothesize or hope to find from studying the sport/game? 
@@ -475,10 +476,10 @@ Like the playoffs, this final assignment will be done in a team. Sometime during
 |11|9:40AM - 9:50AM|
 |12|9:50AM - 10:00AM|
 |13|10:00AM - 10:10AM|
-|14|10:10AM - 8:15AM|
-|15|8AM - 8:15AM|
-|16|8AM - 8:15AM|
-|17|8AM - 8:15AM|
+|14|10:10AM - 10:20AM|
+|15|10:20AM - 10:30AM|
+|16|10:30AM - 10:40AM|
+|17|10:40AM - 10:50AM|
 |||
 
 Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). To grade your teammates, use the following [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSet592BiOFiSUdjiCUS_4L-tcwSFvvRPd2P1kxlGRivNg9hoA/viewform?usp=sf_link).
