@@ -1,0 +1,168 @@
+DATE,Home Team,Away Team,Spread,Total,        OREB
+4/10/2021,Brooklyn Nets,Los Angeles Lakers,N/A,N/A,N/A
+4/10/2021,Oklahoma City Thunder,Philadelphia 76ers,N/A,N/A,N/A
+4/10/2021,Utah Jazz,Sacramento Kings,N/A,N/A,N/A
+4/10/2021,Golden State Warriors,Houston Rockets,N/A,N/A,N/A
+4/10/2021,Phoenix Suns,Washington Wizards,N/A,N/A,N/A
+4/10/2021,Portland Trail Blazers,Detroit Pistons,N/A,N/A,N/A
+4/11/2021,Charlotte Hornets,Atlanta Hawks,N/A,N/A,N/A
+4/11/2021,Denver Nuggets,Boston Celtics,N/A,N/A,N/A
+4/11/2021,Cleveland Cavaliers,New Orleans Pelicans,N/A,N/A,N/A
+4/11/2021,Orlando Magic,Milwaukee Bucks,N/A,N/A,N/A
+4/11/2021,New York Knicks,Toronto Raptors,N/A,N/A,N/A
+4/11/2021,Dallas Mavericks,San Antonio Spurs,N/A,N/A,N/A
+4/11/2021,Memphis Grizzlies,Indiana Pacers,N/A,N/A,N/A
+4/11/2021,Minnesota Timberwolves,Chicago Bulls,N/A,N/A,N/A
+4/11/2021,Los Angeles Clippers,Detroit Pistons,N/A,N/A,N/A
+4/11/2021,Portland Trail Blazers,Miami Heat,N/A,N/A,N/A
+4/12/2021,New York Knicks,Los Angeles Lakers,N/A,N/A,N/A
+4/12/2021,Orlando Magic,San Antonio Spurs,N/A,N/A,N/A
+4/12/2021,Minnesota Timberwolves,Brooklyn Nets,N/A,N/A,N/A
+4/12/2021,Dallas Mavericks,Philadelphia 76ers,N/A,N/A,N/A
+4/12/2021,Memphis Grizzlies,Chicago Bulls,N/A,N/A,N/A
+4/12/2021,New Orleans Pelicans,Sacramento Kings,N/A,N/A,N/A
+4/12/2021,Utah Jazz,Washington Wizards,N/A,N/A,N/A
+4/12/2021,Golden State Warriors,Denver Nuggets,N/A,N/A,N/A
+4/12/2021,Phoenix Suns,Houston Rockets,N/A,N/A,N/A
+4/13/2021,Indiana Pacers,Los Angeles Clippers,1.9235042,214.93,25.79543
+4/13/2021,Toronto Raptors,Atlanta Hawks,2.7024775,205.8882,17.20457
+4/13/2021,Charlotte Hornets,Los Angeles Lakers,-0.4759468,185.0408,21.31334
+4/13/2021,Utah Jazz,Oklahoma City Thunder,7.62432165,189.2287,22.85236
+4/13/2021,Phoenix Suns,Miami Heat,-3.8267834,223.6634,19.83431
+4/13/2021,Portland Trail Blazers,Boston Celtics,-0.581246,201.745,23
+4/14/2021,Charlotte Hornets,Cleveland Cavaliers,6.92836366,198.7697,22.52548
+4/14/2021,Philadelphia 76ers,Brooklyn Nets,5.90871672,195.8936,24.54702
+4/14/2021,Toronto Raptors,San Antonio Spurs,3.23588614,212.4544,22.11904
+4/14/2021,Detroit Pistons,Los Angeles Clippers,0.97626887,247.2436,19.80846
+4/14/2021,Chicago Bulls,Orlando Magic,-4.206793,180.4537,19.63929
+4/14/2021,Minnesota Timberwolves,Milwaukee Bucks,-4.7808427,210.7231,19.10408
+4/14/2021,New Orleans Pelicans,New York Knicks,13.3107197,249.451,22.45197
+4/14/2021,Houston Rockets,Indiana Pacers,6.4939625,210.6722,18.0321
+4/14/2021,Oklahoma City Thunder,Golden State Warriors,4.92193179,216.7547,26.77257
+44300,Memphis Grizzlies,Dallas Mavericks,-15.388707,221.125,17.70109
+44300,Denver Nuggets,Miami Heat,6.70706951,210.8998,22.73992
+44300,Sacramento Kings,Washington Wizards,3.85952712,222.8126,16.37824
+44301,Atlanta Hawks,Milwaukee Bucks,-14.532049,204.0399,16.34994
+44301,Cleveland Cavaliers,Golden State Warriors,-1.5179906,189.3937,15.83081
+44301,Los Angeles Lakers,Boston Celtics,3.48976649,205.5876,20.26146
+44301,Phoenix Suns,Sacramento Kings,-0.1206475,211.5838,20.40815
+44302,Utah Jazz,Indiana Pacers,7.0386952,216.2317,21.10918
+44302,Detroit Pistons,Oklahoma City Thunder,-4.4160296,207.5621,19.20606
+44302,Philadelphia 76ers,Los Angeles Clippers,4.51614457,227.6362,21.01515
+44302,Washington Wizards,New Orleans Pelicans,2.22710706,250.2701,17.56117
+44302,Brooklyn Nets,Charlotte Hornets,1.94230708,226.741,19.78053
+44302,Toronto Raptors,Orlando Magic,7.10511046,246.2137,20.62122
+44302,Chicago Bulls,Memphis Grizzlies,-1.7651338,229.165,19.93982
+44302,Houston Rockets,Denver Nuggets,3.07755678,208.5712,20.15
+44302,Minnesota Timberwolves,Miami Heat,7.50992857,240.9372,14.43298
+44302,San Antonio Spurs,Portland Trail Blazers,3.48636824,231.7212,14.51427
+44302,Dallas Mavericks,New York Knicks,6.79361665,207.0493,19.89674
+44303,Los Angeles Lakers,Utah Jazz,10.9808389,222.0004,16.10326
+44303,Washington Wizards,Detroit Pistons,2.11876092,218.0278,22.66154
+44303,Chicago Bulls,Cleveland Cavaliers,-0.003513,214.0283,17.51627
+44303,Boston Celtics,Golden State Warriors,12.1189501,216.8234,19.20263
+44303,Milwaukee Bucks,Memphis Grizzlies,6.63220563,208.9173,21.54915
+44303,Phoenix Suns,San Antonio Spurs,-4.3792147,211.2635,18.07041
+44304,Atlanta Hawks,Indiana Pacers,-1.6146811,210.2839,19.88873
+44304,New York Knicks,New Orleans Pelicans,-1.9841647,222.1637,23.96012
+44304,Miami Heat,Brooklyn Nets,9.9687868,219.2984,22.4417
+44304,Charlotte Hornets,Portland Trail Blazers,0.62436949,203.4582,20.16782
+44304,Orlando Magic,Houston Rockets,-6.2151474,207.5725,16.34319
+44304,Toronto Raptors,Oklahoma City Thunder,7.44922222,218.4836,24.19844
+44304,Dallas Mavericks,Sacramento Kings,6.24781402,215.8376,19.68673
+44304,Los Angeles Clippers,Minnesota Timberwolves,8.73894646,217.2684,23.10947
+44305,Detroit Pistons,Cleveland Cavaliers,-0.6039782,215.7382,21.2038
+44305,Boston Celtics,Chicago Bulls,8.80798696,210.4783,18.10854
+44305,Philadelphia 76ers,Golden State Warriors,13.4137271,207.8365,23.2997
+44305,Indiana Pacers,San Antonio Spurs,0.39124003,204.8374,16.18724
+44305,Miami Heat,Houston Rockets,10.6548511,211.8264,15.57977
+44305,Washington Wizards,Oklahoma City Thunder,-9.5436276,216.3826,15.38777
+44305,Milwaukee Bucks,Phoenix Suns,8.28456727,223.8946,18.43698
+44305,Denver Nuggets,Memphis Grizzlies,8.68004217,212.8476,14.56689
+44305,Los Angeles Lakers,Utah Jazz,10.9808389,219.8374,20.69891
+44306,Atlanta Hawks,Orlando Magic,-1.0961395,193.8275,19.24407
+44306,New York Knicks,Charlotte Hornets,-3.1915529,194.7386,19.4486
+44306,New Orleans Pelicans,Brooklyn Nets,-7.0222686,210.8375,21.04153
+44306,Portland Trail Blazers,Los Angeles Clippers,2.11340784,199.2785,25.05278
+44306,Sacramento Kings,Minnesota Timberwolves,-1.6528213,180.8275,23.51211
+44307,Cleveland Cavaliers,Chicago Bulls,-4.3977758,210.7385,19.02299
+44307,Indiana Pacers,Oklahoma City Thunder,12.9973974,187.2846,24.00295
+44307,Philadelphia 76ers,Phoenix Suns,9.6835169,194.7582,25.93278
+44307,Toronto Raptors,Brooklyn Nets,7.96099104,207.3764,26.47639
+44307,Washington Wizards,Golden State Warriors,3.65083693,210.8275,17.01234
+44307,New York Knicks,Atlanta Hawks,1.10495496,217.6285,19.49935
+44307,Houston Rockets,Utah Jazz,4.38580314,190.947,14.88184
+44307,Dallas Mavericks,Detroit Pistons,6.9876313,213.7284,9.60648
+44307,San Antonio Spurs,Miami Heat,2.00938848,217.7688,15.47548
+44307,Los Angeles Clippers,Memphis Grizzlies,6.28069185,215.9374,16.85049
+44307,Portland Trail Blazers,Denver Nuggets,-19.382313,213.7284,16.90226
+44307,Sacramento Kings,Minnesota Timberwolves,-1.6528213,209.7285,13.77178
+44308,Boston Celtics,Phoenix Suns,5.68357846,205.8365,17.39686
+44308,Orlando Magic,New Orleans Pelicans,-0.6737486,211.7368,11.93076
+44308,Milwaukee Bucks,Philadelphia 76ers,9.25256078,198.2785,16.67238
+44308,San Antonio Spurs,Detroit Pistons,5.51091775,183.7285,20.06273
+44308,Chicago Bulls,Charlotte Hornets,-1.8260942,220.7495,16.79118
+44308,Dallas Mavericks,Los Angeles Lakers,-4.9842795,219.6285,17.47931
+44309,Atlanta Hawks,Miami Heat,-4.6254594,211.7285,18.76908
+44309,Brooklyn Nets,Boston Celtics,3.40880463,199.6274,22.93568
+44309,Charlotte Hornets,Cleveland Cavaliers,6.92836366,210.7285,24.96202
+44309,Houston Rockets,Los Angeles Clippers,3.22910644,217.7284,19.98488
+44309,Oklahoma City Thunder,Washington Wizards,9.27632687,215.6942,19.58304
+44309,Golden State Warriors,Denver Nuggets,-3.8245939,202.6853,16.74395
+44309,Portland Trail Blazers,Memphis Grizzlies,6.29759151,208.6894,22.12347
+44310,New York Knicks,Toronto Raptors,-10.466108,189.7785,21.56465
+44310,Milwaukee Bucks,Philadelphia 76ers,9.25256078,194.7583,18.82145
+44310,Indiana Pacers,Detroit Pistons,9.78685394,211.6956,19.26133
+44310,Miami Heat,Chicago Bulls,11.7316958,219.6583,17.52443
+44310,New Orleans Pelicans,San Antonio Spurs,0.54766646,225.7853,15.82991
+44310,Dallas Mavericks,Los Angeles Lakers,-4.9842795,218.6963,16.56287
+44310,Utah Jazz,Minnesota Timberwolves,3.09828189,197.7953,17.96003
+44310,Denver Nuggets,Houston Rockets,2.82272892,201.7953,16.58069
+44311,Charlotte Hornets,Boston Celtics,-6.7473802,218.8953,20.04682
+44311,Brooklyn Nets,Phoenix Suns,-0.4472617,184.8368,19.60325
+44311,Portland Trail Blazers,Memphis Grizzlies,6.29759151,232.8201,21.50954
+44311,Washington Wizards,Cleveland Cavaliers,3.09845992,224.0417,24.29968
+44311,Atlanta Hawks,Milwaukee Bucks,-14.532049,246.6044,22.62447
+44311,Orlando Magic,Indiana Pacers,-2.0003628,208.8877,23.58638
+44311,Golden State Warriors,Sacramento Kings,10.4531958,233.3232,21.58142
+44312,Detroit Pistons,Atlanta Hawks,3.04396958,196.5021,23.65701
+44312,Orlando Magic,Los Angeles Lakers,-6.844213,209.2678,21.55071
+44312,Philadelphia 76ers,Oklahoma City Thunder,10.0950902,199.6863,19.41906
+44312,Washington Wizards,San Antonio Spurs,2.82126495,199.6301,17.67256
+44312,New York Knicks,Phoenix Suns,-3.0945213,222.7197,16.6845
+44312,Toronto Raptors,Cleveland Cavaliers,9.10129017,200.2113,19.87529
+44312,Miami Heat,Chicago Bulls,11.7316958,237.9392,20.19176
+44312,Minnesota Timberwolves,Utah Jazz,-3.933978,231.2605,20.07671
+44312,New Orleans Pelicans,Los Angeles Clippers,6.03384832,198.936,12.08012
+44312,Denver Nuggets,Memphis Grizzlies,8.68004217,211.1097,21.53404
+44312,Sacramento Kings,Dallas Mavericks,-4.5612704,173.7257,18.00964
+44313,Boston Celtics,Oklahoma City Thunder,4.58061726,239.1418,21.17566
+44313,Charlotte Hornets,Milwaukee Bucks,0.99162766,200.6425,22.16905
+44313,Indiana Pacers,Portland Trail Blazers,6.44134338,229.2484,20.16192
+44313,Toronto Raptors,Brooklyn Nets,7.96099104,217.6394,16.94969
+44313,Houston Rockets,Minnesota Timberwolves,9.5700211,194.2589,14.92167
+44313,Golden State Warriors,Dallas Mavericks,-5.4499945,229.4096,16.63772
+44314,Cleveland Cavaliers,Orlando Magic,-1.0056719,218.3017,14.71066
+44314,Philadelphia 76ers,Atlanta Hawks,10.332724,207.6885,16.46241
+44314,Washington Wizards,Los Angeles Lakers,3.66943732,198.3495,16.75286
+44314,Boston Celtics,Charlotte Hornets,10.2359877,217.3199,15.51467
+44314,New York Knicks,Chicago Bulls,-1.0825604,186.1466,20.13689
+44314,Miami Heat,San Antonio Spurs,8.38479821,225.6057,21.63396
+44314,Memphis Grizzlies,Portland Trail Blazers,3.39734605,223.434,20.22915
+44314,Denver Nuggets,New Orleans Pelicans,5.5128716,208.083,21.52145
+44314,Phoenix Suns,Los Angeles Clippers,-7.4959406,273.6216,18.44436
+44314,Sacramento Kings,Utah Jazz,-6.9212178,207.5256,22.30921
+44315,Detroit Pistons,Dallas Mavericks,-6.4908187,194.9784,15.72498
+44315,Indiana Pacers,Brooklyn Nets,1.76785341,246.7325,16.7272
+44315,Houston Rockets,Milwaukee Bucks,0.927397,220.6083,16.20249
+44315,Minnesota Timberwolves,Golden State Warriors,1.10782039,205.7629,15.76537
+44315,Oklahoma City Thunder,New Orleans Pelicans,5.31521435,255.0981,19.40404
+44315,Denver Nuggets,Toronto Raptors,1.44727623,205.2278,17.4346
+44316,Philadelphia 76ers,Atlanta Hawks,10.332724,237.2911,15.91404
+44316,Boston Celtics,San Antonio Spurs,6.40803664,212.3865,16.55226
+44316,Cleveland Cavaliers,Washington Wizards,-2.0830176,236.5817,19.5962
+44316,Brooklyn Nets,Portland Trail Blazers,1.35625066,216.3677,16.33505
+44316,Memphis Grizzlies,Orlando Magic,4.06313578,218.3219,21.7286
+44316,Chicago Bulls,Milwaukee Bucks,-10.960172,238.8088,22.40561
+44316,Phoenix Suns,Utah Jazz,-3.01628,215.6909,19.2593
+44316,Los Angeles Lakers,Sacramento Kings,9.91339468,224.4487,22.15165

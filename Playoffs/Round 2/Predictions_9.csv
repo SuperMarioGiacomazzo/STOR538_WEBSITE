@@ -1,0 +1,168 @@
+Game_Date,Home Team,Away Team,Spread,Total,OREB
+4/10/2021,Brooklyn Nets,Los Angeles Lakers,5.892931,213.3131,19.3225
+4/10/2021,Oklahoma City Thunder,Philadelphia 76ers,-3.29599,210.4917,19.60786
+4/10/2021,Utah Jazz,Sacramento Kings,6.185569,201.811,21.03658
+4/10/2021,Golden State Warriors,Houston Rockets,1.934458,192.7486,19.24002
+4/10/2021,Phoenix Suns,Washington Wizards,7.532578,208.2531,19.24002
+4/10/2021,Portland Trail Blazers,Detroit Pistons,6.342151,202.1663,19.24002
+4/11/2021,Charlotte Hornets,Atlanta Hawks,1.840783,215.42,20.5071
+4/11/2021,Denver Nuggets,Boston Celtics,5.916791,212.9231,21.53283
+4/11/2021,Cleveland Cavaliers,New Orleans Pelicans,-3.37259,196.9065,21.23593
+4/11/2021,Orlando Magic,Milwaukee Bucks,-4.09606,188.1678,19.60786
+4/11/2021,New York Knicks,Toronto Raptors,0.376501,190.9595,19.24002
+4/11/2021,Dallas Mavericks,San Antonio Spurs,5.823955,201.174,19.24002
+4/11/2021,Memphis Grizzlies,Indiana Pacers,3.89216,188.7809,21.03658
+4/11/2021,Minnesota Timberwolves,Chicago Bulls,-0.48703,220.8411,19.24002
+4/11/2021,Los Angeles Clippers,Detroit Pistons,8.89619,213.181,19.24002
+4/11/2021,Portland Trail Blazers,Miami Heat,5.260782,188.5809,19.24002
+4/12/2021,New York Knicks,Los Angeles Lakers,-0.02782,192.8624,19.3225
+4/12/2021,Orlando Magic,San Antonio Spurs,-1.70522,180.9339,19.24002
+4/12/2021,Minnesota Timberwolves,Brooklyn Nets,-3.46476,223.5148,19.24002
+4/12/2021,Dallas Mavericks,Philadelphia 76ers,4.921543,206.9073,19.60786
+4/12/2021,Memphis Grizzlies,Chicago Bulls,5.131102,185.2696,21.03658
+4/12/2021,New Orleans Pelicans,Sacramento Kings,6.32111,217.5137,21.11521
+4/12/2021,Utah Jazz,Washington Wizards,8.239903,220.8741,21.03658
+4/12/2021,Golden State Warriors,Denver Nuggets,-1.39317,200.8857,19.60786
+4/12/2021,Phoenix Suns,Houston Rockets,7.420333,216.0291,19.24002
+4/13/2021,Indiana Pacers,Los Angeles Clippers,1.175508,188.1589,19.3225
+4/13/2021,Toronto Raptors,Atlanta Hawks,3.720325,194.5754,19.60786
+4/13/2021,Charlotte Hornets,Los Angeles Lakers,0.27506,213.7243,20.16801
+4/13/2021,Utah Jazz,Oklahoma City Thunder,10.33612,216.8502,21.03658
+4/13/2021,Phoenix Suns,Miami Heat,7.284524,210.6325,19.24002
+4/13/2021,Portland Trail Blazers,Boston Celtics,2.564773,205.9095,19.60786
+4/14/2021,Charlotte Hornets,Cleveland Cavaliers,2.422969,210.0193,20.43768
+4/14/2021,Philadelphia 76ers,Brooklyn Nets,1.948018,198.762,20.29253
+4/14/2021,Toronto Raptors,San Antonio Spurs,2.839782,190.8811,19.24002
+4/14/2021,Detroit Pistons,Los Angeles Clippers,-2.73209,203.5454,19.3225
+4/14/2021,Chicago Bulls,Orlando Magic,7.447677,193.4744,19.24002
+4/14/2021,Minnesota Timberwolves,Milwaukee Bucks,-2.84226,212.5289,19.60786
+4/14/2021,New Orleans Pelicans,New York Knicks,9.279722,202.9028,21.11521
+4/14/2021,Houston Rockets,Indiana Pacers,-1.14184,190.3642,19.24002
+4/14/2021,Oklahoma City Thunder,Golden State Warriors,-1.45232,217.0987,19.24002
+4/14/2021,Memphis Grizzlies,Dallas Mavericks,3.754595,180.1165,21.03658
+4/14/2021,Denver Nuggets,Miami Heat,8.612801,191.005,21.03658
+4/14/2021,Sacramento Kings,Washington Wizards,5.903056,209.8365,19.24002
+4/15/2021,Atlanta Hawks,Milwaukee Bucks,0.749283,201.9617,21.16915
+4/15/2021,Cleveland Cavaliers,Golden State Warriors,0.92287,198.9142,20.29253
+4/15/2021,Los Angeles Lakers,Boston Celtics,2.482911,192.2917,19.60786
+4/15/2021,Phoenix Suns,Sacramento Kings,5.478244,207.7198,19.3225
+4/16/2021,Utah Jazz,Indiana Pacers,5.590231,220.9937,21.03658
+4/16/2021,Detroit Pistons,Oklahoma City Thunder,3.545218,201.0369,19.24002
+4/16/2021,Philadelphia 76ers,Los Angeles Clippers,2.155397,198.3182,20.29253
+4/16/2021,Washington Wizards,New Orleans Pelicans,-3.06388,225.8437,19.60786
+4/16/2021,Brooklyn Nets,Charlotte Hornets,8.346213,220.5102,19.60786
+4/16/2021,Toronto Raptors,Orlando Magic,7.488117,183.9301,19.24002
+4/16/2021,Chicago Bulls,Memphis Grizzlies,1.784752,192.1514,19.60786
+4/16/2021,Houston Rockets,Denver Nuggets,-1.93204,189.1241,19.60786
+4/16/2021,Minnesota Timberwolves,Miami Heat,0.675649,195.8866,19.24002
+4/16/2021,San Antonio Spurs,Portland Trail Blazers,3.667689,182.2831,19.3225
+4/16/2021,Dallas Mavericks,New York Knicks,8.103354,204.0741,19.3225
+4/17/2021,Los Angeles Lakers,Utah Jazz,1.607116,194.2626,19.60786
+4/17/2021,Washington Wizards,Detroit Pistons,2.498761,223.9015,19.24002
+4/17/2021,Chicago Bulls,Cleveland Cavaliers,4.262071,198.9266,19.60786
+4/17/2021,Boston Celtics,Golden State Warriors,5.349339,213.8538,21.03658
+4/17/2021,Milwaukee Bucks,Memphis Grizzlies,5.501702,193.8298,19.60786
+4/17/2021,Phoenix Suns,San Antonio Spurs,6.157456,210.68,19.24002
+4/18/2021,Atlanta Hawks,Indiana Pacers,1.865572,207.0646,21.03658
+4/18/2021,New York Knicks,New Orleans Pelicans,-2.69684,195.1286,19.60786
+4/18/2021,Miami Heat,Brooklyn Nets,-1.08007,187.3937,19.24002
+4/18/2021,Charlotte Hornets,Portland Trail Blazers,1.403619,203.0007,20.16801
+4/18/2021,Orlando Magic,Houston Rockets,-0.44234,183.067,19.24002
+4/18/2021,Toronto Raptors,Oklahoma City Thunder,6.311126,192.6776,19.24002
+4/18/2021,Dallas Mavericks,Sacramento Kings,5.144743,202.4416,19.3225
+4/18/2021,Los Angeles Clippers,Minnesota Timberwolves,9.200914,212.9483,19.24002
+4/19/2021,Detroit Pistons,Cleveland Cavaliers,1.536602,206.0275,19.60786
+4/19/2021,Boston Celtics,Chicago Bulls,4.37248,216.5218,21.03658
+4/19/2021,Philadelphia 76ers,Golden State Warriors,5.902609,190.429,20.29253
+4/19/2021,Indiana Pacers,San Antonio Spurs,3.98147,194.2794,19.24002
+4/19/2021,Miami Heat,Houston Rockets,3.19615,181.4407,19.24002
+4/19/2021,Washington Wizards,Oklahoma City Thunder,3.761669,220.1384,19.24002
+4/19/2021,Milwaukee Bucks,Phoenix Suns,3.770805,208.9412,19.24002
+4/19/2021,Denver Nuggets,Memphis Grizzlies,6.471142,192.5073,21.31912
+4/19/2021,Los Angeles Lakers,Utah Jazz,1.607116,194.2626,19.60786
+4/20/2021,Atlanta Hawks,Orlando Magic,7.788456,198.2852,21.03658
+4/20/2021,New York Knicks,Charlotte Hornets,2.425463,208.9384,19.60786
+4/20/2021,New Orleans Pelicans,Brooklyn Nets,3.986983,222.9731,21.11521
+4/20/2021,Portland Trail Blazers,Los Angeles Clippers,1.327753,201.0623,19.3225
+4/20/2021,Sacramento Kings,Minnesota Timberwolves,7.041095,221.3716,19.24002
+4/21/2021,Cleveland Cavaliers,Chicago Bulls,-0.05399,203.458,20.29253
+4/21/2021,Indiana Pacers,Oklahoma City Thunder,7.452814,198.2156,19.24002
+4/21/2021,Philadelphia 76ers,Phoenix Suns,2.21587,203.9093,20.29253
+4/21/2021,Toronto Raptors,Brooklyn Nets,-0.17356,201.2165,19.24002
+4/21/2021,Washington Wizards,Golden State Warriors,1.231576,223.2091,19.24002
+4/21/2021,New York Knicks,Atlanta Hawks,1.537904,197.9031,19.60786
+4/21/2021,Houston Rockets,Utah Jazz,-2.31203,193.0817,19.60786
+4/21/2021,Dallas Mavericks,Detroit Pistons,8.032391,217.0087,19.24002
+4/21/2021,San Antonio Spurs,Miami Heat,4.351378,182.8291,19.24002
+4/21/2021,Los Angeles Clippers,Memphis Grizzlies,5.673162,215.3365,19.60786
+4/21/2021,Portland Trail Blazers,Denver Nuggets,2.068964,203.7723,19.60786
+4/21/2021,Sacramento Kings,Minnesota Timberwolves,7.041095,221.3716,19.24002
+4/22/2021,Boston Celtics,Phoenix Suns,1.6626,215.0777,21.03658
+4/22/2021,Orlando Magic,New Orleans Pelicans,-5.05943,188.0281,19.60786
+4/22/2021,Milwaukee Bucks,Philadelphia 76ers,5.613881,203.6025,19.60786
+4/22/2021,San Antonio Spurs,Detroit Pistons,5.432747,191.8553,19.24002
+4/22/2021,Chicago Bulls,Charlotte Hornets,4.567445,211.4092,19.60786
+4/22/2021,Dallas Mavericks,Los Angeles Lakers,5.138775,205.2499,19.3225
+4/23/2021,Atlanta Hawks,Miami Heat,4.267189,199.9437,21.03658
+4/23/2021,Brooklyn Nets,Boston Celtics,5.009169,226.1371,19.60786
+4/23/2021,Charlotte Hornets,Cleveland Cavaliers,2.422969,210.0193,20.43768
+4/23/2021,Houston Rockets,Los Angeles Clippers,-2.67325,187.9614,19.3225
+4/23/2021,Oklahoma City Thunder,Washington Wizards,-1.01845,210.787,19.24002
+4/23/2021,Golden State Warriors,Denver Nuggets,-1.39317,200.8857,19.60786
+4/23/2021,Portland Trail Blazers,Memphis Grizzlies,3.119124,209.2665,19.60786
+4/24/2021,New York Knicks,Toronto Raptors,0.376501,190.9595,19.24002
+4/24/2021,Milwaukee Bucks,Philadelphia 76ers,5.613881,203.6025,19.60786
+4/24/2021,Indiana Pacers,Detroit Pistons,6.189906,198.8385,19.24002
+4/24/2021,Miami Heat,Chicago Bulls,1.897665,181.8005,19.24002
+4/24/2021,New Orleans Pelicans,San Antonio Spurs,7.000322,205.6927,21.11521
+4/24/2021,Dallas Mavericks,Los Angeles Lakers,5.138775,205.2499,19.3225
+4/24/2021,Utah Jazz,Minnesota Timberwolves,9.377941,217.1791,21.03658
+4/24/2021,Denver Nuggets,Houston Rockets,8.748611,202.544,21.03658
+4/25/2021,Charlotte Hornets,Boston Celtics,-0.6087,211.8764,20.5071
+4/25/2021,Brooklyn Nets,Phoenix Suns,3.832623,219.3147,19.24002
+4/25/2021,Portland Trail Blazers,Memphis Grizzlies,3.119124,209.2665,19.60786
+4/25/2021,Washington Wizards,Cleveland Cavaliers,1.753053,206.4099,19.60786
+4/25/2021,Atlanta Hawks,Milwaukee Bucks,0.749283,201.9617,21.16915
+4/25/2021,Orlando Magic,Indiana Pacers,-2.97977,188.1039,19.24002
+4/25/2021,Golden State Warriors,Sacramento Kings,-0.00763,209.4524,19.3225
+4/26/2021,Detroit Pistons,Atlanta Hawks,0.954416,208.9607,19.60786
+4/26/2021,Orlando Magic,Los Angeles Lakers,-2.3904,185.7883,19.3225
+4/26/2021,Philadelphia 76ers,Oklahoma City Thunder,8.432702,189.5782,20.29253
+4/26/2021,Washington Wizards,San Antonio Spurs,0.290324,206.483,19.24002
+4/26/2021,New York Knicks,Phoenix Suns,-2.08813,207.6865,19.24002
+4/26/2021,Toronto Raptors,Cleveland Cavaliers,4.30251,187.7813,19.60786
+4/26/2021,Miami Heat,Chicago Bulls,1.897665,181.8005,19.24002
+4/26/2021,Minnesota Timberwolves,Utah Jazz,-2.89616,211.4696,19.60786
+4/26/2021,New Orleans Pelicans,Los Angeles Clippers,4.194361,211.7193,21.11521
+4/26/2021,Denver Nuggets,Memphis Grizzlies,6.471142,192.5073,21.31912
+4/26/2021,Sacramento Kings,Dallas Mavericks,3.115819,210.8766,19.24002
+4/27/2021,Boston Celtics,Oklahoma City Thunder,7.879432,213.8943,21.03658
+4/27/2021,Charlotte Hornets,Milwaukee Bucks,-1.4306,217.7728,20.43768
+4/27/2021,Indiana Pacers,Portland Trail Blazers,4.424848,199.3948,19.3225
+4/27/2021,Toronto Raptors,Brooklyn Nets,-0.17356,201.2165,19.24002
+4/27/2021,Houston Rockets,Minnesota Timberwolves,2.645872,191.7258,19.24002
+4/27/2021,Golden State Warriors,Dallas Mavericks,-0.74053,210.7393,19.24002
+4/28/2021,Cleveland Cavaliers,Orlando Magic,4.629953,187.3629,20.29253
+4/28/2021,Philadelphia 76ers,Atlanta Hawks,5.841901,199.4283,20.63162
+4/28/2021,Washington Wizards,Los Angeles Lakers,-0.39486,205.0602,19.3225
+4/28/2021,Boston Celtics,Charlotte Hornets,6.17619,215.9564,21.16915
+4/28/2021,New York Knicks,Chicago Bulls,0.621754,204.4344,19.24002
+4/28/2021,Miami Heat,San Antonio Spurs,1.933272,186.342,19.24002
+4/28/2021,Memphis Grizzlies,Portland Trail Blazers,5.610088,188.3158,21.03658
+4/28/2021,Denver Nuggets,New Orleans Pelicans,4.131528,204.7666,22.34202
+4/28/2021,Phoenix Suns,Los Angeles Clippers,3.351495,215.1764,19.3225
+4/28/2021,Sacramento Kings,Utah Jazz,2.083197,216.683,19.60786
+4/29/2021,Detroit Pistons,Dallas Mavericks,-1.33824,203.8762,19.24002
+4/29/2021,Indiana Pacers,Brooklyn Nets,0.96813,207.7484,19.24002
+4/29/2021,Houston Rockets,Milwaukee Bucks,-2.25813,193.5149,19.60786
+4/29/2021,Minnesota Timberwolves,Golden State Warriors,0.489832,221.176,19.24002
+4/29/2021,Oklahoma City Thunder,New Orleans Pelicans,-5.74778,209.2732,19.60786
+4/29/2021,Denver Nuggets,Toronto Raptors,7.204873,205.73,21.03658
+4/30/2021,Philadelphia 76ers,Atlanta Hawks,5.841901,199.4283,20.63162
+4/30/2021,Boston Celtics,San Antonio Spurs,4.408088,197.9959,21.03658
+4/30/2021,Cleveland Cavaliers,Washington Wizards,1.356741,198.7808,20.29253
+4/30/2021,Brooklyn Nets,Portland Trail Blazers,7.021489,220.3716,19.3225
+4/30/2021,Memphis Grizzlies,Orlando Magic,9.815044,181.4742,21.03658
+4/30/2021,Chicago Bulls,Milwaukee Bucks,0.408504,201.3794,19.60786
+4/30/2021,Phoenix Suns,Utah Jazz,3.712719,231.4207,19.60786
+4/30/2021,Los Angeles Lakers,Sacramento Kings,3.372641,193.9175,19.3225
