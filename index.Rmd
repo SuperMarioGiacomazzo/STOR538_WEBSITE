@@ -673,7 +673,7 @@ FINAL.RESULT=tibble(Group=1:17,`Spread RMSE`=round(SPREAD.RESULT,2),`Spread Rank
                     `OREB RMSE`=round(OREB.RESULT,2),`OREB Rank`=rank(OREB.RESULT))
 
 datatable(FINAL.RESULT,class="display",options = list(scrollX=F,
-            columnDefs = list(list(className = 'dt-center', targets = 0:8))),rownames=F)
+            columnDefs = list(list(className = 'dt-center', targets = 0:6))),rownames=F)
 
 write.csv(SPREAD,"SPREAD.csv")
 write.csv(TOTAL,"TOTAL.csv")
