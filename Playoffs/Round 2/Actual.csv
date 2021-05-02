@@ -136,33 +136,33 @@ DATE,Home Team,Away Team,Spread,Total,        OREB
 4/26/2021,New Orleans Pelicans,Los Angeles Clippers,17,223,21
 4/26/2021,Denver Nuggets,Memphis Grizzlies,24,216,14
 4/26/2021,Sacramento Kings,Dallas Mavericks,7,219,25
-4/27/2021,Boston Celtics,Oklahoma City Thunder,,,
-4/27/2021,Charlotte Hornets,Milwaukee Bucks,,,
-4/27/2021,Indiana Pacers,Portland Trail Blazers,,,
-4/27/2021,Toronto Raptors,Brooklyn Nets,,,
-4/27/2021,Houston Rockets,Minnesota Timberwolves,,,
-4/27/2021,Golden State Warriors,Dallas Mavericks,,,
-4/28/2021,Cleveland Cavaliers,Orlando Magic,,,
-4/28/2021,Philadelphia 76ers,Atlanta Hawks,,,
-4/28/2021,Washington Wizards,Los Angeles Lakers,,,
-4/28/2021,Boston Celtics,Charlotte Hornets,,,
-4/28/2021,New York Knicks,Chicago Bulls,,,
-4/28/2021,Miami Heat,San Antonio Spurs,,,
-4/28/2021,Memphis Grizzlies,Portland Trail Blazers,,,
-4/28/2021,Denver Nuggets,New Orleans Pelicans,,,
-4/28/2021,Phoenix Suns,Los Angeles Clippers,,,
-4/28/2021,Sacramento Kings,Utah Jazz,,,
-4/29/2021,Detroit Pistons,Dallas Mavericks,,,
-4/29/2021,Indiana Pacers,Brooklyn Nets,,,
-4/29/2021,Houston Rockets,Milwaukee Bucks,,,
-4/29/2021,Minnesota Timberwolves,Golden State Warriors,,,
-4/29/2021,Oklahoma City Thunder,New Orleans Pelicans,,,
-4/29/2021,Denver Nuggets,Toronto Raptors,,,
-4/30/2021,Philadelphia 76ers,Atlanta Hawks,,,
-4/30/2021,Boston Celtics,San Antonio Spurs,,,
-4/30/2021,Cleveland Cavaliers,Washington Wizards,,,
-4/30/2021,Brooklyn Nets,Portland Trail Blazers,,,
-4/30/2021,Memphis Grizzlies,Orlando Magic,,,
-4/30/2021,Chicago Bulls,Milwaukee Bucks,,,
-4/30/2021,Phoenix Suns,Utah Jazz,,,
-4/30/2021,Los Angeles Lakers,Sacramento Kings,,,
+4/27/2021,Boston Celtics,Oklahoma City Thunder,-4,234,18
+4/27/2021,Charlotte Hornets,Milwaukee Bucks,-10,218,16
+4/27/2021,Indiana Pacers,Portland Trail Blazers,-21,245,27
+4/27/2021,Toronto Raptors,Brooklyn Nets,-13,219,22
+4/27/2021,Houston Rockets,Minnesota Timberwolves,-7,221,20
+4/27/2021,Golden State Warriors,Dallas Mavericks,-30,236,19
+4/28/2021,Cleveland Cavaliers,Orlando Magic,-5,213,22
+4/28/2021,Philadelphia 76ers,Atlanta Hawks,44,210,28
+4/28/2021,Washington Wizards,Los Angeles Lakers,9,223,23
+4/28/2021,Boston Celtics,Charlotte Hornets,9,231,30
+4/28/2021,New York Knicks,Chicago Bulls,19,207,16
+4/28/2021,Miami Heat,San Antonio Spurs,5,227,17
+4/28/2021,Memphis Grizzlies,Portland Trail Blazers,-21,239,19
+4/28/2021,Denver Nuggets,New Orleans Pelicans,2,226,9
+4/28/2021,Phoenix Suns,Los Angeles Clippers,8,210,20
+4/28/2021,Sacramento Kings,Utah Jazz,-49,259,11
+4/29/2021,Detroit Pistons,Dallas Mavericks,-10,220,11
+4/29/2021,Indiana Pacers,Brooklyn Nets,-17,243,15
+4/29/2021,Houston Rockets,Milwaukee Bucks,7,279,24
+4/29/2021,Minnesota Timberwolves,Golden State Warriors,12,240,20
+4/29/2021,Oklahoma City Thunder,New Orleans Pelicans,-14,204,27
+4/29/2021,Denver Nuggets,Toronto Raptors,10,232,21
+4/30/2021,Philadelphia 76ers,Atlanta Hawks,22,230,30
+4/30/2021,Boston Celtics,San Antonio Spurs,3,283,25
+4/30/2021,Cleveland Cavaliers,Washington Wizards,-29,215,25
+4/30/2021,Brooklyn Nets,Portland Trail Blazers,-19,237,19
+4/30/2021,Memphis Grizzlies,Orlando Magic,17,167,27
+4/30/2021,Chicago Bulls,Milwaukee Bucks,-10,206,22
+4/30/2021,Phoenix Suns,Utah Jazz,21,221,16
+4/30/2021,Los Angeles Lakers,Sacramento Kings,-4,216,22
