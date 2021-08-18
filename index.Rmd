@@ -89,7 +89,7 @@ The statistical programming language R will be used to generate visualizations a
 
 - Referee: **[Matt Johnson](https://mattymo18.netlify.app/)**
 
-- Syllabus: **[Section 1](https://drive.google.com/file/d/1MGXcioW0wNm-DE9wufoP0M3jxR8RJ7Yd/view?usp=sharing)**
+- Syllabus: **[Section 1](Syllabi\STOR 538 Section 1 Syllabus.pdf)**
 
 - Description: Survey the application of statistics and mathematics to the sports industry exploring the history of analytics across various sports, understanding the advantages of sports analytics for both on-field performance and off-field business decisions, and examining current research to encourage creative thought of future development.
 
