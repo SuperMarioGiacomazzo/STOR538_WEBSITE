@@ -129,6 +129,22 @@ The statistical programming language R will be used to generate visualizations a
 
 - Sports Math: An Introductory Course in the Mathematics of Sports Science and Sports Analytics, Minton, 2017, [ISBN:9781498706261](https://www.amazon.com/Sports-Math-Introductory-Mathematics-Analytics-ebook/dp/B01N6Y6EVT/ref=sr_1_1?keywords=9781498706261&qid=1567565121&s=gateway&sr=8-1) (SM)
 
+## Textbooks in R
+
+- [A first Course in Statistical Programming with R](Textbooks in R/A First Course in Statistical Programming with R.pdf)
+
+- [An Introduction to Statistical Learning](Textbooks in R/An Introduction to Statistical Learning.pdf)
+
+- [Machine Learning with R](Textbooks in R/Machine Learning with R.pdf)
+
+- [R for Data Science](Textbooks in R/R for Data Science- Import, Tidy, Transform, Visualize, and Model Data.pdf)
+
+- [R Programming for Data Science](Textbooks in R/R Programming for Data Science.pdf)
+
+- [The Art of R Programming](Textbooks in R/The Art of R Programming.pdf)
+
+- [The R Book](Textbooks in R/The R Book.pdf)
+
 
 # **Film Sessions** {.tabset}
 
@@ -137,7 +153,7 @@ The statistical programming language R will be used to generate visualizations a
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
 |AUG 18| Syllabus     | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeUZhibzggxIDcUYNzg42y8EEzNfwVCb3JkSvARvzwfSIT01Q/viewform?usp=sf_link)||
-|AUG 20| Sports Analytics I | [Slides](Slides/Sports Analytics 1/Sports_Analytics_1_Lecture.pdf) |Ch. 1 SPAN, [Web 1](https://sportsshow.net/top-10-most-popular-sports-in-the-world/), [Web 2](https://sportsshow.net/most-popular-sports-in-america/), [Web 3](https://howmuch.net/articles/sports-leagues-by-revenue), [Web 4](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america) |
+|AUG 20| Sports Analytics I | [Slides](Slides/Sports Analytics 1/Sports_Analytics_1_Lecture.pdf) |Ch. 1 SPAN, [Web 1](https://sportsshow.net/top-10-most-popular-sports-in-the-world/), [Web 2](https://sportsshow.net/most-popular-sports-in-america/), [Web 3](https://howmuch.net/articles/sports-leagues-by-revenue), [Web 4](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america), [Web 5](https://apsportseditors.org/others/most-profitable-sports-leagues/) |
 |AUG 23| Sports Analytics II | [Slides](Slides/Sports Analytics 2/Sports_Analytics_2_Lecture.pdf) | Ch. 1-7 SPAN|
 |||| [Web 1a](https://scholarblogs.emory.edu/esma/2016/09/21/a-short-course-on-sports-analytics-part-1/), [Web 1b](https://scholarblogs.emory.edu/esma/2016/09/28/understanding-the-organization-sports-analytics-series-part-2/), [Web 1c](https://scholarblogs.emory.edu/esma/2016/10/04/questioning-the-value-of-analytics-sports-analytics-series-part-3/), [Web 1d](https://scholarblogs.emory.edu/esma/2016/10/27/decision-biases-sports-analytics-series-part-4/), [Web 1e](https://scholarblogs.emory.edu/esma/2016/11/08/moving-towards-modeling-lessons-from-other-arenas-sports-analytics-series-part-5/)|
 |||| [Web 2a](https://scholarblogs.emory.edu/esma/2017/10/08/player-analytics-fundamentals-part-1/), [Web 2b](https://scholarblogs.emory.edu/esma/2017/10/15/player-analytics-fundamentals-part-2-performance-metrics/), [Web 2c](https://scholarblogs.emory.edu/esma/2017/10/27/player-analytics-fundamentals-part-3-metrics-and-experts/), [Web 2d](https://scholarblogs.emory.edu/esma/2017/11/12/player-analytics-fundamentals-part-4-statistical-models/), [Web 2e](https://scholarblogs.emory.edu/esma/2017/11/28/player-analytics-fundamentals-part-5-modeling-102/)|
