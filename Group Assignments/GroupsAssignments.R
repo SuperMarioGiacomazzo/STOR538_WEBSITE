@@ -48,4 +48,4 @@ write_csv(GS.5,path=str_c(getwd(),"/GS5 Group Assignments.csv"))
 C=Group.select.func(Section,980)
 write_csv(C,path=str_c(getwd(),"/C Group Assignments.csv"))
 
-OUT=
+OUT=right_join(GS.1,GS.2,by="Name")
