@@ -579,7 +579,7 @@ Any assignments requiring a deliverable will be submitted via **[Sakai](https://
 
 # **Team Sport**
 
-Many of the assessments in this course will be done in a teams of 4 or 5 playas randomly chosen. For each team-based assignment, you will be given a different team. This will force you to interact with the majority of the class throughout the semester. After each team-based assignment, you will grade the contribution of your teammates on a scale from 0 to 3, and this will contribute to your overall grade for the given assignment. A decent portion of your final grade will be influenced by this. The following link contains all teams alphabetically: **[All Teams](Group Assignments/All Teams.PDF)**
+Many of the assessments in this course will be done in a teams of 4 or 5 playas randomly chosen. For each team-based assignment, you will be given a different team. This will force you to interact with the majority of the class throughout the semester. After each team-based assignment, you will grade the contribution of your teammates on a scale from 0 to 3, and this will contribute to your overall grade for the given assignment. A decent portion of your final grade will be influenced by this. The following link contains all teams alphabetically: **[All Teams](Group Assignments/All Teams.pdf)**
 
 ```{r,echo=F,results=TRUE,message=F}
 library(DT)
