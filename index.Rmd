@@ -562,7 +562,7 @@ Any assignments requiring a deliverable will be submitted via **[Sakai](https://
 | |GS3 (Even: Ch. 8 HSMAS)||||
 |OCT 8 (11:55PM)|||P1||
 |OCT 15 (12:20PM)||RS4|||
-|OCT 22  (12:20PM)|GS4 (Odd: Ch. 13 HSMAS)||||
+|OCT 29  (12:20PM)|GS4 (Odd: Ch. 13 HSMAS)||||
 ||GS4 (EVen: Ch. 15 HSMAS)||||
 |NOV 5 (11:55PM)|||P2||
 |NOV 12 (12:20PM)||RS5|||
