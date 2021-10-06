@@ -3,6 +3,10 @@
 library(nflfastR)
 library(tidyverse)
 
+#Data from Matt's repository
+
+results = read_csv(url("https://raw.githubusercontent.com/mattymo18/STOR-538-P2-2021-Spring/master/Source_Data/game_results.csv"))
+
 #Play-by-Play Data in R
 
 data2010 <- readRDS(url('https://raw.githubusercontent.com/guga31bb/nflfastR-data/master/data/play_by_play_2010.rds'))
