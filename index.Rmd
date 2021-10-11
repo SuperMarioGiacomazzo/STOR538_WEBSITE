@@ -191,7 +191,7 @@ The statistical programming language R will be used to generate visualizations a
 |OCT 22| Fall Brizzeak #SWAG | | |
 |OCT 25| Football V | [Slides](Slides/Football 5/Footballl_5_Lecture.pdf) | Ch. 22 MATH|
 |OCT 27| Football VI | [Slides](Slides/Football 6/Footballl_6_Lecture.pdf) | Ch. 23 MATH, [Web 1](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html), [Web 2](https://plato.stanford.edu/entries/game-theory/), [Web 3](http://archive.advancedfootballanalytics.com/2008/06/game-theory-and-runpass-balance.html) |
-| OCT 29 | [Football VII](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8aab4613-dd2c-44d4-a4af-ad0c01036cb1) | [Slides](Slides/Football 7/Footballl_7_Lecture.pdf)  | Ch. 26-27 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1) |
+| OCT 29 | Football VII | [Slides](Slides/Football 7/Footballl_7_Lecture.pdf)  | Ch. 26-27 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1) |
 |||  | [Article 1](Articles/Football/Football_King.pdf), [Article 2](Articles/Football/Football_MasseyThaler.pdf) |
 |||||
 
