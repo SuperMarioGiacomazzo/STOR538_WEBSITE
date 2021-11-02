@@ -597,14 +597,14 @@ In the table below, you can find your group for each of the specific team-based 
 
 |Due Date  | Assessment | Team | Value Survey |
 |----------|------------|------|--------------|
-| FEB 5 | GS1 | [GS1]() | [Value for GS1](https://docs.google.com/forms/d/e/1FAIpQLSdqPjLn-IrA-hqBUCNHbe8sgf3kxMSPNaLEE2mg_S31LAGuvg/viewform?usp=sf_link) |
-| FEB 19 | GS2 | [GS2]() | [Value for GS2](https://docs.google.com/forms/d/e/1FAIpQLScQ967bd2WRx9nmMDfeoJD5UZZTFN4bPjYwyvXXBGw7ZEQBKA/viewform?usp=sf_link) |
-| MAR 5 | GS3 | [GS3]() | [Value for GS3](https://docs.google.com/forms/d/e/1FAIpQLSeTAEas1kqxGZmJYQ640iX9AQIlgcirVJoxciEnn2UU7WcqAQ/viewform?usp=sf_link) |
-| MAR 12 | P1 | [P1]() | [Value for P1](https://docs.google.com/forms/d/e/1FAIpQLSfWkhtxk3xYYfhyODfufFLfp0bNXX52dke69xGkiTvLvGa3OA/viewform?usp=sf_link) |
-| MAR 26 | GS4 | [GS4]() | [Value for GS4](https://docs.google.com/forms/d/e/1FAIpQLSchVRUxeiKYCfcRBWQ8Y85najkEO0FgPzhNFnYmmwIwWOp7VA/viewform?usp=sf_link) |
-| APR 9 | P2 | [P2]() | [Value for P2](https://docs.google.com/forms/d/e/1FAIpQLSdo_oNG5MHuZb7S7KircBxWWXNEpX0s98cw5k8Gm9X2DYqdWQ/viewform?usp=sf_link) |
-| APR 23 | GS5 | [GS5]() | [Value for GS5](https://docs.google.com/forms/d/e/1FAIpQLSdMncyMUUZZPk10QyFVMqymyQs4iCiqjombEuGP5jzwL3k0lA/viewform?usp=sf_link) |
-| MAY 7 | C| [C]() | [Value for C](https://docs.google.com/forms/d/e/1FAIpQLSf7awVubhnkyh30jW6J-My8xr6xXFcg03r242Ljsxeu8imoGw/viewform?usp=sf_link) |
+| SEP 3 | GS1 | [GS1]() | [Value for GS1](https://docs.google.com/forms/d/e/1FAIpQLSdqPjLn-IrA-hqBUCNHbe8sgf3kxMSPNaLEE2mg_S31LAGuvg/viewform?usp=sf_link) |
+| SEP 17 | GS2 | [GS2]() | [Value for GS2](https://docs.google.com/forms/d/e/1FAIpQLScQ967bd2WRx9nmMDfeoJD5UZZTFN4bPjYwyvXXBGw7ZEQBKA/viewform?usp=sf_link) |
+| OCT 1 | GS3 | [GS3]() | [Value for GS3](https://docs.google.com/forms/d/e/1FAIpQLSeTAEas1kqxGZmJYQ640iX9AQIlgcirVJoxciEnn2UU7WcqAQ/viewform?usp=sf_link) |
+| OCT 8 | P1 | [P1]() | [Value for P1](https://docs.google.com/forms/d/e/1FAIpQLSfWkhtxk3xYYfhyODfufFLfp0bNXX52dke69xGkiTvLvGa3OA/viewform?usp=sf_link) |
+| OCT 29 | GS4 | [GS4]() | [Value for GS4](https://docs.google.com/forms/d/e/1FAIpQLSchVRUxeiKYCfcRBWQ8Y85najkEO0FgPzhNFnYmmwIwWOp7VA/viewform?usp=sf_link) |
+| NOV 7 | P2 | [P2]() | [Value for P2](https://docs.google.com/forms/d/e/1FAIpQLSdo_oNG5MHuZb7S7KircBxWWXNEpX0s98cw5k8Gm9X2DYqdWQ/viewform?usp=sf_link) |
+| NOV 19 | GS5 | [GS5]() | [Value for GS5](https://docs.google.com/forms/d/e/1FAIpQLSdMncyMUUZZPk10QyFVMqymyQs4iCiqjombEuGP5jzwL3k0lA/viewform?usp=sf_link) |
+| DEC 6 | C| [C]() | [Value for C](https://docs.google.com/forms/d/e/1FAIpQLSf7awVubhnkyh30jW6J-My8xr6xXFcg03r242Ljsxeu8imoGw/viewform?usp=sf_link) |
 | ||||
 
 # **Results from Playoffs Round 2**
