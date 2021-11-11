@@ -1,41 +1,46 @@
 "Date","Home","Away","Actual","group1","group2","group3","group4","group5","group6","group7","group8","group9","group10","group11","group12","group13","group14"
-"11/1/2020","Buffalo Bills","New England Patriots",1,1,0,1,0,0,"BUF",1,1,1,1,1,1,0,1
-"11/1/2020","Cincinnati Bengals","Tennessee Titans",1,0,0,0,1,0,"TEN",0,0,0,0,0,0,0,0
-"11/1/2020","Cleveland Browns","Las Vegas Raiders",0,0,0,0,1,0,"LV",1,1,0,1,1,0,1,0
-"11/1/2020","Detroit Lions","Indianapolis Colts",0,0,0,1,0,0,"Det",0,0,0,1,0,0,1,0
-"11/1/2020","Green Bay Packers","Minnesota Vikings",0,1,1,1,1,1,"GB",1,1,1,1,1,1,0,1
-"11/1/2020","Kansas City Chiefs","New York Jets",1,1,1,1,0,1,"KC",1,1,1,1,1,1,1,1
-"11/1/2020","Miami Dolphins","Los Angeles Rams",1,0,1,0,0,0,"LAR",0,0,0,1,1,0,0,0
-"11/1/2020","Baltimore Ravens","Pittsburgh Steelers",0,0,1,1,1,1,"BAL",1,1,1,1,1,0,1,0
-"11/1/2020","Denver Broncos","Los Angeles Chargers",1,0,1,0,1,1,"LAC",0,0,0,0,0,0,0,0
-"11/1/2020","Chicago Bears","New Orleans Saints",0,0,0,0,1,1,"NO",0,1,0,0,1,0,0,0
-"11/1/2020","Seattle Seahawks","San Francisco 49ers",1,1,1,1,1,1,"SEA",1,1,1,1,0,0,1,1
-"11/1/2020","Philadelphia Eagles","Dallas Cowboys",1,1,0,1,1,1,"DAL",1,0,1,1,1,0,1,1
-"11/2/2020","New York Giants","Tampa Bay Buccaneers",0,0,0,0,0,0,"TB",0,0,0,0,0,0,0,0
-"11/5/2020","San Francisco 49ers","Green Bay Packers",0,0,1,1,0,0,"GB",0,0,0,1,1,0,0,0
-"11/8/2020","Atlanta Falcons","Denver Broncos",1,1,0,1,1,0,"ATL",1,1,0,1,1,1,0,1
-"11/8/2020","Buffalo Bills","Seattle Seahawks",1,0,0,0,1,0,"SEA",0,0,0,1,0,0,1,0
-"11/8/2020","Indianapolis Colts","Baltimore Ravens",0,1,1,1,0,1,"BAL",0,0,1,1,0,0,0,0
-"11/8/2020","Jacksonville Jaguars","Houston Texans",0,0,0,0,0,0,"JAC",0,1,0,0,0,1,0,0
-"11/8/2020","Kansas City Chiefs","Carolina Panthers",1,1,1,1,0,1,"KC",1,1,1,1,1,0,1,1
-"11/8/2020","Minnesota Vikings","Detroit Lions",1,1,0,0,1,0,"MIN",0,1,1,1,0,0,0,1
-"11/8/2020","Tennessee Titans","Chicago Bears",1,1,1,1,1,1,"TEN",1,1,0,1,1,1,1,1
-"11/8/2020","Washington Redskins","New York Giants",0,0,1,0,0,1,"NYG",1,1,1,1,1,1,1,1
-"11/8/2020","Los Angeles Chargers","Las Vegas Raiders",0,0,0,0,0,0,"LV",1,1,0,1,1,0,1,1
-"11/8/2020","Arizona Cardinals","Miami Dolphins",0,1,1,1,1,1,"ARZ",0,1,1,1,0,0,0,1
-"11/8/2020","Dallas Cowboys","Pittsburgh Steelers",0,0,0,0,1,0,"PITT",0,1,0,0,0,0,1,0
-"11/8/2020","Tampa Bay Buccaneers","New Orleans Saints",0,0,1,1,1,1,"NO",1,1,1,1,1,0,1,1
-"11/9/2020","New York Jets","New England Patriots",0,0,0,1,0,0,"NEW",0,0,0,0,0,0,0,0
-"11/12/2020","Tennessee Titans","Indianapolis Colts",0,1,1,1,1,0,"TEN",1,1,0,1,1,0,1,1
-"11/15/2020","Carolina Panthers","Tampa Bay Buccaneers",0,0,0,0,1,0,"CAR",0,1,0,1,0,0,1,0
-"11/15/2020","Cleveland Browns","Houston Texans",1,1,0,0,0,1,"CLE",1,1,0,1,1,1,0,1
-"11/15/2020","Detroit Lions","Washington Redskins",1,1,1,1,1,1,"DET",1,1,1,1,1,1,0,1
-"11/15/2020","Green Bay Packers","Jacksonville Jaguars",1,1,1,1,1,1,"GB",1,1,1,1,1,1,0,1
-"11/15/2020","New York Giants","Philadelphia Eagles",1,1,0,1,1,0,"PHI",0,1,0,1,1,1,0,0
-"11/15/2020","Pittsburgh Steelers","Cincinnati Bengals",1,1,1,1,1,1,"PITT",1,1,1,1,1,1,0,1
-"11/15/2020","Arizona Cardinals","Buffalo Bills",1,1,1,1,0,1,"BUF",1,0,1,1,1,0,1,1
-"11/15/2020","Las Vegas Raiders","Denver Broncos",1,1,0,1,1,1,"LV",1,1,1,1,1,1,0,1
-"11/15/2020","Miami Dolphins","Los Angeles Chargers",1,0,1,1,0,1,"LAC",1,1,1,1,1,0,1,1
-"11/15/2020","Los Angeles Rams","Seattle Seahawks",1,1,1,0,1,0,"SEA",0,0,1,1,1,1,0,1
-"11/15/2020","New Orleans Saints","San Francisco 49ers",1,1,0,1,0,0,"NO",1,1,0,1,0,0,0,1
-"11/15/2020","New England Patriots","Baltimore Ravens",1,0,0,1,1,0,"BAL",0,1,0,1,0,0,0,0
+"11/8/2021","Pittsburg Steelers","Chicago Bears",1,1,1,1,NA,1,1,1,1,1,1,1,1,1,1
+"11/11/2021","Miami Dolphins ","Baltimore Ravens",NA,0,0,0,NA,0,0,1,0,0,1,0,0,0,1
+"11/14/2021","Dallas Cowboys","Atlanta Falcons ",NA,1,1,1,NA,1,1,0,0,1,1,1,1,1,1
+"11/14/2021","Tennessee Titans ","New Orleans Saints",NA,1,0,0,NA,1,1,0,1,1,0,1,1,0,0
+"11/14/2021","Indianapolis Colts","Jacksonville Jaguars ",NA,1,1,1,NA,1,1,0,0,1,0,1,1,1,1
+"11/14/2021","New England Patriots","Cleveland Browns",NA,1,0,1,NA,0,1,1,1,1,0,0,1,0,1
+"11/14/2021","New York Jets","Buffalo Bills",NA,0,0,0,NA,1,0,1,1,0,1,0,0,1,0
+"11/14/2021","Pittsburg Steelers","Detroit Lions",NA,1,1,1,NA,1,1,0,0,1,1,1,1,1,1
+"11/14/2021","Washington Football Team ","Tampa Bay Buccaneers",NA,0,0,0,NA,0,1,1,0,0,1,0,0,1,1
+"11/14/2021","Arizona Cardinals ","Carolina Panthers",NA,1,1,0,NA,1,1,0,1,1,1,1,1,0,1
+"11/14/2021","Los Angeles Chargers","Minnesota Vikings ",NA,1,0,0,NA,1,0,0,0,1,1,0,1,0,1
+"11/14/2021","Denver Broncos ","Philadelphia Eages",NA,0,1,1,NA,1,1,0,1,1,0,0,1,0,0
+"11/14/2021","Green Bay Packers","Seattle Seahawks ",NA,1,1,1,NA,1,1,0,0,1,1,0,1,1,0
+"11/14/2021","Las Vegas Raiders","Kansas City Chiefs",NA,0,0,0,NA,0,1,0,0,0,1,0,0,0,1
+"11/15/2021","San Francisco 49ers","Los Angeles Rams",NA,0,0,0,NA,0,1,1,1,0,0,0,0,0,0
+"11/18/2021","Atlanta Falcons","New England Patriots",NA,0,0,0,NA,0,0,0,0,0,1,0,0,0,0
+"11/21/2021","Buffalo Bills","Indianapolis Colts",NA,1,1,0,NA,1,1,0,0,1,1,0,1,0,1
+"11/21/2021","Chicago Bears","Baltimore Ravens",NA,0,0,0,NA,0,1,1,1,0,1,0,0,1,1
+"11/21/2021","Cleveland Browns","Detroit Lions",NA,1,1,0,NA,1,1,0,0,1,1,1,1,1,1
+"11/21/2021","Tennessee Titans ","Houston Texans",NA,1,1,1,NA,1,1,0,0,1,1,1,1,0,0
+"11/21/2021","Minnesota Vikings","Green Bay Packers",NA,0,0,1,NA,1,1,1,0,0,1,0,0,0,0
+"11/21/2021","New York Jets","Miami Dolphins",NA,0,0,0,NA,0,0,1,1,0,1,1,0,0,0
+"11/21/2021","Philadelphia Eagles","New Orleans Saints",NA,0,0,0,NA,0,1,1,0,0,1,1,0,1,0
+"11/21/2021","Carolina Panthers","Washington Football Team",NA,0,1,0,NA,1,1,1,1,1,1,1,1,1,1
+"11/21/2021","Jacksonsville Jaguars","San Francisco 49ers",NA,0,0,1,NA,0,1,1,0,0,1,0,0,1,0
+"11/21/2021","Las Vegas Raiders","Cincinnati Bengals",NA,0,1,1,NA,1,1,1,0,0,0,0,0,0,0
+"11/21/2021","Kansas City Chiefs","Dallas Cowboys",NA,0,1,0,NA,0,0,1,0,0,1,0,1,1,1
+"11/21/2021","Seattle Seahawks","Arizona Cardinals ",NA,0,0,1,NA,0,0,1,1,0,0,0,0,0,0
+"11/21/2021","Los Angeles Chargers","Pittsburg Steelers",NA,1,0,0,NA,1,1,1,1,0,1,1,1,1,1
+"11/22/2021","Tampa Bay Buccaneers ","New York Giants",NA,1,1,1,NA,1,1,0,1,1,1,1,1,1,1
+"11/25/2021","Detriot Lions ","Chicago Bears",NA,1,0,0,NA,0,1,1,1,0,1,1,0,1,0
+"11/25/2021","Dallas Cowboys","Las Vegas Raiders ",NA,1,0,0,NA,1,1,0,0,1,1,1,1,0,0
+"11/25/2021","New Orleans Saints","Buffalo Bills",NA,0,0,1,NA,0,0,0,1,0,1,0,0,1,0
+"11/28/2021","Cincinnati Begals ","Pittsburg Steelers",NA,1,0,1,NA,1,1,0,1,1,1,1,1,0,1
+"11/28/2021","Indianapolis Colts","Tampa Bay Buccaneers",NA,0,0,0,NA,0,0,1,0,0,1,0,0,0,1
+"11/28/2021","Miami Dolphins ","Carolina Panthers",NA,0,0,0,NA,0,1,0,0,0,1,1,0,1,0
+"11/28/2021","New England Patriots","Tennessee Titans",NA,0,0,1,NA,0,1,1,1,0,1,1,0,1,1
+"11/28/2021","New York Giants","Philadelphia Eages",NA,0,0,0,NA,0,1,0,1,0,0,0,0,0,0
+"11/28/2021","Jacksonsville Jaguars","Atlanta Falcons ",NA,0,0,0,NA,0,1,1,1,0,1,1,0,0,1
+"11/28/2021","Houston Texans","New York Jets",NA,0,0,1,NA,0,1,1,0,0,0,1,0,1,1
+"11/28/2021","Denver Broncos ","Los Angeles Chargers",NA,0,0,1,NA,0,0,1,0,1,1,1,0,0,0
+"11/28/2021","Green Bay Packers","Los Angeles Rams",NA,0,1,0,NA,0,1,1,1,0,1,0,0,1,0
+"11/28/2021","San Francisco 49ers","Minnesota Vikings ",NA,1,0,0,NA,0,0,1,0,0,1,0,1,0,1
+"11/28/2021","Baltimore Ravens","Cleveland Browns",NA,1,1,1,NA,1,1,0,0,1,1,0,1,0,1
+"11/29/2021","Washington Football Team ","Seattle Seahawks ",NA,0,0,0,NA,0,1,1,0,0,0,0,0,0,0

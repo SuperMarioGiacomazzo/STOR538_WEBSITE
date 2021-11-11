@@ -480,12 +480,9 @@ Like the playoffs, this final assignment will be done in a team. Sometime during
 |12|1:50PM - 2:00PM|
 |13|2:00PM - 2:10PM|
 |14|2:10PM - 2:20PM|
-|15|2:20PM - 2:30PM|
-|16|2:30PM - 2:40PM|
-|17|2:40PM - 2:50PM|
 |||
 
-Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). To grade your teammates, use the following [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSet592BiOFiSUdjiCUS_4L-tcwSFvvRPd2P1kxlGRivNg9hoA/viewform?usp=sf_link).
+Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). 
 
 On the first page, you should title your paper and give the names of the team members. The content of the paper should be organized in the following 4 subsections:
 
@@ -609,81 +606,100 @@ In the table below, you can find your group for each of the specific team-based 
 
 # **Results from Playoffs Round 2**
 
-The predictions of all 14 teams can be accessed from the hyperlinks below. These three files contain predictions for the three separate variables for all the groups.
+The predictions of all 14 teams can be accessed from the hyperlinks below. These three files contain predictions for the three separate variables for all the groups. These files also contain the actual outcome from the game.
 
-- [Spread]()
-- [Total]()
-- [Result]()
+- [Spread](Playoffs/Round 2/PredictSpread.csv)
+- [Total](Playoffs/Round 2/PredictTotal.csv)
+- [Result](Playoffs/Round 2/PredictResult.csv)
 
-The next table shows the actual results of the games.
 
-- [Actual]()
+The table below shows each group's RMSE, MAE, and ACC for $Spread$, $Total$, and $Result$, respectively. Also, you will see your group ranking for each of the three variables. It may be helpful to sort the table for each variable to see where your group is currently ranked.
 
-The table below shows each group's RMSE for $Spread$, $Total$, and $Result$. Also, you will see your group ranking for each of the three variables. It may be helpful to sort the table for each variable to see where your group is currently ranked.
+```{r,echo=F,results=TRUE,message=F}
+library(DT)
+library(tidyverse)
+library(readxl)
 
-```{r,echo=F,results=FALSE,message=F}
-# library(DT)
-# library(tidyverse)
-# library(readxl)
-# 
-# setwd("D:/Mario Documents/UNC/STOR 538/STOR538_WEBSITE/Playoffs/Round 2")
-# 
-# Actual=read.csv(file="Actual.csv")[-(1:25),]
-# 
-# P1=read.csv(file="Predictions_1.csv")[-(1:25),]
-# P2=read.csv(file="Predictions_2.csv")[-(1:25),-1]
-# P3=read.csv(file="Predictions_3.csv")[-(1:25),-1]
-# P4=read.csv(file="Predictions_4.csv")[-(1:25),-1]
-# P5=read.csv(file="Predictions_5.csv")[-(1:25),]
-# P6=read.csv(file="Predictions_6.csv")[-(1:25),]
-# P7=read.csv(file="Predictions_7.csv")[-(1:25),]
-# P8=read.csv(file="Predictions_8.csv")[-(1:25),]
-# P9=read.csv(file="Predictions_9.csv")[-(1:25),]
-# P10=read.csv(file="Predictions_10.csv")[-(1:25),]
-# P11=read.csv(file="Predictions_11.csv")[-(1:25),]
-# P12=read.csv(file="Predictions_12.csv")[-(1:25),]
-# P13=read.csv(file="Predictions_13.csv")[-(1:25),]
-# P13$Spread=as.numeric(P13$Spread)
-# P13$Total=as.numeric(P13$Total)
-# P13$OREB=as.numeric(P13$OREB)
-# P14=read.csv(file="Predictions_14.csv")[-(1:25),]
-# P15=read.csv(file="Predictions_15.csv")[-(1:25),]
-# P16=read.csv(file="Predictions_16.csv")[-(1:25),]
-# P17=read.csv(file="Predictions_17.csv")[-(1:25),]
-# 
-# SPREAD=cbind(P1$Spread,P2$Spread,P3$Spread,P4$Spread,
-#              P5$Spread,P6$Spread,P7$Spread,P8$Spread,
-#              P9$Spread,P10$Spread,P11$Spread,P12$Spread,
-#              P13$Spread,P14$Spread,P15$Spread,P16$Spread,P17$Spread)
-# 
-# TOTAL=cbind(P1$Total,P2$Total,P3$Total,P4$Total,
-#              P5$Total,P6$Total,P7$Total,P8$Total,
-#              P9$Total,P10$Total,P11$Total,P12$Total,
-#              P13$Total,P14$Total,P15$Total,P16$Total,P17$Total)
-# 
-# OREB=cbind(P1$OREB,P2$OREB,P3$OREB,P4$OREB,
-#              P5$OREB,P6$OREB,P7$OREB,P8$OREB,
-#              P9$OREB,P10$OREB,P11$OREB,P12$OREB,
-#              P13$OREB,P14$OREB,P15$OREB,P16$OREB,P17$OREB)
-# 
-# rmse.func=function(prediction,actual){
-#   sqrt(mean((actual-prediction)^2,na.rm=T))
-# }
-# 
-# SPREAD.RESULT=apply(SPREAD,2,rmse.func,actual=Actual$Spread)
-# TOTAL.RESULT=apply(TOTAL,2,rmse.func,actual=Actual$Total)
-# OREB.RESULT=apply(OREB,2,rmse.func,actual=Actual$OREB)
-# 
-# FINAL.RESULT=tibble(Group=1:17,`Spread RMSE`=round(SPREAD.RESULT,2),`Spread Rank`=rank(SPREAD.RESULT),
-#                     `Total RMSE`=round(TOTAL.RESULT,2),`Total Rank`=rank(TOTAL.RESULT),
-#                     `OREB RMSE`=round(OREB.RESULT,2),`OREB Rank`=rank(OREB.RESULT))
-# 
-# datatable(FINAL.RESULT,class="display",options = list(scrollX=F,
-#             columnDefs = list(list(className = 'dt-center', targets = 0:6))),rownames=F)
-# 
-# write.csv(SPREAD,"SPREAD.csv")
-# write.csv(TOTAL,"TOTAL.csv")
-# write.csv(OREB,"OREB.csv")
+#Read in Actual Results
+setwd("D:/Mario Documents/UNC/STOR 538/Not for Github/PLAYOFF2")
+Actual=read.csv("Actual.csv")
+
+#Read in Predictions from Groups
+setwd("D:/Mario Documents/UNC/STOR 538/Not for Github/PLAYOFF2/Predictions")
+group1=read.csv("Prediction_1.csv")
+group2=read.csv("Prediction_2.csv")
+group3=read.csv("Prediction_3.csv")
+group4=read_xls("Prediction_4.xls")
+group5=read_xlsx("Prediction_5.xlsx")
+group6=read.csv("Prediction_6.csv")
+group7=read.csv("Prediction_7.csv")
+group8=read.csv("Prediction_8.csv")
+group9=read.csv("Prediction_9.csv")
+group10=read.csv("Prediction_10.csv")
+group11=read.csv("Prediction_11.csv")
+group12=read.csv("Prediction_12.csv")
+group13=read.csv("Prediction_13.csv")
+group14=read.csv("Prediction_14.csv")
+
+
+
+#Modify Tables for Usage
+Spread=tibble(Date=Actual$Date,Home=Actual$Home.Team,Away=Actual$Away.Team,Actual=Actual$Spread,
+              group1=group1$Spread,group2=group2$Spread,
+              group3=group3$Spread,group4=group4$Spread,
+              group5=group5$Spread,group6=group6$Spread,
+              group7=group7$Spread,group8=group8$Spread,
+              group9=group9$Spread,group10=group10$Spread,
+              group11=group11$Spread,group12=group12$Spread,
+              group13=group13$Spread,group14=group14$Spread)
+
+Total=tibble(Date=Actual$Date,Home=Actual$Home.Team,Away=Actual$Away.Team,Actual=Actual$Total,
+              group1=group1$Total,group2=group2$Total,
+              group3=group3$Total,group4=group4$Total,
+              group5=group5$Total,group6=group6$Total,
+              group7=group7$Total,group8=group8$Total,
+              group9=group9$Total,group10=group10$Total,
+              group11=group11$Total,group12=group12$Total,
+              group13=group13$Total,group14=group14$Total)
+
+Result=tibble(Date=Actual$Date,Home=Actual$Home.Team,Away=Actual$Away.Team,Actual=Actual$Result,
+              group1=group1$Result,group2=group2$Result,
+              group3=group3$Result,group4=group4$Result,
+              group5=group5$Result,group6=group6$Result,
+              group7=group7$Result,group8=group8$Result,
+              group9=group9$Result,group10=group10$Result,
+              group11=group11$Result,group12=group12$Result,
+              group13=group13$Result,group14=group14$Result)
+
+#Functions for Evaluating Prediction Error
+rmse.func=function(actual,predict){
+  return(sqrt(mean((actual-predict)^2,na.rm=T)))
+}
+
+mae.func=function(actual,predict){
+  return(mean(abs(actual-predict),na.rm=T))
+}
+
+acc.func=function(actual,predict){
+  return(mean(actual==predict,na.rm=T))
+}
+
+spread.final=apply(Spread[,c(5:18)],2,rmse.func,actual=Spread$Actual)
+total.final=apply(Total[,5:18],2,mae.func,actual=Total$Actual)
+result.final=apply(Result[,5:18],2,acc.func,actual=Result$Actual)
+
+
+FINAL.RESULT=tibble(Group=1:14,`Spread RMSE`=round(spread.final,2),`Spread Rank`=rank(as.numeric(spread.final)),
+                     `Total MAE`=round(total.final,2),`Total Rank`=rank(as.numeric(total.final)),
+                     `Result ACC`=round(result.final,2),`Result Rank`=rank(-as.numeric(result.final),ties.method="min")
+)
+
+#write.csv(Spread,"Spread.csv")
+#write.csv(Total,"Total.csv")
+#write.csv(Result,"RESULT.csv")
+
+datatable(FINAL.RESULT,class="display",options = list(scrollX=F,
+            columnDefs = list(list(className = 'dt-center', targets = 0:6))),rownames=F)
 
 ```
 
