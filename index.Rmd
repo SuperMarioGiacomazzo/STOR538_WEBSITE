@@ -204,11 +204,12 @@ The statistical programming language R will be used to generate visualizations a
 |------|---------|--------:|---------:|
 |NOV 10| Sports Gambling I | [Slides](Slides/Gambling 1/Gambling_1_Lecture.pdf) |Ch. 38-39 MATH, [Web 1](https://www.thesportsgeek.com/sports-betting/what-is-a-unit/), [Web 2](https://mybettingsites.co.uk/learn/betting-odds-explained/), [Web 3](https://www.actionnetwork.com/betting-calculators/betting-odds-calculator) |
 ||||[Web 4](https://www.vegas.com/gaming/gaming-tips/sports-betting/), [Web 5](https://www.thesportsgeek.com/blog/beginners-tips-understanding-parlay-119/) ,[Web 6](https://www.thelines.com/betting/teaser/), [Article 1](Articles/Gambling/Gambling_Levitt.pdf), [Article 2](Articles/Gambling/Gambling_FleppNueschFranck.pdf) |
-|NOV 12| Sports Gambling II | [Slides](Slides/Gambling 2/Gambling_2_Lecture.pdf) |Ch. 40 MATH, [Web 1](https://fivethirtyeight.com/methodology/how-our-nfl-predictions-work/) | -->
-|NOV 15| Sports Gambling III | [Slides](Slides/Gambling 3/Gambling_3_Lecture.pdf) |Ch. 44 MATH, [Web 1](https://www.pinnacle.com/en/betting-articles/Betting-Strategy/How-to-use-kelly-criterion-for-betting/2BT2LK6K2QWQ7QJ8), [Web 2](https://www.oddsshark.com/sports-betting/best-sports-betting-strategies), [Article 1](Articles/Gambling/Gambling_Thorp.pdf)|
-|NOV 17| Hockey I | [Slides](Slides/Hockey 1/Hockey_1_Lecture.pdf) | Ch. 14-15 HSMAS, [Article 1](Articles/Hockey/Hockey_Schuckers.pdf), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick),[Web 2](http://hockeygoalies.org/stats/glossary.html), [Web 3](https://rdrr.io/cran/nhlscrapr/) |
-|NOV 19| Hockey II |  [Slides](Slides/Hockey 2/Hockey_2_Lecture.pdf) | Ch. 14-15 HSMAS, [Article 1](Articles/Hockey/Hockey_Thomas_Ventura_Jensen_Ma.pdf), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick),[Web 2](http://hockeygoalies.org/stats/glossary.html), [Web 3](https://rdrr.io/cran/nhlscrapr/) |
-|NOV 22|  | | |
+|NOV 12| Sports Gambling I (Cont.) | [Slides](Slides/Gambling 1/Gambling_1_Lecture.pdf) |Ch. 38-39 MATH, [Web 1](https://www.thesportsgeek.com/sports-betting/what-is-a-unit/), [Web 2](https://mybettingsites.co.uk/learn/betting-odds-explained/), [Web 3](https://www.actionnetwork.com/betting-calculators/betting-odds-calculator) |
+||||[Web 4](https://www.vegas.com/gaming/gaming-tips/sports-betting/), [Web 5](https://www.thesportsgeek.com/blog/beginners-tips-understanding-parlay-119/) ,[Web 6](https://www.thelines.com/betting/teaser/), [Article 1](Articles/Gambling/Gambling_Levitt.pdf), [Article 2](Articles/Gambling/Gambling_FleppNueschFranck.pdf) |
+|NOV 15| Sports Gambling II | [Slides](Slides/Gambling 2/Gambling_2_Lecture.pdf) |Ch. 40 MATH, [Web 1](https://fivethirtyeight.com/methodology/how-our-nfl-predictions-work/) | -->
+|NOV 17| Sports Gambling III | [Slides](Slides/Gambling 3/Gambling_3_Lecture.pdf) |Ch. 44 MATH, [Web 1](https://www.pinnacle.com/en/betting-articles/Betting-Strategy/How-to-use-kelly-criterion-for-betting/2BT2LK6K2QWQ7QJ8), [Web 2](https://www.oddsshark.com/sports-betting/best-sports-betting-strategies), [Article 1](Articles/Gambling/Gambling_Thorp.pdf)|
+|NOV 19| Hockey I | [Slides](Slides/Hockey 1/Hockey_1_Lecture.pdf) | Ch. 14-15 HSMAS, [Article 1](Articles/Hockey/Hockey_Schuckers.pdf), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick),[Web 2](http://hockeygoalies.org/stats/glossary.html), [Web 3](https://rdrr.io/cran/nhlscrapr/) |
+|NOV 22| Hockey II |  [Slides](Slides/Hockey 2/Hockey_2_Lecture.pdf) | Ch. 14-15 HSMAS, [Article 1](Articles/Hockey/Hockey_Thomas_Ventura_Jensen_Ma.pdf), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick),[Web 2](http://hockeygoalies.org/stats/glossary.html), [Web 3](https://rdrr.io/cran/nhlscrapr/) |
 |NOV 24| Thanksgiving #SWAG | | |
 |NOV 26| Thanksgiving #SWAG | | |
 |NOV 29| Work on Championship| | |
@@ -460,9 +461,13 @@ The second playoff round is worth a total of 48 points based on the following ru
 
 ## Championship
 
-The Championship will consist of a 4 to 7 paged research paper with a minimum of 10 citations from 10 different sources studying a sport of interest that is not one of the following sports: baseball, basketball, football, hockey, and soccer. The page minimum and maximum includes the title page, sections, and references. 
+The Championship will consist of a 7 to 12 paged research paper with a minimum of 10 citations from 10 different sources studying a sport of interest that is not one of the following sports: baseball, basketball, football, hockey, and soccer. The page minimum and maximum includes the title page, sections, and references. 
 
-Like the playoffs, this final assignment will be done in a team. Sometime during the scheduled final exam time, Monday, December 6, between 12PM and 3PM, your team will meet with me to turn in a hard (emailed) copy of your paper and discuss what you learned. This will be an informal meeting that everyone in your group is required to attend. Failure to attend will result in a loss of 3 points. The table below gives the time your group is required to meet with me.
+Like the playoffs, this final assignment will be done in a team. Sometime during the scheduled final exam time, Monday, December 6, between 12PM and 3PM, your team will meet with me to turn in a hard (emailed) copy of your paper and discuss what you learned. This will be an informal zoom meeting that everyone in your group is required to attend. Failure to attend will result in a loss of 3 points.
+
+[Zoom Link for Meeting](https://unc.zoom.us/j/94768485311?pwd=VGVHeGN5Z05NSENWQjBLNFRGL2c3dz09) (PW: champion)
+
+The table below gives the time your group is required to meet with me.
 
 | Group Number | Time |
 |:-----------:|:------:|
