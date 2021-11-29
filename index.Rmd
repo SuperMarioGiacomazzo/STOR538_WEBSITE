@@ -694,14 +694,14 @@ total.final=apply(Total[,5:18],2,mae.func,actual=Total$Actual)
 result.final=apply(Result[,5:18],2,acc.func,actual=Result$Actual)
 
 
-FINAL.RESULT=tibble(Group=1:14,`Spread RMSE`=round(spread.final,2),`Spread Rank`=rank(as.numeric(spread.final)),
-                     `Total MAE`=round(total.final,2),`Total Rank`=rank(as.numeric(total.final)),
-                     `Result ACC`=round(result.final,2),`Result Rank`=rank(-as.numeric(result.final),ties.method="min")
+FINAL.RESULT=tibble(Group=1:14,`Spread RMSE`=round(spread.final,3),`Spread Rank`=rank(as.numeric(spread.final)),
+                     `Total MAE`=round(total.final,3),`Total Rank`=rank(as.numeric(total.final)),
+                     `Result ACC`=round(result.final,3),`Result Rank`=rank(-as.numeric(result.final),ties.method="min")
 )
 
-#write.csv(Spread,"Spread.csv")
-#write.csv(Total,"Total.csv")
-#write.csv(Result,"RESULT.csv")
+#write.csv(Spread,"PredictSpread.csv")
+#write.csv(Total,"PredictTotal.csv")
+#write.csv(Result,"PredictResult.csv")
 
 datatable(FINAL.RESULT,class="display",options = list(scrollX=F,
             columnDefs = list(list(className = 'dt-center', targets = 0:6))),rownames=F)
