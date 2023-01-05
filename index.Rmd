@@ -90,12 +90,11 @@ The statistical programming language R will be used to generate visualizations a
 
 - Syllabus: **[Section 1](Syllabi\STOR 538 Section 1 Syllabus.pdf)**
 
-- Game Days: MWF, 12:20PM - 1:10PM, Hanes 120
+- Game Days: MWF, 12:20PM - 1:10PM, Gardner 105
 
 - Zoom Links: 
     - **[Press Conference:](https://unc.zoom.us/j/91225653535)** T, 8AM - 2PM 
-    - **[Training Days:](https://unc.zoom.us/j/94928192170?pwd=ak5rWFBuT0tlRXliWjdDYm9hN0Y5Zz09)** TTh, 12:45PM - 1:45PM,     
-    (PW: DiddyKong)
+    - **[Training Days:](https://unc.zoom.us/j/94041035206)** TTh, 12:30PM - 1:30PM & W, 2PM-3PM     
 
 - University Approved Absences: **[Online Form](https://unc-ch.formstack.com/forms/university_approved_absence_request?sso=5f3154c3179f5)**
 
@@ -110,7 +109,7 @@ The statistical programming language R will be used to generate visualizations a
 
 ## Required
 
-- Mathletics, Winston, 2012, [ISBN: 9780691154589](https://www.amazon.com/Mathletics-Gamblers-Enthusiasts-Mathematics-Basketball/dp/0691154589/ref=sr_1_1?keywords=mathletics&qid=1565992961&s=gateway&sr=8-1) (MATH)
+- Mathletics (2nd Edition), Winston Et al., 2022, [ISBN: 9780691177625](https://www.amazon.com/Mathletics-Gamblers-Managers-Mathematics-Sports/dp/0691177627/ref=pd_lpo_1?pd_rd_w=Huo2i&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=ED5MDSAZ4VPN2XB2ND8T&pd_rd_wg=FMEFX&pd_rd_r=0498b611-9f4f-45a8-8a78-0ff980ecc143&pd_rd_i=0691177627&psc=1) (MATH)
 
 - Handbook of Statistical Methods and Analyses in Sports, Albert, Glickman, Et al., 2017, [ISBN: 9781498737364](https://www.amazon.com/Handbook-Statistical-Methods-Analyses-Handbooks-ebook/dp/B071X4CCVX/ref=sr_1_1?keywords=handbook+of+statistical+methods+and+analyses+in+sports&qid=1566148999&s=gateway&sr=8-1) (HSMAS)
 
@@ -149,70 +148,71 @@ The statistical programming language R will be used to generate visualizations a
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-|AUG 18| Syllabus     | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeUZhibzggxIDcUYNzg42y8EEzNfwVCb3JkSvARvzwfSIT01Q/viewform?usp=sf_link)||
-|AUG 20| Sports Analytics I | [Slides](Slides/Sports Analytics 1/Sports_Analytics_1_Lecture.pdf) |Ch. 1 SPAN, [Web 1](https://sportsshow.net/top-10-most-popular-sports-in-the-world/), [Web 2](https://sportsshow.net/most-popular-sports-in-america/), [Web 3](https://howmuch.net/articles/sports-leagues-by-revenue), [Web 4](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america), [Web 5](https://apsportseditors.org/others/most-profitable-sports-leagues/) |
-|AUG 23| Sports Analytics II | [Slides](Slides/Sports Analytics 2/Sports_Analytics_2_Lecture.pdf) | Ch. 1-7 SPAN|
+|JAN 9| Syllabus     | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeUZhibzggxIDcUYNzg42y8EEzNfwVCb3JkSvARvzwfSIT01Q/viewform?usp=sf_link)||
+|JAN 11| Sports Analytics I | [Slides](Slides/Sports Analytics 1/Sports_Analytics_1_Lecture.pdf) |Ch. 1 SPAN, [Web 1](https://sportsshow.net/top-10-most-popular-sports-in-the-world/), [Web 2](https://sportsshow.net/most-popular-sports-in-america/), [Web 3](https://howmuch.net/articles/sports-leagues-by-revenue), [Web 4](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america), [Web 5](https://apsportseditors.org/others/most-profitable-sports-leagues/) |
+|JAN 13| Sports Analytics II | [Slides](Slides/Sports Analytics 2/Sports_Analytics_2_Lecture.pdf) | Ch. 1-7 SPAN|
 |||| [Web 1a](https://scholarblogs.emory.edu/esma/2016/09/21/a-short-course-on-sports-analytics-part-1/), [Web 1b](https://scholarblogs.emory.edu/esma/2016/09/28/understanding-the-organization-sports-analytics-series-part-2/), [Web 1c](https://scholarblogs.emory.edu/esma/2016/10/04/questioning-the-value-of-analytics-sports-analytics-series-part-3/), [Web 1d](https://scholarblogs.emory.edu/esma/2016/10/27/decision-biases-sports-analytics-series-part-4/), [Web 1e](https://scholarblogs.emory.edu/esma/2016/11/08/moving-towards-modeling-lessons-from-other-arenas-sports-analytics-series-part-5/)|
 |||| [Web 2a](https://scholarblogs.emory.edu/esma/2017/10/08/player-analytics-fundamentals-part-1/), [Web 2b](https://scholarblogs.emory.edu/esma/2017/10/15/player-analytics-fundamentals-part-2-performance-metrics/), [Web 2c](https://scholarblogs.emory.edu/esma/2017/10/27/player-analytics-fundamentals-part-3-metrics-and-experts/), [Web 2d](https://scholarblogs.emory.edu/esma/2017/11/12/player-analytics-fundamentals-part-4-statistical-models/), [Web 2e](https://scholarblogs.emory.edu/esma/2017/11/28/player-analytics-fundamentals-part-5-modeling-102/)|
-|AUG 25| Sports Analytics III | [Slides](Slides/Sports Analytics 3/Sports_Analytics_3_Lecture.pdf) | [Web 1](https://www.itproportal.com/features/how-sports-teams-athletes-and-fans-reap-the-rewards-of-big-data/), [Web 2](https://www.forbes.com/sites/forbestechcouncil/2019/01/31/how-data-analysis-in-sports-is-changing-the-game/#3dc126cc3f7b), [Web 3](https://www.marketwatch.com/press-release/sports-analytics-market-overview-by-size-share-growth-trend-drivers-and-restraint-2020-2028-2021-08-18)  
+|JAN 13| Sports Analytics III | [Slides](Slides/Sports Analytics 3/Sports_Analytics_3_Lecture.pdf) | [Web 1](https://www.itproportal.com/features/how-sports-teams-athletes-and-fans-reap-the-rewards-of-big-data/), [Web 2](https://www.forbes.com/sites/forbestechcouncil/2019/01/31/how-data-analysis-in-sports-is-changing-the-game/#3dc126cc3f7b), [Web 3](https://www.marketwatch.com/press-release/sports-analytics-market-overview-by-size-share-growth-trend-drivers-and-restraint-2020-2028-2021-08-18)  
 ||||[Web 4](https://www.soccermetrics.net/misc-stuff/sports-analytics-career-advice), [Web 5](https://medium.com/sports-data-science/the-complete-list-of-sports-analytics-conferences-5935846f98c0), [Web 6](http://sportsanalyticsconferences.com/)|
-|AUG 27| Sports Analytics IV| [Slides](Slides/Sports Analytics 4/Sports_Analytics_4_Lecture.pdf) | [Web 1](https://www.sportsmanagementworldwide.com/), [Web 2](https://www.udemy.com/courses/search/?src=ukw&q=sports%20analytics), [Article 1](Articles/General/SportsAnalytics_Swartz.pdf) |
-|AUG 30| Baseball I | [Slides](Slides/Baseball 1/Baseball_1_Lecture.pdf) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](Articles/Baseball/Baseball_Albert.pdf) |
-|SEP 1| Baseball II | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM|
-|SEP 3| Baseball III | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH|
-|SEP 6| Do Not Labor Day| ||
-|SEP 8| Baseball IV | [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)|
-|SEP 10| Playoff Round 1 | | [Example](Playoffs/Round 1/Spikeball.pdf) |
-|SEP 13| Baseball V | [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH|
-|SEP 15| Baseball VI | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)|
-|SEP 17| Baseball VI (Cont.) | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)|
-|SEP 20| Baseball VII | [Slides](Slides/Baseball 7/Baseball_7_Lecture.pdf) |Ch. 11,16 MATH, [Article 1](Articles/Baseball/Baseball2_Albert.pdf), [Article 2](Baseball_Arbseman_Strogatz.pdf)|
+|JAN 16| MLK Day| ||
+|JAN 18| Sports Analytics IV| [Slides](Slides/Sports Analytics 4/Sports_Analytics_4_Lecture.pdf) | [Web 1](https://www.sportsmanagementworldwide.com/), [Web 2](https://www.udemy.com/courses/search/?src=ukw&q=sports%20analytics), [Article 1](Articles/General/SportsAnalytics_Swartz.pdf) |
+|||||
+<!-- |AUG 30| Baseball I | [Slides](Slides/Baseball 1/Baseball_1_Lecture.pdf) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](Articles/Baseball/Baseball_Albert.pdf) | -->
+<!-- |SEP 1| Baseball II | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM| -->
+<!-- |SEP 3| Baseball III | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH| -->
+<!-- |SEP 8| Baseball IV | [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)| -->
+<!-- |SEP 10| Playoff Round 1 | | [Example](Playoffs/Round 1/Spikeball.pdf) | -->
+<!-- |SEP 13| Baseball V | [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH| -->
+<!-- |SEP 15| Baseball VI | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)| -->
+<!-- |SEP 17| Baseball VI (Cont.) | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)| -->
+<!-- |SEP 20| Baseball VII | [Slides](Slides/Baseball 7/Baseball_7_Lecture.pdf) |Ch. 11,16 MATH, [Article 1](Articles/Baseball/Baseball2_Albert.pdf), [Article 2](Baseball_Arbseman_Strogatz.pdf)| -->
+<!-- ||||| -->
 
 ## Second Half
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-|SEP 22| Basketball I | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) |
-|SEP 24| Basketball I (Cont.) | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) |
-|SEP 27| Basketball II | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) |
-|SEP 29| Basketball III | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 31-32 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)|
-|OCT 1| Basketball IV | [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 33 MATH|
-|OCT 6| Playoffs Round 2 || [Example](Playoffs/Round 2/Basketball.pdf) |
-|OCT 8| Basketball V | [Slides](Slides/Basketball 5/Basketball_5_Lecture.pdf) |Ch. 34-35 MATH, [Web 1](https://www.nytimes.com/2011/04/13/sports/ncaabasketball/13gamble.html), [Web 2](https://las.illinois.edu/news/2006-09-01/no-foul), [Article 1](Articles/Basketball/Basketball_PriceWolfers.pdf)|
-|OCT 11| Basketball VI | [Slides](Slides/Basketball 6/Basketball_6_Lecture.pdf) |Ch. 37 MATH, [Web 1](https://www.inpredictable.com/2016/05/endgame-strategy-in-nba.html), [Web 2](http://www.82games.com/lawhorn.htm)|
-|||| [Article 1](Articles/Basketball/Basketball_Gill.pdf), [Article 2](Articles/Basketball/Basketball_Kenter.pdf), [Article 3](Articles/Basketball/Basketball_Annis.pdf)|
-|OCT 13| Football I | [Slides](Slides/Football 1/Footballl_1_Lecture.pdf) |Ch. 18 MATH| 
-|OCT 15| Football II | [Slides](Slides/Football 2/Footballl_2_Lecture.pdf) |Ch. 19 MATH, [Web 1](https://hbr.org/2019/04/whos-the-most-important-member-of-an-nfl-franchise), [Web 2](https://bleacherreport.com/articles/1691533-which-metric-matters-most-when-evaluating-nfl-quarterbacks), [Article 1](Articles/Football/Football_WhiteBerry.pdf) |
-|OCT 18| Football II (Cont.) | [Slides](Slides/Football 2/Footballl_2_Lecture.pdf) |Ch. 19 MATH, [Web 1](https://hbr.org/2019/04/whos-the-most-important-member-of-an-nfl-franchise), [Web 2](https://bleacherreport.com/articles/1691533-which-metric-matters-most-when-evaluating-nfl-quarterbacks), [Article 1](Articles/Football/Football_WhiteBerry.pdf) |
-|OCT 20| Football III | [Slides](Slides/Football 3/Footballl_3_Lecture.pdf) |Ch. 20 MATH, [Article 1](Articles/Football/Football_CarterMachol.pdf), [Article 2](Articles/Football/Football_Romer.pdf), [Article 3](Articles/Football/Football_Goldner.pdf) |
-|OCT 22| Fall Brizzeak #SWAG | | |
-|OCT 27| Football IV | [Slides](Slides/Football 4/Footballl_4_Lecture.pdf) | Ch. 21 MATH, [Web 1](https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c), [Article 1](Articles/Football/Football_Pelechrinis2.pdf), [Article 2](Articles/Football/Football_PelechrinisPapalexakis.pdf) |
-|OCT 29| Football V | [Slides](Slides/Football 5/Footballl_5_Lecture.pdf) | Ch. 22 MATH|
-| NOV 1 | Work on Playoff Round 2 | | |
-|NOV 3| Football VI | [Slides](Slides/Football 6/Footballl_6_Lecture.pdf) | Ch. 23 MATH, [Web 1](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html), [Web 2](https://plato.stanford.edu/entries/game-theory/), [Web 3](http://archive.advancedfootballanalytics.com/2008/06/game-theory-and-runpass-balance.html) |
-| NOV 5 | Work on Playoff Round 2 | | |
-| NOV 8 | Football VII | [Slides](Slides/Football 7/Footballl_7_Lecture.pdf)  | Ch. 26-27 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1) |
-|||  | [Article 1](Articles/Football/Football_King.pdf), [Article 2](Articles/Football/Football_MasseyThaler.pdf) |
-|||||
+<!-- |SEP 22| Basketball I | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) | -->
+<!-- |SEP 24| Basketball I (Cont.) | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) | -->
+<!-- |SEP 27| Basketball II | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) | -->
+<!-- |SEP 29| Basketball III | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 31-32 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)| -->
+<!-- |OCT 1| Basketball IV | [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 33 MATH| -->
+<!-- |OCT 6| Playoffs Round 2 || [Example](Playoffs/Round 2/Basketball.pdf) | -->
+<!-- |OCT 8| Basketball V | [Slides](Slides/Basketball 5/Basketball_5_Lecture.pdf) |Ch. 34-35 MATH, [Web 1](https://www.nytimes.com/2011/04/13/sports/ncaabasketball/13gamble.html), [Web 2](https://las.illinois.edu/news/2006-09-01/no-foul), [Article 1](Articles/Basketball/Basketball_PriceWolfers.pdf)| -->
+<!-- |OCT 11| Basketball VI | [Slides](Slides/Basketball 6/Basketball_6_Lecture.pdf) |Ch. 37 MATH, [Web 1](https://www.inpredictable.com/2016/05/endgame-strategy-in-nba.html), [Web 2](http://www.82games.com/lawhorn.htm)| -->
+<!-- |||| [Article 1](Articles/Basketball/Basketball_Gill.pdf), [Article 2](Articles/Basketball/Basketball_Kenter.pdf), [Article 3](Articles/Basketball/Basketball_Annis.pdf)| -->
+<!-- |OCT 13| Football I | [Slides](Slides/Football 1/Footballl_1_Lecture.pdf) |Ch. 18 MATH|  -->
+<!-- |OCT 15| Football II | [Slides](Slides/Football 2/Footballl_2_Lecture.pdf) |Ch. 19 MATH, [Web 1](https://hbr.org/2019/04/whos-the-most-important-member-of-an-nfl-franchise), [Web 2](https://bleacherreport.com/articles/1691533-which-metric-matters-most-when-evaluating-nfl-quarterbacks), [Article 1](Articles/Football/Football_WhiteBerry.pdf) | -->
+<!-- |OCT 18| Football II (Cont.) | [Slides](Slides/Football 2/Footballl_2_Lecture.pdf) |Ch. 19 MATH, [Web 1](https://hbr.org/2019/04/whos-the-most-important-member-of-an-nfl-franchise), [Web 2](https://bleacherreport.com/articles/1691533-which-metric-matters-most-when-evaluating-nfl-quarterbacks), [Article 1](Articles/Football/Football_WhiteBerry.pdf) | -->
+<!-- |OCT 20| Football III | [Slides](Slides/Football 3/Footballl_3_Lecture.pdf) |Ch. 20 MATH, [Article 1](Articles/Football/Football_CarterMachol.pdf), [Article 2](Articles/Football/Football_Romer.pdf), [Article 3](Articles/Football/Football_Goldner.pdf) | -->
+<!-- |OCT 22| Fall Brizzeak #SWAG | | | -->
+<!-- |OCT 27| Football IV | [Slides](Slides/Football 4/Footballl_4_Lecture.pdf) | Ch. 21 MATH, [Web 1](https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c), [Article 1](Articles/Football/Football_Pelechrinis2.pdf), [Article 2](Articles/Football/Football_PelechrinisPapalexakis.pdf) | -->
+<!-- |OCT 29| Football V | [Slides](Slides/Football 5/Footballl_5_Lecture.pdf) | Ch. 22 MATH| -->
+<!-- | NOV 1 | Work on Playoff Round 2 | | | -->
+<!-- |NOV 3| Football VI | [Slides](Slides/Football 6/Footballl_6_Lecture.pdf) | Ch. 23 MATH, [Web 1](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html), [Web 2](https://plato.stanford.edu/entries/game-theory/), [Web 3](http://archive.advancedfootballanalytics.com/2008/06/game-theory-and-runpass-balance.html) | -->
+<!-- | NOV 5 | Work on Playoff Round 2 | | | -->
+<!-- | NOV 8 | Football VII | [Slides](Slides/Football 7/Footballl_7_Lecture.pdf)  | Ch. 26-27 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1) | -->
+<!-- |||  | [Article 1](Articles/Football/Football_King.pdf), [Article 2](Articles/Football/Football_MasseyThaler.pdf) | -->
+<!-- ||||| -->
 
 ## Overtime
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-|NOV 10| Sports Gambling I | [Slides](Slides/Gambling 1/Gambling_1_Lecture.pdf) |Ch. 38-39 MATH, [Web 1](https://www.thesportsgeek.com/sports-betting/what-is-a-unit/), [Web 2](https://mybettingsites.co.uk/learn/betting-odds-explained/), [Web 3](https://www.actionnetwork.com/betting-calculators/betting-odds-calculator) |
-||||[Web 4](https://www.vegas.com/gaming/gaming-tips/sports-betting/), [Web 5](https://www.thesportsgeek.com/blog/beginners-tips-understanding-parlay-119/) ,[Web 6](https://www.thelines.com/betting/teaser/), [Article 1](Articles/Gambling/Gambling_Levitt.pdf), [Article 2](Articles/Gambling/Gambling_FleppNueschFranck.pdf) |
-|NOV 12| Sports Gambling I (Cont.) | [Slides](Slides/Gambling 1/Gambling_1_Lecture.pdf) |Ch. 38-39 MATH, [Web 1](https://www.thesportsgeek.com/sports-betting/what-is-a-unit/), [Web 2](https://mybettingsites.co.uk/learn/betting-odds-explained/), [Web 3](https://www.actionnetwork.com/betting-calculators/betting-odds-calculator) |
-||||[Web 4](https://www.vegas.com/gaming/gaming-tips/sports-betting/), [Web 5](https://www.thesportsgeek.com/blog/beginners-tips-understanding-parlay-119/) ,[Web 6](https://www.thelines.com/betting/teaser/), [Article 1](Articles/Gambling/Gambling_Levitt.pdf), [Article 2](Articles/Gambling/Gambling_FleppNueschFranck.pdf) |
-|NOV 15| Sports Gambling II | [Slides](Slides/Gambling 2/Gambling_2_Lecture.pdf) |Ch. 40 MATH, [Web 1](https://fivethirtyeight.com/methodology/how-our-nfl-predictions-work/) | -->
-|NOV 17| Sports Gambling III | [Slides](Slides/Gambling 3/Gambling_3_Lecture.pdf) |Ch. 44 MATH, [Web 1](https://www.pinnacle.com/en/betting-articles/Betting-Strategy/How-to-use-kelly-criterion-for-betting/2BT2LK6K2QWQ7QJ8), [Web 2](https://www.oddsshark.com/sports-betting/best-sports-betting-strategies), [Article 1](Articles/Gambling/Gambling_Thorp.pdf)|
-|NOV 19| Hockey I | [Slides](Slides/Hockey 1/Hockey_1_Lecture.pdf) | Ch. 13-15 HSMAS, [Article 1](rticles/Hockey/Hockey_Thomas_Ventura_Jensen_Ma.pdf), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick),[Web 2](http://hockeygoalies.org/stats/glossary.html), [Web 3](https://rdrr.io/cran/nhlscrapr/) |
-|NOV 22| Hockey II |  [Slides](Slides/Hockey 2/Hockey_2_Lecture.pdf) | Ch. 13-15 HSMAS, [Article 1](Articles/Hockey/Hockey_Thomas_Ventura_Jensen_Ma.pdf), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick),[Web 2](http://hockeygoalies.org/stats/glossary.html), [Web 3](https://rdrr.io/cran/nhlscrapr/) |
-|NOV 24| Thanksgiving #SWAG | | |
-|NOV 26| Thanksgiving #SWAG | | |
-|NOV 29| Work on Championship| | |
-|DEC 1| Last Regular Season Quiz | | |
-|||||
-<!-- |MAY 3| Guest Speaker (Ted Henson) | | [Web 1](https://www.linkedin.com/public-profile/in/ted-henson?challengeId=AQHagpbSsuwnzAAAAXjXUP3_AeQwrwOkoqdfrNhKNl11Buuf6fM5N18IVB_AtqWidrI9xpgxCPWbh8O7ESeu8W6QE6BbFKn59Q&submissionId=f4b72289-7723-7616-ce4d-5f541f83dc18), [Article 1](Articles/Honors Thesis Final.pdf) | -->
+<!-- |NOV 10| Sports Gambling I | [Slides](Slides/Gambling 1/Gambling_1_Lecture.pdf) |Ch. 38-39 MATH, [Web 1](https://www.thesportsgeek.com/sports-betting/what-is-a-unit/), [Web 2](https://mybettingsites.co.uk/learn/betting-odds-explained/), [Web 3](https://www.actionnetwork.com/betting-calculators/betting-odds-calculator) | -->
+<!-- ||||[Web 4](https://www.vegas.com/gaming/gaming-tips/sports-betting/), [Web 5](https://www.thesportsgeek.com/blog/beginners-tips-understanding-parlay-119/) ,[Web 6](https://www.thelines.com/betting/teaser/), [Article 1](Articles/Gambling/Gambling_Levitt.pdf), [Article 2](Articles/Gambling/Gambling_FleppNueschFranck.pdf) | -->
+<!-- |NOV 12| Sports Gambling I (Cont.) | [Slides](Slides/Gambling 1/Gambling_1_Lecture.pdf) |Ch. 38-39 MATH, [Web 1](https://www.thesportsgeek.com/sports-betting/what-is-a-unit/), [Web 2](https://mybettingsites.co.uk/learn/betting-odds-explained/), [Web 3](https://www.actionnetwork.com/betting-calculators/betting-odds-calculator) | -->
+<!-- ||||[Web 4](https://www.vegas.com/gaming/gaming-tips/sports-betting/), [Web 5](https://www.thesportsgeek.com/blog/beginners-tips-understanding-parlay-119/) ,[Web 6](https://www.thelines.com/betting/teaser/), [Article 1](Articles/Gambling/Gambling_Levitt.pdf), [Article 2](Articles/Gambling/Gambling_FleppNueschFranck.pdf) | -->
+<!-- |NOV 15| Sports Gambling II | [Slides](Slides/Gambling 2/Gambling_2_Lecture.pdf) |Ch. 40 MATH, [Web 1](https://fivethirtyeight.com/methodology/how-our-nfl-predictions-work/) | --> -->
+<!-- |NOV 17| Sports Gambling III | [Slides](Slides/Gambling 3/Gambling_3_Lecture.pdf) |Ch. 44 MATH, [Web 1](https://www.pinnacle.com/en/betting-articles/Betting-Strategy/How-to-use-kelly-criterion-for-betting/2BT2LK6K2QWQ7QJ8), [Web 2](https://www.oddsshark.com/sports-betting/best-sports-betting-strategies), [Article 1](Articles/Gambling/Gambling_Thorp.pdf)| -->
+<!-- |NOV 19| Hockey I | [Slides](Slides/Hockey 1/Hockey_1_Lecture.pdf) | Ch. 13-15 HSMAS, [Article 1](rticles/Hockey/Hockey_Thomas_Ventura_Jensen_Ma.pdf), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick),[Web 2](http://hockeygoalies.org/stats/glossary.html), [Web 3](https://rdrr.io/cran/nhlscrapr/) | -->
+<!-- |NOV 22| Hockey II |  [Slides](Slides/Hockey 2/Hockey_2_Lecture.pdf) | Ch. 13-15 HSMAS, [Article 1](Articles/Hockey/Hockey_Thomas_Ventura_Jensen_Ma.pdf), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick),[Web 2](http://hockeygoalies.org/stats/glossary.html), [Web 3](https://rdrr.io/cran/nhlscrapr/) | -->
+<!-- |NOV 24| Thanksgiving #SWAG | | | -->
+<!-- |NOV 26| Thanksgiving #SWAG | | | -->
+<!-- |NOV 29| Work on Championship| | | -->
+<!-- |DEC 1| Last Regular Season Quiz | | | -->
+<!-- ||||| -->
 
 
 
@@ -276,87 +276,87 @@ The regular season consists of biweekly quizzes on the material presented in cla
 
 ## Playoffs Round 1
 
-The first round will be a data gathering and summary report. Imagine you are an analyst working for the coach or athlete and want to discover insights that would bring a competitive edge. In a world saturated with data, the way to ensure your analysis is unique and creative is to get the data yourself. To successfully conduct your study, you should follow the steps below:
+<!-- The first round will be a data gathering and summary report. Imagine you are an analyst working for the coach or athlete and want to discover insights that would bring a competitive edge. In a world saturated with data, the way to ensure your analysis is unique and creative is to get the data yourself. To successfully conduct your study, you should follow the steps below: -->
 
-1. Decide on What Area of Sports You Would Like to Analyze
-     - This Can Be Any Traditional Sport (Baseball, NASCAR, Soccer, Volleyball, Tennis, etc.)
-     - This Can Be A More Obscure Sport (Cornhole, Climbing, Drone Racing, etc.)
-     - This Can Be A Video Game that Is Played Competitively
-     - This Can Be A Board Game that Is Played Competitively
-     
-2. Critically Think About What Questions/Opinions That You or Society Have About the Sport
-     - What Statistics or Metrics Can Be Used to Describe Success
-     - What Information Contributes to Success
+<!-- 1. Decide on What Area of Sports You Would Like to Analyze -->
+<!--      - This Can Be Any Traditional Sport (Baseball, NASCAR, Soccer, Volleyball, Tennis, etc.) -->
+<!--      - This Can Be A More Obscure Sport (Cornhole, Climbing, Drone Racing, etc.) -->
+<!--      - This Can Be A Video Game that Is Played Competitively -->
+<!--      - This Can Be A Board Game that Is Played Competitively -->
 
-3. Plan the Study After Discussing the Sport With Your Team
-     - Choose the Level at Which to Gather Data (Team, Player, Game, Play/Event, Time, etc.)
-     - Choosing Levels at Higher Resolutions Make it Easier to Gather Enough Data
-     - Identify at Least 5 Variables You Want to Gather at the Specified Level
-     - Variables Can Be All Categorical, All Numeric, or Mixture
+<!-- 2. Critically Think About What Questions/Opinions That You or Society Have About the Sport -->
+<!--      - What Statistics or Metrics Can Be Used to Describe Success -->
+<!--      - What Information Contributes to Success -->
 
-4. Watch or Play the Sport Enough Times to Get a Minimum of 25 Observations (Highly Advise Aiming for More)
-     - Depends on the Level at Which You're Gathering Data
-     - Example: If the Level is Game, You Would Need to Watch or Play the Sport at Least 25 Times
-     - Example: If the Level is Play/Event, You Would Need to Watch Enough to Gather Data for 25 Plays or Events
-     - Example: If the Level is Time (minutes), You Would have to Gather Information for A Minimum of 25 Minutes
+<!-- 3. Plan the Study After Discussing the Sport With Your Team -->
+<!--      - Choose the Level at Which to Gather Data (Team, Player, Game, Play/Event, Time, etc.) -->
+<!--      - Choosing Levels at Higher Resolutions Make it Easier to Gather Enough Data -->
+<!--      - Identify at Least 5 Variables You Want to Gather at the Specified Level -->
+<!--      - Variables Can Be All Categorical, All Numeric, or Mixture -->
 
-5. As a Team, Track the Data in a Spreadsheet
-     - All Data Must Be Recorded in the Same Electronic Spreadsheet (Excel,CSV, etc.)
-     - Each Row Should Be a Different Observation According to the Level Selected
-     - Can Be Recorded on Paper Separately, But Must Be Compiled Electronically Into a Single Spreadsheet
+<!-- 4. Watch or Play the Sport Enough Times to Get a Minimum of 25 Observations (Highly Advise Aiming for More) -->
+<!--      - Depends on the Level at Which You're Gathering Data -->
+<!--      - Example: If the Level is Game, You Would Need to Watch or Play the Sport at Least 25 Times -->
+<!--      - Example: If the Level is Play/Event, You Would Need to Watch Enough to Gather Data for 25 Plays or Events -->
+<!--      - Example: If the Level is Time (minutes), You Would have to Gather Information for A Minimum of 25 Minutes -->
 
-Your study should be summarized in a paper of 3 to 5 pages. The paper and dataset should be submitted on **[Sakai](https://sakai.unc.edu/welcome/)** before 5:00PM on the due date. Each group should have their own paper and data, but both need to be submitted by every member of the group. Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). Fill out the appropriate google form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group. 
+<!-- 5. As a Team, Track the Data in a Spreadsheet -->
+<!--      - All Data Must Be Recorded in the Same Electronic Spreadsheet (Excel,CSV, etc.) -->
+<!--      - Each Row Should Be a Different Observation According to the Level Selected -->
+<!--      - Can Be Recorded on Paper Separately, But Must Be Compiled Electronically Into a Single Spreadsheet -->
 
-On the first page, you should title your paper and give the names of the team members who contributed. The content of the paper should be organized in the following 3 subsections:
+<!-- Your study should be summarized in a paper of 3 to 5 pages. The paper and dataset should be submitted on **[Sakai](https://sakai.unc.edu/welcome/)** before 5:00PM on the due date. Each group should have their own paper and data, but both need to be submitted by every member of the group. Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). Fill out the appropriate google form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group.  -->
 
-### 1) Introduction to the Data
+<!-- On the first page, you should title your paper and give the names of the team members who contributed. The content of the paper should be organized in the following 3 subsections: -->
 
-In this section, you should discuss three things. 
+<!-- ### 1) Introduction to the Data -->
 
-First, you should briefly discuss the sport/game your team selected and the overall purpose of analyzing data for this sport/game. For example, what did you hypothesize or hope to find from studying the sport/game? 
+<!-- In this section, you should discuss three things.  -->
 
-Second, you should give a preview of your data showing at least the first 5 rows of your dataset. There should be at least 5 columns for each of the variables you measured on each observation. Give your variables clear names so anyone could understand what you measured, and make the table aesthetically pleasing (rounding, colors, etc.). It is okay to abbreviate variable names (e.g. R/G) if you identify the abbreviations (e.g Runs (R) and Games (G)) somewhere in the document. 
+<!-- First, you should briefly discuss the sport/game your team selected and the overall purpose of analyzing data for this sport/game. For example, what did you hypothesize or hope to find from studying the sport/game?  -->
 
-Third, you should briefly describe your data. When did you gather your data? Where did you gather your data? How did you gather your data (Watch or Play Game)? What does each observation (i.e. row in data) represent and how many observations do you have? Describe the five variables and how they were measured. I want a clear description of how the data was collected, what role each member on your team played in the gathering of the data, and information about the contents of the raw data.
+<!-- Second, you should give a preview of your data showing at least the first 5 rows of your dataset. There should be at least 5 columns for each of the variables you measured on each observation. Give your variables clear names so anyone could understand what you measured, and make the table aesthetically pleasing (rounding, colors, etc.). It is okay to abbreviate variable names (e.g. R/G) if you identify the abbreviations (e.g Runs (R) and Games (G)) somewhere in the document.  -->
 
-### 2) Summary of the Data
-In this section, I want a table(s) and two figures summarizing the data. Each table and each figure you give should have a couple sentences describing the information summarized.
+<!-- Third, you should briefly describe your data. When did you gather your data? Where did you gather your data? How did you gather your data (Watch or Play Game)? What does each observation (i.e. row in data) represent and how many observations do you have? Describe the five variables and how they were measured. I want a clear description of how the data was collected, what role each member on your team played in the gathering of the data, and information about the contents of the raw data. -->
 
-The table(s) should be the same style as the table in the introduction (not different colors, fonts, rounding, etc.). The table(s) should efficiently summarize the five variables using popular statistics. If the variable is numeric (continuous or discrete), you should give the minimum, maximum, mean, and standard deviation, at least. If the variable is categorical, you should give the possible values with frequencies (counts) and relative frequencies (%). If you have a combination of categorical and numeric, I advise doing separate tables which will count as a single table. All tables should be formatted similarly.
+<!-- ### 2) Summary of the Data -->
+<!-- In this section, I want a table(s) and two figures summarizing the data. Each table and each figure you give should have a couple sentences describing the information summarized. -->
 
-Then, you should have two figures summarizing relationships between the variables you selected. In each figure, at least 2 variables, should be summarized. Appropriate axis names and scales should be used. Fonts should be large enough to read. These figures should be chosen with a purpose to later describe insights you learned from analyzing the data.
+<!-- The table(s) should be the same style as the table in the introduction (not different colors, fonts, rounding, etc.). The table(s) should efficiently summarize the five variables using popular statistics. If the variable is numeric (continuous or discrete), you should give the minimum, maximum, mean, and standard deviation, at least. If the variable is categorical, you should give the possible values with frequencies (counts) and relative frequencies (%). If you have a combination of categorical and numeric, I advise doing separate tables which will count as a single table. All tables should be formatted similarly. -->
 
-Following all instructions gets you two points. The last point is reserved for creativity, design, and over-achievement. This will be determined by comparing what you do to what the other teams do. I reward you for taking risks that that lead to better results then I require. For example in the table(s), calculating confidence intervals for numeric variables, creating contingency tables, or summarizing numeric variables for different subgroups from categorical variables. For example in the figures, tile, 3D, or map plots showing relationships across multiple variables. Also, I don't mind if you give more than two figures or put multiple figures together in a grid. If you create a ton of figures, I will grade your two worst figures so make sure each figure is valuable and worth discussing.
+<!-- Then, you should have two figures summarizing relationships between the variables you selected. In each figure, at least 2 variables, should be summarized. Appropriate axis names and scales should be used. Fonts should be large enough to read. These figures should be chosen with a purpose to later describe insights you learned from analyzing the data. -->
 
-### 3) Insights from the Data
+<!-- Following all instructions gets you two points. The last point is reserved for creativity, design, and over-achievement. This will be determined by comparing what you do to what the other teams do. I reward you for taking risks that that lead to better results then I require. For example in the table(s), calculating confidence intervals for numeric variables, creating contingency tables, or summarizing numeric variables for different subgroups from categorical variables. For example in the figures, tile, 3D, or map plots showing relationships across multiple variables. Also, I don't mind if you give more than two figures or put multiple figures together in a grid. If you create a ton of figures, I will grade your two worst figures so make sure each figure is valuable and worth discussing. -->
 
-The content in the previous two sections should be used to support two insights. An insight is a deeper understanding you gained about the sport from gathering and summarizing data. The insights should be connected to the purpose you outlined in the "Introduction to the Data" section and defended from the tables/figures in the "Summary of the Data" section. I recommend giving your figures and tables numbers so you can reference them in this section (e.g. Table 1, Figure 2). Write, at least, one paragraph for each insight. What were the two most interesting things you learned from the data? If you don't reference statistics or figures you created, you will lose two points, at least. To get full credit, I advise supplementing your insights with p-values from appropriate hypothesis tests (t-test, anova, regression, difference in proportions, independence tests, etc.) or provide confidence intervals (means, proportions, etc.). Excellent insights should not be obvious but lead to innovations that would give a decision maker or athlete the competitive edge. Tests for statistical significance are the strongest way to defend your arguments.
+<!-- ### 3) Insights from the Data -->
 
-Also, in this section, after discussing your insights, you should write, at least, one paragraph where you critique what your group would have done differently. Would you have gather another variable which could potentially be confounding? Would you have measured a particular variable differently? What other information that you did not gather would have made this study better or have been of use? No study is done perfect and there are always aspects that could be improved. After I read your entire paper, I will take off a point for every single thing that I think you should have done differently that you did not highlight in this section. If there is a criticism that I incorrectly identify because you are extremely vague in the description of your study or in the summary of your insights, then you are at fault. Be very clear in describing all aspects of the data and method of collection in the first section.
+<!-- The content in the previous two sections should be used to support two insights. An insight is a deeper understanding you gained about the sport from gathering and summarizing data. The insights should be connected to the purpose you outlined in the "Introduction to the Data" section and defended from the tables/figures in the "Summary of the Data" section. I recommend giving your figures and tables numbers so you can reference them in this section (e.g. Table 1, Figure 2). Write, at least, one paragraph for each insight. What were the two most interesting things you learned from the data? If you don't reference statistics or figures you created, you will lose two points, at least. To get full credit, I advise supplementing your insights with p-values from appropriate hypothesis tests (t-test, anova, regression, difference in proportions, independence tests, etc.) or provide confidence intervals (means, proportions, etc.). Excellent insights should not be obvious but lead to innovations that would give a decision maker or athlete the competitive edge. Tests for statistical significance are the strongest way to defend your arguments. -->
+
+<!-- Also, in this section, after discussing your insights, you should write, at least, one paragraph where you critique what your group would have done differently. Would you have gather another variable which could potentially be confounding? Would you have measured a particular variable differently? What other information that you did not gather would have made this study better or have been of use? No study is done perfect and there are always aspects that could be improved. After I read your entire paper, I will take off a point for every single thing that I think you should have done differently that you did not highlight in this section. If there is a criticism that I incorrectly identify because you are extremely vague in the description of your study or in the summary of your insights, then you are at fault. Be very clear in describing all aspects of the data and method of collection in the first section. -->
 
 
-### Rubric
+<!-- ### Rubric -->
 
-The first playoff round is worth a total of 45 points based on the following rubric:
+<!-- The first playoff round is worth a total of 45 points based on the following rubric: -->
 
-| Criteria | 0 | 1 | 2 | 3 |
-|:-----------:|:------:|:------:|:------:|:------:|
-|Title Page |Instructions Not Followed|Missing Entire Element|Missing a Team Member|Title+Team Members |
-|Introduction: Purpose |Not Innovative or Clearly Described|Not Innovative and Clearly Described|Somewhat Innovative and Clearly Described|Innovative and Clearly Described|
-|Introduction: Preview |Not Attempted|Missing Rows or Columns|5 Rows and 5 Columns|Outstanding|
-|Introduction: Description |Not Attempted|Missing Key Information|Answers Questions But Poorly Written|Addresses All Questions Well|
-|Summary: Table |Missing More Than 1 Statistic|Missing 1 Statistic|Followed Instructions|Excellent|
-|Summary: Figure 1 |Not Attempted|Not 2 Variables or Messy|2 Variables and Clear|Excellent|
-|Summary: Figure 2 |Not Attempted|Not 2 Variables or Messy|2 Variables and Clear|Excellent|
-|Summary: Table/Figure Descriptions|Not Attempted|Missing Important Descriptions|Some Descriptions Unclear|Everything Clearly Described|
-|Insights: First Insight|Not Attempted|Mediocre/Weak|Reference Summary Section|Excellent|
-|Insights: Second Insight|Not Attempted|Mediocre/Weak|Reference Summary Section|Excellent|
-|Insights: Done Differently |Missing 3 Obvious Things|Missing 2 Obvious Things|Missing 1 Obvious Thing|Got Everything|
-|Instructions Followed|Organized Incorrectly|Organized Correctly without Section Headings||Organized Correctly with Section Headings|
-|Spelling/Grammar|>5 Errors| 3-5 Errors|1-2 Errors|No Errors|
-|Value|Bad|Okay|Good|Excellent|
-|Submitted|Late|||On Time|
-||||||
+<!-- | Criteria | 0 | 1 | 2 | 3 | -->
+<!-- |:-----------:|:------:|:------:|:------:|:------:| -->
+<!-- |Title Page |Instructions Not Followed|Missing Entire Element|Missing a Team Member|Title+Team Members | -->
+<!-- |Introduction: Purpose |Not Innovative or Clearly Described|Not Innovative and Clearly Described|Somewhat Innovative and Clearly Described|Innovative and Clearly Described| -->
+<!-- |Introduction: Preview |Not Attempted|Missing Rows or Columns|5 Rows and 5 Columns|Outstanding| -->
+<!-- |Introduction: Description |Not Attempted|Missing Key Information|Answers Questions But Poorly Written|Addresses All Questions Well| -->
+<!-- |Summary: Table |Missing More Than 1 Statistic|Missing 1 Statistic|Followed Instructions|Excellent| -->
+<!-- |Summary: Figure 1 |Not Attempted|Not 2 Variables or Messy|2 Variables and Clear|Excellent| -->
+<!-- |Summary: Figure 2 |Not Attempted|Not 2 Variables or Messy|2 Variables and Clear|Excellent| -->
+<!-- |Summary: Table/Figure Descriptions|Not Attempted|Missing Important Descriptions|Some Descriptions Unclear|Everything Clearly Described| -->
+<!-- |Insights: First Insight|Not Attempted|Mediocre/Weak|Reference Summary Section|Excellent| -->
+<!-- |Insights: Second Insight|Not Attempted|Mediocre/Weak|Reference Summary Section|Excellent| -->
+<!-- |Insights: Done Differently |Missing 3 Obvious Things|Missing 2 Obvious Things|Missing 1 Obvious Thing|Got Everything| -->
+<!-- |Instructions Followed|Organized Incorrectly|Organized Correctly without Section Headings||Organized Correctly with Section Headings| -->
+<!-- |Spelling/Grammar|>5 Errors| 3-5 Errors|1-2 Errors|No Errors| -->
+<!-- |Value|Bad|Okay|Good|Excellent| -->
+<!-- |Submitted|Late|||On Time| -->
+<!-- |||||| -->
 
 
 -------
@@ -370,81 +370,81 @@ The first playoff round is worth a total of 45 points based on the following rub
 
 ## Playoffs Round 2
 
-The second round will be a predictive modeling project related to the world of sports betting in the NFL. Thanks to our great teaching assistants, Matt Johnson and Andy Ackerman, for helping in the planning of this project. Access the data at the **[repository](https://github.com/mattymo18/STOR-538-P2-2021-Spring)**. Here you will find important NFL data from 2000 to 2021. 
+<!-- The second round will be a predictive modeling project related to the world of sports betting in the NFL. Thanks to our great teaching assistants, Matt Johnson and Andy Ackerman, for helping in the planning of this project. Access the data at the **[repository](https://github.com/mattymo18/STOR-538-P2-2021-Spring)**. Here you will find important NFL data from 2000 to 2021.  -->
 
-The primary goal of this project is to design models for prediction of three variables -- $Spread$, $Total$, and $Result$ -- often used in sports gambling. Below you can find clear definitions of these three outcome variables. It is imperative that you follow these specifications. Your group will be making predictions of the three variables for all NFL games between November 8 and November 29, inclusively. Your predictions should be saved in the dataset called **[Predictions](Playoffs/Round 2/Predictions.csv)**. Here you will find missing values where future predictions will be placed. This completed file should be submitted along with a paper summarizing your methodology. You will not only be graded by your methodology, but also by your predictive accuracy. Predictions for $Spread$ will be evaluated by root mean squared error (RMSE), predictions for $Total$ will be evaluated by mean absolute error (MAE), and predictions for $Result$ will be evaluated by classification accuracy (ACC). For each of the variables, the top 5 groups will get 3 points, the middle 5 groups will get 2 points, the bottom 4 groups will get 1 point.
+<!-- The primary goal of this project is to design models for prediction of three variables -- $Spread$, $Total$, and $Result$ -- often used in sports gambling. Below you can find clear definitions of these three outcome variables. It is imperative that you follow these specifications. Your group will be making predictions of the three variables for all NFL games between November 8 and November 29, inclusively. Your predictions should be saved in the dataset called **[Predictions](Playoffs/Round 2/Predictions.csv)**. Here you will find missing values where future predictions will be placed. This completed file should be submitted along with a paper summarizing your methodology. You will not only be graded by your methodology, but also by your predictive accuracy. Predictions for $Spread$ will be evaluated by root mean squared error (RMSE), predictions for $Total$ will be evaluated by mean absolute error (MAE), and predictions for $Result$ will be evaluated by classification accuracy (ACC). For each of the variables, the top 5 groups will get 3 points, the middle 5 groups will get 2 points, the bottom 4 groups will get 1 point. -->
 
-- $Spread = \textrm{Home Points} - \textrm{Away Points}$
+<!-- - $Spread = \textrm{Home Points} - \textrm{Away Points}$ -->
 
-- $Total = \textrm{Home Points} + \textrm{Away Points}$
+<!-- - $Total = \textrm{Home Points} + \textrm{Away Points}$ -->
 
-- $Result = \begin{cases}
-      1 & \textrm{if Home Team Wins} \\
-      0 & \textrm{if Home Team Loses}
-   \end{cases}$
-
-
-To build adequare predictive models, historical data is needed for training and testing. The dataset **[game_results](https://github.com/mattymo18/STOR-538-P2-2021-Spring/blob/master/Source_Data/game_results.csv)** contains important information about every game in the NFL since 1966. I would advise only using a subset of the data from recent years. The dataset **[nfl_stadiums](https://github.com/mattymo18/STOR-538-P2-2021-Spring/blob/master/Source_Data/nfl_stadiums.csv)** contains information on all NFL stadiums. The dataset **[nfl_teams](https://github.com/mattymo18/STOR-538-P2-2021-Spring/blob/master/Source_Data/nfl_teams.csv)** contains important information necessary for linking datasets according to team name and abbreviations. Season-level offensive data and defensive data for every NFL team since 2010 can be found in the folders **[Offensive-Stats](https://github.com/mattymo18/STOR-538-P2-2021-Spring/tree/master/Source_Data/Offensive-Stats)** and **[Defensive-Stats](https://github.com/mattymo18/STOR-538-P2-2021-Spring/tree/master/Source_Data/Defensive-Stats)**. Descriptions of all of these datasets can be found on Matt Johnson's **[repository](https://github.com/mattymo18/STOR-538-P2-2021-Spring)**.
-
-The data you are given is elementary and basic. Because of this, you are required to engineer new variables and use outside data. This is highly recommended to gain a competitive edge in the sports betting market. For the engineering of new variables, consider creating differences and ratios between the stats for the home and away teams. Also, it may be useful to create variables that represent past information such as moving averages or lagged variables.  These are just two basic examples. For the use of outside data, explore research for what other variables could be important for predicting these three variables. 
-
-- [NFL Play-by-Play on Kaggle](https://www.kaggle.com/maxhorowitz/nflplaybyplay2009to2016?select=NFL+Play+by+Play+2009-2018+%28v5%29.csv)
-- [NFL Injuries on Data.World](https://www.kaggle.com/sgonza03/nfl-major-injuries)
-- [Pro-Football Reference](https://www.pro-football-reference.com/)
-- [QB Statistics on Kaggle](https://www.kaggle.com/speckledpingu/nfl-qb-stats)
-- [Player Statistics on Kaggle](https://www.kaggle.com/kendallgillies/nflstatistics?select=Basic_Stats.csv)
-- [R Package: nflfastR](https://cran.r-project.org/web/packages/nflfastR/index.html), [Twitter](https://twitter.com/nflfastr?lang=en), [Vignettes](https://github.com/mrcaseb/nflfastR/tree/master/vignettes), [My Sample Code](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/blob/master/Playoffs/Round%202/nflfast.R)
-
-Your study should be summarized in a paper of 3 to 7 pages. The paper and predictions should be submitted on **[Sakai](https://sakai.unc.edu/welcome/)** before 5:00PM on the due date. Each group should have their own paper and predictions, but both need to be submitted by every member of the group. Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). When you submit your paper on **[Sakai](https://sakai.unc.edu/welcome/)**, you should write the full names of the other group members and the value of their contribution. Your individual value will be determined by the average score of the other members in your group gave you.
-
-On the first page, you should title your paper and give the names of the team members who contributed. The content of the paper should be organized in the following 4 subsections:
-
-### 1) Data Information
-
-In this section, you should discuss three things.
-
-First, you should explain the steps taken to get the datasets cleaned and joined. How did you handle missing data? What did you do to identify outliers and how did you handle these instances? Were there any games intentionally removed and what were the reasons?
-
-Second, you should discuss any variables engineered and defend the reason. You are required to create/engineer at least **one variable** that doesn't exist in any dataset in **[repository](https://github.com/mattymo18/STOR-538-P2-2021-Spring)** or from other sources. You should be able to explain why you think the variable you created would help in predicting game outcomes.
-
-Third, you should discuss all outside data you joined into your dataset to hopefully improve prediction. You are required to utilize at least **one variable** that is not currently contained in any of the datasets. This could be weather, attendance, advanced stats, quarterback information, time of possession, lagged variables, etc. For all data you bring into your predictive models from outside sources, you should site the source and defend the reason for incorporating the data into your model.
-
-### 2) Methodology for $Spread$
-
-You should clearly describe your group's best predictive model for $Spread$ and the steps you took to get there. Discuss what variables were useful and useless for predicting spread. Since $Spread$ is a numeric variable, I highly recommend a basic linear regression as a baseline with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the best model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best.
-
-### 3) Methodology for $Total$
-
-You should clearly describe your group's best predictive model for $Total$ and the steps you took to get there. Discuss what variables were useful and useless for predicting spread. $Total$ is a numeric variable but could be highly skewed, I highly recommend nonlinear transformations or a poisson regression with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the best model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best.
-
-### 4) Methodology for $Result$
-
-You should clearly describe your group's best predictive model for $Result$ and the steps you took to get there. Discuss what variables were useful and useless for predicting spread. Since $Result$ is a numeric variable, I highly recommend a basic logistic regression as a baseline with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (random forests, classification trees, K-Nearest Neighbors, etc.), utilizing cross-validation, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the best model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally so someone with basic understanding in statistics and the sport. You are not required to presenting tables or figures, but these can be used to defend why the model you are calling the "best" is actually best.
+<!-- - $Result = \begin{cases} -->
+<!--       1 & \textrm{if Home Team Wins} \\ -->
+<!--       0 & \textrm{if Home Team Loses} -->
+<!--    \end{cases}$ -->
 
 
-### Rubric
+<!-- To build adequare predictive models, historical data is needed for training and testing. The dataset **[game_results](https://github.com/mattymo18/STOR-538-P2-2021-Spring/blob/master/Source_Data/game_results.csv)** contains important information about every game in the NFL since 1966. I would advise only using a subset of the data from recent years. The dataset **[nfl_stadiums](https://github.com/mattymo18/STOR-538-P2-2021-Spring/blob/master/Source_Data/nfl_stadiums.csv)** contains information on all NFL stadiums. The dataset **[nfl_teams](https://github.com/mattymo18/STOR-538-P2-2021-Spring/blob/master/Source_Data/nfl_teams.csv)** contains important information necessary for linking datasets according to team name and abbreviations. Season-level offensive data and defensive data for every NFL team since 2010 can be found in the folders **[Offensive-Stats](https://github.com/mattymo18/STOR-538-P2-2021-Spring/tree/master/Source_Data/Offensive-Stats)** and **[Defensive-Stats](https://github.com/mattymo18/STOR-538-P2-2021-Spring/tree/master/Source_Data/Defensive-Stats)**. Descriptions of all of these datasets can be found on Matt Johnson's **[repository](https://github.com/mattymo18/STOR-538-P2-2021-Spring)**. -->
 
-The second playoff round is worth a total of 48 points based on the following rubric:
+<!-- The data you are given is elementary and basic. Because of this, you are required to engineer new variables and use outside data. This is highly recommended to gain a competitive edge in the sports betting market. For the engineering of new variables, consider creating differences and ratios between the stats for the home and away teams. Also, it may be useful to create variables that represent past information such as moving averages or lagged variables.  These are just two basic examples. For the use of outside data, explore research for what other variables could be important for predicting these three variables.  -->
 
-| Criteria | 0 | 1 | 2 | 3 |
-|:-----------:|:------:|:------:|:------:|:------:|
-|Title Page |Instructions Not Followed|Missing Entire Element|Missing a Team Member|Title+Team Members |
-|Data: Cleaning Summary|Unclear|Slightly Unclear|Slightly Clear|Clear|
-|Data: New Variable|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended|
-|Data: Outside Data|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended|
-|Spread: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough|
-|Spread: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description|
-|Spread: Prediction|None|Bottom 4| Middle 5 |Top 5|
-|Total: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough|
-|Total: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description|
-|Total: Prediction|None|Bottom 4|Middle 5|Top 5|
-|Result: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough|
-|Result: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description|
-|Result: Prediction|None|Bottom 4|Middle 5|Top 5|
-|Spelling/Grammar|>5 Errors| 3-5 Errors|1-2 Errors|No Errors|
-|Value|Bad|Okay|Good|Excellent|
-|Submitted|Late|||On Time|
-||||||
+<!-- - [NFL Play-by-Play on Kaggle](https://www.kaggle.com/maxhorowitz/nflplaybyplay2009to2016?select=NFL+Play+by+Play+2009-2018+%28v5%29.csv) -->
+<!-- - [NFL Injuries on Data.World](https://www.kaggle.com/sgonza03/nfl-major-injuries) -->
+<!-- - [Pro-Football Reference](https://www.pro-football-reference.com/) -->
+<!-- - [QB Statistics on Kaggle](https://www.kaggle.com/speckledpingu/nfl-qb-stats) -->
+<!-- - [Player Statistics on Kaggle](https://www.kaggle.com/kendallgillies/nflstatistics?select=Basic_Stats.csv) -->
+<!-- - [R Package: nflfastR](https://cran.r-project.org/web/packages/nflfastR/index.html), [Twitter](https://twitter.com/nflfastr?lang=en), [Vignettes](https://github.com/mrcaseb/nflfastR/tree/master/vignettes), [My Sample Code](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/blob/master/Playoffs/Round%202/nflfast.R) -->
+
+<!-- Your study should be summarized in a paper of 3 to 7 pages. The paper and predictions should be submitted on **[Sakai](https://sakai.unc.edu/welcome/)** before 5:00PM on the due date. Each group should have their own paper and predictions, but both need to be submitted by every member of the group. Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). When you submit your paper on **[Sakai](https://sakai.unc.edu/welcome/)**, you should write the full names of the other group members and the value of their contribution. Your individual value will be determined by the average score of the other members in your group gave you. -->
+
+<!-- On the first page, you should title your paper and give the names of the team members who contributed. The content of the paper should be organized in the following 4 subsections: -->
+
+<!-- ### 1) Data Information -->
+
+<!-- In this section, you should discuss three things. -->
+
+<!-- First, you should explain the steps taken to get the datasets cleaned and joined. How did you handle missing data? What did you do to identify outliers and how did you handle these instances? Were there any games intentionally removed and what were the reasons? -->
+
+<!-- Second, you should discuss any variables engineered and defend the reason. You are required to create/engineer at least **one variable** that doesn't exist in any dataset in **[repository](https://github.com/mattymo18/STOR-538-P2-2021-Spring)** or from other sources. You should be able to explain why you think the variable you created would help in predicting game outcomes. -->
+
+<!-- Third, you should discuss all outside data you joined into your dataset to hopefully improve prediction. You are required to utilize at least **one variable** that is not currently contained in any of the datasets. This could be weather, attendance, advanced stats, quarterback information, time of possession, lagged variables, etc. For all data you bring into your predictive models from outside sources, you should site the source and defend the reason for incorporating the data into your model. -->
+
+<!-- ### 2) Methodology for $Spread$ -->
+
+<!-- You should clearly describe your group's best predictive model for $Spread$ and the steps you took to get there. Discuss what variables were useful and useless for predicting spread. Since $Spread$ is a numeric variable, I highly recommend a basic linear regression as a baseline with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the best model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best. -->
+
+<!-- ### 3) Methodology for $Total$ -->
+
+<!-- You should clearly describe your group's best predictive model for $Total$ and the steps you took to get there. Discuss what variables were useful and useless for predicting spread. $Total$ is a numeric variable but could be highly skewed, I highly recommend nonlinear transformations or a poisson regression with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the best model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best. -->
+
+<!-- ### 4) Methodology for $Result$ -->
+
+<!-- You should clearly describe your group's best predictive model for $Result$ and the steps you took to get there. Discuss what variables were useful and useless for predicting spread. Since $Result$ is a numeric variable, I highly recommend a basic logistic regression as a baseline with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (random forests, classification trees, K-Nearest Neighbors, etc.), utilizing cross-validation, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the best model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally so someone with basic understanding in statistics and the sport. You are not required to presenting tables or figures, but these can be used to defend why the model you are calling the "best" is actually best. -->
+
+
+<!-- ### Rubric -->
+
+<!-- The second playoff round is worth a total of 48 points based on the following rubric: -->
+
+<!-- | Criteria | 0 | 1 | 2 | 3 | -->
+<!-- |:-----------:|:------:|:------:|:------:|:------:| -->
+<!-- |Title Page |Instructions Not Followed|Missing Entire Element|Missing a Team Member|Title+Team Members | -->
+<!-- |Data: Cleaning Summary|Unclear|Slightly Unclear|Slightly Clear|Clear| -->
+<!-- |Data: New Variable|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended| -->
+<!-- |Data: Outside Data|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended| -->
+<!-- |Spread: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough| -->
+<!-- |Spread: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description| -->
+<!-- |Spread: Prediction|None|Bottom 4| Middle 5 |Top 5| -->
+<!-- |Total: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough| -->
+<!-- |Total: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description| -->
+<!-- |Total: Prediction|None|Bottom 4|Middle 5|Top 5| -->
+<!-- |Result: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough| -->
+<!-- |Result: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description| -->
+<!-- |Result: Prediction|None|Bottom 4|Middle 5|Top 5| -->
+<!-- |Spelling/Grammar|>5 Errors| 3-5 Errors|1-2 Errors|No Errors| -->
+<!-- |Value|Bad|Okay|Good|Excellent| -->
+<!-- |Submitted|Late|||On Time| -->
+<!-- |||||| -->
 
 
 -------
@@ -458,80 +458,80 @@ The second playoff round is worth a total of 48 points based on the following ru
 
 ## Championship
 
-The Championship will consist of a 7 to 12 paged research paper with a minimum of 10 citations from 10 different sources studying a sport of interest that is not one of the following sports: baseball, basketball, football, hockey, and soccer. The page minimum and maximum includes the title page, sections, and references. 
+<!-- The Championship will consist of a 7 to 12 paged research paper with a minimum of 10 citations from 10 different sources studying a sport of interest that is not one of the following sports: baseball, basketball, football, hockey, and soccer. The page minimum and maximum includes the title page, sections, and references.  -->
 
-Like the playoffs, this final assignment will be done in a team. Sometime during the scheduled final exam time, Monday, December 6, between 12PM and 3PM, your team will meet with me to turn in a hard (emailed) copy of your paper and discuss what you learned. This will be an informal zoom meeting that everyone in your group is required to attend. Failure to attend will result in a loss of 3 points.
+<!-- Like the playoffs, this final assignment will be done in a team. Sometime during the scheduled final exam time, Monday, December 6, between 12PM and 3PM, your team will meet with me to turn in a hard (emailed) copy of your paper and discuss what you learned. This will be an informal zoom meeting that everyone in your group is required to attend. Failure to attend will result in a loss of 3 points. -->
 
-[Zoom Link for Meeting](https://unc.zoom.us/j/94768485311?pwd=VGVHeGN5Z05NSENWQjBLNFRGL2c3dz09) (PW: champion)
+<!-- [Zoom Link for Meeting](https://unc.zoom.us/j/94768485311?pwd=VGVHeGN5Z05NSENWQjBLNFRGL2c3dz09) (PW: champion) -->
 
-The table below gives the time your group is required to meet with me.
+<!-- The table below gives the time your group is required to meet with me. -->
 
-| Group Number | Time |
-|:-----------:|:------:|
-|1|12:00PM - 12:10PM|
-|2|12:10PM - 12:20PM|
-|3|12:20PM - 12:30PM|
-|4|12:30PM - 12:40PM|
-|5|12:40PM - 12:50PM|
-|6|12:50PM - 1:00PM|
-|7|1:00PM - 1:10PM|
-|8|1:10PM - 1:20PM|
-|9|1:20PM - 1:30PM|
-|10|1:30PM - 1:40PM|
-|11|1:40PM - 1:50PM|
-|12|1:50PM - 2:00PM|
-|13|2:00PM - 2:10PM|
-|14|2:10PM - 2:20PM|
-|||
+<!-- | Group Number | Time | -->
+<!-- |:-----------:|:------:| -->
+<!-- |1|12:00PM - 12:10PM| -->
+<!-- |2|12:10PM - 12:20PM| -->
+<!-- |3|12:20PM - 12:30PM| -->
+<!-- |4|12:30PM - 12:40PM| -->
+<!-- |5|12:40PM - 12:50PM| -->
+<!-- |6|12:50PM - 1:00PM| -->
+<!-- |7|1:00PM - 1:10PM| -->
+<!-- |8|1:10PM - 1:20PM| -->
+<!-- |9|1:20PM - 1:30PM| -->
+<!-- |10|1:30PM - 1:40PM| -->
+<!-- |11|1:40PM - 1:50PM| -->
+<!-- |12|1:50PM - 2:00PM| -->
+<!-- |13|2:00PM - 2:10PM| -->
+<!-- |14|2:10PM - 2:20PM| -->
+<!-- ||| -->
 
-Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). 
+<!-- Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent).  -->
 
-On the first page, you should title your paper and give the names of the team members. The content of the paper should be organized in the following 4 subsections:
+<!-- On the first page, you should title your paper and give the names of the team members. The content of the paper should be organized in the following 4 subsections: -->
 
-### 1) Introduction
+<!-- ### 1) Introduction -->
 
-Describe the sport selected by writing about how it is played, when is it played, where is it most popular. Also, discuss the capital invested in the sport and the expected growth, both in popularity and future investment. From this information, give a factual defense on why your team chose this sport.
+<!-- Describe the sport selected by writing about how it is played, when is it played, where is it most popular. Also, discuss the capital invested in the sport and the expected growth, both in popularity and future investment. From this information, give a factual defense on why your team chose this sport. -->
 
-### 2) Literature Review
+<!-- ### 2) Literature Review -->
 
-Discuss how analytics have been used historically in the sport, what types of metrics are used to evaluate performance on the field and/or off the field, who are the best athletes/teams/organizations based off those metrics. Many obscure sports do not have an extensive history of complex analytics, but all sports track information in order to evaluate performance. Talk about any implementation of gambling and what types of bets exist.
+<!-- Discuss how analytics have been used historically in the sport, what types of metrics are used to evaluate performance on the field and/or off the field, who are the best athletes/teams/organizations based off those metrics. Many obscure sports do not have an extensive history of complex analytics, but all sports track information in order to evaluate performance. Talk about any implementation of gambling and what types of bets exist. -->
 
-In this part, I want to know about all the documented analytical challenges pertaining to the sport you selected, as well as the solutions that people have come up with. Make sure you appropriately cite all books, articles, and webpages you use.
+<!-- In this part, I want to know about all the documented analytical challenges pertaining to the sport you selected, as well as the solutions that people have come up with. Make sure you appropriately cite all books, articles, and webpages you use. -->
 
-When I read your paper, I will do an extensive web search on your sport. If there is any key research that you did not discuss or any research that you failed to cite, I will take off points.
+<!-- When I read your paper, I will do an extensive web search on your sport. If there is any key research that you did not discuss or any research that you failed to cite, I will take off points. -->
 
-### 3) Future Work
+<!-- ### 3) Future Work -->
 
-Critically think about where you see ways in which analytics can be used to improve the sport. Think about ways in which analytics from other more popular sports could be applicable in the sport you selected. Try to creatively design metrics that could useful for performance evaluation. This section is the most important and should test your ability to innovate in areas primarily ignored that require innovation for growth. What information does the sport have or not have that could help the organizations, managers, or athletes that are financially invested in the sport you selected.
+<!-- Critically think about where you see ways in which analytics can be used to improve the sport. Think about ways in which analytics from other more popular sports could be applicable in the sport you selected. Try to creatively design metrics that could useful for performance evaluation. This section is the most important and should test your ability to innovate in areas primarily ignored that require innovation for growth. What information does the sport have or not have that could help the organizations, managers, or athletes that are financially invested in the sport you selected. -->
 
-In this part, I want four innovative ideas that your group came up with that would solve key problems existing within the sport. For each innovation, you should be comprehensive in your description. What suggestions would you give the decision maker to implement your innovations? In this section, I want to know your ideas and how you would implement the ideas, illustrating that your ideas are practical. For each innovation, I will determine if your ideas are creative, well-described, and practical.
+<!-- In this part, I want four innovative ideas that your group came up with that would solve key problems existing within the sport. For each innovation, you should be comprehensive in your description. What suggestions would you give the decision maker to implement your innovations? In this section, I want to know your ideas and how you would implement the ideas, illustrating that your ideas are practical. For each innovation, I will determine if your ideas are creative, well-described, and practical. -->
 
-### 4) Conclusion
+<!-- ### 4) Conclusion -->
 
-Summarize your paper and discuss what appreciation you gained for this sport after your in-depth analysis.
+<!-- Summarize your paper and discuss what appreciation you gained for this sport after your in-depth analysis. -->
 
-### Rubric
+<!-- ### Rubric -->
 
-The championship is worth a total of 45 points based on the following rubric:
+<!-- The championship is worth a total of 45 points based on the following rubric: -->
 
-| Criteria | 0 | 1 | 2 | 3 |
-|:-----------:|:------:|:------:|:------:|:------:|
-|Title Page |Instructions Not Followed|Missing Entire Element|Missing a Team Member|Title+Team Members |
-|Intro: Description|Poor|Adequate|Good|Excellent|
-|Intro: Finance/Growth|Poor|Adequate|Good|Excellent|
-|Intro: Defense|Weak|Average|Strong|Compelling|
-|Literature: Breadth|Poor|Missing Key Research|Good|Comprehensive|
-|Literature: Citations|None|Missing|Inconsistent |Well-Cited|
-|Future: Innovation 1|0/3 Success| 1/3 Success |2/3 Success|Creative, Described, Practical|
-|Future: Innovation 2|0/3 Success| 1/3 Success |2/3 Success|Creative, Described, Practical|
-|Future: Innovation 3|0/3 Success| 1/3 Success |2/3 Success|Creative, Described, Practical|
-|Future: Innovation 4|0/3 Success| 1/3 Success |2/3 Success|Creative, Described, Practical|
-|Conclusion: Summary/Appreciation|Poor|Adequate|Good|Excellent|
-|Spelling|>5 Errors| 3-5 Errors|1-2 Errors|No Errors|
-|Value|Bad|Okay|Good|Excellent|
-|Submitted|Late|||On Time|
-|Meeting|Absent|||Present|
-||||||
+<!-- | Criteria | 0 | 1 | 2 | 3 | -->
+<!-- |:-----------:|:------:|:------:|:------:|:------:| -->
+<!-- |Title Page |Instructions Not Followed|Missing Entire Element|Missing a Team Member|Title+Team Members | -->
+<!-- |Intro: Description|Poor|Adequate|Good|Excellent| -->
+<!-- |Intro: Finance/Growth|Poor|Adequate|Good|Excellent| -->
+<!-- |Intro: Defense|Weak|Average|Strong|Compelling| -->
+<!-- |Literature: Breadth|Poor|Missing Key Research|Good|Comprehensive| -->
+<!-- |Literature: Citations|None|Missing|Inconsistent |Well-Cited| -->
+<!-- |Future: Innovation 1|0/3 Success| 1/3 Success |2/3 Success|Creative, Described, Practical| -->
+<!-- |Future: Innovation 2|0/3 Success| 1/3 Success |2/3 Success|Creative, Described, Practical| -->
+<!-- |Future: Innovation 3|0/3 Success| 1/3 Success |2/3 Success|Creative, Described, Practical| -->
+<!-- |Future: Innovation 4|0/3 Success| 1/3 Success |2/3 Success|Creative, Described, Practical| -->
+<!-- |Conclusion: Summary/Appreciation|Poor|Adequate|Good|Excellent| -->
+<!-- |Spelling|>5 Errors| 3-5 Errors|1-2 Errors|No Errors| -->
+<!-- |Value|Bad|Okay|Good|Excellent| -->
+<!-- |Submitted|Late|||On Time| -->
+<!-- |Meeting|Absent|||Present| -->
+<!-- |||||| -->
 
 
 
@@ -552,29 +552,29 @@ The championship is worth a total of 45 points based on the following rubric:
 
 # **Assignment Tracker** {.tabset}
 
-Any assignments requiring a deliverable will be submitted via **[Sakai](https://sakai.unc.edu/welcome/)**. 
+Any assignments requiring a deliverable will be submitted via **Canvas**. 
 
 | Due Date (Time) | Gameday Speeches (GS) | Regular Season (RS) | Playoffs (P) | Championship (C)| 
 |-----------------|:---------------------:|:-------------------:|:------------:|:---------------:|
-|AUG 27 (12:20PM) ||RS1|||
-|SEP 3 (12:20PM) |GS1 (Odd: Ch. 3 HSMAS)||||
+|JAN 13 (12:20PM) ||RS1|||
+|JAN 20 (12:20PM) |GS1 (Odd: Ch. 3 HSMAS)||||
 | |GS1 (Even: Ch. 4 HSMAS)||||
-|SEP 10 (12:20PM)||RS2|||
-|SEP 17 (12:20PM)|GS2 (Odd: Ch. 10 HSMAS)||||
+|JAN 27  (12:20PM)||RS2|||
+|FEB 3 (12:20PM)|GS2 (Odd: Ch. 10 HSMAS)||||
 ||GS2 (Even: Ch. 12 HSMAS)||||
-|SEP 24 (12:20PM)||RS3|||
-|OCT 1 (12:20PM) |GS3 (Odd: Ch. 6 HSMAS)||||
+|FEB 10 (12:20PM)||RS3|||
+|FEB 17 (12:20PM) |GS3 (Odd: Ch. 6 HSMAS)||||
 | |GS3 (Even: Ch. 8 HSMAS)||||
-|OCT 8 (11:55PM)|||P1||
-|OCT 15 (12:20PM)||RS4|||
-|OCT 29  (12:20PM)|GS4 (Odd: Ch. 13 HSMAS)||||
+|MAR 3 (11:59PM)|||P1||
+|MAR 10 (12:20PM)||RS4|||
+|MAR 24 (12:20PM)|GS4 (Odd: Ch. 13 HSMAS)||||
 ||GS4 (EVen: Ch. 15 HSMAS)||||
-|NOV 7 (11:55PM)|||P2||
-|NOV 12 (12:20PM)||RS5|||
-|NOV 19 (12:20PM) |GS5 (Odd: Ch. 17 HSMAS)||||
+|APR 3  (11:59PM)|||P2||
+|APR 14 (12:20PM)||RS5|||
+|APR 21 (12:20PM) |GS5 (Odd: Ch. 17 HSMAS)||||
 | |GS5 (Even: Ch. 21 HSMAS)||||
-|DEC 1 (12:20PM)||RS6|||
-|DEC 6 (12:00PM) ||||C|
+|APR 28 (12:20PM)||RS6|||
+|MAY 9 (12:00PM) ||||C|
 |          |                   |               |           |              |
 
 
@@ -582,128 +582,128 @@ Any assignments requiring a deliverable will be submitted via **[Sakai](https://
 
 Many of the assessments in this course will be done in a teams of 4 or 5 playas randomly chosen. For each team-based assignment, you will be given a different team. This will force you to interact with the majority of the class throughout the semester. After each team-based assignment, you will grade the contribution of your teammates on a scale from 0 to 3, and this will contribute to your overall grade for the given assignment. A decent portion of your final grade will be influenced by this. The following link contains all teams alphabetically: **[All Teams](Group Assignments/All Teams.pdf)**
 
-```{r,echo=F,results=TRUE,message=F}
-library(DT)
-library(tidyverse)
-library(readxl)
-datatable(read_xlsx("Group Assignments/All Teams.xlsx"),class="display",options = list(scrollX=T,
-             columnDefs = list(list(className = 'dt-center', targets = 0:8))
-             ),rownames=F)
-```
+ ```{r,echo=F,results=TRUE,message=F}
+# library(DT)
+# library(tidyverse)
+# library(readxl)
+# datatable(read_xlsx("Group Assignments/All Teams.xlsx"),class="display",options = list(scrollX=T,
+#              columnDefs = list(list(className = 'dt-center', targets = 0:8))
+#              ),rownames=F)
+ ```
 
 
 In the table below, you can find your group for each of the specific team-based assignments. Make sure you fill out the value survey before the time the assignment is due on the due date. Do not assess the value of yourself in the survey.
 
 |Due Date  | Assessment | Team | Value Survey |
 |----------|------------|------|--------------|
-| SEP 3 | GS1 | [GS1]() | [Value for GS1](https://docs.google.com/forms/d/e/1FAIpQLSdqPjLn-IrA-hqBUCNHbe8sgf3kxMSPNaLEE2mg_S31LAGuvg/viewform?usp=sf_link) |
-| SEP 17 | GS2 | [GS2]() | [Value for GS2](https://docs.google.com/forms/d/e/1FAIpQLScQ967bd2WRx9nmMDfeoJD5UZZTFN4bPjYwyvXXBGw7ZEQBKA/viewform?usp=sf_link) |
-| OCT 1 | GS3 | [GS3]() | [Value for GS3](https://docs.google.com/forms/d/e/1FAIpQLSeTAEas1kqxGZmJYQ640iX9AQIlgcirVJoxciEnn2UU7WcqAQ/viewform?usp=sf_link) |
-| OCT 8 | P1 | [P1]() | [Value for P1](https://docs.google.com/forms/d/e/1FAIpQLSfWkhtxk3xYYfhyODfufFLfp0bNXX52dke69xGkiTvLvGa3OA/viewform?usp=sf_link) |
-| OCT 29 | GS4 | [GS4]() | [Value for GS4](https://docs.google.com/forms/d/e/1FAIpQLSchVRUxeiKYCfcRBWQ8Y85najkEO0FgPzhNFnYmmwIwWOp7VA/viewform?usp=sf_link) |
-| NOV 7 | P2 | [P2]() | [Value for P2](https://docs.google.com/forms/d/e/1FAIpQLSdo_oNG5MHuZb7S7KircBxWWXNEpX0s98cw5k8Gm9X2DYqdWQ/viewform?usp=sf_link) |
-| NOV 19 | GS5 | [GS5]() | [Value for GS5](https://docs.google.com/forms/d/e/1FAIpQLSdMncyMUUZZPk10QyFVMqymyQs4iCiqjombEuGP5jzwL3k0lA/viewform?usp=sf_link) |
-| DEC 6 | C| [C]() | [Value for C](https://docs.google.com/forms/d/e/1FAIpQLSf7awVubhnkyh30jW6J-My8xr6xXFcg03r242Ljsxeu8imoGw/viewform?usp=sf_link) |
+| JAN 20 | GS1 | [GS1]() | [Value for GS1](https://docs.google.com/forms/d/e/1FAIpQLSdqPjLn-IrA-hqBUCNHbe8sgf3kxMSPNaLEE2mg_S31LAGuvg/viewform?usp=sf_link) |
+| FEB 3 | GS2 | [GS2]() | [Value for GS2](https://docs.google.com/forms/d/e/1FAIpQLScQ967bd2WRx9nmMDfeoJD5UZZTFN4bPjYwyvXXBGw7ZEQBKA/viewform?usp=sf_link) |
+| FEB 17 | GS3 | [GS3]() | [Value for GS3](https://docs.google.com/forms/d/e/1FAIpQLSeTAEas1kqxGZmJYQ640iX9AQIlgcirVJoxciEnn2UU7WcqAQ/viewform?usp=sf_link) |
+| MAR 3 | P1 | [P1]() | [Value for P1](https://docs.google.com/forms/d/e/1FAIpQLSfWkhtxk3xYYfhyODfufFLfp0bNXX52dke69xGkiTvLvGa3OA/viewform?usp=sf_link) |
+| MAR 24 | GS4 | [GS4]() | [Value for GS4](https://docs.google.com/forms/d/e/1FAIpQLSchVRUxeiKYCfcRBWQ8Y85najkEO0FgPzhNFnYmmwIwWOp7VA/viewform?usp=sf_link) |
+| APR 3 | P2 | [P2]() | [Value for P2](https://docs.google.com/forms/d/e/1FAIpQLSdo_oNG5MHuZb7S7KircBxWWXNEpX0s98cw5k8Gm9X2DYqdWQ/viewform?usp=sf_link) |
+| APR 21 | GS5 | [GS5]() | [Value for GS5](https://docs.google.com/forms/d/e/1FAIpQLSdMncyMUUZZPk10QyFVMqymyQs4iCiqjombEuGP5jzwL3k0lA/viewform?usp=sf_link) |
+| MAY 9 | C| [C]() | [Value for C](https://docs.google.com/forms/d/e/1FAIpQLSf7awVubhnkyh30jW6J-My8xr6xXFcg03r242Ljsxeu8imoGw/viewform?usp=sf_link) |
 | ||||
 
 # **Results from Playoffs Round 2**
 
-The predictions of all 14 teams can be accessed from the hyperlinks below. These three files contain predictions for the three separate variables for all the groups. These files also contain the actual outcome from the game.
+<!-- The predictions of all 14 teams can be accessed from the hyperlinks below. These three files contain predictions for the three separate variables for all the groups. These files also contain the actual outcome from the game. -->
 
-- [Spread](Playoffs/Round 2/PredictSpread.csv)
-- [Total](Playoffs/Round 2/PredictTotal.csv)
-- [Result](Playoffs/Round 2/PredictResult.csv)
-
-
-The table below shows each group's RMSE, MAE, and ACC for $Spread$, $Total$, and $Result$, respectively. Also, you will see your group ranking for each of the three variables. It may be helpful to sort the table for each variable to see where your group is currently ranked.
-
-```{r,echo=F,results=TRUE,message=F}
-library(DT)
-library(tidyverse)
-library(readxl)
-
-#Read in Actual Results
-setwd("D:/Mario Documents/UNC/STOR 538/Not for Github/PLAYOFF2")
-Actual=read.csv("Actual.csv")
-
-#Read in Predictions from Groups
-setwd("D:/Mario Documents/UNC/STOR 538/Not for Github/PLAYOFF2/Predictions")
-group1=read.csv("Prediction_1.csv")
-group2=read.csv("Prediction_2.csv")
-group3=read.csv("Prediction_3.csv")
-group4=read_xls("Prediction_4.xls")
-group5=read_xlsx("Prediction_5.xlsx")
-group6=read.csv("Prediction_6.csv")
-group7=read.csv("Prediction_7.csv")
-group8=read.csv("Prediction_8.csv")
-group9=read.csv("Prediction_9.csv")
-group10=read.csv("Prediction_10.csv")
-group11=read.csv("Prediction_11.csv")
-group12=read.csv("Prediction_12.csv")
-group13=read.csv("Prediction_13.csv")
-group14=read.csv("Prediction_14.csv")
+<!-- - [Spread](Playoffs/Round 2/PredictSpread.csv) -->
+<!-- - [Total](Playoffs/Round 2/PredictTotal.csv) -->
+<!-- - [Result](Playoffs/Round 2/PredictResult.csv) -->
 
 
+<!-- The table below shows each group's RMSE, MAE, and ACC for $Spread$, $Total$, and $Result$, respectively. Also, you will see your group ranking for each of the three variables. It may be helpful to sort the table for each variable to see where your group is currently ranked. -->
 
-#Modify Tables for Usage
-Spread=tibble(Date=Actual$Date,Home=Actual$Home.Team,Away=Actual$Away.Team,Actual=Actual$Spread,
-              group1=group1$Spread,group2=group2$Spread,
-              group3=group3$Spread,group4=group4$Spread,
-              group5=group5$Spread,group6=group6$Spread,
-              group7=group7$Spread,group8=group8$Spread,
-              group9=group9$Spread,group10=group10$Spread,
-              group11=group11$Spread,group12=group12$Spread,
-              group13=group13$Spread,group14=group14$Spread)
+<!-- ```{r,echo=F,results=TRUE,message=F} -->
+<!-- library(DT) -->
+<!-- library(tidyverse) -->
+<!-- library(readxl) -->
 
-Total=tibble(Date=Actual$Date,Home=Actual$Home.Team,Away=Actual$Away.Team,Actual=Actual$Total,
-              group1=group1$Total,group2=group2$Total,
-              group3=group3$Total,group4=group4$Total,
-              group5=group5$Total,group6=group6$Total,
-              group7=group7$Total,group8=group8$Total,
-              group9=group9$Total,group10=group10$Total,
-              group11=group11$Total,group12=group12$Total,
-              group13=group13$Total,group14=group14$Total)
+<!-- #Read in Actual Results -->
+<!-- setwd("D:/Mario Documents/UNC/STOR 538/Not for Github/PLAYOFF2") -->
+<!-- Actual=read.csv("Actual.csv") -->
 
-Result=tibble(Date=Actual$Date,Home=Actual$Home.Team,Away=Actual$Away.Team,Actual=Actual$Result,
-              group1=group1$Result,group2=group2$Result,
-              group3=group3$Result,group4=group4$Result,
-              group5=group5$Result,group6=group6$Result,
-              group7=group7$Result,group8=group8$Result,
-              group9=group9$Result,group10=group10$Result,
-              group11=group11$Result,group12=group12$Result,
-              group13=group13$Result,group14=group14$Result)
-
-#Functions for Evaluating Prediction Error
-rmse.func=function(actual,predict){
-  return(sqrt(mean((actual-predict)^2,na.rm=T)))
-}
-
-mae.func=function(actual,predict){
-  return(mean(abs(actual-predict),na.rm=T))
-}
-
-acc.func=function(actual,predict){
-  return(mean(actual==predict,na.rm=T))
-}
-
-spread.final=apply(Spread[,c(5:18)],2,rmse.func,actual=Spread$Actual)
-total.final=apply(Total[,5:18],2,mae.func,actual=Total$Actual)
-result.final=apply(Result[,5:18],2,acc.func,actual=Result$Actual)
+<!-- #Read in Predictions from Groups -->
+<!-- setwd("D:/Mario Documents/UNC/STOR 538/Not for Github/PLAYOFF2/Predictions") -->
+<!-- group1=read.csv("Prediction_1.csv") -->
+<!-- group2=read.csv("Prediction_2.csv") -->
+<!-- group3=read.csv("Prediction_3.csv") -->
+<!-- group4=read_xls("Prediction_4.xls") -->
+<!-- group5=read_xlsx("Prediction_5.xlsx") -->
+<!-- group6=read.csv("Prediction_6.csv") -->
+<!-- group7=read.csv("Prediction_7.csv") -->
+<!-- group8=read.csv("Prediction_8.csv") -->
+<!-- group9=read.csv("Prediction_9.csv") -->
+<!-- group10=read.csv("Prediction_10.csv") -->
+<!-- group11=read.csv("Prediction_11.csv") -->
+<!-- group12=read.csv("Prediction_12.csv") -->
+<!-- group13=read.csv("Prediction_13.csv") -->
+<!-- group14=read.csv("Prediction_14.csv") -->
 
 
-FINAL.RESULT=tibble(Group=1:14,`Spread RMSE`=round(spread.final,3),`Spread Rank`=rank(as.numeric(spread.final)),
-                     `Total MAE`=round(total.final,3),`Total Rank`=rank(as.numeric(total.final)),
-                     `Result ACC`=round(result.final,3),`Result Rank`=rank(-as.numeric(result.final),ties.method="min")
-)
 
-#write.csv(Spread,"PredictSpread.csv")
-#write.csv(Total,"PredictTotal.csv")
-#write.csv(Result,"PredictResult.csv")
+<!-- #Modify Tables for Usage -->
+<!-- Spread=tibble(Date=Actual$Date,Home=Actual$Home.Team,Away=Actual$Away.Team,Actual=Actual$Spread, -->
+<!--               group1=group1$Spread,group2=group2$Spread, -->
+<!--               group3=group3$Spread,group4=group4$Spread, -->
+<!--               group5=group5$Spread,group6=group6$Spread, -->
+<!--               group7=group7$Spread,group8=group8$Spread, -->
+<!--               group9=group9$Spread,group10=group10$Spread, -->
+<!--               group11=group11$Spread,group12=group12$Spread, -->
+<!--               group13=group13$Spread,group14=group14$Spread) -->
 
-datatable(FINAL.RESULT,class="display",options = list(scrollX=F,
-            columnDefs = list(list(className = 'dt-center', targets = 0:6))),rownames=F)
+<!-- Total=tibble(Date=Actual$Date,Home=Actual$Home.Team,Away=Actual$Away.Team,Actual=Actual$Total, -->
+<!--               group1=group1$Total,group2=group2$Total, -->
+<!--               group3=group3$Total,group4=group4$Total, -->
+<!--               group5=group5$Total,group6=group6$Total, -->
+<!--               group7=group7$Total,group8=group8$Total, -->
+<!--               group9=group9$Total,group10=group10$Total, -->
+<!--               group11=group11$Total,group12=group12$Total, -->
+<!--               group13=group13$Total,group14=group14$Total) -->
 
-```
+<!-- Result=tibble(Date=Actual$Date,Home=Actual$Home.Team,Away=Actual$Away.Team,Actual=Actual$Result, -->
+<!--               group1=group1$Result,group2=group2$Result, -->
+<!--               group3=group3$Result,group4=group4$Result, -->
+<!--               group5=group5$Result,group6=group6$Result, -->
+<!--               group7=group7$Result,group8=group8$Result, -->
+<!--               group9=group9$Result,group10=group10$Result, -->
+<!--               group11=group11$Result,group12=group12$Result, -->
+<!--               group13=group13$Result,group14=group14$Result) -->
+
+<!-- #Functions for Evaluating Prediction Error -->
+<!-- rmse.func=function(actual,predict){ -->
+<!--   return(sqrt(mean((actual-predict)^2,na.rm=T))) -->
+<!-- } -->
+
+<!-- mae.func=function(actual,predict){ -->
+<!--   return(mean(abs(actual-predict),na.rm=T)) -->
+<!-- } -->
+
+<!-- acc.func=function(actual,predict){ -->
+<!--   return(mean(actual==predict,na.rm=T)) -->
+<!-- } -->
+
+<!-- spread.final=apply(Spread[,c(5:18)],2,rmse.func,actual=Spread$Actual) -->
+<!-- total.final=apply(Total[,5:18],2,mae.func,actual=Total$Actual) -->
+<!-- result.final=apply(Result[,5:18],2,acc.func,actual=Result$Actual) -->
+
+
+<!-- FINAL.RESULT=tibble(Group=1:14,`Spread RMSE`=round(spread.final,3),`Spread Rank`=rank(as.numeric(spread.final)), -->
+<!--                      `Total MAE`=round(total.final,3),`Total Rank`=rank(as.numeric(total.final)), -->
+<!--                      `Result ACC`=round(result.final,3),`Result Rank`=rank(-as.numeric(result.final),ties.method="min") -->
+<!-- ) -->
+
+<!-- #write.csv(Spread,"PredictSpread.csv") -->
+<!-- #write.csv(Total,"PredictTotal.csv") -->
+<!-- #write.csv(Result,"PredictResult.csv") -->
+
+<!-- datatable(FINAL.RESULT,class="display",options = list(scrollX=F, -->
+<!--             columnDefs = list(list(className = 'dt-center', targets = 0:6))),rownames=F) -->
+
+<!-- ``` -->
 
 
 
