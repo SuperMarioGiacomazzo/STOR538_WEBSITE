@@ -93,7 +93,7 @@ The statistical programming language R will be used to generate visualizations a
 - Game Days: MWF, 12:20PM - 1:10PM, Gardner 105
 
 - Zoom Links: 
-    - **[Press Conference:](https://unc.zoom.us/j/91225653535)** T, 8AM - 2PM 
+    - **[Press Conference:](https://unc.zoom.us/j/91225653535)** TTh, 8AM - 11AM
     - **[Training Days:](https://unc.zoom.us/j/94041035206)** TTh, 12:30PM - 1:30PM & W, 2PM-3PM     
 
 - University Approved Absences: **[Online Form](https://unc-ch.formstack.com/forms/university_approved_absence_request?sso=5f3154c3179f5)**
@@ -595,7 +595,7 @@ Many of the assessments in this course will be done in a teams of 4 or 5 playas 
 In the table below, you can find your group for each of the specific team-based assignments. Make sure you fill out the value survey before the time the assignment is due on the due date. Do not assess the value of yourself in the survey.
 
 |Due Date  | Assessment | Team | Value Survey |
-|----------|------------|------|--------------|
+|:----------:|:------------:|:------:|:--------------:|
 | JAN 20 | GS1 | [GS1]() | [Value for GS1](https://docs.google.com/forms/d/e/1FAIpQLSdqPjLn-IrA-hqBUCNHbe8sgf3kxMSPNaLEE2mg_S31LAGuvg/viewform?usp=sf_link) |
 | FEB 3 | GS2 | [GS2]() | [Value for GS2](https://docs.google.com/forms/d/e/1FAIpQLScQ967bd2WRx9nmMDfeoJD5UZZTFN4bPjYwyvXXBGw7ZEQBKA/viewform?usp=sf_link) |
 | FEB 17 | GS3 | [GS3]() | [Value for GS3](https://docs.google.com/forms/d/e/1FAIpQLSeTAEas1kqxGZmJYQ640iX9AQIlgcirVJoxciEnn2UU7WcqAQ/viewform?usp=sf_link) |
