@@ -173,12 +173,14 @@ The statistical programming language R will be used to generate visualizations a
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
+|||||
+
 <!-- |SEP 22| Basketball I | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) | -->
 <!-- |SEP 24| Basketball I (Cont.) | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) | -->
 <!-- |SEP 27| Basketball II | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) | -->
 <!-- |SEP 29| Basketball III | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 31-32 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)| -->
 <!-- |OCT 1| Basketball IV | [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 33 MATH| -->
-<!-- |OCT 6| Playoffs Round 2 || [Example](Playoffs/Round 2/Basketball.pdf) | -->
+<!-- |OCT 6| Playoffs Round 2 || [Example](Playoffs/Round 2/Group 1.pdf) | -->
 <!-- |OCT 8| Basketball V | [Slides](Slides/Basketball 5/Basketball_5_Lecture.pdf) |Ch. 34-35 MATH, [Web 1](https://www.nytimes.com/2011/04/13/sports/ncaabasketball/13gamble.html), [Web 2](https://las.illinois.edu/news/2006-09-01/no-foul), [Article 1](Articles/Basketball/Basketball_PriceWolfers.pdf)| -->
 <!-- |OCT 11| Basketball VI | [Slides](Slides/Basketball 6/Basketball_6_Lecture.pdf) |Ch. 37 MATH, [Web 1](https://www.inpredictable.com/2016/05/endgame-strategy-in-nba.html), [Web 2](http://www.82games.com/lawhorn.htm)| -->
 <!-- |||| [Article 1](Articles/Basketball/Basketball_Gill.pdf), [Article 2](Articles/Basketball/Basketball_Kenter.pdf), [Article 3](Articles/Basketball/Basketball_Annis.pdf)| -->
@@ -200,11 +202,13 @@ The statistical programming language R will be used to generate visualizations a
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
+|||||
+
 <!-- |NOV 10| Sports Gambling I | [Slides](Slides/Gambling 1/Gambling_1_Lecture.pdf) |Ch. 38-39 MATH, [Web 1](https://www.thesportsgeek.com/sports-betting/what-is-a-unit/), [Web 2](https://mybettingsites.co.uk/learn/betting-odds-explained/), [Web 3](https://www.actionnetwork.com/betting-calculators/betting-odds-calculator) | -->
 <!-- ||||[Web 4](https://www.vegas.com/gaming/gaming-tips/sports-betting/), [Web 5](https://www.thesportsgeek.com/blog/beginners-tips-understanding-parlay-119/) ,[Web 6](https://www.thelines.com/betting/teaser/), [Article 1](Articles/Gambling/Gambling_Levitt.pdf), [Article 2](Articles/Gambling/Gambling_FleppNueschFranck.pdf) | -->
 <!-- |NOV 12| Sports Gambling I (Cont.) | [Slides](Slides/Gambling 1/Gambling_1_Lecture.pdf) |Ch. 38-39 MATH, [Web 1](https://www.thesportsgeek.com/sports-betting/what-is-a-unit/), [Web 2](https://mybettingsites.co.uk/learn/betting-odds-explained/), [Web 3](https://www.actionnetwork.com/betting-calculators/betting-odds-calculator) | -->
 <!-- ||||[Web 4](https://www.vegas.com/gaming/gaming-tips/sports-betting/), [Web 5](https://www.thesportsgeek.com/blog/beginners-tips-understanding-parlay-119/) ,[Web 6](https://www.thelines.com/betting/teaser/), [Article 1](Articles/Gambling/Gambling_Levitt.pdf), [Article 2](Articles/Gambling/Gambling_FleppNueschFranck.pdf) | -->
-<!-- |NOV 15| Sports Gambling II | [Slides](Slides/Gambling 2/Gambling_2_Lecture.pdf) |Ch. 40 MATH, [Web 1](https://fivethirtyeight.com/methodology/how-our-nfl-predictions-work/) | --> -->
+<!-- |NOV 15| Sports Gambling II | [Slides](Slides/Gambling 2/Gambling_2_Lecture.pdf) |Ch. 40 MATH, [Web 1](https://fivethirtyeight.com/methodology/how-our-nfl-predictions-work/) | -->
 <!-- |NOV 17| Sports Gambling III | [Slides](Slides/Gambling 3/Gambling_3_Lecture.pdf) |Ch. 44 MATH, [Web 1](https://www.pinnacle.com/en/betting-articles/Betting-Strategy/How-to-use-kelly-criterion-for-betting/2BT2LK6K2QWQ7QJ8), [Web 2](https://www.oddsshark.com/sports-betting/best-sports-betting-strategies), [Article 1](Articles/Gambling/Gambling_Thorp.pdf)| -->
 <!-- |NOV 19| Hockey I | [Slides](Slides/Hockey 1/Hockey_1_Lecture.pdf) | Ch. 13-15 HSMAS, [Article 1](rticles/Hockey/Hockey_Thomas_Ventura_Jensen_Ma.pdf), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick),[Web 2](http://hockeygoalies.org/stats/glossary.html), [Web 3](https://rdrr.io/cran/nhlscrapr/) | -->
 <!-- |NOV 22| Hockey II |  [Slides](Slides/Hockey 2/Hockey_2_Lecture.pdf) | Ch. 13-15 HSMAS, [Article 1](Articles/Hockey/Hockey_Thomas_Ventura_Jensen_Ma.pdf), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick),[Web 2](http://hockeygoalies.org/stats/glossary.html), [Web 3](https://rdrr.io/cran/nhlscrapr/) | -->
@@ -305,7 +309,7 @@ The regular season consists of biweekly quizzes on the material presented in cla
 <!--      - Each Row Should Be a Different Observation According to the Level Selected -->
 <!--      - Can Be Recorded on Paper Separately, But Must Be Compiled Electronically Into a Single Spreadsheet -->
 
-<!-- Your study should be summarized in a paper of 3 to 5 pages. The paper and dataset should be submitted on **[Sakai](https://sakai.unc.edu/welcome/)** before 5:00PM on the due date. Each group should have their own paper and data, but both need to be submitted by every member of the group. Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). Fill out the appropriate google form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group.  -->
+<!-- Your study should be summarized in a paper of 3 to 5 pages. The paper and dataset should be submitted on **Canvas** before 11:59PM on the due date. Each group should have their own paper and data, but both need to be submitted by every member of the group. Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). Fill out the appropriate google form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group.  -->
 
 <!-- On the first page, you should title your paper and give the names of the team members who contributed. The content of the paper should be organized in the following 3 subsections: -->
 
@@ -568,7 +572,7 @@ Any assignments requiring a deliverable will be submitted via **Canvas**.
 |MAR 3 (11:59PM)|||P1||
 |MAR 10 (12:20PM)||RS4|||
 |MAR 24 (12:20PM)|GS4 (Odd: Ch. 13 HSMAS)||||
-||GS4 (EVen: Ch. 15 HSMAS)||||
+||GS4 (Even: Ch. 15 HSMAS)||||
 |APR 3  (11:59PM)|||P2||
 |APR 14 (12:20PM)||RS5|||
 |APR 21 (12:20PM) |GS5 (Odd: Ch. 17 HSMAS)||||
