@@ -6,11 +6,10 @@ library(forcats)
 DATA=read.csv("Sports Analytics Survey.csv")[,-(1:4)]
 names(DATA)=c("Year","MajorMinor","R Experience","Graduation","Watch","Participated","Other")
 
-DATA2=separate(data=DATA,col=Watch,into=paste("Watch",1:38),sep=";")
-DATA3=separate(data=DATA2,col=Participated,into=paste("Part",1:19),sep=";")
+DATA2=separate(data=DATA,col=Watch,into=paste("Watch",1:33),sep=";")
+DATA3=separate(data=DATA2,col=Participated,into=paste("Part",1:27),sep=";")
 
 table(DATA3$Year)
-barplot(table(DATA3$Place))
 
 png('RExp.png',width=1200,height=800)
 par(mar=c(3,4,3,2),cex=1.5,cex.main=2.5)
@@ -23,8 +22,8 @@ levels(DATA4$Graduation)=c("Doctoral","Not Sports Analytics","Sports Analytics",
 DATA4=DATA4 %>% mutate(Graduation = fct_infreq(Graduation))
 
 png('Graduation.png',width=1200,height=800)
-par(mar=c(12,2,3,1),cex=1.5,cex.main=2.5)
-barplot(table(DATA4$`Graduation`),las=2,ylim=c(0,40),main="Graduation Goal")
+par(mar=c(12,3,3,1),cex=1.5,cex.main=2.5)
+barplot(table(DATA4$`Graduation`)/96,las=2,ylim=c(0,1),main="Graduation Goal")
 dev.off()
 
 sportswatched =  na.omit(gather(data=DATA4,5:42,key="Watch",value="Sport")$Sport)
