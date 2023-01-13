@@ -297,7 +297,7 @@ The first round will be a data gathering and summary report. Imagine you are an 
      - Identify at Least 5 Variables You Want to Gather at the Specified Level
      - Variables Can Be All Categorical, All Numeric, or Mixture
 
-4. Watch or Play the Sport Enough Times to Get a Minimum of 25 Observations (Highly Advise Aiming for More)
+4. Watch or Play the Sport Enough Times to Get a Minimum of 50 Observations (Highly Advise Aiming for More)
      - Depends on the Level at Which You're Gathering Data
      - Example: If the Level is Game, You Would Need to Watch or Play the Sport at Least 25 Times
      - Example: If the Level is Play/Event, You Would Need to Watch Enough to Gather Data for 25 Plays or Events
@@ -358,7 +358,7 @@ The first playoff round is worth a total of 45 points based on the following rub
 |Instructions Followed|Organized Incorrectly|Organized Correctly without Section Headings||Organized Correctly with Section Headings|
 |Spelling/Grammar|>5 Errors| 3-5 Errors|1-2 Errors|No Errors|
 |Value|Bad|Okay|Good|Excellent|
-|Submitted|Late|||On Time|
+|Submitted|Late or Inadequate Data|||On Time|
 ||||||
 
 
@@ -583,7 +583,7 @@ Any assignments requiring a deliverable will be submitted via **Canvas**.
 
 # **Team Sport**
 
-Many of the assessments in this course will be done in a teams of 4 or 5 playas randomly chosen. For each team-based assignment, you will be given a different team. This will force you to interact with the majority of the class throughout the semester. After each team-based assignment, you will grade the contribution of your teammates on a scale from 0 to 3, and this will contribute to your overall grade for the given assignment. A decent portion of your final grade will be influenced by this. The following link contains all teams alphabetically: **[All Teams](Group Assignments/All Teams.pdf)**
+Many of the assessments in this course will be done in a teams of 5 or 6 playas randomly chosen. For each team-based assignment, you will be given a different team. This will force you to interact with the majority of the class throughout the semester. After each team-based assignment, you will grade the contribution of your teammates on a scale from 0 to 3, and this will contribute to your overall grade for the given assignment. A decent portion of your final grade will be influenced by this. The following link contains all teams alphabetically: **[All Teams](Group Assignments/All Teams.pdf)**
 
  ```{r,echo=F,results=TRUE,message=F}
 # library(DT)
