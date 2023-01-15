@@ -93,7 +93,7 @@ The statistical programming language R will be used to generate visualizations a
 - Game Days: MWF, 12:20PM - 1:10PM, Gardner 105
 
 - Zoom Links: 
-    - **[Press Conference:](https://unc.zoom.us/j/91225653535)** TTh, 8AM - 11AM
+    - **[Press Conference:](https://unc.zoom.us/j/91059773107)** TTh, 8AM - 11AM
     - **[Training Days:](https://unc.zoom.us/j/94041035206)** TTh, 12:30PM - 1:30PM & W, 2PM-3PM     
 
 - University Approved Absences: **[Online Form](https://unc-ch.formstack.com/forms/university_approved_absence_request?sso=5f3154c3179f5)**
