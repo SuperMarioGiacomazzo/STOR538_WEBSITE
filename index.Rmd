@@ -588,8 +588,7 @@ Many of the assessments in this course will be done in a teams of 5 or 6 playas 
 library(DT)
 library(tidyverse)
 library(readxl)
-datatable(read_xlsx("Group Assignments/STOR538_allTeams.xlsx"),class="display",options = list(scrollX=T,
-  columnDefs = list(list(className = 'dt-center', targets = 0:8)) ),rownames=F)
+datatable(read_csv("Group Assignments/allTeams.csv"),class="display",options = list(scrollX=T, columnDefs = list(list(className = 'dt-center', targets = 0:2)) ),rownames=F)
 ```
 
 
