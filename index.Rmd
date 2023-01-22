@@ -156,9 +156,10 @@ The statistical programming language R will be used to generate visualizations a
 |JAN 18| Sports Analytics III | [Slides](Slides/Sports Analytics 3/Sports_Analytics_3_Lecture.pdf) | [Web 1](https://www.thebusinessresearchcompany.com/report/sports-global-market-report), [Web 2](https://www.marketwatch.com/press-release/sports-analytics-market-will-value-to-usd-1260-billion-by-2029-2023-01-10?tesla=y), [Web 3](https://www.forbes.com/sites/forbestechcouncil/2019/01/31/how-data-analysis-in-sports-is-changing-the-game/?sh=7bccb29b3f7b), [Web 4](https://www.soccermetrics.net/misc-stuff/sports-analytics-career-advice), [Web 5](https://medium.com/sports-data-science/the-complete-list-of-sports-analytics-conferences-5935846f98c0)
 |JAN 20| Sports Analytics IV| [Slides](Slides/Sports Analytics 4/Sports_Analytics_4_Lecture.pdf) | [Web 1](https://www.sportsmanagementworldwide.com/), [Web 2](https://www.udemy.com/courses/search/?src=ukw&q=sports%20analytics), [Web 3](https://sweepsportsanalytics.com/2021/08/01/10-steps-to-get-started-in-sports-analytics/), [Article 1](Articles/General/SportsAnalytics_Swartz.pdf) |
 |JAN 23| Baseball I | [Slides](Slides/Baseball 1/Baseball_1_Lecture.pdf) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](Articles/Baseball/Baseball_Albert.pdf) |
+|JAN 25| Baseball II | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM|
 |||||
 
-<!-- |SEP 1| Baseball II | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM| -->
+
 <!-- |SEP 3| Baseball III | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH| -->
 <!-- |SEP 8| Baseball IV | [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)| -->
 <!-- |SEP 10| Playoff Round 1 | | [Example](Playoffs/Round 1/Spikeball.pdf) | -->
@@ -239,7 +240,13 @@ On gameday, I will use a random number generator to pick 2 groups (1 odd and 1 e
 
 The presentation should be submitted on Canvas before class starts on the due date. Each group should have their own presentation, but needs to be submitted by every member of the group as a **pdf**. Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). Fill out the appropriate google form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group. 
 
-Gameday speeches are worth a total of 21 points with a minor exception. Consider the following rubric and notice the bonus points for the lucky presenting groups:
+Gameday speeches are worth a total of 21 points minor exceptions: 
+
+- The two groups that present will have the chance to get 0 to 3 bonus points based on presentation quality.
+
+- If your group presents and you are not present in class, you will receive a 3 point penalty and not get the bonus points awarded to your group for the presentation. 
+
+Consider the following rubric and notice the bonus points for the lucky presenting groups:
 
 | Criteria | 0 | 1 | 2 | 3 |
 |:-----------:|:------:|:------:|:------:|:------:|
