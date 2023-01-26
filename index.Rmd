@@ -158,7 +158,8 @@ The statistical programming language R will be used to generate visualizations a
 |JAN 23| Baseball I | [Slides](Slides/Baseball 1/Baseball_1_Lecture.pdf) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](Articles/Baseball/Baseball_Albert.pdf) |
 |JAN 25| Baseball I (Cont.) | [Slides](Slides/Baseball 1/Baseball_1_Lecture.pdf) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](Articles/Baseball/Baseball_Albert.pdf) |
 || Baseball II | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM|
-|JAN 27| Baseball III | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH|
+|JAN 27| Baseball II (Cont.) | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM|
+|| Baseball III | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH|
 |||||
 
 <!-- |SEP 8| Baseball IV | [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)| -->
