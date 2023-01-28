@@ -105,7 +105,7 @@ The statistical programming language R will be used to generate visualizations a
 </div> 
 
 
-# **Textbooks** {.tabset}
+# **Playbook** {.tabset}
 
 ## Required
 
@@ -141,6 +141,9 @@ The statistical programming language R will be used to generate visualizations a
 
 - [The R Book](Textbooks in R/The R Book.pdf)
 
+## Matheletics Files
+
+- [Baseball](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Baseball)
 
 # **Film Sessions** {.tabset}
 
@@ -159,11 +162,13 @@ The statistical programming language R will be used to generate visualizations a
 |JAN 25| Baseball I (Cont.) | [Slides](Slides/Baseball 1/Baseball_1_Lecture.pdf) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](Articles/Baseball/Baseball_Albert.pdf) |
 || Baseball II | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM|
 |JAN 27| Baseball II (Cont.) | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM|
-|| Baseball III | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH|
+|JAN 30| Baseball III | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH|
+|FEB 1| Baseball IV | [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)|
+|FEB 3| Playoff Round 1 | | [Example](Playoffs/Round 1/Spikeball.pdf) |
 |||||
 
-<!-- |SEP 8| Baseball IV | [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)| -->
-<!-- |SEP 10| Playoff Round 1 | | [Example](Playoffs/Round 1/Spikeball.pdf) | -->
+
+
 <!-- |SEP 13| Baseball V | [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH| -->
 <!-- |SEP 15| Baseball VI | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)| -->
 <!-- |SEP 17| Baseball VI (Cont.) | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)| -->
