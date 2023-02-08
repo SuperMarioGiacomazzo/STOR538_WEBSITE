@@ -102,7 +102,7 @@ E=0.5*(1-A3)+0.5*(1-A4)
 .024/(106*.0000055)
 library(Lahman)
 Data=Batting %>% 
-  filter(yearID>=1900 & yearID<=2006) %>% 
+  filter(yearID>=1900 & yearID<=2016) %>% 
   filter(AB>=500) %>% 
   summarize(n=n())
 Data$n
@@ -113,7 +113,8 @@ Data$n
 1-dpois(0,0.024)
 
 Data2=Pitching %>% filter(G==35) %>% 
-  filter(yearID>=1900 & yearID<=2006)
+  filter(yearID>=1900 & yearID<=2016)
+dim(Data2)
 
 2.4*9926
 1/.024
