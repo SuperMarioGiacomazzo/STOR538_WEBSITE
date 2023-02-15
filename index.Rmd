@@ -183,12 +183,12 @@ The statistical programming language R will be used to generate visualizations a
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
+|FEB 20| Basketball I | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) |
+|FEB 22| Basketball II | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) |
+|FEB 23| Basketball III | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 31-32 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)|
 |||||
 
-<!-- |SEP 22| Basketball I | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) | -->
-<!-- |SEP 24| Basketball I (Cont.) | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) | -->
-<!-- |SEP 27| Basketball II | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) | -->
-<!-- |SEP 29| Basketball III | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 31-32 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)| -->
+
 <!-- |OCT 1| Basketball IV | [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 33 MATH| -->
 <!-- |OCT 6| Playoffs Round 2 || [Example](Playoffs/Round 2/Group 1.pdf) | -->
 <!-- |OCT 8| Basketball V | [Slides](Slides/Basketball 5/Basketball_5_Lecture.pdf) |Ch. 34-35 MATH, [Web 1](https://www.nytimes.com/2011/04/13/sports/ncaabasketball/13gamble.html), [Web 2](https://las.illinois.edu/news/2006-09-01/no-foul), [Article 1](Articles/Basketball/Basketball_PriceWolfers.pdf)| -->
