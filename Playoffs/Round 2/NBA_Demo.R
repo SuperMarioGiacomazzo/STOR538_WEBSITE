@@ -1,4 +1,4 @@
-#devtools::install_github("abresler/nbastatR", force=T)
+#1devtools::install_github("abresler/nbastatR", force=T)
 
 library(nbastatR)
 library(tidyverse)
@@ -21,10 +21,31 @@ GAME2023=game_logs(
   return_message = TRUE
 )
 
+#Selecting One Game to Illustrate Cleaning
+GAME=filter(GAME2023,idGame==22200033) %>%
+              select(idGame,nameTeam,locationGame,orebTeam,ptsTeam)
+
+#Split Data Up Into Home and Away
+HOME=GAME %>% filter(locationGame=="H") %>% select(-locationGame)
+AWAY=GAME %>% filter(locationGame=="A") %>% select(-locationGame)
+
+#Rename Variables
+HOME2 = HOME %>% rename(Home=nameTeam,OREB_H=orebTeam,PTS_H=ptsTeam)
+AWAY2 = AWAY %>% rename(Away=nameTeam,OREB_A=orebTeam,PTS_A=ptsTeam)
+
+#Merge Datasets and Create Spread, Total, and OREB
+
+COMBINED = full_join(HOME2,AWAY2, by=c("idGame")) %>%
+            mutate(Spread=PTS_H-PTS_A,
+                   Total=PTS_H+PTS_A,
+                   OREB=OREB_H+OREB_A) %>%
+            select(idGame,Away,Home,Spread,Total,OREB,everything())
+
+
+
 #Box Score Data for Individual Game
 BOX2023=unnest(box_scores(game_ids=c(22200033),
-                      box_score_types="Traditional",
+                      box_score_types="Four Factors",
                       result_types="team"
 ))
-
 

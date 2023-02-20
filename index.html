@@ -4559,6 +4559,12 @@ Book</a></p></li>
 3</a></td>
 </tr>
 <tr class="even">
+<td>MAR 3</td>
+<td>Playoffs Round 2</td>
+<td align="right"></td>
+<td align="right"><a href="Playoffs/Round%202/Group%201.pdf">Example</a></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td align="right"></td>
@@ -5083,62 +5089,322 @@ following rubric:</p>
 </div>
 <div id="playoffs-round-2" class="section level2">
 <h2>Playoffs Round 2</h2>
-<!-- The second round will be a predictive modeling project related to the world of sports betting in the NFL. Thanks to our great teaching assistants, Matt Johnson and Andy Ackerman, for helping in the planning of this project. Access the data at the **[repository](https://github.com/mattymo18/STOR-538-P2-2021-Spring)**. Here you will find important NFL data from 2000 to 2021.  -->
-<!-- The primary goal of this project is to design models for prediction of three variables -- $Spread$, $Total$, and $Result$ -- often used in sports gambling. Below you can find clear definitions of these three outcome variables. It is imperative that you follow these specifications. Your group will be making predictions of the three variables for all NFL games between November 8 and November 29, inclusively. Your predictions should be saved in the dataset called **[Predictions](Playoffs/Round 2/Predictions.csv)**. Here you will find missing values where future predictions will be placed. This completed file should be submitted along with a paper summarizing your methodology. You will not only be graded by your methodology, but also by your predictive accuracy. Predictions for $Spread$ will be evaluated by root mean squared error (RMSE), predictions for $Total$ will be evaluated by mean absolute error (MAE), and predictions for $Result$ will be evaluated by classification accuracy (ACC). For each of the variables, the top 5 groups will get 3 points, the middle 5 groups will get 2 points, the bottom 4 groups will get 1 point. -->
-<!-- - $Spread = \textrm{Home Points} - \textrm{Away Points}$ -->
-<!-- - $Total = \textrm{Home Points} + \textrm{Away Points}$ -->
-<!-- - $Result = \begin{cases} -->
-<!--       1 & \textrm{if Home Team Wins} \\ -->
-<!--       0 & \textrm{if Home Team Loses} -->
-<!--    \end{cases}$ -->
-<!-- To build adequare predictive models, historical data is needed for training and testing. The dataset **[game_results](https://github.com/mattymo18/STOR-538-P2-2021-Spring/blob/master/Source_Data/game_results.csv)** contains important information about every game in the NFL since 1966. I would advise only using a subset of the data from recent years. The dataset **[nfl_stadiums](https://github.com/mattymo18/STOR-538-P2-2021-Spring/blob/master/Source_Data/nfl_stadiums.csv)** contains information on all NFL stadiums. The dataset **[nfl_teams](https://github.com/mattymo18/STOR-538-P2-2021-Spring/blob/master/Source_Data/nfl_teams.csv)** contains important information necessary for linking datasets according to team name and abbreviations. Season-level offensive data and defensive data for every NFL team since 2010 can be found in the folders **[Offensive-Stats](https://github.com/mattymo18/STOR-538-P2-2021-Spring/tree/master/Source_Data/Offensive-Stats)** and **[Defensive-Stats](https://github.com/mattymo18/STOR-538-P2-2021-Spring/tree/master/Source_Data/Defensive-Stats)**. Descriptions of all of these datasets can be found on Matt Johnson's **[repository](https://github.com/mattymo18/STOR-538-P2-2021-Spring)**. -->
-<!-- The data you are given is elementary and basic. Because of this, you are required to engineer new variables and use outside data. This is highly recommended to gain a competitive edge in the sports betting market. For the engineering of new variables, consider creating differences and ratios between the stats for the home and away teams. Also, it may be useful to create variables that represent past information such as moving averages or lagged variables.  These are just two basic examples. For the use of outside data, explore research for what other variables could be important for predicting these three variables.  -->
-<!-- - [NFL Play-by-Play on Kaggle](https://www.kaggle.com/maxhorowitz/nflplaybyplay2009to2016?select=NFL+Play+by+Play+2009-2018+%28v5%29.csv) -->
-<!-- - [NFL Injuries on Data.World](https://www.kaggle.com/sgonza03/nfl-major-injuries) -->
-<!-- - [Pro-Football Reference](https://www.pro-football-reference.com/) -->
-<!-- - [QB Statistics on Kaggle](https://www.kaggle.com/speckledpingu/nfl-qb-stats) -->
-<!-- - [Player Statistics on Kaggle](https://www.kaggle.com/kendallgillies/nflstatistics?select=Basic_Stats.csv) -->
-<!-- - [R Package: nflfastR](https://cran.r-project.org/web/packages/nflfastR/index.html), [Twitter](https://twitter.com/nflfastr?lang=en), [Vignettes](https://github.com/mrcaseb/nflfastR/tree/master/vignettes), [My Sample Code](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/blob/master/Playoffs/Round%202/nflfast.R) -->
-<!-- Your study should be summarized in a paper of 3 to 7 pages. The paper and predictions should be submitted on **[Sakai](https://sakai.unc.edu/welcome/)** before 5:00PM on the due date. Each group should have their own paper and predictions, but both need to be submitted by every member of the group. Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). When you submit your paper on **[Sakai](https://sakai.unc.edu/welcome/)**, you should write the full names of the other group members and the value of their contribution. Your individual value will be determined by the average score of the other members in your group gave you. -->
-<!-- On the first page, you should title your paper and give the names of the team members who contributed. The content of the paper should be organized in the following 4 subsections: -->
-<!-- ### 1) Data Information -->
-<!-- In this section, you should discuss three things. -->
-<!-- First, you should explain the steps taken to get the datasets cleaned and joined. How did you handle missing data? What did you do to identify outliers and how did you handle these instances? Were there any games intentionally removed and what were the reasons? -->
-<!-- Second, you should discuss any variables engineered and defend the reason. You are required to create/engineer at least **one variable** that doesn't exist in any dataset in **[repository](https://github.com/mattymo18/STOR-538-P2-2021-Spring)** or from other sources. You should be able to explain why you think the variable you created would help in predicting game outcomes. -->
-<!-- Third, you should discuss all outside data you joined into your dataset to hopefully improve prediction. You are required to utilize at least **one variable** that is not currently contained in any of the datasets. This could be weather, attendance, advanced stats, quarterback information, time of possession, lagged variables, etc. For all data you bring into your predictive models from outside sources, you should site the source and defend the reason for incorporating the data into your model. -->
-<!-- ### 2) Methodology for $Spread$ -->
-<!-- You should clearly describe your group's best predictive model for $Spread$ and the steps you took to get there. Discuss what variables were useful and useless for predicting spread. Since $Spread$ is a numeric variable, I highly recommend a basic linear regression as a baseline with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the best model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best. -->
-<!-- ### 3) Methodology for $Total$ -->
-<!-- You should clearly describe your group's best predictive model for $Total$ and the steps you took to get there. Discuss what variables were useful and useless for predicting spread. $Total$ is a numeric variable but could be highly skewed, I highly recommend nonlinear transformations or a poisson regression with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the best model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best. -->
-<!-- ### 4) Methodology for $Result$ -->
-<!-- You should clearly describe your group's best predictive model for $Result$ and the steps you took to get there. Discuss what variables were useful and useless for predicting spread. Since $Result$ is a numeric variable, I highly recommend a basic logistic regression as a baseline with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (random forests, classification trees, K-Nearest Neighbors, etc.), utilizing cross-validation, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the best model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally so someone with basic understanding in statistics and the sport. You are not required to presenting tables or figures, but these can be used to defend why the model you are calling the "best" is actually best. -->
-<!-- ### Rubric -->
-<!-- The second playoff round is worth a total of 48 points based on the following rubric: -->
-<!-- | Criteria | 0 | 1 | 2 | 3 | -->
-<!-- |:-----------:|:------:|:------:|:------:|:------:| -->
-<!-- |Title Page |Instructions Not Followed|Missing Entire Element|Missing a Team Member|Title+Team Members | -->
-<!-- |Data: Cleaning Summary|Unclear|Slightly Unclear|Slightly Clear|Clear| -->
-<!-- |Data: New Variable|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended| -->
-<!-- |Data: Outside Data|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended| -->
-<!-- |Spread: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough| -->
-<!-- |Spread: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description| -->
-<!-- |Spread: Prediction|None|Bottom 4| Middle 5 |Top 5| -->
-<!-- |Total: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough| -->
-<!-- |Total: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description| -->
-<!-- |Total: Prediction|None|Bottom 4|Middle 5|Top 5| -->
-<!-- |Result: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough| -->
-<!-- |Result: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description| -->
-<!-- |Result: Prediction|None|Bottom 4|Middle 5|Top 5| -->
-<!-- |Spelling/Grammar|>5 Errors| 3-5 Errors|1-2 Errors|No Errors| -->
-<!-- |Value|Bad|Okay|Good|Excellent| -->
-<!-- |Submitted|Late|||On Time| -->
-<!-- |||||| -->
+<p>The second round will be a predictive modeling project for actual NBA
+games. The primary goal of this project is to design models for
+prediction of three variables – <span class="math inline">\(Spread\)</span>, <span class="math inline">\(Total\)</span>, and <span class="math inline">\(OREB\)</span>. Below you can find clear
+definitions of these three outcome variables:</p>
+<ul>
+<li><p><span class="math inline">\(Spread = \textrm{Home Points} -
+\textrm{Away Points}\)</span></p></li>
+<li><p><span class="math inline">\(Total = \textrm{Home Points} +
+\textrm{Away Points}\)</span></p></li>
+<li><p><span class="math inline">\(OREB = \textrm{Home OREB} +
+\textrm{Away OREB}\)</span></p></li>
+</ul>
+<p>It is imperative that you follow these specifications. Your group
+will be making predictions of the three variables for all NBA games
+between April 4 and April 9, inclusively. Your predictions should be
+saved in the dataset called <strong><a href="https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/blob/master/Playoffs/Round%202/Predictions.csv">Predictions</a></strong>.
+Here you will find missing values where future predictions will be
+placed. This completed file should be submitted along with a paper
+summarizing your methodology. You will not only be graded by your
+methodology, but also by your predictive accuracy. The variables, <span class="math inline">\(Spread\)</span>, <span class="math inline">\(Total\)</span>, and <span class="math inline">\(OREB\)</span> will all be evaluated by root mean
+squared error (RMSE). For each of the variables, the top 6 groups will
+get 3 points, the middle 6 groups will get 2 points, and the bottom 5
+groups will get 1 point. All three variables are numeric. If you fail to
+get predictions or the predictions are not numeric values, you will get
+0 points.</p>
+<p>To build adequare predictive models, historical data is needed for
+training and testing. <a href="https://github.com/Nathanlauga">Nathan
+Lauga</a> is a French data scientist who has kindly scraped and shared
+NBA data with the world through <a href="https://www.kaggle.com/datasets/nathanlauga/nba-games">Kaggle</a>.
+This data was last updated December 22, 2022. I have recently downloaded
+these datasets to my <a href="https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/Playoffs/Round%202/Starting%20Data">github</a>.
+Consider this your starting dataset. Here are your starting datasets
+with individual download links:</p>
+<ul>
+<li><a href="https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/raw/master/Playoffs/Round%202/Starting%20Data/games.csv">games</a></li>
+<li><a href="https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/raw/master/Playoffs/Round%202/Starting%20Data/games_details.csv">games_details</a></li>
+<li><a href="https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/raw/master/Playoffs/Round%202/Starting%20Data/players.csv">players</a></li>
+<li><a href="https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/raw/master/Playoffs/Round%202/Starting%20Data/ranking.csv">ranking</a></li>
+<li><a href="https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/raw/master/Playoffs/Round%202/Starting%20Data/teams.csv">teams</a></li>
+</ul>
+<p>These datasets represent your starting point. In this project, you
+are required to engineer new variables and use outside data. This is
+highly recommended to gain a competitive edge in the sports betting
+market.</p>
+<p>For the engineering of new variables, consider creating differences
+and ratios between the stats for the home and away teams. Also, it may
+be useful to create variables that represent past information such as
+moving averages or lagged variables. You should be able to explain and
+defend the variables you create.</p>
+<p>For the use of outside data, research other variables that could be
+important for prediction of the three variables. You must find data from
+other online sources that are not part of Nathan Lauga’s Kaggle Data.
+This could be injury data, advanced metrics on players, play-by-play
+data, or recent data. I am grading you on your creativity so utilizing
+recent data for your outside data requirement would be helpful for
+predicting, but would definitely be less creative than other options.
+Below is a list of potential options:</p>
+<ul>
+<li><a href="https://www.nba.com/stats/players/advanced/?sort=GP&amp;dir=-1">Advanced
+Stats on NBA.com</a></li>
+<li><a href="https://www.kaggle.com/ghopkins/nba-injuries-2010-2018">Injury
+Data from Kaggle</a></li>
+<li><a href="https://www.basketball-reference.com/friv/injuries.fcgi">Injuries
+from Basketball Reference</a></li>
+<li><a href="https://www.r-bloggers.com/2018/12/scraping-nba-game-data-from-basketball-reference-com/">Webscraping
+from Basketball Reference</a></li>
+<li><a href="https://www.rdocumentation.org/packages/nbastatR/versions/0.1.10131">R
+Package: nbastatR by Alex Bresler</a></li>
+<li><a href="https://towardsdatascience.com/how-to-get-data-on-every-nba-player-using-r-62abcacd65e1">Information
+Using nbastatR</a></li>
+<li><a href="https://raw.githubusercontent.com/SuperMarioGiacomazzo/STOR538_WEBSITE/master/Playoffs/Round%202/NBA_Demo.R">Mario’s
+Example of nbastatR</a></li>
+</ul>
+<p>Your study should be summarized in a paper of at least 5 pages. The
+paper and predictions should be submitted on Canvas before 11:59PM on
+the due date. Each group should have their own paper and predictions,
+but both need to be submitted by every member of the group. Also, each
+group member needs to assess the contribution value of the other members
+of the team on a scale from 0 (Bad) to 3 (Excellent). Use the google
+form provided on the course website.</p>
+<p>On the first page, you should title your paper and give the names of
+the team members who contributed. The content of the paper should be
+organized in the following 4 subsections:</p>
+<div id="data-information" class="section level3">
+<h3>1) Data Information</h3>
+<p>In this section, you should discuss three things.</p>
+<p>First, you should explain the steps taken to get the datasets cleaned
+and joined. How did you handle missing data? What did you do to identify
+outliers and how did you handle these instances? Were there any games
+intentionally removed and what were the reasons? How did your group get
+ORB or team names in the dataset? I want to know everything your group
+did in chronological order.</p>
+<p>Second, you should discuss any variables engineered and defend the
+reason. You should be able to mathematically represent your metrics as
+formulas and provide written descriptions. You should be able to explain
+why you think the variable you created would help in predicting any of
+the three outcome variables. Feel free to make citations to whoever you
+want to credit for leading you to your idea. The variables you engineer
+should be creative and well-defended.</p>
+<p>Third, you should discuss all outside data you joined into your
+dataset to hopefully improve prediction. You are required to utilize
+data that is not currently contained in any of the starting datasets.
+You need to explain where you got the outside data and why you are
+including it. The outside data utilized should be creative and
+well-defended.</p>
+</div>
+<div id="methodology-for-spread" class="section level3">
+<h3>2) Methodology for <span class="math inline">\(Spread\)</span></h3>
+<p>You should clearly describe your group’s best predictive model for
+<span class="math inline">\(Spread\)</span> and the steps you took to
+get there. Discuss what variables were useful and useless for predicting
+spread. Since <span class="math inline">\(Spread\)</span> is a numeric
+variable, I highly recommend a basic linear regression as a baseline
+with stepwise algorithms or regularization for variable selection. To
+ensure you are seeking the best model for prediction, I highly advise
+considering many different types of models (neural nets, regression
+trees, time series, etc.), utilizing cross-validation, and adding
+interaction/polynomial terms. In this part, you should chronologically
+write about everything your group did to find the best model. Challenge
+yourselves to a thorough investigation from multiple angles and organize
+your process professionally for an audience with basic understanding in
+statistics and the sport. You are not required to present tables or
+figures, but these can be used to defend why the model you are calling
+the “best” is actually best. In the end, I want to know exactly which
+model you are going to use to predict Spread, and how did you use the
+data you have to get your actual predictions.</p>
+</div>
+<div id="methodology-for-total" class="section level3">
+<h3>3) Methodology for <span class="math inline">\(Total\)</span></h3>
+<p>You should clearly describe your group’s best predictive model for
+<span class="math inline">\(Total\)</span> and the steps you took to get
+there. Discuss what variables were useful and useless for predicting
+spread. <span class="math inline">\(Total\)</span> is a numeric variable
+but could be highly skewed, I highly recommend nonlinear transformations
+or a poisson regression with stepwise algorithms or regularization for
+variable selection. To ensure you are seeking the best model for
+prediction, I highly advise considering many different types of models
+(neural nets, regression trees, time series, etc.), utilizing
+cross-validation, and adding interaction/polynomial terms. There should
+also be out-of-sample testing for consideration in model selection and
+potential regularization. In this part, you should chronologically write
+about everything your group did to find the best model. Challenge
+yourselves to a thorough investigation from multiple angles and organize
+your process professionally for an audience with basic understanding in
+statistics and the sport. You are not required to present tables or
+figures, but these can be used to defend why the model you are calling
+the “best” is actually best. In the end, I want to know exactly which
+model you are going to use to predict Total, and how did you use the
+data you have to get your actual predictions.</p>
+</div>
+<div id="methodology-for-oreb" class="section level3">
+<h3>4) Methodology for <span class="math inline">\(OREB\)</span></h3>
+<p>Your methodology for <span class="math inline">\(OREB\)</span> can be
+extremely similar to your methodology for <span class="math inline">\(Total\)</span> since they are both count
+variables. Your methodology can be similar but the optimal model for
+<span class="math inline">\(OREB\)</span> may contain different
+variables than the optimal model for <span class="math inline">\(Total\)</span>, and this should be discussed. The
+problem with <span class="math inline">\(OREB\)</span> is that the
+variable is not currently given on the game and team level. This
+variable is contained on the player level in the massive dataset. You
+will need to aggregate the player data by team + game and merge this
+into the games dataset. How you do this should be outlined in your
+data-cleaning. In the end, I want to know exactly which model you are
+going to use to predict OREB, and how did you use the data you have to
+get your actual predictions.</p>
+</div>
+<div id="rubric-1" class="section level3">
+<h3>Rubric</h3>
+<p>The second playoff round is worth a total of 48 points based on the
+following rubric:</p>
+<table>
+<colgroup>
+<col width="28%" />
+<col width="17%" />
+<col width="17%" />
+<col width="17%" />
+<col width="17%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">Criteria</th>
+<th align="center">0</th>
+<th align="center">1</th>
+<th align="center">2</th>
+<th align="center">3</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">Title Page</td>
+<td align="center">Instructions Not Followed</td>
+<td align="center">Missing Entire Element</td>
+<td align="center">Missing a Team Member</td>
+<td align="center">Title+Team Members</td>
+</tr>
+<tr class="even">
+<td align="center">Data: Cleaning Summary</td>
+<td align="center">Unclear</td>
+<td align="center">Slightly Unclear</td>
+<td align="center">Slightly Clear</td>
+<td align="center">Clear</td>
+</tr>
+<tr class="odd">
+<td align="center">Data: New Variable</td>
+<td align="center">Poor</td>
+<td align="center">Not Innovative But Defended</td>
+<td align="center">Innovative But Not Well Defended</td>
+<td align="center">Innovative and Defended</td>
+</tr>
+<tr class="even">
+<td align="center">Data: Outside Data</td>
+<td align="center">Poor</td>
+<td align="center">Not Innovative But Defended</td>
+<td align="center">Innovative But Not Well Defended</td>
+<td align="center">Innovative and Defended</td>
+</tr>
+<tr class="odd">
+<td align="center">Spread: Methodology</td>
+<td align="center">Poor</td>
+<td align="center">Lazy But Well Explained</td>
+<td align="center">Clear, Thorough, but Lacking Innovation</td>
+<td align="center">Clear, Innovative, and Thorough</td>
+</tr>
+<tr class="even">
+<td align="center">Spread: Best Model</td>
+<td align="center">Poor Description</td>
+<td align="center">Adequate Description</td>
+<td align="center">Good Description</td>
+<td align="center">Excellent Description</td>
+</tr>
+<tr class="odd">
+<td align="center">Spread: Prediction</td>
+<td align="center">None</td>
+<td align="center">Bottom 5</td>
+<td align="center">Middle 6</td>
+<td align="center">Top 6</td>
+</tr>
+<tr class="even">
+<td align="center">Total: Methodology</td>
+<td align="center">Poor</td>
+<td align="center">Lazy But Well Explained</td>
+<td align="center">Clear, Thorough, but Lacking Innovation</td>
+<td align="center">Clear, Innovative, and Thorough</td>
+</tr>
+<tr class="odd">
+<td align="center">Total: Best Model</td>
+<td align="center">Poor Description</td>
+<td align="center">Adequate Description</td>
+<td align="center">Good Description</td>
+<td align="center">Excellent Description</td>
+</tr>
+<tr class="even">
+<td align="center">Total: Prediction</td>
+<td align="center">None</td>
+<td align="center">Bottom 5</td>
+<td align="center">Middle 6</td>
+<td align="center">Top 6</td>
+</tr>
+<tr class="odd">
+<td align="center">OREB: Methodology</td>
+<td align="center">Poor</td>
+<td align="center">Lazy But Well Explained</td>
+<td align="center">Clear, Thorough, but Lacking Innovation</td>
+<td align="center">Clear, Innovative, and Thorough</td>
+</tr>
+<tr class="even">
+<td align="center">OREB: Best Model</td>
+<td align="center">Poor Description</td>
+<td align="center">Adequate Description</td>
+<td align="center">Good Description</td>
+<td align="center">Excellent Description</td>
+</tr>
+<tr class="odd">
+<td align="center">OREB: Prediction</td>
+<td align="center">None</td>
+<td align="center">Bottom 5</td>
+<td align="center">Middle 6</td>
+<td align="center">Top 6</td>
+</tr>
+<tr class="even">
+<td align="center">Spelling</td>
+<td align="center">&gt;5 Errors</td>
+<td align="center">3-5 Errors</td>
+<td align="center">1-2 Errors</td>
+<td align="center">No Errors</td>
+</tr>
+<tr class="odd">
+<td align="center">Value</td>
+<td align="center">Bad</td>
+<td align="center">Okay</td>
+<td align="center">Good</td>
+<td align="center">Excellent</td>
+</tr>
+<tr class="even">
+<td align="center">Submitted</td>
+<td align="center">Late</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">On Time</td>
+</tr>
+<tr class="odd">
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
 <hr />
 <blockquote>
 <p>People judge you by the way you play in the playoffs.</p>
 <p>~ <em>Jaromir Jagr</em></p>
 </blockquote>
 <hr />
+</div>
 </div>
 <div id="championship" class="section level2">
 <h2>Championship</h2>
@@ -5387,8 +5653,8 @@ given assignment. A decent portion of your final grade will be
 influenced by this. The following link contains all teams
 alphabetically: <strong><a href="Group%20Assignments/STOR538_allTeams.pdf">All
 Teams</a></strong></p>
-<div class="datatables html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-84653690d4910edae719" style="width:100%;height:auto;"></div>
-<script type="application/json" data-for="htmlwidget-84653690d4910edae719">{"x":{"filter":"none","vertical":false,"data":[["Adams,Joseph A","Aeron,Priyanshi Sandeep","Agrawal,Avi Nikhar","Ahmed,Ghasan B","Althouse,Owen Glenn","Arias,Antonio","Best,Andrew Coleman","Boinapally,Nidhi Priya","Boyd,Hunter Sloan","Bruss,David Allen","Buhler,Barrett Quinn","Cicale,Austin Michael","Codjie,Henoc","Cooper,Brian Jeffrey","Dameron,Adam E","Davis,Grady West","Davis,Susan Elizabeth","Dolgoff,Joshua Aaron","Dubrowski,Lewis J","Duffy,Madison Rose","Dulaney,Casey Rose","Dutka,Emma Elizabeth","Eichlin,Kevin James","Ettefagh,Jacob Harrison","Fagan,Conor","Furbee,Abrah Lynette","Gilbert,Bryce A","Glazier,Caroline J","Gotur,Shreyas Canchi","Hancock,Eliza Dian","Hicks,Tricia Hope","Hinckley,Callahan David","Holroyd,Jack Douglas","Hwang,Jack Jaewon","Johnson,Tate Edward","Kaushal,Arja Amit","Kenerly II,William Dudley","Khismatova,Ideliya","Kim,Yulim","Lazaro,Evelin","Lemons,Wesley Philip","Lenker,Alexandra Keenley","Li,Kaiyan","Li,Ziang","Liu,Andy Tianyu","Low,Simon Joseph","Madan,Arvind Aditya","Madhiwala,Raahil","Madhu,Rohini","Mccrady,Ruth Hanes","McNicholas,Leo","Meade,Christian Andrew","Moore,Vivian Jean","Murdock,Weston Lee","Nance,Daniel Barringer","Nangali,Samvit","Nanugonda,Thanujeet Reddy","Neglia,Sasha Katherine","Norvell,Killian Mcnamara","Patel,Sahil Prashant","Patwardhan,Ojas","Pell,Samuel David","Petruccione Jr,Thomas Michael","Pettee,Noah","Pignone,Kevin A","Plummer,Jeron Kent","Pommerich,Zuntue","Poore,Lauren Elise","Rao,Sameer A","Reiter,Claudia Shea","Rodriguez Erazo,Carmen Lissette","Rogers,Jacob Thomas","Sandhu,Avneet Singh","Schick,Jacob Avery","Selom,Jonah Angelo Marcelo","Shifflett,Garrett D","Shroff,Ebrahim","Simanowski,Kylie Mae","Smith,Ryan Douglas","Solanki,Keisha B","Steele,Michael Alexander","Sullivan,Kevin Matthew","Swintosky,Louisa Thompson","Tang,Andrew Benjamin","Teng,Jinghao","Toro,Cesar Tyler","Tung,Yiu Ho","Vakharia,Neil Dwarkesh","Valera-Simeon,Nara Aracely","Venkatraman,Rohan","Warren,Eason M","White,Baxter","White,Kai Richard","Youngstrom,Kay Arden","Zeltner,Kailee Mason","Zepeda-Martinez,Danny","Zhu,Neo","Zinke,Veronica Rose"],[6,14,17,14,16,6,1,10,10,13,10,15,4,14,1,3,8,12,10,16,1,2,8,5,1,8,3,17,12,15,14,9,11,9,11,5,14,6,12,6,16,11,4,4,7,16,17,2,9,2,8,5,13,7,2,4,13,17,5,15,15,10,9,13,7,12,5,1,12,8,9,2,6,9,16,1,11,5,8,13,12,4,11,2,11,7,3,17,3,6,7,10,4,15,3,13,3,7],[17,16,7,15,1,7,6,3,12,17,9,11,8,6,10,10,11,5,12,8,14,17,1,16,9,4,1,6,9,1,6,15,13,6,7,2,11,3,5,13,8,9,16,7,4,13,5,1,9,7,14,15,5,16,1,8,11,2,2,4,2,10,4,3,14,2,9,15,15,3,2,14,4,10,13,17,8,5,17,12,7,10,4,10,13,12,13,11,11,8,3,14,3,16,5,12,12,6],[10,8,11,16,2,6,13,7,13,9,3,10,12,1,4,15,5,4,17,14,7,5,11,1,7,3,13,3,5,2,14,13,11,16,4,2,9,3,4,10,16,8,2,6,8,3,9,12,2,13,15,4,7,15,8,8,9,8,10,10,4,14,17,16,14,9,11,12,7,5,15,10,17,3,5,6,6,1,1,11,13,12,5,6,14,16,12,7,1,1,2,12,17,11,6,15,9,17],[1,4,2,11,7,12,13,3,8,6,17,8,5,16,10,16,6,3,17,10,7,2,6,7,7,3,14,6,12,9,11,12,15,2,3,16,4,14,2,4,17,13,8,8,5,11,17,9,1,9,11,12,4,9,8,12,3,6,1,4,8,3,12,11,16,2,4,10,14,5,10,10,17,13,15,9,5,13,1,6,15,15,13,2,1,1,14,5,15,10,5,11,7,13,7,9,16,14],[15,2,8,17,13,5,11,11,2,14,5,10,9,4,3,9,4,12,9,1,4,17,1,6,3,12,12,7,13,7,11,8,2,17,16,12,15,3,3,6,6,3,8,2,8,10,14,6,4,9,5,15,5,6,12,7,6,7,5,4,8,5,2,11,1,15,9,1,4,10,16,16,11,13,13,13,7,2,10,1,1,8,16,14,14,9,3,7,16,13,10,10,17,11,15,17,14,12],[6,2,2,4,11,8,6,8,7,15,4,5,9,1,9,10,14,11,7,9,17,5,14,8,3,9,5,12,2,15,16,2,3,12,12,16,4,7,15,7,4,1,10,16,11,14,5,13,8,1,11,10,9,3,10,13,11,1,16,11,17,17,1,6,3,8,5,13,12,6,10,7,12,15,12,17,3,17,13,13,2,4,6,2,14,5,7,3,8,15,13,1,4,6,14,9,16,10],[7,15,6,16,3,12,5,3,6,5,7,5,8,10,5,10,7,11,2,6,6,3,9,3,7,9,11,15,8,16,10,4,8,12,4,17,9,9,8,13,13,1,2,15,16,13,11,4,11,13,10,9,11,16,4,13,1,12,7,5,4,6,2,7,17,2,10,12,6,1,1,14,5,1,13,17,15,17,2,8,12,15,14,2,3,10,14,4,11,14,16,12,1,14,17,8,9,3],[3,2,12,1,10,3,11,2,5,1,7,12,15,3,12,4,14,3,13,5,7,11,1,13,9,13,13,8,8,3,11,10,5,7,10,6,14,15,11,12,14,11,6,9,6,1,13,8,8,7,15,17,5,15,16,1,16,7,2,5,11,10,4,6,2,16,5,3,15,6,10,12,4,10,17,2,4,9,12,9,4,16,9,8,8,1,16,4,14,17,17,13,7,17,6,9,2,14]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>Name<\/th>\n      <th>GS1<\/th>\n      <th>GS2<\/th>\n      <th>P1<\/th>\n      <th>GS3<\/th>\n      <th>GS4<\/th>\n      <th>P2<\/th>\n      <th>GS5<\/th>\n      <th>C<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"scrollX":true,"columnDefs":[{"className":"dt-center","targets":[0,1,2]},{"className":"dt-right","targets":[3,4,5,6,7,8]}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<div class="datatables html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-402d3c0b16b8a0b8360a" style="width:100%;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-402d3c0b16b8a0b8360a">{"x":{"filter":"none","vertical":false,"data":[["Adams,Joseph A","Aeron,Priyanshi Sandeep","Agrawal,Avi Nikhar","Ahmed,Ghasan B","Althouse,Owen Glenn","Arias,Antonio","Best,Andrew Coleman","Boinapally,Nidhi Priya","Boyd,Hunter Sloan","Bruss,David Allen","Buhler,Barrett Quinn","Cicale,Austin Michael","Codjie,Henoc","Cooper,Brian Jeffrey","Dameron,Adam E","Davis,Grady West","Davis,Susan Elizabeth","Dolgoff,Joshua Aaron","Dubrowski,Lewis J","Duffy,Madison Rose","Dulaney,Casey Rose","Dutka,Emma Elizabeth","Eichlin,Kevin James","Ettefagh,Jacob Harrison","Fagan,Conor","Furbee,Abrah Lynette","Gilbert,Bryce A","Glazier,Caroline J","Gotur,Shreyas Canchi","Hancock,Eliza Dian","Hicks,Tricia Hope","Hinckley,Callahan David","Holroyd,Jack Douglas","Hwang,Jack Jaewon","Johnson,Tate Edward","Kaushal,Arja Amit","Kenerly II,William Dudley","Khismatova,Ideliya","Kim,Yulim","Lazaro,Evelin","Lemons,Wesley Philip","Lenker,Alexandra Keenley","Li,Kaiyan","Li,Ziang","Liu,Andy Tianyu","Low,Simon Joseph","Madan,Arvind Aditya","Madhiwala,Raahil","Madhu,Rohini","Mccrady,Ruth Hanes","McNicholas,Leo","Meade,Christian Andrew","Moore,Vivian Jean","Murdock,Weston Lee","Nance,Daniel Barringer","Nangali,Samvit","Nanugonda,Thanujeet Reddy","Neglia,Sasha Katherine","Norvell,Killian Mcnamara","Patel,Sahil Prashant","Patwardhan,Ojas","Pell,Samuel David","Petruccione Jr,Thomas Michael","Pettee,Noah","Pignone,Kevin A","Plummer,Jeron Kent","Pommerich,Zuntue","Poore,Lauren Elise","Rao,Sameer A","Reiter,Claudia Shea","Rodriguez Erazo,Carmen Lissette","Rogers,Jacob Thomas","Sandhu,Avneet Singh","Schick,Jacob Avery","Selom,Jonah Angelo Marcelo","Shifflett,Garrett D","Shroff,Ebrahim","Simanowski,Kylie Mae","Smith,Ryan Douglas","Solanki,Keisha B","Steele,Michael Alexander","Sullivan,Kevin Matthew","Swintosky,Louisa Thompson","Tang,Andrew Benjamin","Teng,Jinghao","Toro,Cesar Tyler","Tung,Yiu Ho","Vakharia,Neil Dwarkesh","Valera-Simeon,Nara Aracely","Venkatraman,Rohan","Warren,Eason M","White,Baxter","White,Kai Richard","Youngstrom,Kay Arden","Zeltner,Kailee Mason","Zepeda-Martinez,Danny","Zhu,Neo","Zinke,Veronica Rose"],[6,14,17,14,16,6,1,10,10,13,10,15,4,14,1,3,8,12,10,16,1,2,8,5,1,8,3,17,12,15,14,9,11,9,11,5,14,6,12,6,16,11,4,4,7,16,17,2,9,2,8,5,13,7,2,4,13,17,5,15,15,10,9,13,7,12,5,1,12,8,9,2,6,9,16,1,11,5,8,13,12,4,11,2,11,7,3,17,3,6,7,10,4,15,3,13,3,7],[17,16,7,15,1,7,6,3,12,17,9,11,8,6,10,10,11,5,12,8,14,17,1,16,9,4,1,6,9,1,6,15,13,6,7,2,11,3,5,13,8,9,16,7,4,13,5,1,9,7,14,15,5,16,1,8,11,2,2,4,2,10,4,3,14,2,9,15,15,3,2,14,4,10,13,17,8,5,17,12,7,10,4,10,13,12,13,11,11,8,3,14,3,16,5,12,12,6],[10,8,11,16,2,6,13,7,13,9,3,10,12,1,4,15,5,4,17,14,7,5,11,1,7,3,13,3,5,2,14,13,11,16,4,2,9,3,4,10,16,8,2,6,8,3,9,12,2,13,15,4,7,15,8,8,9,8,10,10,4,14,17,16,14,9,11,12,7,5,15,10,17,3,5,6,6,1,1,11,13,12,5,6,14,16,12,7,1,1,2,12,17,11,6,15,9,17],[1,4,2,11,7,12,13,3,8,6,17,8,5,16,10,16,6,3,17,10,7,2,6,7,7,3,14,6,12,9,11,12,15,2,3,16,4,14,2,4,17,13,8,8,5,11,17,9,1,9,11,12,4,9,8,12,3,6,1,4,8,3,12,11,16,2,4,10,14,5,10,10,17,13,15,9,5,13,1,6,15,15,13,2,1,1,14,5,15,10,5,11,7,13,7,9,16,14],[15,2,8,17,13,5,11,11,2,14,5,10,9,4,3,9,4,12,9,1,4,17,1,6,3,12,12,7,13,7,11,8,2,17,16,12,15,3,3,6,6,3,8,2,8,10,14,6,4,9,5,15,5,6,12,7,6,7,5,4,8,5,2,11,1,15,9,1,4,10,16,16,11,13,13,13,7,2,10,1,1,8,16,14,14,9,3,7,16,13,10,10,17,11,15,17,14,12],[6,2,2,4,11,8,6,8,7,15,4,5,9,1,9,10,14,11,7,9,17,5,14,8,3,9,5,12,2,15,16,2,3,12,12,16,4,7,15,7,4,1,10,16,11,14,5,13,8,1,11,10,9,3,10,13,11,1,16,11,17,17,1,6,3,8,5,13,12,6,10,7,12,15,12,17,3,17,13,13,2,4,6,2,14,5,7,3,8,15,13,1,4,6,14,9,16,10],[7,15,6,16,3,12,5,3,6,5,7,5,8,10,5,10,7,11,2,6,6,3,9,3,7,9,11,15,8,16,10,4,8,12,4,17,9,9,8,13,13,1,2,15,16,13,11,4,11,13,10,9,11,16,4,13,1,12,7,5,4,6,2,7,17,2,10,12,6,1,1,14,5,1,13,17,15,17,2,8,12,15,14,2,3,10,14,4,11,14,16,12,1,14,17,8,9,3],[3,2,12,1,10,3,11,2,5,1,7,12,15,3,12,4,14,3,13,5,7,11,1,13,9,13,13,8,8,3,11,10,5,7,10,6,14,15,11,12,14,11,6,9,6,1,13,8,8,7,15,17,5,15,16,1,16,7,2,5,11,10,4,6,2,16,5,3,15,6,10,12,4,10,17,2,4,9,12,9,4,16,9,8,8,1,16,4,14,17,17,13,7,17,6,9,2,14]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>Name<\/th>\n      <th>GS1<\/th>\n      <th>GS2<\/th>\n      <th>P1<\/th>\n      <th>GS3<\/th>\n      <th>GS4<\/th>\n      <th>P2<\/th>\n      <th>GS5<\/th>\n      <th>C<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"scrollX":true,"columnDefs":[{"className":"dt-center","targets":[0,1,2]},{"className":"dt-right","targets":[3,4,5,6,7,8]}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
 <p>In the table below, you can find your group for each of the specific
 team-based assignments. Make sure you fill out the value survey before
 the time the assignment is due on the due date. Do not assess the value
@@ -5541,7 +5807,7 @@ for C</a></td>
 <!-- datatable(FINAL.RESULT,class="display",options = list(scrollX=F, -->
 <!--             columnDefs = list(list(className = 'dt-center', targets = 0:6))),rownames=F) -->
 <!-- ``` -->
-<p>This page was last updated on 2023-02-15 11:51:13 Eastern Time by
+<p>This page was last updated on 2023-02-19 23:45:41 Eastern Time by
 Super Mario.</p>
 </div>
 
