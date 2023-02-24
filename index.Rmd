@@ -185,9 +185,10 @@ The statistical programming language R will be used to generate visualizations a
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
 |FEB 22| Basketball I | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) |
-|FEB 24| Basketball II | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) |
-|FEB 27| Basketball III | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 31-32 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)|
-|MAR 1| Basketball IV | [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 33 MATH|
+|FEB 24| Basketball I (Cont.) | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) |
+|| Basketball II | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) |
+|FEB 27| Basketball III | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 32-33 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)|
+|MAR 1| Basketball IV | [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 34 MATH|
 |MAR 3| Playoffs Round 2 || [Example](Playoffs/Round 2/Group 1.pdf) |
 |||||
 
