@@ -1,4 +1,4 @@
-#1devtools::install_github("abresler/nbastatR", force=T)
+#devtools::install_github("abresler/nbastatR", force=T)
 
 library(nbastatR)
 library(tidyverse)

@@ -190,7 +190,8 @@ The statistical programming language R will be used to generate visualizations a
 |MAR 1| Basketball II (Cont.) | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) |
 || Basketball III | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 32-33 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)|
 |MAR 3| Playoffs Round 2 || [Example](Playoffs/Round 2/Group 1.pdf) |
-|MAR 6| Basketball IV | [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 34 MATH|
+|MAR 6| Basketball III (Cont.) | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 32-33 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)|
+|| Basketball IV | [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 34 MATH|
 |MAR 8| Basketball V | [Slides](Slides/Basketball 5/Basketball_5_Lecture.pdf) |Ch. 35-36 MATH, [Web 1](https://www.nytimes.com/2011/04/13/sports/ncaabasketball/13gamble.html), [Web 2](https://las.illinois.edu/news/2006-09-01/no-foul), [Article 1](Articles/Basketball/Basketball_PriceWolfers.pdf)|
 |MAR 10| Basketball VI | [Slides](Slides/Basketball 6/Basketball_6_Lecture.pdf) |Ch. 38 MATH, [Web 1](https://www.inpredictable.com/2016/05/endgame-strategy-in-nba.html), [Web 2](http://www.82games.com/lawhorn.htm)|
 |||| [Article 1](Articles/Basketball/Basketball_Gill.pdf), [Article 2](Articles/Basketball/Basketball_Kenter.pdf), [Article 3](Articles/Basketball/Basketball_Annis.pdf)|
@@ -401,9 +402,9 @@ The second round will be a predictive modeling project for actual NBA games. The
 - $OREB = \textrm{Home OREB} + \textrm{Away OREB}$
 
 
-It is imperative that you follow these specifications. Your group will be making predictions of the three variables for all NBA games between April 4 and April 9, inclusively. Your predictions should be saved in the dataset called **[Predictions](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/blob/master/Playoffs/Round%202/Predictions.csv)**. Here you will find missing values where future predictions will be placed. This completed file should be submitted along with a paper summarizing your methodology. You will not only be graded by your methodology, but also by your predictive accuracy. The variables, $Spread$, $Total$, and $OREB$ will all be evaluated by root mean squared error (RMSE). For each of the variables, the top 6 groups will get 3 points, the middle 6 groups will get 2 points, and the bottom 5 groups will get 1 point. All three variables are numeric. If you fail to get predictions or the predictions are not numeric values, you will get 0 points.
+It is imperative that you follow these specifications. Your group will be making predictions of the three variables for all NBA games between April 4 and April 9, inclusively. Your predictions should be saved in the dataset called **[Predictions](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/blob/master/Playoffs/Round%202/Predictions.csv)**. Here you will find missing values where future predictions will be placed. This completed file should be submitted along with a paper summarizing your methodology. You will not only be graded by your methodology, but also by your predictive accuracy. The variables, $Spread$, $Total$, and $OREB$ will all be evaluated by mean absolute error (MAE). For each of the variables, the top 6 groups will get 3 points, the middle 6 groups will get 2 points, and the bottom 5 groups will get 1 point. All three variables are numeric. If you fail to get predictions or the predictions are not numeric values, you will get 0 points.
 
-To build adequare predictive models, historical data is needed for training and testing. [Nathan Lauga](https://github.com/Nathanlauga) is a French data scientist who has kindly scraped and shared NBA data with the world through [Kaggle](https://www.kaggle.com/datasets/nathanlauga/nba-games). This data was last updated December 22, 2022. I have recently downloaded these datasets to my [github](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/Playoffs/Round%202/Starting%20Data). Consider this your starting dataset. Here are your starting datasets with individual download links:
+To build adequate predictive models, historical data is needed for training and testing. [Nathan Lauga](https://github.com/Nathanlauga) is a French data scientist who has kindly scraped and shared NBA data with the world through [Kaggle](https://www.kaggle.com/datasets/nathanlauga/nba-games). This data was last updated December 22, 2022. I have recently downloaded these datasets to my [github](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/Playoffs/Round%202/Starting%20Data). Consider this your starting dataset. Here are your starting datasets with individual download links:
 
 - [games](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/raw/master/Playoffs/Round%202/Starting%20Data/games.csv) 
 - [games_details](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/raw/master/Playoffs/Round%202/Starting%20Data/games_details.csv)
@@ -636,14 +637,14 @@ In the table below, you can find your group for each of the specific team-based 
 
 # **Results from Playoffs Round 2**
 
-<!-- The predictions of all 14 teams can be accessed from the hyperlinks below. These three files contain predictions for the three separate variables for all the groups. These files also contain the actual outcome from the game. -->
+<!-- The predictions of all 17 teams can be accessed from the hyperlinks below. These three files contain predictions for the three separate variables for all the groups. These files also contain the actual outcome from the game. -->
 
 <!-- - [Spread](Playoffs/Round 2/PredictSpread.csv) -->
 <!-- - [Total](Playoffs/Round 2/PredictTotal.csv) -->
 <!-- - [Result](Playoffs/Round 2/PredictResult.csv) -->
 
 
-<!-- The table below shows each group's RMSE, MAE, and ACC for $Spread$, $Total$, and $Result$, respectively. Also, you will see your group ranking for each of the three variables. It may be helpful to sort the table for each variable to see where your group is currently ranked. -->
+<!-- The table below shows each group's MAE for $Spread$, $Total$, and $OREB$, respectively. Also, you will see your group ranking for each of the three variables. It may be helpful to sort the table for each variable to see where your group is currently ranked. -->
 
 <!-- ```{r,echo=F,results=TRUE,message=F} -->
 <!-- library(DT) -->
@@ -701,22 +702,13 @@ In the table below, you can find your group for each of the specific team-based 
 <!--               group11=group11$Result,group12=group12$Result, -->
 <!--               group13=group13$Result,group14=group14$Result) -->
 
-<!-- #Functions for Evaluating Prediction Error -->
-<!-- rmse.func=function(actual,predict){ -->
-<!--   return(sqrt(mean((actual-predict)^2,na.rm=T))) -->
-<!-- } -->
-
 <!-- mae.func=function(actual,predict){ -->
 <!--   return(mean(abs(actual-predict),na.rm=T)) -->
 <!-- } -->
 
-<!-- acc.func=function(actual,predict){ -->
-<!--   return(mean(actual==predict,na.rm=T)) -->
-<!-- } -->
-
-<!-- spread.final=apply(Spread[,c(5:18)],2,rmse.func,actual=Spread$Actual) -->
+<!-- spread.final=apply(Spread[,c(5:18)],2,mae.func,actual=Spread$Actual) -->
 <!-- total.final=apply(Total[,5:18],2,mae.func,actual=Total$Actual) -->
-<!-- result.final=apply(Result[,5:18],2,acc.func,actual=Result$Actual) -->
+<!-- result.final=apply(Result[,5:18],2,mae.func,actual=Result$Actual) -->
 
 
 <!-- FINAL.RESULT=tibble(Group=1:14,`Spread RMSE`=round(spread.final,3),`Spread Rank`=rank(as.numeric(spread.final)), -->
