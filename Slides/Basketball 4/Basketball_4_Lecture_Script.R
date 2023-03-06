@@ -56,7 +56,7 @@ ReplWinPer=(R^(alpha))/(R^(alpha)+1)
 print(ReplWinPer)
 ReplWinCount=ReplWinPer*82
 
-#Calculating Salary Amount Per Win
+#Salary of 2006
 Salary06 = Salary %>%
   filter(season_start==2006) %>%
   group_by(team) %>%
@@ -71,8 +71,25 @@ ggplot(Salary06) +
 print(Salary06$team)
 print(Salary06$total.salary)
 
+#Salary of 2017
+Salary17 = Salary %>%
+  filter(season_start==2017) %>%
+  group_by(team) %>%
+  summarize(total.salary=sum(salary)/1000000) %>%
+  arrange(desc(total.salary))
+head(Salary17)
+
+ggplot(Salary17) +
+  geom_histogram(aes(x=total.salary),fill="deepskyblue1") +
+  ylab("Frequency") + xlab("Total Payroll (in Millions)")+
+  ggtitle("Distribution of Team Salaries in 2017") +
+  theme_classic()
+
+mean(Salary17$total.salary)
+median(Salary17$total.salary)
+
 #Relationship with Salary and Wins
-wikipedia="https://en.wikipedia.org/wiki/2006%E2%80%9307_NBA_season"
+wikipedia="https://en.wikipedia.org/wiki/2017%E2%80%9318_NBA_season"
 wins = wikipedia %>%
         read_html() %>%
         html_table(fill=T)
@@ -81,26 +98,29 @@ wins2=as.data.frame(rbind(as.matrix(wins[[4]]),as.matrix(wins[[5]]),
                     as.matrix(wins[[6]]),as.matrix(wins[[7]]),
                     as.matrix(wins[[8]]),as.matrix(wins[[9]])))[,1:2]
 names(wins2)=c("team","wins")
-str_detect(wins2$team,".-")
-wins3=mutate(wins2,team=str_replace(team,".-",""))
+str_detect(wins2$team,"..\\p{Pd}.")
+wins3=mutate(wins2,team=str_replace(team,"..\\p{Pd}.",""))
 head(wins3)
 
-salarywins06=inner_join(Salary06,wins3)
-salarywins06$wins=as.numeric(as.character(salarywins06$wins))
-head(salarywins06)
+salarywins17=inner_join(Salary17,wins3)
+salarywins17$wins=as.numeric(as.character(salarywins17$wins))
+head(salarywins17)
 
-ggplot(salarywins06) + 
+ggplot(salarywins17) + 
   geom_smooth(aes(x=wins,y=total.salary),color="deepskyblue1",
               method="lm",size=1,linetype="dashed") +
   geom_point(aes(x=wins,y=total.salary),color="deepskyblue1",size=2) +
-  xlab("Number of Wins (2006-2007)") + ylab("Team Payroll") +
+  xlab("Number of Wins (2017-2018)") + ylab("Team Payroll") +
   theme_classic()
 
-linearwts=lm(total.salary~wins,data=salarywins06)
+linearwts=lm(total.salary~wins,data=salarywins17)
 summary(linearwts)
 
-predict(linearwts,newdata=data.frame(wins=41))
+predict(linearwts,newdata=data.frame(wins=41),interval="confidence")
 
-median(salarywins06$total.salary)
+predict(linearwts,newdata=data.frame(wins=41),interval="prediction")
+
+mean(salarywins17$total.salary)
+median(salarywins17$total.salary)
 
 
