@@ -197,8 +197,9 @@ The statistical programming language R will be used to generate visualizations a
 |MAR 13| Spring Break | ||
 |MAR 15| Spring Break | ||
 |MAR 17| Spring Break | ||
-|MAR 20| Basketball V | [Slides](Slides/Basketball 5/Basketball_5_Lecture.pdf) |Ch. 35 MATH, [Article 1](Articles/Basketball/Basketball_PriceWolfers.pdf)|
-|MAR 22| Basketball VI | [Slides](Slides/Basketball 6/Basketball_6_Lecture.pdf) |Ch. 38 MATH, [Web 1](https://www.inpredictable.com/2016/05/endgame-strategy-in-nba.html), [Web 2](http://www.82games.com/lawhorn.htm)|
+|MAR 20| Work on Playoff 2 | ||
+|MAR 22| Basketball V | [Slides](Slides/Basketball 5/Basketball_5_Lecture.pdf) |Ch. 35 MATH, [Article 1](Articles/Basketball/Basketball_PriceWolfers.pdf)|
+|MAR 24| Basketball VI | [Slides](Slides/Basketball 6/Basketball_6_Lecture.pdf) |Ch. 38 MATH, [Web 1](https://www.inpredictable.com/2016/05/endgame-strategy-in-nba.html), [Web 2](http://www.82games.com/lawhorn.htm)|
 |||| [Article 1](Articles/Basketball/Basketball_Gill.pdf), [Article 2](Articles/Basketball/Basketball_Kenter.pdf), [Article 3](Articles/Basketball/Basketball_Annis.pdf)|
 |||||
 
@@ -603,9 +604,9 @@ Any assignments requiring a deliverable will be submitted via **Canvas**.
 | |GS3 (Even: Ch. 8 HSMAS)||||
 |MAR 3 (11:59PM)|||P1||
 |MAR 10 (12:20PM)||RS4|||
-|MAR 24 (12:20PM)|GS4 (Odd: Ch. 13 HSMAS)||||
-||GS4 (Even: Ch. 15 HSMAS)||||
 |APR 3  (11:59PM)|||P2||
+|APR 7 (12:20PM)|GS4 (Odd: Ch. 13 HSMAS)||||
+||GS4 (Even: Ch. 15 HSMAS)||||
 |APR 14 (12:20PM)||RS5|||
 |APR 21 (12:20PM) |GS5 (Odd: Ch. 17 HSMAS)||||
 | |GS5 (Even: Ch. 21 HSMAS)||||
