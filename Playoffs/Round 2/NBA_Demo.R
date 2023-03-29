@@ -45,7 +45,7 @@ COMBINED = full_join(HOME2,AWAY2, by=c("idGame")) %>%
 
 #Box Score Data for Individual Game
 BOX2023=unnest(box_scores(game_ids=c(22200033),
-                      box_score_types="Four Factors",
+                      box_score_types="Advanced",
                       result_types="team"
 ))
 

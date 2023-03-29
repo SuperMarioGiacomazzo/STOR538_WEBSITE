@@ -127,19 +127,9 @@ The statistical programming language R will be used to generate visualizations a
 
 ## Textbooks in R
 
-- [A first Course in Statistical Programming with R](Textbooks in R/A First Course in Statistical Programming with R.pdf)
-
 - [An Introduction to Statistical Learning](Textbooks in R/An Introduction to Statistical Learning.pdf)
 
-- [Machine Learning with R](Textbooks in R/Machine Learning with R.pdf)
-
 - [R for Data Science](Textbooks in R/R for Data Science- Import, Tidy, Transform, Visualize, and Model Data.pdf)
-
-- [R Programming for Data Science](Textbooks in R/R Programming for Data Science.pdf)
-
-- [The Art of R Programming](Textbooks in R/The Art of R Programming.pdf)
-
-- [The R Book](Textbooks in R/The R Book.pdf)
 
 ## Mathletics Files
 
