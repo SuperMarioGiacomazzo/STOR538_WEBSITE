@@ -724,7 +724,7 @@ SPREAD.RESULT=apply(SPREAD[,-(1:3)],2,mae.func,actual=Actual$Spread)
 TOTAL.RESULT=apply(TOTAL[,-(1:3)],2,mae.func,actual=Actual$Total)
 OREB.RESULT=apply(OREB[,-(1:3)],2,mae.func,actual=Actual$OREB)
 
-FINAL.RESULT=tibble(Group=c(1,3,4,"5a","5b","5c",6,7,8,9,11,12,13,14,15,16,17),
+FINAL.RESULT=tibble(Group=c(1,2,4,"5a","5b","5c",6,7,8,9,11,12,13,14,15,16,17),
                     `Spread MAE`=round(SPREAD.RESULT,3),
                     `Spread Rank`=rank(as.numeric(SPREAD.RESULT)),
                      `Total MAE`=round(TOTAL.RESULT,3),
