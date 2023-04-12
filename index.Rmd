@@ -730,7 +730,7 @@ FINAL.RESULT=tibble(Group=c(1,3,4,"5a","5b","5c",6,7,8,9,11,12,13,14,15,16,17),
                      `Total MAE`=round(TOTAL.RESULT,3),
                     `Total Rank`=rank(as.numeric(TOTAL.RESULT)),
                      `OREB MAE`=round(OREB.RESULT,3),
-                    `OREB Rank`=rank(-as.numeric(OREB.RESULT)))
+                    `OREB Rank`=rank(as.numeric(OREB.RESULT)))
 
 datatable(FINAL.RESULT,class="display",options = list(scrollX=F,
             columnDefs = list(list(className = 'dt-center', targets = 0:6))),rownames=F)
