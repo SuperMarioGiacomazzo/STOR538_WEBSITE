@@ -1,29 +1,3 @@
-library(tidyverse)
-library(readxl)
-library(plyr)
-
-setwd("D:/Mario Documents/UNC/STOR 538/STOR538_WEBSITE/Playoffs/Round 2")
-
-Actual=read.csv(file="Actual.csv")
-
-P1=read.csv(file="Prediction_1.csv")
-P2=read.csv(file="Prediction_2.csv")[1:55,1:6]
-P4=read.csv(file="Prediction_4.csv")
-P5a=read.csv(file="Prediction_5a.csv")
-P5b=read.csv(file="Prediction_5b.csv")
-P5c=read.csv(file="Prediction_5c.csv")
-P6=read.csv(file="Prediction_6.csv")
-P7=read.csv(file="Prediction_7.csv")
-P8=read.csv(file="Prediction_8.csv")
-P9=read.csv(file="Prediction_9.csv")
-P11=read.csv(file="Prediction_11.csv")
-P12=read.csv(file="Prediction_12.csv")
-P13=read.csv(file="Prediction_13.csv")[,1:6]
-P14=read.csv(file="Prediction_14.csv")
-P15=read.csv(file="Prediction_15.csv")
-P16=read.csv(file="Prediction_16.csv")
-P17=read.csv(file="Prediction_17.csv")
-
 library(DT)
 library(tidyverse)
 library(readxl)
@@ -31,6 +5,7 @@ library(plyr)
 
 setwd("D:/Mario Documents/UNC/STOR 538/STOR538_WEBSITE/Playoffs/Round 2")
 
+#Actual=read.csv(file="Actual_Wrong.csv")
 Actual=read.csv(file="Actual.csv")
 
 P1=read.csv(file="Prediction_1.csv")
@@ -114,17 +89,9 @@ write.csv(dplyr::select(mutate(TOTAL,Actual=Actual$Total),"Date","Away","Home","
 write.csv(dplyr::select(mutate(OREB,Actual=Actual$OREB),"Date","Away","Home","Actual",everything()),"OREB_class.csv")
 
 mae.func=function(prediction,actual){
-  mean(abs(actual-prediction),na.rm=T)
+  mean(abs(actual-prediction))
 }
 
 SPREAD.RESULT=apply(SPREAD[,-(1:3)],2,mae.func,actual=Actual$Spread)
 TOTAL.RESULT=apply(TOTAL[,-(1:3)],2,mae.func,actual=Actual$Total)
 OREB.RESULT=apply(OREB[,-(1:3)],2,mae.func,actual=Actual$OREB)
-
-
-
-
-
-
-
-

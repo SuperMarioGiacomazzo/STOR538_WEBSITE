@@ -717,7 +717,7 @@ OREB=join_all(list(dplyr::rename(P1,OREB_1=OREB)[,c(1:3, 6)],
 
 
 mae.func=function(prediction,actual){
-  mean(abs(actual-prediction),na.rm=T)
+  mean(abs(actual-prediction))
 }
 
 SPREAD.RESULT=apply(SPREAD[,-(1:3)],2,mae.func,actual=Actual$Spread)

@@ -19,7 +19,7 @@ Date,Away,Home,Spread,Total,OREB
 4/5/2023,Chicago Bulls,Milwaukee Bucks,8.05,233.4,20.81
 4/5/2023,Memphis Grizzlies,New Orleans Pelicans,0.78,230.92,23.18
 4/5/2023,Sacramento Kings,Dallas Mavericks,-4.81,225.8,17.21
-4/5/2023,Los Angeles Lakers,LA Clippers,-2.27,227.46,19.91
+4/5/2023,Los Angeles Lakers,Los Angeles Clippers,-2.27,227.46,19.91
 4/6/2023,Cleveland Cavaliers,Orlando Magic,-2.4,225.52,19.96
 4/6/2023,Miami Heat,Philadelphia 76ers,8.19,213.82,18.77
 4/6/2023,Portland Trail Blazers,San Antonio Spurs,1.85,228.47,22.24
@@ -37,7 +37,7 @@ Date,Away,Home,Spread,Total,OREB
 4/7/2023,Golden State Warriors,Sacramento Kings,8.8,238.9,19.02
 4/7/2023,Phoenix Suns,Los Angeles Lakers,5.39,234.09,21.99
 4/8/2023,Denver Nuggets,Utah Jazz,-1.2,233.37,22.28
-4/8/2023,Portland Trail Blazers,LA Clippers,3.87,221,19.77
+4/8/2023,Portland Trail Blazers,Los Angeles Clippers,3.87,221,19.77
 4/8/2023,Minnesota Timberwolves,San Antonio Spurs,-2.73,238.53,20.95
 4/9/2023,Atlanta Hawks,Boston Celtics,8.62,236.56,20.02
 4/9/2023,Philadelphia 76ers,Brooklyn Nets,-4.42,228.55,16.32
@@ -52,5 +52,5 @@ Date,Away,Home,Spread,Total,OREB
 4/9/2023,Utah Jazz,Los Angeles Lakers,2.84,235.05,21.99
 4/9/2023,New Orleans Pelicans,Minnesota Timberwolves,2.49,233.59,19.77
 4/9/2023,Memphis Grizzlies,Oklahoma City Thunder,5.69,234.49,23.18
-4/9/2023,LA Clippers,Phoenix Suns,0.1,228.63,21.17
+4/9/2023,Los Angeles Clippers,Phoenix Suns,0.1,228.63,21.17
 4/9/2023,Golden State Warriors,Portland Trail Blazers,-2.03,231.23,19.44
