@@ -206,9 +206,11 @@ The statistical programming language R will be used to generate visualizations a
 |APR 10| Football IV | [Slides](Slides/Football 4/Footballl_4_Lecture.pdf) | Ch. 21 MATH, [Web 1](https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c), [Article 1](Articles/Football/Football_Pelechrinis2.pdf), [Article 2](Articles/Football/Football_PelechrinisPapalexakis.pdf) |
 |APR 12| Football IV (Cont.) | [Slides](Slides/Football 4/Footballl_4_Lecture.pdf) | Ch. 21 MATH, [Web 1](https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c), [Article 1](Articles/Football/Football_Pelechrinis2.pdf), [Article 2](Articles/Football/Football_PelechrinisPapalexakis.pdf) |
 |APR 14| Football V | [Slides](Slides/Football 5/Footballl_5_Lecture.pdf) | Ch. 22 MATH, [Web 1](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html), [Web 2](https://plato.stanford.edu/entries/game-theory/), [Web 3](http://www.advancedfootballanalytics.com/2008/06/game-theory-and-runpass-balance.html) |
-|APR 17| Football VI | [Slides](Slides/Football 6/Footballl_6_Lecture.pdf)  | Ch. 25-26 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1) |
-|||  | [Article 1](Articles/Football/Football_King.pdf), [Article 2](Articles/Football/Football_MasseyThaler.pdf) |
+|APR 17| Work on Championship | ||
 |||||
+<!-- |APR 17| Football VI | [Slides](Slides/Football 6/Footballl_6_Lecture.pdf)  | Ch. 25-26 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1) | -->
+<!-- |||  | [Article 1](Articles/Football/Football_King.pdf), [Article 2](Articles/Football/Football_MasseyThaler.pdf) | -->
+
 
 
 
@@ -216,10 +218,10 @@ The statistical programming language R will be used to generate visualizations a
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-|APR 19| Sports Gambling I | [Slides](Slides/Gambling 1/Gambling_1_Lecture.pdf) |Ch. 38-39 MATH, [Web 1](https://www.thesportsgeek.com/sports-betting/what-is-a-unit/), [Web 2](https://mybettingsites.co.uk/learn/betting-odds-explained/), [Web 3](https://www.actionnetwork.com/betting-calculators/betting-odds-calculator) |
+|APR 19| Sports Gambling I | [Slides](Slides/Gambling 1/Gambling_1_Lecture.pdf) |Ch. 44-45 MATH, [Web 1](https://www.thesportsgeek.com/sports-betting/what-is-a-unit/), [Web 2](https://mybettingsites.co.uk/learn/betting-odds-explained/), [Web 3](https://www.actionnetwork.com/betting-calculators/betting-odds-calculator) |
 ||||[Web 4](https://www.vegas.com/gaming/gaming-tips/sports-betting/), [Web 5](https://www.thesportsgeek.com/blog/beginners-tips-understanding-parlay-119/) ,[Web 6](https://www.thelines.com/betting/teaser/), [Article 1](Articles/Gambling/Gambling_Levitt.pdf), [Article 2](Articles/Gambling/Gambling_FleppNueschFranck.pdf) |
-|APR 21| Sports Gambling II | [Slides](Slides/Gambling 2/Gambling_2_Lecture.pdf) |Ch. 40 MATH, [Web 1](https://fivethirtyeight.com/methodology/how-our-nfl-predictions-work/) |
-|APR 24| Sports Gambling III | [Slides](Slides/Gambling 3/Gambling_3_Lecture.pdf) |Ch. 44 MATH, [Web 1](https://www.pinnacle.com/en/betting-articles/Betting-Strategy/How-to-use-kelly-criterion-for-betting/2BT2LK6K2QWQ7QJ8), [Web 2](https://www.oddsshark.com/sports-betting/best-sports-betting-strategies), [Article 1](Articles/Gambling/Gambling_Thorp.pdf)|
+|APR 21| Sports Gambling II | [Slides](Slides/Gambling 2/Gambling_2_Lecture.pdf) |Ch. 46 MATH, [Web 1](https://fivethirtyeight.com/methodology/how-our-nfl-predictions-work/) |
+|APR 24| Sports Gambling III | [Slides](Slides/Gambling 3/Gambling_3_Lecture.pdf) |Ch. 49 MATH, [Web 1](https://www.pinnacle.com/en/betting-articles/Betting-Strategy/How-to-use-kelly-criterion-for-betting/2BT2LK6K2QWQ7QJ8), [Web 2](https://www.oddsshark.com/sports-betting/best-sports-betting-strategies), [Article 1](Articles/Gambling/Gambling_Thorp.pdf)|
 |APR 26| Work on Championship| | |
 |APR 28| Last Regular Season Quiz | | |
 |||||
