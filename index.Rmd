@@ -140,6 +140,7 @@ The statistical programming language R will be used to generate visualizations a
 - [Baseball](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Baseball)
 - [Basketball](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Basketball)
 - [Football](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Football)
+- [Gambling](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Gambling)
 
 # **Film Sessions** {.tabset}
 
