@@ -299,7 +299,7 @@ Consider the following rubric and notice the bonus points for the lucky presenti
 |:-----------:|:------:|:------:|:------:|:------:|
 |Slide 1|Missing All Components|Missing 2 Components|Missing 1 Component|Followed Directions|
 |Slides 2-3|1-2 Bullet Points|2-3 Bullet Points|4-5 Bullet Points|At least 6 Bullet Points|
-|Slides 4-6|1-3|Bullet Points|4-6 Bullet Points|5-7 Bullet Points|At least 8 Bullet Points|
+|Slides 4-6|1-3 Bullet Points|4-6 Bullet Points|5-7 Bullet Points|At least 8 Bullet Points|
 |Slide 7|Missing All Three|Missing Two|Missing One|2 Positive Opinions and 1 Critique|
 |Spelling/Grammar|>5 Errors| 3-5 Errors|1-2 Errors|No Errors|
 |Value|Bad|Okay|Good|Excellent|
