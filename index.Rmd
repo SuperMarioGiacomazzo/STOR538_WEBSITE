@@ -156,6 +156,7 @@ The statistical programming language R will be used to generate visualizations a
 |MAR 14| Spring Break | No Class ||
 |MAR 28| Well-Being | No Class ||
 |||||
+
 <!-- |JAN 11| Sports Analytics I | [Slides](Slides/Sports Analytics 1/Sports_Analytics_1_Lecture.pdf) |Ch. 1 SPAN, [Web 1](https://sportsshow.net/top-10-most-popular-sports-in-the-world/), [Web 2](https://sportsshow.net/most-popular-sports-in-america/), [Web 3](https://news.harvard.edu/gazette/story/2022/10/is-mlb-ready-to-compete-for-next-generation-of-fans/)  -->
 <!-- ||||[Web 4](https://blog.bizvibe.com/blog/largest-sports-leagues-by-revenue), [Web 5](https://apsportseditors.org/others/most-profitable-sports-leagues/), [Web 6](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america), [Web 7](https://twitter.com/thesfia/status/1120787424832045067), [Web 8](https://sgbonline.com/report-team-sports-participation-grows-in-2021-but-falls-short-of-2019/) | -->
 <!-- |JAN 13| Sports Analytics II | [Slides](Slides/Sports Analytics 2/Sports_Analytics_2_Lecture.pdf) | Ch. 1-7 SPAN, [Web 1](https://www.fandomanalytics.com/) -->
@@ -608,14 +609,14 @@ Any assignments requiring a deliverable will be submitted via **Canvas** or **Gr
 |FEB 29 (12:30PM)| |GS3 (Odd: Ch. 6 HSMAS)||||
 | | |GS3 (Even: Ch. 8 HSMAS)||||
 |MAR 5 (11:59PM)||||P1||
-|MAR 15 (12:30PM)|||RS4|||
-|MAR 22 (12:30PM)||GS4 (Odd: Ch. 13 HSMAS)||||
+|MAR 7 (12:30PM)|||RS4|||
+|MAR 21 (12:30PM)||GS4 (Odd: Ch. 13 HSMAS)||||
 |||GS4 (Even: Ch. 15 HSMAS)||||
-|MAR 29 (12:30PM)|||RS5|||
-|APR 5 (12:30PM) ||GS5 (Odd: Ch. 17 HSMAS)||||
+|MAR 28 (12:30PM)|||RS5|||
+|APR 4 (12:30PM) ||GS5 (Odd: Ch. 17 HSMAS)||||
 | | |GS5 (Even: Ch. 21 HSMAS)||||
 |APR 9  (7:30PM)||||P2||
-|APR 19 (12:30PM)|||RS6|||
+|APR 18 (12:30PM)|||RS6|||
 |MAY 6 (4:00PM) ||||C|
 |          |                   |               |           |              |       |
 
