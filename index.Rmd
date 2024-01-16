@@ -613,10 +613,10 @@ Any assignments requiring a deliverable will be submitted via **Canvas** or **Gr
 |MAR 7 (12:30PM)|||RS4|||
 |MAR 21 (12:30PM)||GS4 (Odd: Ch. 13 HSMAS)||||
 |||GS4 (Even: Ch. 15 HSMAS)||||
-|MAR 28 (12:30PM)|||RS5|||
-|APR 4 (12:30PM) ||GS5 (Odd: Ch. 17 HSMAS)||||
-| | |GS5 (Even: Ch. 21 HSMAS)||||
+|APR 4 (12:30PM)|||RS5|||
 |APR 9  (7:30PM)||||P2||
+|APR 11 (12:30PM) ||GS5 (Odd: Ch. 17 HSMAS)||||
+| | |GS5 (Even: Ch. 21 HSMAS)||||
 |APR 18 (12:30PM)|||RS6|||
 |MAY 6 (7:00PM) ||||C|
 |          |                   |               |           |              |       |
@@ -643,8 +643,8 @@ In the table below, you can find your group for each of the specific team-based 
 | FEB 29 | GS3 | [Value for GS3](https://docs.google.com/forms/d/e/1FAIpQLSeTAEas1kqxGZmJYQ640iX9AQIlgcirVJoxciEnn2UU7WcqAQ/viewform?usp=sf_link) |
 | MAR 5 | P1 | [Value for P1](https://docs.google.com/forms/d/e/1FAIpQLSfWkhtxk3xYYfhyODfufFLfp0bNXX52dke69xGkiTvLvGa3OA/viewform?usp=sf_link) |
 | MAR 21 | GS4 | [Value for GS4](https://docs.google.com/forms/d/e/1FAIpQLSchVRUxeiKYCfcRBWQ8Y85najkEO0FgPzhNFnYmmwIwWOp7VA/viewform?usp=sf_link) |
-| APR 4 | GS5 | [Value for GS5](https://docs.google.com/forms/d/e/1FAIpQLSdMncyMUUZZPk10QyFVMqymyQs4iCiqjombEuGP5jzwL3k0lA/viewform?usp=sf_link) |
 | APR 9 | P2 | [Value for P2](https://docs.google.com/forms/d/e/1FAIpQLSdo_oNG5MHuZb7S7KircBxWWXNEpX0s98cw5k8Gm9X2DYqdWQ/viewform?usp=sf_link) |
+| APR 11 | GS5 | [Value for GS5](https://docs.google.com/forms/d/e/1FAIpQLSdMncyMUUZZPk10QyFVMqymyQs4iCiqjombEuGP5jzwL3k0lA/viewform?usp=sf_link) |
 | MAY 6 | C | [Value for C](https://docs.google.com/forms/d/e/1FAIpQLSf7awVubhnkyh30jW6J-My8xr6xXFcg03r242Ljsxeu8imoGw/viewform?usp=sf_link) |
 | ||||
 
