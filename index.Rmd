@@ -602,7 +602,7 @@ Any assignments requiring a deliverable will be submitted via **Canvas** or **Gr
 |JAN 25 (12:30PM) |||RS1|||
 |FEB 1 (12:30PM) ||GS1 (Odd: Ch. 3 HSMAS)||||
 || |GS1 (Even: Ch. 4 HSMAS)||||
-|FEB 2 (5:00pm) |[PR1](Practice1.pdf)([.zip](Practice/Practice1.zip))|||||
+|FEB 2 (5:00pm) |[PR1](Practice/Practice1.pdf)([.zip](Practice/Practice1.zip))|||||
 |FEB 8  (12:30PM)|||RS2|||
 |FEB 15 (12:30PM)||GS2 (Odd: Ch. 10 HSMAS)||||
 |||GS2 (Even: Ch. 12 HSMAS)||||
