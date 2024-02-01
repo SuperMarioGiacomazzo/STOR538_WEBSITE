@@ -159,9 +159,10 @@ The statistical programming language R will be used to generate visualizations a
 || Baseball I | [Slides](Slides/Baseball 1/Baseball_1_Lecture.pdf) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](Articles/Baseball/Baseball_Albert.pdf) |
 |JAN 30| Baseball I (Cont.) | [Slides](Slides/Baseball 1/Baseball_1_Lecture.pdf) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](Articles/Baseball/Baseball_Albert.pdf) |
 || Baseball II | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM|
-|FEB 1| Baseball III | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH|
-|| Baseball IV | [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)|
+|FEB 1| Baseball II (Cont.) | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM|
+|| Baseball III | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH|
 |FEB 6| Playoff Round 1 | | [Example](Playoffs/Round 1/Spikeball.pdf) |
+|| Baseball IV | [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)|
 || Baseball V | [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH, [Web](https://batsandstats.com/2016/08/03/one-of-my-favorite-baseball-stats/)|
 |FEB 8| Baseball VI | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp),[Web 3](https://gregstoll.com/~gregstoll/baseball/stats.html#V.0.1.0.1.0.0), [Web 4](https://baseballsavant.mlb.com/leaderboard/outs_above_average?type=Fielder&startYear=2019&endYear=2019&split=no&team=&range=year&min=q&pos=of&roles=&viz=show), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)|
 || Baseball VII | [Slides](Slides/Baseball 7/Baseball_7_Lecture.pdf) |Ch. 11,16 MATH, [Article 1](Articles/Baseball/Baseball2_Albert.pdf), [Article 2](Baseball_Arbseman_Strogatz.pdf)|
