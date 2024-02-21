@@ -165,10 +165,10 @@ The statistical programming language R will be used to generate visualizations a
 || Playoff Round 1 | | [Example](Playoffs/Round 1/Spikeball.pdf) |
 |FEB 8| Baseball IV | [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)|
 |FEB 13| Well-Being | No Class ||
-|FEB 8| Baseball IV (Cont.) | [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)|
+|FEB 15| Baseball IV (Cont.) | [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)|
 |FEB 20| Baseball V | [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH, [Web](https://batsandstats.com/2016/08/03/one-of-my-favorite-baseball-stats/)|
-|| Baseball VI | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp),[Web 3](https://gregstoll.com/~gregstoll/baseball/stats.html#V.0.1.0.1.0.0), [Web 4](https://baseballsavant.mlb.com/leaderboard/outs_above_average?type=Fielder&startYear=2019&endYear=2019&split=no&team=&range=year&min=q&pos=of&roles=&viz=show), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)|
-|FEB 22| Baseball VII | [Slides](Slides/Baseball 7/Baseball_7_Lecture.pdf) |Ch. 11,16 MATH, [Article 1](Articles/Baseball/Baseball2_Albert.pdf), [Article 2](Baseball_Arbseman_Strogatz.pdf)|
+|FEB 22| Baseball VI | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp),[Web 3](https://gregstoll.com/~gregstoll/baseball/stats.html#V.0.1.0.1.0.0), [Web 4](https://baseballsavant.mlb.com/leaderboard/outs_above_average?type=Fielder&startYear=2019&endYear=2019&split=no&team=&range=year&min=q&pos=of&roles=&viz=show), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)|
+|FEB 27| Baseball VII | [Slides](Slides/Baseball 7/Baseball_7_Lecture.pdf) |Ch. 11,16 MATH, [Article 1](Articles/Baseball/Baseball2_Albert.pdf), [Article 2](Baseball_Arbseman_Strogatz.pdf)|
 |||||
 
 
@@ -181,42 +181,26 @@ The statistical programming language R will be used to generate visualizations a
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
+|FEB 27| Basketball I | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) |
+|FEB 29| Basketball II | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) |
+|| Basketball III | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 32-33 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)|
+|MAR 5| Playoffs Round 2 || |
+|| Basketball IV | [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 31,34 MATH|
+|MAR 7| Basketball V | [Slides](Slides/Basketball 5/Basketball_5_Lecture.pdf) |Ch. 35 MATH, [Article 1](Articles/Basketball/Basketball_PriceWolfers.pdf)|
 |MAR 12| Spring Break | No Class ||
 |MAR 14| Spring Break | No Class ||
+|MAR 19| Basketball VI | [Slides](Slides/Basketball 6/Basketball_6_Lecture.pdf) |Ch. 38 MATH, [Web 1](https://www.inpredictable.com/2016/05/endgame-strategy-in-nba.html), [Web 2](http://www.82games.com/lawhorn.htm)|
+|||| [Article 1](Articles/Basketball/Basketball_Gill.pdf), [Article 2](Articles/Basketball/Basketball_Kenter.pdf), [Article 3](Articles/Basketball/Basketball_Annis.pdf)|
+|MAR 21| Football I | [Slides](Slides/Football 1/Footballl_1_Lecture.pdf) |Ch. 18 MATH|
+|MAR 26| Football II | [Slides](Slides/Football 2/Footballl_2_Lecture.pdf) |Ch. 19 MATH, [Web 1](https://hbr.org/2019/04/whos-the-most-important-member-of-an-nfl-franchise), [Web 2](https://bleacherreport.com/articles/1691533-which-metric-matters-most-when-evaluating-nfl-quarterbacks), [Web 3](https://www.espn.com/blog/statsinfo/post/_/id/123701/how-is-total-qbr-calculated-we-explain-our-quarterback-rating), [Article 1](Articles/Football/Football_WhiteBerry.pdf) |
+|| Football III | [Slides](Slides/Football 3/Footballl_3_Lecture.pdf) |Ch. 20 MATH, [Web 1](http://www.advancedfootballanalytics.com/2010/01/expected-points-ep-and-expected-points.html), [Article 1](Articles/Football/Football_CarterMachol.pdf), [Article 2](Articles/Football/Football_Romer.pdf), [Article 3](Articles/Football/Football_Goldner.pdf) |
 |MAR 28| Well-Being | No Class ||
+|APR 2| Football IV | [Slides](Slides/Football 4/Footballl_4_Lecture.pdf) | Ch. 21 MATH, [Web 1](https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c), [Article 1](Articles/Football/Football_Pelechrinis2.pdf), [Article 2](Articles/Football/Football_PelechrinisPapalexakis.pdf) |
+|| Football V | [Slides](Slides/Football 5/Footballl_5_Lecture.pdf) | Ch. 22 MATH, [Web 1](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html), [Web 2](https://plato.stanford.edu/entries/game-theory/), [Web 3](http://www.advancedfootballanalytics.com/2008/06/game-theory-and-runpass-balance.html) |
+|APR 4| Football VI | [Slides](Slides/Football 6/Footballl_6_Lecture.pdf)  | Ch. 25-26 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1) |
+|||  | [Article 1](Articles/Football/Football_King.pdf), [Article 2](Articles/Football/Football_MasseyThaler.pdf) |
 |||||
-<!-- |FEB 22| Basketball I | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) | -->
-<!-- |FEB 24| Basketball I (Cont.) | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) | -->
-<!-- |FEB 27| Basketball II | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) | -->
-<!-- |MAR 1| Basketball II (Cont.) | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) | -->
-<!-- || Basketball III | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 32-33 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)| -->
-<!-- |MAR 3| Playoffs Round 2 || [Example](Playoffs/Round 2/Group 1.pdf) | -->
-<!-- |MAR 6| Playoffs Round 2 || [Example](Playoffs/Round 2/Group 1.pdf) | -->
-<!-- || Basketball III (Cont.) | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 32-33 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)| -->
-<!-- |MAR 8| Basketball III (Cont.) | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 32-33 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)| -->
-<!-- |MAR 10| Basketball IV | [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 31,34 MATH| -->
-<!-- |MAR 13| Spring Break | || -->
-<!-- |MAR 15| Spring Break | || -->
-<!-- |MAR 17| Spring Break | || -->
-<!-- |MAR 20| Work on Playoff 2 | || -->
-<!-- |MAR 22| Basketball IV (Cont.) | [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 31,34 MATH| -->
-<!-- || Basketball V | [Slides](Slides/Basketball 5/Basketball_5_Lecture.pdf) |Ch. 35 MATH, [Article 1](Articles/Basketball/Basketball_PriceWolfers.pdf)| -->
-<!-- |MAR 24| Basketball V (Cont.) | [Slides](Slides/Basketball 5/Basketball_5_Lecture.pdf) |Ch. 35 MATH, [Article 1](Articles/Basketball/Basketball_PriceWolfers.pdf)| -->
-<!-- |MAR 27| Basketball VI | [Slides](Slides/Basketball 6/Basketball_6_Lecture.pdf) |Ch. 38 MATH, [Web 1](https://www.inpredictable.com/2016/05/endgame-strategy-in-nba.html), [Web 2](http://www.82games.com/lawhorn.htm)| -->
-<!-- |||| [Article 1](Articles/Basketball/Basketball_Gill.pdf), [Article 2](Articles/Basketball/Basketball_Kenter.pdf), [Article 3](Articles/Basketball/Basketball_Annis.pdf)| -->
-<!-- |MAR 29| Football I | [Slides](Slides/Football 1/Footballl_1_Lecture.pdf) |Ch. 18 MATH| -->
-<!-- |MAR 31| Work on Playoff 2 | || -->
-<!-- |APR 3| Football II | [Slides](Slides/Football 2/Footballl_2_Lecture.pdf) |Ch. 19 MATH, [Web 1](https://hbr.org/2019/04/whos-the-most-important-member-of-an-nfl-franchise), [Web 2](https://bleacherreport.com/articles/1691533-which-metric-matters-most-when-evaluating-nfl-quarterbacks), [Web 3](https://www.espn.com/blog/statsinfo/post/_/id/123701/how-is-total-qbr-calculated-we-explain-our-quarterback-rating), [Article 1](Articles/Football/Football_WhiteBerry.pdf) | -->
-<!-- |APR 3| Football II (Cont.) | [Slides](Slides/Football 2/Footballl_2_Lecture.pdf) |Ch. 19 MATH, [Web 1](https://hbr.org/2019/04/whos-the-most-important-member-of-an-nfl-franchise), [Web 2](https://bleacherreport.com/articles/1691533-which-metric-matters-most-when-evaluating-nfl-quarterbacks), [Web 3](https://www.espn.com/blog/statsinfo/post/_/id/123701/how-is-total-qbr-calculated-we-explain-our-quarterback-rating), [Article 1](Articles/Football/Football_WhiteBerry.pdf) | -->
-<!-- || Football III | [Slides](Slides/Football 3/Footballl_3_Lecture.pdf) |Ch. 20 MATH, [Web 1](http://www.advancedfootballanalytics.com/2010/01/expected-points-ep-and-expected-points.html), [Article 1](Articles/Football/Football_CarterMachol.pdf), [Article 2](Articles/Football/Football_Romer.pdf), [Article 3](Articles/Football/Football_Goldner.pdf) | -->
-<!-- |APR 7| Best Friday | || -->
-<!-- |APR 10| Football IV | [Slides](Slides/Football 4/Footballl_4_Lecture.pdf) | Ch. 21 MATH, [Web 1](https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c), [Article 1](Articles/Football/Football_Pelechrinis2.pdf), [Article 2](Articles/Football/Football_PelechrinisPapalexakis.pdf) | -->
-<!-- |APR 12| Football IV (Cont.) | [Slides](Slides/Football 4/Footballl_4_Lecture.pdf) | Ch. 21 MATH, [Web 1](https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c), [Article 1](Articles/Football/Football_Pelechrinis2.pdf), [Article 2](Articles/Football/Football_PelechrinisPapalexakis.pdf) | -->
-<!-- |APR 14| Football V | [Slides](Slides/Football 5/Footballl_5_Lecture.pdf) | Ch. 22 MATH, [Web 1](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html), [Web 2](https://plato.stanford.edu/entries/game-theory/), [Web 3](http://www.advancedfootballanalytics.com/2008/06/game-theory-and-runpass-balance.html) | -->
-<!-- |APR 17| Work on Championship | || -->
-<!-- ||||| -->
-<!-- <!-- |APR 17| Football VI | [Slides](Slides/Football 6/Footballl_6_Lecture.pdf)  | Ch. 25-26 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1) | --> -->
-<!-- <!-- |||  | [Article 1](Articles/Football/Football_King.pdf), [Article 2](Articles/Football/Football_MasseyThaler.pdf) | --> 
+
 
 
 
@@ -234,7 +218,7 @@ The statistical programming language R will be used to generate visualizations a
 <!-- ||||| -->
 
 
-<!-- |NOV 19| Hockey I | [Slides](Slides/Hockey 1/Hockey_1_Lecture.pdf) | Ch. 13-15 HSMAS, [Article 1](rticles/Hockey/Hockey_Thomas_Ventura_Jensen_Ma.pdf), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick),[Web 2](http://hockeygoalies.org/stats/glossary.html), [Web 3](https://rdrr.io/cran/nhlscrapr/) | -->
+<!-- |NOV 19| Hockey I | [Slides](Slides/Hockey 1/Hockey_1_Lecture.pdf) | Ch. 13-15 HSMAS, [Article 1](Articles/Hockey/Hockey_Thomas_Ventura_Jensen_Ma.pdf), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick),[Web 2](http://hockeygoalies.org/stats/glossary.html), [Web 3](https://rdrr.io/cran/nhlscrapr/) | -->
 <!-- |NOV 22| Hockey II |  [Slides](Slides/Hockey 2/Hockey_2_Lecture.pdf) | Ch. 13-15 HSMAS, [Article 1](Articles/Hockey/Hockey_Thomas_Ventura_Jensen_Ma.pdf), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick),[Web 2](http://hockeygoalies.org/stats/glossary.html), [Web 3](https://rdrr.io/cran/nhlscrapr/) | -->
 <!-- |NOV 24| Thanksgiving #SWAG | | | -->
 <!-- |NOV 26| Thanksgiving #SWAG | | | -->
