@@ -458,7 +458,7 @@ Your study should be summarized in a paper of at least 5 pages. The paper and pr
 This project is extremely demanding. I believe that you should split the responsibilities into clear defined jobs and hold to this recommended timeline.
 
 |Start|End|Task|
-|---|---|---|
+|:---|:---|:---|
 |3/7|3/26|Build and Clean Dataset|
 |3/26|3/28|Start Writing Section 1 of Paper|
 |3/28|4/2|Each Group Member Builds and Evaluates One Model for Each Variable|
@@ -542,7 +542,7 @@ Like the playoffs, this final assignment will be done in a team. Each group memb
 Also, instead of having a formal exam, you will be *required* to meet with me through Zoom. Each group will have a 7 minute window to join me on Zoom and introduce me to your paper. Use this Zoom link **[https://unc.zoom.us/j/97382130073](https://unc.zoom.us/j/97382130073)** and share your camera when you join. You will lose points if you don't attend the meeting (without university approval), if you attend the meeting but are unable to share your camera, or if you are late to the meeting by 1 minute or more. I recommend that your entire group share one computer/camera for this meeting to ensure no technical difficulties arise. 
 
 |Group|Meeting Time|
-|:-----:|:------------:|
+|:-----|:------------|
 |1|4:00PM - 4:07PM|
 |2|4:10PM - 4:17PM|
 |3|4:20PM - 4:27PM|
