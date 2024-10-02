@@ -104,7 +104,7 @@ The statistical programming language R will be used to generate visualizations a
 
   </div>
   <div class="column">
-  <img src="UNC_Logo.png" width="140px" height="auto">
+  <img src="UNC_Logo.png" width="auto" height="auto">
   </div>
 </div> 
 
