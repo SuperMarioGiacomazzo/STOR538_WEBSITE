@@ -97,7 +97,7 @@ The statistical programming language R will be used to generate visualizations a
 
 - Office Hours: 
     - Press Conference (Dr. Mario): F, 2:30PM - 4:30PM, Hanes 134
-    - Training Day (Mark): TBD   
+    - Training Day (Mark): MW, 1:00PM - 2:00PM, Hanes ??
 
 - University Approved Absences: **[Online Form](https://uaao.unc.edu/submit-a-request/)**
 
@@ -114,9 +114,9 @@ The statistical programming language R will be used to generate visualizations a
 
 - Mathletics (2nd Edition), Winston Et al., 2022, [ISBN: 9780691177625](https://www.amazon.com/Mathletics-Gamblers-Managers-Mathematics-Sports/dp/0691177627/ref=pd_lpo_1?pd_rd_w=Huo2i&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=ED5MDSAZ4VPN2XB2ND8T&pd_rd_wg=FMEFX&pd_rd_r=0498b611-9f4f-45a8-8a78-0ff980ecc143&pd_rd_i=0691177627&psc=1) (MATH)
 
-- Handbook of Statistical Methods and Analyses in Sports, Albert, Glickman, Et al., 2017, [ISBN: 9781498737364](https://www.amazon.com/Handbook-Statistical-Methods-Analyses-Handbooks-ebook/dp/B071X4CCVX/ref=sr_1_1?keywords=handbook+of+statistical+methods+and+analyses+in+sports&qid=1566148999&s=gateway&sr=8-1) (HSMAS)
-
 ## Optional
+
+- Handbook of Statistical Methods and Analyses in Sports, Albert, Glickman, Et al., 2017, [ISBN: 9781498737364](https://www.amazon.com/Handbook-Statistical-Methods-Analyses-Handbooks-ebook/dp/B071X4CCVX/ref=sr_1_1?keywords=handbook+of+statistical+methods+and+analyses+in+sports&qid=1566148999&s=gateway&sr=8-1) (HSMAS)
 
 - Analytic Methods in Sports, Severini, 2015, [ISBN: 9781482237016](https://www.amazon.com/Analytic-Methods-Sports-Mathematics-Statistics/dp/1482237016/ref=sr_1_1?keywords=severini+sports+analytics&qid=1565993126&s=gateway&sr=8-1) (AMS)
 
@@ -166,6 +166,7 @@ The statistical programming language R will be used to generate visualizations a
 |MAR 12| Spring Break | No Class ||
 |MAR 14| Spring Break | No Class ||
 |APR 18| Well-being Day | No Class ||
+|APR 25| Work on Championship | | |
 |APR 28| Work on Championship | | |
 |||||
 
@@ -289,23 +290,25 @@ There will be at least one assignment designed to test proficiency in data scien
 
 ## Gameday Speech
 
-Gameday speeches are to be done in teams. Biweekly, I will give you two journal articles from a refereed journal to read and summarize in a 7 slide gameday speech. Which article you read will depend on whether your group number is odd or even.  
+Gameday speeches are to be done in teams. Biweekly, your team will find a journal article from a refereed journal to read and summarize in an 8 slide gameday speech. You need to pick an article that none of the group members have read (previous gameday speech) and that hasn't already been presented in class.
 
-- Slide 1: Title of the article, the names of the author(s), and the name(s) of the presenters.
+- Slide 1: Title of the article, the names of the author(s), source of the article, and the name(s) of the presenters. If you have a team member who did not participate in reading the article or making the slides, **DO NOT** put their name on this slide. They will receive an automatic 0.
 
 - Slide 2-3: Summarize the overarching themes of the article(s). Discuss the research goal(s) of the paper in at least 6 bullet points.
 
 - Slide 4-6: Talk about the methodology. What did the author(s) do to answer their research goal? Discuss the methodology in at least 8 bullet points.
 
-- Slide 7: What did you like? What did you find confusing? What did you find problematic? What could the author(s) have done better? Give at least 2 positive opinions of the paper and at least 1 negative critique.
+- Slide 7: What did you like? What did you find confusing? Provide three positive critiques of the paper. Focus on the methodology used in the article.
 
-On gameday, I will use a random number generator to pick 2 groups (1 odd and 1 even) to present in 5 to 8 minutes. All groups will be graded based on the criteria, but only 2 groups will present. This will be followed by an in-class discussion.
+- Slide 8: What did you not like or think could have been improved? Give three negative critiques of the paper. Focus on the methodology used in the article.
+
+On gameday, I will use a random number generator to pick 3 or 4 groups to present in 5 to 8 minutes. All groups will be graded based on the criteria, but only 3 groups will present.
 
 The presentation should be submitted on Canvas before class starts on the due date. Each group should have their own presentation, but needs to be submitted by every member of the group as a **pdf**. Also, each group member can assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). Fill out the appropriate Google Form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group. 
 
-Gameday speeches are worth a total of 21 points minor exceptions: 
+Gameday speeches are worth a total of 24 points with minor exceptions: 
 
-- The two groups that present will have the chance to get 0 to 3 bonus points based on presentation quality.
+- The 3 or 4 groups that present will have the chance to get 0 to 3 bonus points based on presentation quality.
 
 - If your group presents and you are not present in class, you will receive a 3 point penalty and not get the bonus points awarded to your group for the presentation. 
 
@@ -316,7 +319,8 @@ Consider the following rubric and notice the bonus points for the lucky presenti
 |Slide 1|Missing All Components|Missing 2 Components|Missing 1 Component|Followed Directions|
 |Slides 2-3|1-2 Bullet Points|2-3 Bullet Points|4-5 Bullet Points|At least 6 Bullet Points|
 |Slides 4-6|1-3 Bullet Points|4-6 Bullet Points|5-7 Bullet Points|At least 8 Bullet Points|
-|Slide 7|Missing All Three|Missing Two|Missing One|2 Positive Opinions and 1 Critique|
+|Slide 7|Missing All Three|Missing Two|Missing One|3 Positive Critiques|
+|Slide 8|Missing All Three|Missing Two|Missing One|3 Negative Critiques|
 |Spelling/Grammar|>5 Errors| 3-5 Errors|1-2 Errors|No Errors|
 |Value|Bad|Okay|Good|Excellent|
 |Submitted|Late||Not a PDF|On Time|
@@ -334,7 +338,7 @@ Consider the following rubric and notice the bonus points for the lucky presenti
 
 ## Reg. Season
 
-The regular season consists of biweekly quizzes on the material presented in class over the previous two weeks. This includes what was taught in lecture, what is in the reading, and what was presented during gameday speeches. You will be given at least 15 minutes to complete the quiz.
+The regular season consists of biweekly quizzes on the material presented in class over the previous lectures. Coach Mario will tell you which specific material to study. This can include what was taught in lecture, what was in the reading, and what was presented during gameday speeches. You will be given at least 15 minutes to complete the quiz. These quizzes taken in Canvas on your laptop live in class. You can use the slides, notes, internet. The only thing I prohibit is the use of generative AI. You will also need a calculator, R, Python, etc. to perform some basic calculations to answer some questions.
 
 -------
 
@@ -566,67 +570,63 @@ The regular season consists of biweekly quizzes on the material presented in cla
 
 # **Assignment Tracker** {.tabset}
 
-Any assignments requiring a deliverable will be submitted via **Canvas** or **Gradescope** as a PDF. 
+Any assignments requiring a deliverable will be submitted via **Canvas** as a PDF. 
 
 | Date (Time) | Practice (PR) | Gameday Speech (GS) | Reg. Season (RS) | Playoff (P) | Champ (C)| 
 |-----------------|:---------------------:|:---------------------:|:-------------------:|:------------:|:---------------:|
-|JAN 25 (12:30PM) |||RS1|||
-|FEB 1 (12:30PM) ||GS1 (Odd: Ch. 3 HSMAS)||||
-|| |GS1 (Even: Ch. 4 HSMAS)||||
-|FEB 2 (5:00pm) |[PR1](Practice/Practice1.pdf)([.zip](Practice/Practice1.zip))|||||
-|FEB 8  (12:30PM)|||RS2|||
-|FEB 15 (12:30PM)||GS2 (Odd: Ch. 10 HSMAS)||||
-|||GS2 (Even: Ch. 12 HSMAS)||||
-|FEB 22 (12:30PM)|||RS3|||
-|FEB 29 (12:30PM)| |GS3 (Odd: Ch. 6 HSMAS)||||
-| | |GS3 (Even: Ch. 8 HSMAS)||||
-|MAR 7 (11:59PM)||||P1||
-|MAR 7 (12:30PM)|||RS4|||
-|MAR 19 (5:00pm) |[PR2](Practice/Practice2.pdf)([.zip](Practice/Practice2.zip))|||||
-|MAR 21 (12:30PM)||GS4 (Odd: Ch. 13 HSMAS)||||
-|||GS4 (Even: Ch. 15 HSMAS)||||
-|APR 4 (12:30PM)|||RS5|||
-|APR 9  (7:00PM)||||P2||
-|APR 11 (12:30PM) ||GS5 (Odd: Ch. 17 HSMAS)||||
-| | |GS5 (Even: Ch. 21 HSMAS)||||
-|APR 18 (12:30PM)|||RS6|||
-|MAY 6 (7:00PM) |||||C|
+|JAN 22 (9AM) ||GS1 ||||
+|JAN 24 (5PM) |[PR1](Practice/Practice1.pdf)([.zip](Practice/Practice1.zip))|||||
+|JAN 29 (9AM) |||RS1|||
+|JAN 31 (5PM) |[PR2](Practice/Practice2.pdf)([.zip](Practice/Practice2.zip))|||||
+|FEB 5 (9AM)||GS2 ||||
+|FEB 12  (9AM)|||RS2|||
+|FEB 19 (9AM)| |GS3 ||||
+|FEB 26 (9AM)|||RS3|||
+|MAR 5 (9AM)| |GS4 |||| 
+|MAR 7  (5PM)||||P||
+|MAR 19 (9AM)|||RS4|||
+|MAR 26 (9AM) ||GS5 ||||
+|APR 2 (9AM)|||RS5|||
+|APR 9 (9AM) ||GS6 ||||
+|APR 16 (9AM)|||RS6|||
+|APR 23 (9AM) ||GS7 ||||
+|APR 28 (5PM) |||||C (Paper)|
+|APR 30 (12PM) |||||C (Presentation)|
 |          |                   |               |           |              |       |
 
 
 # **Team Sport**
 
-Many of the assessments in this course will be done in a teams of 5 or 6 playas randomly chosen. For each team-based assignment, you will be given a different team. This will force you to interact with the majority of the class throughout the semester. After each team-based assignment, you will grade the contribution of your teammates on a scale from 0 to 3, and this will contribute to your overall grade for the given assignment. A decent portion of your final grade will be influenced by this. The following link contains all teams alphabetically: **[All Teams](Group Assignments/STOR538_allTeams.pdf)**
+Many of the assessments in this course will be done in a teams of 3 to 6 playas randomly chosen. For each team-based assignment, you will be given a different team. This will force you to interact with the majority of the class throughout the semester. After each team-based assignment, you will grade the contribution of your teammates on a scale from 0 to 3, and this will contribute to your overall grade for the given assignment. A decent portion of your final grade will be influenced by this. The following link contains all teams alphabetically: **[All Teams](Group Assignments/STOR538_allTeams.pdf)**
 
 ```{r,echo=F,results=TRUE,message=F}
-library(DT)
-library(tidyverse)
-library(readxl)
-datatable(read_csv("Group Assignments/allTeams.csv"),class="display",options = list(scrollX=T, columnDefs = list(list(className = 'dt-center', targets = 0:2)) ),rownames=F)
+# library(DT)
+# library(tidyverse)
+# library(readxl)
+# datatable(read_csv("Group Assignments/allTeams.csv"),class="display",options = list(scrollX=T, columnDefs = list(list(className = 'dt-center', targets = 0:2)) ),rownames=F)
 ```
 
 
-In the table below, you can find your group for each of the specific team-based assignments. Make sure you fill out the value survey before the time the assignment is due on the due date. Do not assess the value of yourself in the survey.
+In the table below, you can find your group for each of the specific team-based assignments. Make sure you fill out the value survey before the time the assignment is due on the due date. Do not assess the value of yourself in the survey. You don't need to fill out the form if you are giving everyone in your group a perfect score.
 
 |Due Date  | Assessment | Value Survey |
 |:----------:|:------------:|:--------------:|
-| FEB 1 | GS1 | [Value for GS1](https://docs.google.com/forms/d/e/1FAIpQLSdqPjLn-IrA-hqBUCNHbe8sgf3kxMSPNaLEE2mg_S31LAGuvg/viewform?usp=sf_link) |
-| FEB 15 | GS2 | [Value for GS2](https://docs.google.com/forms/d/e/1FAIpQLScQ967bd2WRx9nmMDfeoJD5UZZTFN4bPjYwyvXXBGw7ZEQBKA/viewform?usp=sf_link) |
-| FEB 29 | GS3 | [Value for GS3](https://docs.google.com/forms/d/e/1FAIpQLSeTAEas1kqxGZmJYQ640iX9AQIlgcirVJoxciEnn2UU7WcqAQ/viewform?usp=sf_link) |
-| MAR 5 | P1 | [Value for P1](https://docs.google.com/forms/d/e/1FAIpQLSfWkhtxk3xYYfhyODfufFLfp0bNXX52dke69xGkiTvLvGa3OA/viewform?usp=sf_link) |
-| MAR 21 | GS4 | [Value for GS4](https://docs.google.com/forms/d/e/1FAIpQLSchVRUxeiKYCfcRBWQ8Y85najkEO0FgPzhNFnYmmwIwWOp7VA/viewform?usp=sf_link) |
-| APR 9 | P2 | [Value for P2](https://docs.google.com/forms/d/e/1FAIpQLSdo_oNG5MHuZb7S7KircBxWWXNEpX0s98cw5k8Gm9X2DYqdWQ/viewform?usp=sf_link) |
-| APR 11 | GS5 | [Value for GS5](https://docs.google.com/forms/d/e/1FAIpQLSdMncyMUUZZPk10QyFVMqymyQs4iCiqjombEuGP5jzwL3k0lA/viewform?usp=sf_link) |
-| MAY 6 | C | [Value for C](https://docs.google.com/forms/d/e/1FAIpQLSf7awVubhnkyh30jW6J-My8xr6xXFcg03r242Ljsxeu8imoGw/viewform?usp=sf_link) |
+| JAN 22 | GS1 | [Value for GS1](https://docs.google.com/forms/d/e/1FAIpQLSdqPjLn-IrA-hqBUCNHbe8sgf3kxMSPNaLEE2mg_S31LAGuvg/viewform?usp=sf_link) |
+| FEB 5 | GS2 | [Value for GS2](https://docs.google.com/forms/d/e/1FAIpQLScQ967bd2WRx9nmMDfeoJD5UZZTFN4bPjYwyvXXBGw7ZEQBKA/viewform?usp=sf_link) |
+| FEB 19 | GS3 | [Value for GS3](https://docs.google.com/forms/d/e/1FAIpQLSeTAEas1kqxGZmJYQ640iX9AQIlgcirVJoxciEnn2UU7WcqAQ/viewform?usp=sf_link) |
+| MAR 5 | GS4 | [Value for GS4](https://docs.google.com/forms/d/e/1FAIpQLSchVRUxeiKYCfcRBWQ8Y85najkEO0FgPzhNFnYmmwIwWOp7VA/viewform?usp=sf_link) |
+| MAR 26 | GS5 | [Value for GS5](https://docs.google.com/forms/d/e/1FAIpQLSdMncyMUUZZPk10QyFVMqymyQs4iCiqjombEuGP5jzwL3k0lA/viewform?usp=sf_link) |
+| APR 9 | GS6 | [Value for GS6](https://docs.google.com/forms/d/e/1FAIpQLSdBlXUND1NfwBjZviwYhfGpS54nlEvsMaOK51yuAWh1tN9gFQ/viewform?usp=sharing) |
+| APR 23 | GS7 | [Value for GS7](https://docs.google.com/forms/d/e/1FAIpQLSfzCEJ6ji2hXds7Ptrbx6vOQYHEH3trhLJck1CaVE9Yb6i36w/viewform?usp=sharing) |
 | ||||
 
-# **Results from Playoffs Round 2**
+# **Playoff Results**
 
-The predictions of all 18 teams can be accessed from the hyperlinks below. These three files contain predictions, actual values, calculations of MAE, and ranking. Kendall put all of this together for us, and I am giving it to you for transparency. If you find any mistakes that cause the grades to change, I will adjust them. 
+The predictions of all XX teams can be accessed from the hyperlinks below. These three files contain predictions, actual values, calculations of MAE, and ranking. If you find any mistakes that cause the grades to change, I will adjust them. 
 
-- [Spread](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/raw/master/Playoffs/Round%202/Spread_class.xlsx)
-- [Total](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/raw/master/Playoffs/Round%202/Total_class.xlsx)
-- [OREB](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/raw/master/Playoffs/Round%202/OREB_class.xlsx)
+- [Spread]()
+- [Total]()
+- [OREB]()
 
 
 The table below shows each group's MAE for $Spread$, $Total$, and $OREB$, respectively. Also, you will see your group ranking for each of the three variables. It may be helpful to sort the table for each variable to see where your group is currently ranked.
