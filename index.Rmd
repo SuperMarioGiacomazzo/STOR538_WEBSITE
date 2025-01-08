@@ -97,7 +97,7 @@ The statistical programming language R will be used to generate visualizations a
 
 - Office Hours: 
     - Press Conference (Dr. Mario): F, 2:30PM - 4:30PM, Hanes 134
-    - Training Day (Mark): MW, 1:00PM - 2:00PM, Hanes ??
+    - Training Day (Mark): MW, 1:00PM - 2:00PM, Hanes B-04
 
 - University Approved Absences: **[Online Form](https://uaao.unc.edu/submit-a-request/)**
 
