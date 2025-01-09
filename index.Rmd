@@ -130,7 +130,7 @@ The statistical programming language R will be used to generate visualizations a
 
 - Introduction to NFL Analytics with R, Congelio, 2023, [ISBN:9781032427751](https://www.amazon.com/Introduction-Analytics-Chapman-Hall-Science/dp/1032427752/ref=sr_1_1?crid=3JET8VKTXMVN5&keywords=introduction+to+nfl+analytics+with+R&qid=1704903750&sprefix=introduction+to+nfl+analytics+with+r%2Caps%2C126&sr=8-1) (INAR)
 
-## Textbooks in R
+## Programming
 
 - [An Introduction to Statistical Learning](Textbooks in R/An Introduction to Statistical Learning.pdf)
 
@@ -142,6 +142,12 @@ The statistical programming language R will be used to generate visualizations a
 - [Basketball](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Basketball)
 - [Football](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Football)
 - [Gambling](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Gambling)
+
+## Sports Research
+
+- [Score Network](https://scorenetwork.org/)
+
+
 
 # **Film Sessions** {.tabset}
 
@@ -352,7 +358,7 @@ The regular season consists of biweekly quizzes on the material presented in cla
 
 ## Playoff
 
-<!-- The playoff will be a predictive modeling project for actual NBA games. The primary goal of this project is to design models for prediction of three variables -- $Spread$, $Total$, and $OREB$. Below you can find clear definitions of these three outcome variables:  --> -->
+<!-- The playoff will be a predictive modeling project for actual NBA games. The primary goal of this project is to design models for prediction of three variables -- $Spread$, $Total$, and $OREB$. Below you can find clear definitions of these three outcome variables:  --> 
 
 <!-- - $Spread = \textrm{Home Points} - \textrm{Away Points}$ -->
 
@@ -455,10 +461,13 @@ The regular season consists of biweekly quizzes on the material presented in cla
 >
 > ~ _Jaromir Jagr_
 
+-------
+
 >I'm not looking for home runs, I'm looking for the playoffs.
 >
 >
 > ~ _Sammy Sosa_
+
 -------
 
 
