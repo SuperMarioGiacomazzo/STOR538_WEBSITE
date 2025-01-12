@@ -17,7 +17,7 @@ barplot(table(DATA3$`R Experience`)/nrow(DATA3),ylim=c(0,1),main="R Experience")
 dev.off()
 
 DATA4=DATA3 %>% mutate(Graduation=factor(Graduation)) 
-levels(DATA4$Graduation)=c("Doctoral","Not Sports Analytics","Sports Analytics","Master's","Professional")
+levels(DATA4$Graduation)=c("Not Sports Analytics","Sports Analytics","Master's","Professional")
 
 DATA4=DATA4 %>% mutate(Graduation = fct_infreq(Graduation))
 
