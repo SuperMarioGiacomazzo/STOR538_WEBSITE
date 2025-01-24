@@ -395,7 +395,7 @@ For the use of outside data, research other variables that could be important fo
 - [Information Using nbastatR](https://towardsdatascience.com/how-to-get-data-on-every-nba-player-using-r-62abcacd65e1)
 - [Mario's Example of nbastatR](https://raw.githubusercontent.com/SuperMarioGiacomazzo/STOR538_WEBSITE/master/Playoffs/Round%202/NBA_Demo.R)
 
-Your study should be summarized in a paper of at least 5 pages. The paper and predictions should be submitted on Canvas before 7:00PM on the due date (3/7/2025). Each group should have their own paper and predictions, but both need to be submitted by every member of the group. Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). Use the Google form provided on the course website.
+Your study should be summarized in a paper of at least 5 pages. The paper and predictions should be submitted on Canvas before 7:00PM on the due date (3/7/2025). Each group should have their own paper and predictions, but both need to be submitted by every member of the group. Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 6 (Excellent). Use the Google form provided on the course website.
 
 This project is extremely demanding. I believe that you should split the responsibilities into clear defined jobs and hold to this recommended timeline. If your group fails to submit the predictions on time, your entire group will get 0's for all of the predictions. If your group fails to complete the paper on time, then you will get a penalty dependent on how late your group turns it in. If I discover that the methodology in your paper doesn't lead to your predictions that you submit or your predictions were generated using any form of AI where the work is not your own and the methodology is unable to be explained, I will report this as an academic violation and require you to show me your code and prove to me that your predictions are valid and from your methodology. At a minimum, I will do whatever I can to ensure your group gets a 0 on this assignment.
 
@@ -462,9 +462,9 @@ The second playoff round is worth a total of 48 points based on the following ru
 |OREB: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description|
 |OREB: Prediction|None|Bottom 5|Middle 6|Top 6|
 |Spelling|>5 Errors| 3-5 Errors|1-2 Errors|No Errors|
-|Value|Bad|Okay|Good|Excellent|
 |Submitted|Late||Not a PDF|On Time|
-||||||
+|**Criteria**|**0-1**|**2-3**|**4-5**|**6**|
+|Value|Bad|Okay|Good|Excellent|
 
 -------
 
