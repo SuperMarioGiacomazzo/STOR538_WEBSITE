@@ -170,7 +170,8 @@ The statistical programming language R will be used to generate visualizations a
 |JAN 31| Baseball I | [Slides](Slides/Baseball 1/Baseball_1_Lecture.pdf) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](Articles/Baseball/Baseball_Albert.pdf) |
 |FEB 3| Baseball I (Cont.) | [Slides](Slides/Baseball 1/Baseball_1_Lecture.pdf) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](Articles/Baseball/Baseball_Albert.pdf) |
 || Baseball II | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM|
-|FEB 5| Baseball III | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH|
+|FEB 5| Baseball II (Cont.) | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM|
+|| Baseball III | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH|
 || Baseball IV | [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)|
 |FEB 7| Baseball V | [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH, [Web](https://batsandstats.com/2016/08/03/one-of-my-favorite-baseball-stats/)|
 |FEB 10| Well-being Day | No Class ||
@@ -395,7 +396,7 @@ For the use of outside data, research other variables that could be important fo
 - [Webscraping from Basketball Reference](https://www.r-bloggers.com/2018/12/scraping-nba-game-data-from-basketball-reference-com/)
 - [R Package: nbastatR by Alex Bresler](https://www.rdocumentation.org/packages/nbastatR/versions/0.1.10131)
 - [Information Using nbastatR](https://towardsdatascience.com/how-to-get-data-on-every-nba-player-using-r-62abcacd65e1)
-- [Mario's Example of nbastatR](https://raw.githubusercontent.com/SuperMarioGiacomazzo/STOR538_WEBSITE/master/Playoffs/Round%202/NBA_Demo.R)
+- [Mario's Example of nbastatR](https://raw.githubusercontent.com/SuperMarioGiacomazzo/STOR538_WEBSITE/master/Playoff/NBA_Demo.R)
 
 Your study should be summarized in a paper of at least 5 pages. The paper and predictions should be submitted on Canvas before 7:00PM on the due date (3/7/2025). Each group should have their own paper and predictions, but both need to be submitted by every member of the group. Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 6 (Excellent). Use the Google form provided on the course website.
 
