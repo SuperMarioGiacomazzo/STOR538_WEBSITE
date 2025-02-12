@@ -7,12 +7,12 @@ Sys.setenv("VROOM_CONNECTION_SIZE" = 131072 * 2)
 
 #Get NBA Teams
 TEAM=nba_teams(league="NBA") %>% 
-  filter(yearPlayedLast==2023,idLeague==2) %>%
+  filter(yearPlayedLast==2024,idLeague==2) %>%
   select(nameTeam,idTeam,slugTeam)
 
 #Game Data for 2023
 GAME2024=game_logs(
-  seasons = 2024,
+  seasons = 2025,
   league = "NBA",
   result_types = "team",
   season_types = "Regular Season",
@@ -22,7 +22,7 @@ GAME2024=game_logs(
 )
 
 #Selecting One Game to Illustrate Cleaning
-GAME=filter(GAME2024,idGame==22300062) %>%
+GAME=filter(GAME2024,idGame==22400062) %>%
               select(idGame,nameTeam,locationGame,orebTeam,ptsTeam)
 
 #Split Data Up Into Home and Away
@@ -44,7 +44,7 @@ COMBINED = full_join(HOME2,AWAY2, by=c("idGame")) %>%
 
 
 #Box Score Data for Individual Game
-BOX2024=unnest(box_scores(game_ids=c(22300062),
+BOX2025=unnest(box_scores(game_ids=c(22400062),
                       box_score_types="Advanced",
                       result_types="team"
 ))
