@@ -610,8 +610,8 @@ Any assignments requiring a deliverable will be submitted via **Canvas** as a PD
 |FEB 12  (9AM)|||RS2|||
 |FEB 26 (9AM)| |GS3 ||||
 |MAR 5 (9AM)|||RS3|||
-|MAR 7 (9AM)| |GS4 |||| 
-|MAR 19  (7PM)||||P||
+|MAR 7  (7PM)||||P||
+|MAR 19 (9AM)| |GS4 |||| 
 |MAR 26 (9AM)|||RS4|||
 |APR 2 (9AM) ||GS5 ||||
 |APR 9 (9AM)|||RS5|||
