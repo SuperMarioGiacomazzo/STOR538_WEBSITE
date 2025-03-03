@@ -532,8 +532,10 @@ The second playoff round is worth a total of 48 points based on the following ru
 <!-- 5. As a Team, Track the Data in a Spreadsheet -->
 <!--      - All Data Must Be Recorded in the Same Electronic Spreadsheet (Excel,CSV, etc.) -->
 <!--      - Each Row Should Be a Different Observation According to the Level Selected -->
-<!--      - Can Be Recorded on Paper Separately, But Must Be Compiled Electronically Into a Single Spreadsheet -->
-<!--      - Each Group Member is Expected to Participate in the Data Collection and if Group Member Refuses or is Unable to Participate in the Data Collection by February 22, then I Will Remove that Group Member and Require that Individual to Collect 250 Observations and Write Their Own Paper -->
+<!--      - Keep Track of the Data Collected by Each Member For Proof that Each Member Actually Collected Data-->
+<!--      - Each Group Member is Expected to Participate in the Data Collection and if Group Member Refuses or is Unable to Participate in the Data Collection by April 11, then I Will Remove that Group Member and Require that Individual to Collect 250 Observations and Write Their Own Paper -->
+
+<!-- To ensure that every group stays on a reasonable pace, I will require each member of your group to submit the exact portion of the dataset that they collected. I am expected 50 or more observations per person. This needs to be submitted to **Canvas** before 11:59PM on April 11.  -->
 
 <!-- Your study should be summarized in a paper with at least 4 pages (a minimum of 2 pages worth of writing). The paper and dataset should be submitted on **Canvas** before 11:59PM on the last day of class. Submit a PDF for the paper and a CSV for the dataset. Each group should have their own paper and data, but both need to be submitted by every member of the group. Also, each group member can assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). Fill out the appropriate Google Form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group. -->
 
@@ -649,15 +651,17 @@ In the table below, you can find your group for each of the specific team-based 
 | JAN 22 | GS1 | [Value for GS1](https://docs.google.com/forms/d/e/1FAIpQLSdqPjLn-IrA-hqBUCNHbe8sgf3kxMSPNaLEE2mg_S31LAGuvg/viewform?usp=sf_link) |
 | FEB 5 | GS2 | [Value for GS2](https://docs.google.com/forms/d/e/1FAIpQLScQ967bd2WRx9nmMDfeoJD5UZZTFN4bPjYwyvXXBGw7ZEQBKA/viewform?usp=sf_link) |
 | FEB 26 | GS3 | [Value for GS3](https://docs.google.com/forms/d/e/1FAIpQLSeTAEas1kqxGZmJYQ640iX9AQIlgcirVJoxciEnn2UU7WcqAQ/viewform?usp=sf_link) |
-| MAR 5 | GS4 | [Value for GS4](https://docs.google.com/forms/d/e/1FAIpQLSchVRUxeiKYCfcRBWQ8Y85najkEO0FgPzhNFnYmmwIwWOp7VA/viewform?usp=sf_link) |
-| MAR 26 | GS5 | [Value for GS5](https://docs.google.com/forms/d/e/1FAIpQLSdMncyMUUZZPk10QyFVMqymyQs4iCiqjombEuGP5jzwL3k0lA/viewform?usp=sf_link) |
-| APR 9 | GS6 | [Value for GS6](https://docs.google.com/forms/d/e/1FAIpQLSdBlXUND1NfwBjZviwYhfGpS54nlEvsMaOK51yuAWh1tN9gFQ/viewform?usp=sharing) |
-| APR 23 | GS7 | [Value for GS7](https://docs.google.com/forms/d/e/1FAIpQLSfzCEJ6ji2hXds7Ptrbx6vOQYHEH3trhLJck1CaVE9Yb6i36w/viewform?usp=sharing) |
+| MAR 7 | P | [Value for Playoff](https://forms.gle/DPdTLLWDqFFtU1Rk7) |
+| MAR 19 | GS4 | [Value for GS4](https://docs.google.com/forms/d/e/1FAIpQLSchVRUxeiKYCfcRBWQ8Y85najkEO0FgPzhNFnYmmwIwWOp7VA/viewform?usp=sf_link) |
+| APR 2 | GS5 | [Value for GS5](https://docs.google.com/forms/d/e/1FAIpQLSdMncyMUUZZPk10QyFVMqymyQs4iCiqjombEuGP5jzwL3k0lA/viewform?usp=sf_link) |
+| Apr 11 | C (Data) | [Value for Championship 1](https://forms.gle/Z85rGWemhw24m3qj8) |
+| APR 16 | GS6 | [Value for GS6](https://docs.google.com/forms/d/e/1FAIpQLSdBlXUND1NfwBjZviwYhfGpS54nlEvsMaOK51yuAWh1tN9gFQ/viewform?usp=sharing) |
+| Apr 30| C (Paper) | [Value for Championship 2](https://docs.google.com/forms/d/e/1FAIpQLSeIoeRjDLc0FtRn8qvxzhFb5ebaVc4xjh1xdlnC8saEtgIlxA/viewform?usp=sharing) |
 | ||||
 
 # **Playoff Results**
 
-The predictions of all XX teams can be accessed from the hyperlinks below. These three files contain predictions, actual values, calculations of MAE, and ranking. If you find any mistakes that cause the grades to change, I will adjust them. 
+The predictions of all 14 teams can be accessed from the hyperlinks below. These three files contain predictions, actual values, calculations of MAE, and ranking. If you find any mistakes that cause the grades to change, I will adjust them. 
 
 - [Spread]()
 - [Total]()
