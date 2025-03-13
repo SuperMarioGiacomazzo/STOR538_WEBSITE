@@ -501,95 +501,113 @@ The second playoff round is worth a total of 48 points based on the following ru
 
 ## Championship
 
-<!-- Imagine you are an analyst working for the coach or athlete and want to discover insights that would bring a competitive edge. In a world saturated with data, the way to ensure your analysis is unique and creative is to get the data yourself. To successfully conduct your study, you should follow the steps below: -->
+Imagine you are an analyst working for the coach or athlete and want to discover insights that would bring a competitive edge. In a world saturated with data, the way to ensure your analysis is unique and creative is to get the data yourself. To successfully conduct your study, you should follow the steps below:
 
-<!-- 1. Decide on What Area of Sports You Would Like to Analyze -->
-<!--      - This Can Be Any Traditional Sport (Baseball, NASCAR, Soccer, Volleyball, Tennis, etc.) -->
-<!--      - This Can Be A Less Traditional Sport (Cornhole, Climbing, Drone Racing, etc.) -->
-<!--      - This Can Be A Video Game that Is Played Competitively -->
-<!--      - This Can Be A Board Game that Is Played Competitively -->
+1. Decide on What Area of Sports You Would Like to Analyze
+     - This Can Be Any Traditional Sport (Baseball, NASCAR, Soccer, Volleyball, Tennis, etc.)
+     - This Can Be A Less Traditional Sport (Cornhole, Climbing, Drone Racing, etc.)
+     - This Can Be A Video Game that Is Played Competitively
+     - This Can Be A Board Game that Is Played Competitively
 
-<!-- 2. Critically Think About What Questions/Opinions That You or Society Have About the Sport -->
-<!--      - What Statistics or Metrics Can Be Used to Describe Success -->
-<!--      - What Information Contributes to Success -->
+2. Critically Think About What Questions/Opinions That You or Society Have About the Sport
+     - What Statistics or Metrics Can Be Used to Describe Success
+     - What Information Contributes to Success
 
-<!-- 3. Plan the Study After Discussing the Sport With Your Team -->
-<!--      - Choose the Level at Which to Gather Data (Team, Player, Game, Play/Event, Time, etc.) -->
-<!--      - Choosing Levels at Higher Resolutions Make it Easier to Gather Enough Data -->
-<!--      - Identify at Least 5 Variables You Want to Gather at the Specified Level -->
-<!--      - Variables Can Be All Categorical, All Numeric, or Mixture -->
-<!--      - You Can Have More Than 5 Variables, but At Least 5 Need to Be Gathered Through Observing the Sport Being Played -->
-<!--      - Focus on Variables that are Not Already Being Constantly Tracked to Add Creativity to Your Project -->
+3. Plan the Study After Discussing the Sport With Your Team
+     - Choose the Level at Which to Gather Data (Team, Player, Game, Play/Event, Time, etc.)
+     - Choosing Levels at Higher Resolutions Make it Easier to Gather Enough Data
+     - Identify at Least 5 Variables You Want to Gather at the Specified Level
+     - Variables Can Be All Categorical, All Numeric, or Mixture
+     - You Can Have More Than 5 Variables, but At Least 5 Need to Be Gathered Through Observing the Sport Being Played
+     - Focus on Variables that are Not Already Being Constantly Tracked to Add Creativity to Your Project
 
-<!-- 4. Watch or Play the Sport Enough Times to Get a Minimum of 50 Observations per Person in Group -->
-<!--      - Groups of 5 Need a Sample Size of 250 -->
-<!--      - Groups of 6 Need a Sample Size of 300 -->
-<!--      - Depends on the Level at Which You're Gathering Data -->
-<!--      - Example: If the Level is Game, You Would Need to Watch or Play the Sport at Least 50 Times -->
-<!--      - Example: If the Level is Play/Event, You Would Need to Watch Enough to Gather Data for 50 Plays or Events -->
-<!--      - Example: If the Level is Time (minutes), You Would have to Gather Information for A Minimum of 50 Minutes -->
-<!--      - If Your Group is Tracking Something Complex and Desire Less Observations Per Person, have a Discussion with Dr. Mario for Approval. -->
+4. Watch or Play the Sport Enough Times to Get a Minimum of 50 Observations per Person in Group
+     - Groups of 5 Need a Sample Size of 250
+     - Groups of 6 Need a Sample Size of 300
+     - Depends on the Level at Which You're Gathering Data
+     - Example: If the Level is Game, You Would Need to Watch or Play the Sport at Least 50 Times
+     - Example: If the Level is Play/Event, You Would Need to Watch Enough to Gather Data for 50 Plays or Events
+     - Example: If the Level is Time (minutes), You Would have to Gather Information for A Minimum of 50 Minutes
+     - If Your Group is Tracking Something Complex and Desire Less Observations Per Person, have a Discussion with Dr. Mario for Approval.
 
-<!-- 5. As a Team, Track the Data in a Spreadsheet -->
-<!--      - All Data Must Be Recorded in the Same Electronic Spreadsheet (Excel,CSV, etc.) -->
-<!--      - Each Row Should Be a Different Observation According to the Level Selected -->
-<!--      - Keep Track of the Data Collected by Each Member For Proof that Each Member Actually Collected Data-->
-<!--      - Each Group Member is Expected to Participate in the Data Collection and if Group Member Refuses or is Unable to Participate in the Data Collection by April 11, then I Will Remove that Group Member and Require that Individual to Collect 250 Observations and Write Their Own Paper -->
+5. As a Team, Track the Data in a Spreadsheet
+     - All Data Must Be Recorded in the Same Electronic Spreadsheet (Excel,CSV, etc.)
+     - Each Row Should Be a Different Observation According to the Level Selected
+     - Keep Track of the Data Collected by Each Member For Proof that Each Member Actually Collected Data
+     - Each Group Member is Expected to Participate in the Data Collection and if Group Member Refuses or is Unable to Participate in the Data Collection by April 11, then I Will Remove that Group Member and Require that Individual to Collect 250 Observations and Write Their Own Paper
 
-<!-- To ensure that every group stays on a reasonable pace, I will require each member of your group to submit the exact portion of the dataset that they collected. I am expected 50 or more observations per person. This needs to be submitted to **Canvas** before 11:59PM on April 11.  -->
+To ensure that every group stays on a reasonable pace, I will require each member of your group to submit the exact portion of the dataset that they collected. I am expecting 50 or more observations per person. This needs to be submitted to **Canvas** before 11:59PM on April 11. For each member of the group, I am expecting the same number of variables and exact same variable names to show that your group worked together and coordinated efforts. Also, each group member can assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). Fill out the appropriate Google Form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group.
 
-<!-- Your study should be summarized in a paper with at least 4 pages (a minimum of 2 pages worth of writing). The paper and dataset should be submitted on **Canvas** before 11:59PM on the last day of class. Submit a PDF for the paper and a CSV for the dataset. Each group should have their own paper and data, but both need to be submitted by every member of the group. Also, each group member can assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). Fill out the appropriate Google Form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group. -->
+Your study should be summarized in a paper with at least 5 pages (a minimum of 2 pages worth of writing). The paper should be submitted on **Canvas** before 11:59PM on the last day of class, April 28. Submit the paper as a PDF only. Each group should have their own paper, but the paper needs to be submitted by every member of the group. 
 
-<!-- On the first page, you should title your paper and give the names of the team members who contributed. The content of the paper should be organized in the following 3 subsections: -->
+On the first page, you should title your paper, write your group number, and give the names of the team members who contributed. The content of the paper should be organized in the following 3 subsections:
 
-<!-- ### 1) Introduction to the Data -->
+### 1) Introduction to the Data
 
-<!-- In this section, you should discuss three things. -->
+In this section, you should discuss three things.
 
-<!-- First, you should briefly discuss the sport/game your team selected and the overall purpose of analyzing data for this sport/game. For example, what did you hypothesize or hope to find from studying the sport/game? Provide citations to any articles or websites that provided you inspiration for your ideas. You should look into what research has been done in this sport that is connected to what you plan on doing with the data you collect. -->
+First, you should briefly discuss the sport/game your team selected and the overall purpose of analyzing data for this sport/game. For example, what did you hypothesize or hope to find from studying the sport/game? Provide citations to any articles or websites that provided you inspiration for your ideas. You should look into what research has been done in this sport that is connected to what you plan on doing with the data you collect.
 
-<!-- Second, you should give a preview of your data showing at least the first 5 rows of your dataset. There should be at least 5 columns for each of the variables you measured on each observation. Give your variables clear names so anyone could understand what you measured, and make the table aesthetically pleasing (rounding, colors, etc.). It is okay to abbreviate variable names (e.g. R/G) if you identify the abbreviations (e.g Runs (R) and Games (G)) somewhere in the document. **At least 5 variables need to be collected through observation.** You can collect variables like height and birthplace of athletes, but these are not going to be variables you observe through watching the sport. -->
+Second, you should give a preview of your data showing at least 5 rows of your dataset. Also, show a minimum of 5 columns. I would recommend trying to show as much of your data as possible. Give your variables clear names so anyone could understand what you measured, and make the table aesthetically pleasing (rounding, colors, etc.). It is okay to abbreviate variable names (e.g. R/G) if you identify the abbreviations (e.g Runs (R) and Games (G)) somewhere in the document. **At least 5 variables need to be collected through observation.** You can collect variables like height and birthplace of athletes, but these are not going to be variables you observe through watching the sport.
 
-<!-- Third, you should briefly describe your data. When did you gather your data? Where did you gather your data? How did you gather your data (Watch or Play Game)? What does each observation (i.e. row in data) represent and how many observations do you have? Describe the five variables and how they were measured. I want a clear description of how the data was collected, what role each member on your team played in the gathering of the data, and information about the contents of the raw data. -->
+Third, you should briefly describe your data. When did you gather your data? Where did you gather your data? How did you gather your data (Watch or Play Game)? What does each observation (i.e. row in data) represent and how many observations do you have? Describe the five variables and how they were measured. I want a clear description of how the data was collected by the group.
 
-<!-- ### 2) Summary of the Data -->
-<!-- In this section, I want a table(s) and two figures summarizing the data. Each table and each figure you give should have a couple sentences describing the information summarized. -->
+### 2) Summary of the Data
+In this section, I want a table(s) and two figures summarizing the data. Each table and each figure you give should have a couple sentences describing the information summarized.
 
-<!-- The table(s) should be the same style as the table in the introduction (not different colors, fonts, rounding, etc.). The table(s) should efficiently summarize the five variables using popular statistics. If the variable is numeric (continuous or discrete), you should give the minimum, maximum, mean, and standard deviation, at least. If the variable is categorical, you should give the possible values with frequencies (counts) and relative frequencies (%). If you have a combination of categorical and numeric, I advise doing separate tables which will count as a single table. All tables should be formatted similarly. -->
+The table(s) should be the same style as the table in the introduction (not different colors, fonts, rounding, etc.). The table(s) should efficiently summarize the five variables using popular statistics. If the variable is numeric (continuous or discrete), you should give the minimum, maximum, mean, and standard deviation, at least. If the variable is categorical, you should give the possible values with frequencies (counts) and relative frequencies (%). If you have a combination of categorical and numeric, I advise doing separate tables which will count as a single table. All tables should be formatted similarly.
 
-<!-- Then, you should have two figures summarizing relationships between the variables you selected. In each figure, at least 2 variables, should be summarized. Appropriate axis names and scales should be used. Fonts should be large enough to read. These figures should be chosen with a purpose to later describe insights you learned from analyzing the data. -->
+Then, you should have two figures summarizing relationships between the variables you selected. In each figure, at least 2 variables, should be summarized. Appropriate axis names and scales should be used. Fonts should be large enough to read. These figures should be chosen for the purpose to be cited later in your paper. I recommend labeling each image and table that you create (i.e. Fig 1) so that you can easily reference them later.
 
-<!-- Following all instructions gets you two points. The last point is reserved for creativity, design, and over-achievement. This will be determined by comparing what you do to what the other teams do. I reward you for taking risks that that lead to better results then I require. For example in the table(s), calculating confidence intervals for numeric variables, creating contingency tables, or summarizing numeric variables for different subgroups from categorical variables. For example in the figures, tile, 3D, or map plots showing relationships across multiple variables. Also, I don't mind if you give more than two figures or put multiple figures together in a grid. If you create a ton of figures, I will grade your two worst figures so make sure each figure is valuable and worth discussing. -->
+If you create any visuals with new metrics that your group designed. Make sure you clearly define the metric using appropriate mathematical syntax prior to showing the visual with the new metric. 
 
-<!-- ### 3) Insights from the Data -->
+Following all instructions gets you two points. The last point is reserved for creativity, design, and over-achievement. This will be determined by comparing what you do to what the other teams do. I reward you for taking risks that that lead to better results then I require. For example in the table(s), calculating confidence intervals for numeric variables, creating contingency tables, or summarizing numeric variables for different subgroups from categorical variables. For example in the figures, tile, 3D, or map plots showing relationships across multiple variables. Also, I don't mind if you give more than two figures or put multiple figures together in a grid. If you create a ton of figures, I will grade your two worst figures so make sure each figure is valuable and worth discussing.
 
-<!-- The content in the previous two sections should be used to support two insights. An insight is a deeper understanding you gained about the sport from gathering and summarizing data. The insights should be connected to the purpose you outlined in the "Introduction to the Data" section and defended from the tables/figures in the "Summary of the Data" section. I recommend giving your figures and tables numbers so you can reference them in this section (e.g. Table 1, Figure 2). Write, at least, one paragraph for each insight. What were the two most interesting things you learned from the data? If you don't reference statistics or figures you created, you will lose two points, at least. To get full credit, I advise supplementing your insights with p-values from appropriate hypothesis tests (t-test, anova, regression, difference in proportions, independence tests, etc.) or provide confidence intervals (means, proportions, etc.). Excellent insights should not be obvious but lead to innovations that would give a decision maker or athlete the competitive edge. Tests for statistical significance are the strongest way to defend your arguments. This section should be written so someone with a technical/statistical background would understand your methodology and someone without a technical/statistical background would understand your conclusions.  -->
+### 3) Insights from the Data
 
-<!-- Also, in this section, after discussing your insights, you should write, at least, one paragraph where you critique what your group would have done differently. Would you have gathered another variable which could potentially be a confounding variable? Would you have measured a particular variable differently? What other information that you did not gather would have made this study better or have been of use? No study is done perfect and there are always aspects that could be improved. After I read your entire paper, I will take off a point for every single thing that I think you should have done differently that you did not highlight in this section. If there is a criticism that I incorrectly identify because you are extremely vague in the description of your study or in the summary of your insights, then you are at fault. Be very clear in describing all aspects of the data and method of collection in the first 2 sections. -->
+The content in the previous two sections should be used to support two insights. An insight is a deeper understanding you gained about the sport from gathering and summarizing data. The insights should be connected to the purpose you outlined in the "Introduction to the Data" section and defended from the tables/figures in the "Summary of the Data" section. I recommend giving your figures and tables numbers so you can reference them in this section (e.g. Table 1, Figure 2). Write, at least, one paragraph for each insight. What were the two most interesting things you learned from the data? If you don't reference statistics or figures you created, you will lose two points, at least. To get full credit, I advise supplementing your insights with p-values from appropriate hypothesis tests (t-test, anova, regression, difference in proportions, independence tests, etc.) or provide confidence intervals (means, proportions, etc.). Excellent insights should not be obvious but lead to innovations that would give a decision maker or athlete the competitive edge. Tests for statistical significance are the strongest way to defend your arguments. This section should be written so someone with a technical/statistical background would understand your methodology and someone without a technical/statistical background would understand your conclusions.
+
+Also, in this section, after discussing your insights, you should write, at least, one paragraph where you critique what your group would have done differently. Would you have gathered another variable which could potentially be a confounding variable? Would you have measured a particular variable differently? What other information that you did not gather would have made this study better or have been of use? No study is done perfect and there are always aspects that could be improved. After I read your entire paper, I will take off a point for every single thing that I think you should have done differently that you did not highlight in this section. If there is a criticism that I incorrectly identify because you are extremely vague in the description of your study or in the summary of your insights, then you are at fault. Be very clear in describing all aspects of the data and method of collection in the first 2 sections.
+
+Also, each group member can assess the contribution value **twice** of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). One time you will fill it out on April 11 and another time on the last day of class.  Fill out the appropriate Google Form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group. 
+
+Finally, each group will present their group's work using a slideshow presentation during our scheduled final exam period which is April 30 at 12PM in Gardner 105. Presentation slides should be submitted on **Canvas** prior to 12PM on April 30 by each group member. On April 30, each of you will have 5 to 7 minutes to present your work to the class. Your presentation should be persuasive as if you are talking to a group of coaches or players. I recommend starting with the purpose of your project and talk briefly about data collection. All group members involved should be utilized as evenly as possible in the presentation. It should be clear that your group has practiced your presentation several times prior. I am expecting a high level of eye contact, smooth transitions, slides with few words, no verbatim reading, etc. I want your slides to look absolutely stunning as if you were presenting this in a job interview.
 
 
-<!-- ### Rubric -->
+If there is a group who is clearly incompetent, lazy, etc., your group should notify me as soon as possible so I can help your group adapt to the situation. For example, I wouldn't want a useless member of your group being able to participate in a presentation that they didn't prepare or practice with the rest of the time. Your grade will be negatively impacted if someone in your group is allowed to present, and they perform poorly. Also, I wouldn't want a group member submitting a paper where their only contribution is making the title page.
 
-<!-- The first playoff round is worth a total of 45 points based on the following rubric: -->
 
-<!-- | Criteria | 0 | 1 | 2 | 3 | -->
-<!-- |:-----------:|:------:|:------:|:------:|:------:| -->
-<!-- |Title Page |Instructions Not Followed|Missing Entire Element|Missing a Team Member|Title+Team Members | -->
-<!-- |Introduction: Purpose |Not Innovative or Clearly Described|Not Innovative and/or Not Clearly Described|Somewhat Innovative and Clearly Described|Innovative and Clearly Described| -->
-<!-- |Introduction: Preview |Not Attempted|Missing Rows or Columns|5 Rows and 5 Columns|Outstanding| -->
-<!-- |Introduction: Description |Not Attempted|Missing Key Information|Answers Questions But Poorly Written|Addresses All Questions Well| -->
-<!-- |Summary: Table |Missing More Than 1 Statistic|Missing 1 Statistic|Followed Instructions|Excellent| -->
-<!-- |Summary: Figure 1 |Not Attempted|Not 2 Variables or Messy|2 Variables and Clear|Excellent| -->
-<!-- |Summary: Figure 2 |Not Attempted|Not 2 Variables or Messy|2 Variables and Clear|Excellent| -->
-<!-- |Summary: Table/Figure Descriptions|Not Attempted|Missing Important Descriptions|Some Descriptions Unclear|Everything Clearly Described| -->
-<!-- |Insights: First Insight|Not Attempted|Mediocre/Weak|Reference Summary Section|Excellent| -->
-<!-- |Insights: Second Insight|Not Attempted|Mediocre/Weak|Reference Summary Section|Excellent| -->
-<!-- |Insights: Done Differently |Missing 3 Obvious Things|Missing 2 Obvious Things|Missing 1 Obvious Thing|Got Everything| -->
-<!-- |Instructions Followed|Organized Incorrectly|Organized Correctly without Section Headings||Organized Correctly with Section Headings| -->
-<!-- |Spelling/Grammar|>5 Errors| 3-5 Errors|1-2 Errors|No Errors| -->
-<!-- |Value|Bad|Okay|Good|Excellent| -->
-<!-- |Submitted|Late or Inadequate Data||Not a PDF|On Time| -->
-<!-- |||||| -->
+### Rubric
+
+The first playoff round is worth a total of 69 points based on the following rubric:
+
+| Criteria | 0 | 1 | 2 | 3 |
+|:-----------:|:------:|:------:|:------:|:------:|
+|Data |Inadequate Consistency|Some Inconsistencies||Consistency Across Group |
+|Data |Less than 30|30 to 39|40 to 49|Minimum of 50 observations |
+|Data |Not Submitted or Late|non-CSV||Submitted |
+|Data Value|Bad|Okay|Good|Excellent|
+|Title Page |Instructions Not Followed|Major Mistake|Minor Mistake|Followed Instructions |
+|Introduction: Purpose |Not Innovative or Clearly Described|Not Innovative and/or Not Clearly Described|Somewhat Innovative and Clearly Described|Innovative and Clearly Described|
+|Introduction: Preview |Not Attempted|Missing Rows or Columns|5 Rows and 5 Columns|Outstanding|
+|Introduction: Description |Not Attempted|Missing Key Information|Answers Questions But Poorly Written|Addresses All Questions Well|
+|Summary: Table |Missing More Than 1 Statistic|Missing 1 Statistic|Followed Instructions|Excellent|
+|Summary: Figure 1 |Not Attempted|Not 2 Variables or Messy|2 Variables and Clear|Excellent|
+|Summary: Figure 2 |Not Attempted|Not 2 Variables or Messy|2 Variables and Clear|Excellent|
+|Summary: Table/Figure Descriptions|Not Attempted|Missing Important Descriptions|Some Descriptions Unclear|Everything Clearly Described|
+|Insights: First Insight|Not Attempted|Mediocre/Weak|No Reference to Summary Section|Excellent|
+|Insights: Second Insight|Not Attempted|Mediocre/Weak|No Reference to Summary Section|Excellent|
+|Insights: Done Differently |Missing 3 Obvious Things|Missing 2 Obvious Things|Missing 1 Obvious Thing|Got Everything|
+|Instructions Followed|Organized Incorrectly|Organized Correctly without Section Headings||Organized Correctly with Section Headings|
+|Spelling/Grammar|>5 Errors| 3-5 Errors|1-2 Errors|No Errors|
+|Paper|Not Submitted or Late||Not a PDF|On Time|
+|Paper Value|Bad|Okay|Good|Excellent|
+|Presentation Motivation|>5 Errors| |Weak Defense of Work|Exciting and Persuasive |
+|Presentation Slides|Bad|Okay|Good|Excellent|
+|Presentation Professionalism|Bad||Some Reading of Slides|Clearly Prepared and Well-Distributed|
+|Presentation Time|Poorly Planned|Barely Missed Time||Between 5 and 7 Minutes|
+|Presentation|Not Submitted or Late||Not a PDF|On Time|
+||||||
 
 
 
@@ -626,9 +644,10 @@ Any assignments requiring a deliverable will be submitted via **Canvas** as a PD
 |MAR 26 (9AM)|||RS4|||
 |APR 2 (9AM) ||GS5 ||||
 |APR 9 (9AM)|||RS5|||
+|APR 11 (11:59AM) |||||C (Data)|
 |APR 16 (9AM) ||GS6 ||||
 |APR 23 (9AM)|||RS6|||
-|APR 28 (5PM) |||||C (Paper)|
+|APR 28 (11:59AM) |||||C (Paper)|
 |APR 30 (12PM) |||||C (Presentation)|
 |          |                   |               |           |              |       |
 
