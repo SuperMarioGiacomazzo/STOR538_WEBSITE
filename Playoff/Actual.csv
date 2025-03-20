@@ -6,16 +6,16 @@ Date,Away,Home,Spread,Total,OREB
 3/7/2025,Portland Trail Blazers,Oklahoma City Thunder,18,196,18
 3/7/2025,Phoenix Suns,Denver Nuggets,8,290,15
 3/7/2025,San Antonio Spurs,Sacramento Kings,18,236,25
-3/7/2025,New York Knicks,Los Angeles Clippers,10,200,52
+3/7/2025,New York Knicks,Los Angeles Clippers,10,200,23
 3/8/2025,Brooklyn Nets,Charlotte Hornets,3,207,30
 3/8/2025,New Orleans Pelicans,Houston Rockets,29,263,33
-3/8/2025,Indiana Pacers,Atlanta Hawks,2,238,47
+3/8/2025,Indiana Pacers,Atlanta Hawks,2,238,31
 3/8/2025,Washington Wizards,Toronto Raptors,-1,235,44
 3/8/2025,Chicago Bulls,Miami Heat,-5,223,12
 3/8/2025,Orlando Magic,Milwaukee Bucks,-2,220,9
-3/8/2025,Los Angeles Lakers,Boston Celtics,10,212,41
+3/8/2025,Los Angeles Lakers,Boston Celtics,10,212,20
 3/8/2025,Detroit Pistons,Golden State Warriors,5,225,24
-3/9/2025,Denver Nuggets,Oklahoma City Thunder,24,230,34
+3/9/2025,Denver Nuggets,Oklahoma City Thunder,24,230,24
 3/9/2025,Phoenix Suns,Dallas Mavericks,-9,241,11
 3/9/2025,Cleveland Cavaliers,Milwaukee Bucks,-12,212,28
 3/9/2025,Memphis Grizzlies,New Orleans Pelicans,-3,211,33
@@ -27,17 +27,17 @@ Date,Away,Home,Spread,Total,OREB
 3/10/2025,Utah Jazz,Boston Celtics,6,222,26
 3/10/2025,Los Angeles Lakers,Brooklyn Nets,3,219,24
 3/10/2025,Charlotte Hornets,Miami Heat,-3,207,20
-3/10/2025,Washington Wizards,Toronto Raptors,15,223,44
+3/10/2025,Washington Wizards,Toronto Raptors,15,223,45
 3/10/2025,Indiana Pacers,Chicago Bulls,18,224,18
 3/10/2025,Orlando Magic,Houston Rockets,13,181,33
 3/10/2025,Phoenix Suns,Memphis Grizzlies,2,238,26
 3/10/2025,Denver Nuggets,Oklahoma City Thunder,-13,267,22
 3/10/2025,Dallas Mavericks,San Antonio Spurs,-4,262,22
 3/10/2025,Portland Trail Blazers,Golden State Warriors,10,250,27
-3/10/2025,New York Knicks,Sacramento Kings,-29,237,22
+3/10/2025,New York Knicks,Sacramento Kings,-29,237,20
 3/11/2025,Brooklyn Nets,Cleveland Cavaliers,5,213,20
 3/11/2025,Washington Wizards,Detroit Pistons,20,226,30
-3/11/2025,Milwaukee Bucks,Indiana Pacers,1,129,11
+3/11/2025,Milwaukee Bucks,Indiana Pacers,1,229,11
 3/11/2025,Los Angeles Clippers,New Orleans Pelicans,7,247,23
 3/12/2025,Chicago Bulls,Orlando Magic,NA,NA,NA
 3/12/2025,Charlotte Hornets,Atlanta Hawks,13,233,23
@@ -71,28 +71,28 @@ Date,Away,Home,Spread,Total,OREB
 3/15/2025,New York Knicks,Golden State Warriors,3,191,23
 3/15/2025,New Orleans Pelicans,San Antonio Spurs,4,234,20
 3/15/2025,Washington Wizards,Denver Nuggets,-3,249,23
-3/16/2025,Philadelphia 76ers,Dallas Mavericks,,,
-3/16/2025,Phoenix Suns,Los Angeles Lakers,,,
-3/16/2025,Atlanta Hawks,Brooklyn Nets,,,
-3/16/2025,Orlando Magic,Cleveland Cavaliers,,,
-3/16/2025,Toronto Raptors,Portland Trail Blazers,,,
-3/16/2025,Utah Jazz,Minnesota Timberwolves,,,
-3/16/2025,Oklahoma City Thunder,Milwaukee Bucks,,,
-3/16/2025,Washington Wizards,Los Angeles Clippers,,,
-3/17/2025,Miami Heat,New York Knicks,,,
-3/17/2025,Philadelphia 76ers,Houston Rockets,,,
-3/17/2025,Indiana Pacers,Minnesota Timberwolves,,,
-3/17/2025,Detroit Pistons,New Orleans Pelicans,,,
-3/17/2025,Orlando Magic,San Antonio Spurs,,,
-3/17/2025,Chicago Bulls,Utah Jazz,,,
-3/17/2025,Denver Nuggets,Golden State Warriors,,,
-3/17/2025,Toronto Raptors,Phoenix Suns,,,
-3/17/2025,Memphis Grizzlies,Sacramento Kings,,,
-3/18/2025,Atlanta Hawks,Charlotte Hornets,,,
-3/18/2025,Brooklyn Nets,Boston Celtics,,,
-3/18/2025,Washington Wizards,Portland Trail Blazers,,,
-3/18/2025,Cleveland Cavaliers,Los Angeles Clippers,,,
-3/18/2025,Milwaukee Bucks,Los Angeles Lakers,,,
+3/16/2025,Philadelphia 76ers,Dallas Mavericks,-5,255,19
+3/16/2025,Phoenix Suns,Los Angeles Lakers,11,203,21
+3/16/2025,Atlanta Hawks,Brooklyn Nets,8,236,12
+3/16/2025,Orlando Magic,Cleveland Cavaliers,-5,211,29
+3/16/2025,Toronto Raptors,Portland Trail Blazers,3,207,38
+3/16/2025,Utah Jazz,Minnesota Timberwolves,26,230,26
+3/16/2025,Oklahoma City Thunder,Milwaukee Bucks,-16,226,17
+3/16/2025,Washington Wizards,Los Angeles Clippers,NA,NA,NA
+3/17/2025,Miami Heat,New York Knicks,21,211,22
+3/17/2025,Philadelphia 76ers,Houston Rockets,7,281,31
+3/17/2025,Indiana Pacers,Minnesota Timberwolves,-2,262,23
+3/17/2025,Detroit Pistons,New Orleans Pelicans,-46,208,24
+3/17/2025,Orlando Magic,San Antonio Spurs,NA,NA,NA
+3/17/2025,Chicago Bulls,Utah Jazz,-14,208,13
+3/17/2025,Denver Nuggets,Golden State Warriors,-9,219,30
+3/17/2025,Toronto Raptors,Phoenix Suns,40,218,24
+3/17/2025,Memphis Grizzlies,Sacramento Kings,10,254,25
+3/18/2025,Atlanta Hawks,Charlotte Hornets,-32,236,21
+3/18/2025,Brooklyn Nets,Boston Celtics,8,200,14
+3/18/2025,Washington Wizards,Portland Trail Blazers,NA,NA,NA
+3/18/2025,Cleveland Cavaliers,Los Angeles Clippers,13,251,24
+3/18/2025,Milwaukee Bucks,Los Angeles Lakers,NA,NA,NA
 3/19/2025,Dallas Mavericks,Indiana Pacers,,,
 3/19/2025,Houston Rockets,Orlando Magic,,,
 3/19/2025,Detroit Pistons,Miami Heat,,,
