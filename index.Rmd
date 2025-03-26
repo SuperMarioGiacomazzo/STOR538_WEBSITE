@@ -587,7 +587,7 @@ The first playoff round is worth a total of 69 points based on the following rub
 | Criteria | 0 | 1 | 2 | 3 |
 |:-----------:|:------:|:------:|:------:|:------:|
 |Data |Inadequate Consistency|Some Inconsistencies||Consistency Across Group |
-|Data |Less than 30|30 to 39|40 to 49|Minimum of 50 observations |
+|Data |$n<30$ and/or $<4$ Observed Vars|$30<=n<40$ and/or $4$ Observed Vars|$40<=n<50$ & $>=5$ Observed Vars|$n>=50$ & $>=5$ Observed Vars |
 |Data |Not Submitted or Late|non-CSV||Submitted |
 |Data Value|Bad|Okay|Good|Excellent|
 |Title Page |Instructions Not Followed|Major Mistake|Minor Mistake|Followed Instructions |
