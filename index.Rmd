@@ -173,7 +173,7 @@ The statistical programming language R will be used to generate visualizations a
 |FEB 5| Baseball II (Cont.) | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM|
 |FEB 7| Baseball III | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH|
 |FEB 10| Well-being Day | No Class ||
-|FEB 12| Discussion of Playoff | No Class ||
+|FEB 12| Discussion of Playoff | ||
 |FEB 14| Baseball IV| [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)|
 |FEB 17| Baseball IV (Cont.)| [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)|
 || Baseball V| [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH, [Web](https://batsandstats.com/2016/08/03/one-of-my-favorite-baseball-stats/)|
@@ -216,6 +216,7 @@ The statistical programming language R will be used to generate visualizations a
 |APR 21| Football V | [Slides](Slides/Football 5/Footballl_5_Lecture.pdf) | Ch. 22 MATH, [Web 1](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html), [Web 2](https://plato.stanford.edu/entries/game-theory/), [Web 3](http://www.advancedfootballanalytics.com/2008/06/game-theory-and-runpass-balance.html) |
 || Football VI | [Slides](Slides/Football 6/Footballl_6_Lecture.pdf)  | Ch. 25-26 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1) |
 |||  | [Article 1](Articles/Football/Football_King.pdf), [Article 2](Articles/Football/Football_MasseyThaler.pdf) |
+|APR 23| Last Lecture | | |
 |APR 25| Work on Championship | | |
 |APR 28| Work on Championship | | |
 |||||
@@ -661,10 +662,10 @@ Any assignments requiring a deliverable will be submitted via **Canvas** as a PD
 |MAR 26 (9AM)|||RS4|||
 |APR 2 (9AM) ||GS5 ||||
 |APR 9 (9AM)|||RS5|||
-|APR 11 (11:59AM) |||||C (Data)|
+|APR 11 (11:59PM) |||||C (Data)|
 |APR 16 (9AM) ||GS6 ||||
 |APR 23 (9AM)|||RS6|||
-|APR 28 (11:59AM) |||||C (Paper)|
+|APR 28 (11:59PM) |||||C (Paper)|
 |APR 30 (12PM) |||||C (Presentation)|
 |          |                   |               |           |              |       |
 
