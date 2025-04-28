@@ -619,7 +619,7 @@ The first playoff round is worth a total of 69 points based on the following rub
 |Spelling/Grammar|>5 Errors| 3-5 Errors|1-2 Errors|No Errors|
 |Paper|Not Submitted or Late||Not a PDF|On Time|
 |Paper Value|Bad|Okay|Good|Excellent|
-|Presentation Motivation|>5 Errors| |Weak Defense of Work|Exciting and Persuasive |
+|Presentation Motivation|No Good Explanation|Weak Defense of Work |Okay Explanation and Defense|Exciting and Persuasive |
 |Presentation Slides|Bad|Okay|Good|Excellent|
 |Presentation Professionalism|Bad||Some Reading of Slides|Clearly Prepared and Well-Distributed|
 |Presentation Time|Poorly Planned|Barely Missed Time||Between 5 and 7 Minutes|
