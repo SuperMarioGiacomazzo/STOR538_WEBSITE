@@ -231,7 +231,7 @@ The statistical programming language R will be used to generate visualizations a
 
 # **Fundamentals of Sports Analytics** {.tabset}
 
-In this class, your performance will be graded using **six** different assessments: attendance (5%), practice (5%), gameday speeches (20%), regular season (20%), playoffs (20%), and championship (30%). For the gameday speeches, playoffs, and the championship, you will be randomly assigned to a team. This class is a team sport.
+In this class, your performance will be graded using **six** different assessments: attendance (5%), practice (5%), gameday speeches (15%), regular season (20%), playoffs (25%), and championship (30%). For the gameday speeches, playoffs, and the championship, you will be randomly assigned to a team. This class is a team sport.
 
 ## Attendance
 
