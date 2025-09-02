@@ -595,13 +595,13 @@ Any assignments requiring a deliverable will be submitted via **Canvas** as a PD
 
 # **Team Sport**
 
-Many of the assessments in this course will be done in a teams of 3 to 6 playas randomly chosen. For each team-based assignment, you will be given a different team. This will force you to interact with the majority of the class throughout the semester. After each team-based assignment, you will grade the contribution of your teammates on a scale from 0 to 3, and this will contribute to your overall grade for the given assignment. A decent portion of your final grade will be influenced by this. The following link contains all teams alphabetically: **[All Teams](Group Assignments/allTeams.pdf)**
+Many of the assessments in this course will be done in a teams of 3 to 6 playas randomly chosen. For each team-based assignment, you will be given a different team. This will force you to interact with the majority of the class throughout the semester. After each team-based assignment, you will grade the contribution of your teammates on a scale from 0 to 3, and this will contribute to your overall grade for the given assignment. A decent portion of your final grade will be influenced by this. The following link contains all teams alphabetically: **[All Teams](Group Assignments/allTeams2.pdf)**
 
 ```{r,echo=F,results=TRUE,message=F}
 library(DT)
 library(tidyverse)
 library(readxl)
-datatable(read_csv("Group Assignments/allTeams.csv"),class="display",options = list(scrollX=T, columnDefs = list(list(className = 'dt-center', targets = 0:2)) ),rownames=F)
+datatable(read_csv("Group Assignments/allTeams2.csv"),class="display",options = list(scrollX=T, columnDefs = list(list(className = 'dt-center', targets = 0:2)) ),rownames=F)
 ```
 
 
