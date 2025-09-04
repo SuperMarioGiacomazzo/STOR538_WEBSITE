@@ -148,6 +148,8 @@ The statistical programming language R will be used to generate visualizations a
 ## Sports Research
 
 - [Score Network](https://scorenetwork.org/)
+- [Journal of Quantitative Analysis in Sports](https://www.degruyterbrill.com/journal/key/jqas/html?lang=en&srsltid=AfmBOortUyRlPVHVH9JelLVxa9za0HQAohimpbGE0MHMZmP2RKQQKlPM)
+- [Journal of Sports Analytics](https://journals.sagepub.com/home/SAN)
 
 
 
