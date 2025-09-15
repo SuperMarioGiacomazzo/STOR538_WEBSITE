@@ -4600,71 +4600,416 @@ football season.</p>
 </div>
 <div id="playoff" class="section level2">
 <h2>Playoff</h2>
-<!-- The playoff will be a predictive modeling project for actual NBA games. The primary goal of this project is to design models for prediction of three variables -- $Spread$, $Total$, and $OREB$. Below you can find clear definitions of these three outcome variables: -->
-<!-- - $Spread = \textrm{Home Points} - \textrm{Away Points}$ -->
-<!-- - $Total = \textrm{Home Points} + \textrm{Away Points}$ -->
-<!-- - $OREB = \textrm{Home OREB} + \textrm{Away OREB}$ -->
-<!-- It is imperative that you follow these specifications. Your group will be making predictions of the three variables for all NBA games between Mar 7 and Mar 21, inclusively. Your predictions should be saved in the dataset called **[Predictions](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/blob/master/Playoff/Predictions.csv)**. Here you will find missing values where future predictions will be placed. This completed file should be submitted along with a paper summarizing your methodology. You will not only be graded by your methodology, but also by your predictive accuracy. The variables, $Spread$, $Total$, and $OREB$ will all be evaluated by mean absolute error (MAE). For each of the variables, the top 5 groups will get 3 points, the middle 5 groups will get 2 points, and the bottom 4 groups will get 1 point. All three variables are numeric. If you fail to submit predictions on time or the predictions are not numeric values, you will get 0 points. -->
-<!-- I am providing you with **starting data** courtesy of Vitalii Korolyk who posted several useful NBA datasets under the username NocturneBear on [Github](https://github.com/NocturneBear/NBA-Data-2010-2024). You can download the data from Vitalii's Github or you can download from our website using this [link](Playoff/Starting%20Data/Starting%20Data.zip) -->
-<!-- For the engineering of new variables, consider creating differences and ratios between the stats for the home and away teams. Also, it may be useful to create variables that represent past information such as moving averages or lagged variables. You should be able to explain and defend the variables you create. -->
-<!-- For the use of outside data, research other variables that could be important for prediction of the three variables. You must find data from other online sources that are not part of the **starting data** . This could be injury data, advanced metrics on players,  play-by-play data, or more recent data that you webscraped. I am grading you on your creativity so utilizing recent data for your outside data requirement would be helpful for predicting, but would definitely be less creative than other options. Below is a list of potential options: -->
-<!-- - [Advanced Stats on NBA.com](https://www.nba.com/stats/players/advanced/?sort=GP&dir=-1) -->
-<!-- - [Injury Data from Kaggle](https://www.kaggle.com/ghopkins/nba-injuries-2010-2018) -->
-<!-- - [Injuries from Basketball Reference](https://www.basketball-reference.com/friv/injuries.fcgi) -->
-<!-- - [Webscraping from Basketball Reference](https://www.r-bloggers.com/2018/12/scraping-nba-game-data-from-basketball-reference-com/) -->
-<!-- - [R Package: nbastatR by Alex Bresler](https://www.rdocumentation.org/packages/nbastatR/versions/0.1.10131) -->
-<!-- - [Information Using nbastatR](https://medium.com/towards-data-science/how-to-get-data-on-every-nba-player-using-r-62abcacd65e1) -->
-<!-- - [Mario's Example of nbastatR](https://raw.githubusercontent.com/SuperMarioGiacomazzo/STOR538_WEBSITE/master/Playoff/NBA_Demo.R) -->
-<!-- Your study should be summarized in a paper of at least 5 pages. The paper and predictions should be submitted on Canvas before 7:00PM on the due date (3/7/2025). Each group should have their own paper and predictions, but both need to be submitted by every member of the group. Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 6 (Excellent). Use the Google form provided on the course website. -->
-<!-- This project is extremely demanding. I believe that you should split the responsibilities into clear defined jobs and hold to this recommended timeline. If your group fails to submit the predictions on time, your entire group will get 0's for all of the predictions. If your group fails to complete the paper on time, then you will get a penalty dependent on how late your group turns it in. If I discover that the methodology in your paper doesn't lead to your predictions that you submit or your predictions were generated using any form of AI where the work is not your own and the methodology is unable to be explained, I will report this as an academic violation and require you to show me your code and prove to me that your predictions are valid and from your methodology. At a minimum, I will do whatever I can to ensure your group gets a 0 on this assignment. -->
-<!-- |Start|End|Task| -->
-<!-- |:---|:---|:---| -->
-<!-- |NOW|2/20|Build and Clean Dataset| -->
-<!-- |2/20|2/21|Start Writing Section 1 of Paper| -->
-<!-- |2/21|2/26|Each Group Member Builds and Evaluates One Model for Each Variable| -->
-<!-- |2/26|2/28|Start Writing Sections 2-4 of Paper| -->
-<!-- |2/28|3/7|Implement Models to Make Predictions and Finish Paper| -->
-<!-- |3/7|3/7|Edit and Submit Paper + Predictions| -->
-<!-- |||| -->
-<!-- On the first page, you should title your paper and give the names of the team members who contributed. If someone didn't do any work, don't put their name on it so I can give them a 0. The content of the paper should be organized in the following 4 subsections: -->
-<!-- ### 1) Data Information -->
-<!-- In this section, you should outline in chronological order how your group built the dataset that your group used to fit, evaluate, and implement the predictive models you will discuss in future sections. Every step to build and clean the dataset should be written so that someone could read it, follow the steps, and get to the same data your group used. -->
-<!-- Examples of some questions that need to be answered if applicable: -->
-<!-- - What datasets did you use and where did you get these datasets? What are the sources? Did you use an API and what data did you acquire from using the API? -->
-<!-- - How did you clean the datasets individually? How did you merge the datasets? -->
-<!-- - How did you handle missing data or outliers? Did you ignore certain games for some reason? -->
-<!-- - Did you split the data into train sets and test sets? -->
-<!-- - Did you acquire any current data for generating predictions for the current year? -->
-<!-- - Did you create any variables or aggregate the data for the purpose of generating predictions for the current year? -->
-<!-- In this section, you should discuss any variables your group engineered and defend your reasons for engineering those variables. You should be able to mathematically represent your metrics as formulas and/or provide written descriptions. You should be able to explain why you think the variable you created would help in predicting any of the three outcome variables. Feel free to make citations to whoever you want to credit for leading you to your idea. The variables you engineer should be creative and well-defended. -->
-<!-- Also, you should discuss all outside data you utilized to hopefully improve prediction. You are required to utilize data that is not currently contained in any of the starting datasets (Kendall or Nathan Lauga). You need to explain where you got the outside data and why you are including it. I want to know why your group thought that the outside data you are utilizing would be helpful for predicting any of the three outcome variables. The outside data utilized should be creative and well-defended. -->
-<!-- ### 2) Methodology for $Spread$ -->
-<!-- You should clearly describe your group's best predictive model for $Spread$ and the steps you took to get there. Discuss what variables were useful and useless for predicting $Spread$. Since $Spread$ is a numeric variable, I highly recommend a basic linear regression as a baseline with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation/out-of-sample testing, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the "best" model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best. Talk about all of the models your group considered, but put some extra attention on describing your "best" model since this is the model that your group used to generate predictions. For example, if your "best" model is a linear regression model, you can show the coefficients in a table or write it out mathematically. In more advanced machine learning methods, I should know every value of every hyperparameter/tuning parameter and how your group chose those values. Finally, make sure that you explain how your group used the "best" model to generate predictions for future games where everything is unknown. Just giving a description of your best model is not enough if you don't explain exactly how that model was used to make real predictions. -->
-<!-- ### 3) Methodology for $Total$ -->
-<!-- You should clearly describe your group's best predictive model for $Total$ and the steps you took to get there. Discuss what variables were useful and useless for predicting $Total$. Since $Total$ is a numeric variable but could be highly skewed, I highly recommend nonlinear transformations. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation/out-of-sample testing, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the "best" model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best. Talk about all of the models your group considered, but put some extra attention on describing your "best" model since this is the model that your group used to generate predictions. For example, if your "best" model is a linear regression model, you can show the coefficients in a table or write it out mathematically. In more advanced machine learning methods, I should know every value of every hyperparameter/tuning parameter and how your group chose those values. Finally, make sure that you explain how your group used the "best" model to generate predictions for future games where everything is unknown. Just giving a description of your best model is not enough if you don't explain exactly how that model was used to make real predictions. -->
-<!-- ### 4) Methodology for $OREB$ -->
-<!-- You should clearly describe your group's best predictive model for $OREB$ and the steps you took to get there. Discuss what variables were useful and useless for predicting $OREB$. Since $OREB$ is a discrete numeric variable, I highly recommend nonlinear transformations or considering a generalized linear model like Poisson regression. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation/out-of-sample testing, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the "best" model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best. Talk about all of the models your group considered, but put some extra attention on describing your "best" model since this is the model that your group used to generate predictions. For example, if your "best" model is a linear regression model, you can show the coefficients in a table or write it out mathematically. In more advanced machine learning methods, I should know every value of every hyperparameter/tuning parameter and how your group chose those values. Finally, make sure that you explain how your group used the "best" model to generate predictions for future games where everything is unknown. Just giving a description of your best model is not enough if you don't explain exactly how that model was used to make real predictions. -->
-<!-- ### Rubric -->
-<!-- The second playoff round is worth a total of 48 points based on the following rubric: -->
-<!-- | Criteria | 0 | 1 | 2 | 3 | -->
-<!-- |:-----------:|:------:|:------:|:------:|:------:| -->
-<!-- |Title Page |Instructions Not Followed|Missing Entire Element|Missing a Team Member|Title+Team Members | -->
-<!-- |Data: Cleaning Summary|Unclear|Slightly Unclear|Slightly Clear|Clear| -->
-<!-- |Data: New Variable|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended| -->
-<!-- |Data: Outside Data|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended| -->
-<!-- |Spread: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough| -->
-<!-- |Spread: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description| -->
-<!-- |Spread: Prediction|None|Bottom 5| Middle 6 |Top 6| -->
-<!-- |Total: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough| -->
-<!-- |Total: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description| -->
-<!-- |Total: Prediction|None|Bottom 5|Middle 6|Top 6| -->
-<!-- |OREB: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough| -->
-<!-- |OREB: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description| -->
-<!-- |OREB: Prediction|None|Bottom 5|Middle 6|Top 6| -->
-<!-- |Spelling|>5 Errors| 3-5 Errors|1-2 Errors|No Errors| -->
-<!-- |Submitted|Late||Not a PDF|On Time| -->
-<!-- |**Criteria**|**0-1**|**2-3**|**4-5**|**6**| -->
-<!-- |Value|Bad|Okay|Good|Excellent| -->
+<p>The playoff will be a predictive modeling project for actual NFL
+games. The primary goal of this project is to design models for
+prediction of three variables – <span class="math inline">\(Spread\)</span>, <span class="math inline">\(Total\)</span>, and <span class="math inline">\(Pass\)</span>. Below you can find clear
+definitions of these three outcome variables:</p>
+<ul>
+<li><p><span class="math inline">\(Spread = \textrm{Home Points} -
+\textrm{Away Points}\)</span></p></li>
+<li><p><span class="math inline">\(Total = \textrm{Home Points} +
+\textrm{Away Points}\)</span></p></li>
+<li><p><span class="math inline">\(Pass = \textrm{Home Passing Yards} +
+\textrm{Away Passing Yards}\)</span></p></li>
+</ul>
+<p>It is imperative that you follow these specifications. Your group
+will be making predictions of the three variables for all NFL games
+between October 15 and November 18, inclusively. This corresponds with
+NFL weeks 7 to 11. Your predictions should be saved in the dataset
+called <strong><a href="https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/blob/master/Playoff/Predictions.csv">Predictions</a></strong>.
+Here you will find missing values where future predictions will be
+placed. This completed file should be submitted along with a paper
+summarizing your methodology. You will not only be graded by your
+methodology, but also by your predictive accuracy. The variables, <span class="math inline">\(Total\)</span>, <span class="math inline">\(Spread\)</span>, and <span class="math inline">\(Pass\)</span> will all be evaluated by mean
+absolute error (MAE). For each of the variables, the top 3 groups will
+get 3 points, the middle 3 groups will get 2 points, and the bottom 3
+groups will get 1 point. All three variables are numeric. If you fail to
+submit predictions on time or the predictions are not numeric values,
+you will get 0 points and your predictions will not be considered.</p>
+<p>For the use of outside data, research variables that could be
+important for prediction of the three variables. This could be injury
+data, advanced metrics on players, play-by-play data, or recent data
+that you webscraped. I am grading you on your creativity so utilizing
+recent data for your outside data requirement would be helpful for
+predicting, but would definitely be less creative than other options.
+Below is a list of some potential options:</p>
+<ul>
+<li><a href="https://www.kaggle.com/datasets/keonim/nfl-game-scores-dataset-2017-2023">Game
+Scores Dataset from Kaggle</a></li>
+<li><a href="https://www.kaggle.com/c/nfl-big-data-bowl-2025/data">NFL
+Big Data Bowl</a></li>
+<li><a href="https://www.kaggle.com/datasets/thedevastator/nfl-injury-analysis-2012-2017">Injury
+Data from Kaggle</a></li>
+<li><a href="https://stmorse.github.io/journal/pfr-scrape-python.html">Webscraping
+from Pro Football Reference</a></li>
+<li><a href="https://www.nflfastr.com/">R Package: nflfastR</a></li>
+<li><a href="https://sportsandsociety.osu.edu/sports-data-sets">Summary
+of Other Sources from OSU</a>
+<!-- - [Mario's Example of nbastatR](https://raw.githubusercontent.com/SuperMarioGiacomazzo/STOR538_WEBSITE/master/Playoff/NBA_Demo.R) --></li>
+</ul>
+<p>For the engineering of new variables, consider creating differences
+and ratios between the stats for the home and away teams. Also, it may
+be useful to create variables that represent past information such as
+moving averages or lagged variables. You should be able to explain and
+defend the variables you create. This is your opportunity to test
+different ideas, and I do not care if any of the variables you engineer
+end up in your final model for prediction. You should defend any
+engineered on how you think they will be specifically helpful for
+predicting the three variables you are being asked to predict.</p>
+<p>Your study should be summarized in a paper of at least 5 pages. The
+paper and predictions should be submitted on Canvas before 11:59PM on
+the due date (10/14/2025). Each group should have their own paper and
+predictions, but both need to be submitted by every member of the group.
+Also, each group member needs to assess the contribution value of the
+other members of the team on a scale from 0 (Bad) to 6 (Excellent). Use
+the Google form provided on the course website.</p>
+<p>This project is extremely demanding. I believe that you should split
+the responsibilities into clear defined jobs and hold to this
+recommended timeline. If your group fails to submit the predictions on
+time, your entire group will get 0’s for all of the predictions. If your
+group fails to complete the paper on time, then you will get a penalty
+dependent on how late your group turns it in. If I discover that the
+methodology in your paper doesn’t lead to your predictions that you
+submit or your predictions were generated using any form of AI where the
+work is not your own and the methodology is unable to be explained, I
+will report this as an academic violation and require you to show me
+your code and prove to me that your predictions are valid and from your
+methodology. At a minimum, I will do whatever I can to ensure your group
+gets a 0 on this assignment.</p>
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">Start</th>
+<th align="left">End</th>
+<th align="left">Task</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">NOW</td>
+<td align="left">9/30</td>
+<td align="left">Build and Clean Dataset</td>
+</tr>
+<tr class="even">
+<td align="left">9/30</td>
+<td align="left">10/2</td>
+<td align="left">Start Writing Section 1 of Paper</td>
+</tr>
+<tr class="odd">
+<td align="left">10/2</td>
+<td align="left">10/7</td>
+<td align="left">Each Group Member Builds and Evaluates One Model for
+Each Variable</td>
+</tr>
+<tr class="even">
+<td align="left">10/7</td>
+<td align="left">10/9</td>
+<td align="left">Start Writing Sections 2-4 of Paper</td>
+</tr>
+<tr class="odd">
+<td align="left">10/9</td>
+<td align="left">10/13</td>
+<td align="left">Implement Models to Make Predictions and Finish
+Paper</td>
+</tr>
+<tr class="even">
+<td align="left">10/13</td>
+<td align="left">10/14</td>
+<td align="left">Edit and Submit Paper + Predictions</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
+<p>On the first page, you should title your paper and give the names of
+the team members who contributed. If someone didn’t do any work, don’t
+put their name on it so I can give them a 0. The content of the paper
+should be organized in the following 4 subsections:</p>
+<div id="data-information" class="section level3">
+<h3>1) Data Information</h3>
+<p>In this section, you should outline in chronological order how your
+group built the dataset that your group used to fit, evaluate, and
+implement the predictive models you will discuss in future sections.
+Every step to build and clean the dataset should be written so that
+someone could read it, follow the steps, and get to the same data your
+group used.</p>
+<p>Examples of some questions that need to be answered if
+applicable:</p>
+<ul>
+<li>What datasets did you use and where did you get these datasets? What
+are the sources? Did you use an API and what data did you acquire from
+using the API?</li>
+<li>How did you clean the datasets individually? How did you merge the
+datasets?</li>
+<li>How did you handle missing data or outliers? Did you ignore certain
+games for some reason?</li>
+<li>Did you split the data into train sets and test sets?</li>
+<li>Did you acquire any current data for generating predictions for the
+current year?</li>
+<li>Did you create any variables or aggregate the data for the purpose
+of generating predictions for the current year?</li>
+</ul>
+<p>Also, you should discuss all outside data you utilized to build your
+dataset for predictive modeling. You need to explain where you got the
+outside data and why you are including it. I should know your sources
+and see citations where necessary. All outside data utilized should be
+explained and defended.</p>
+<p>In this section, you should discuss any variables your group
+engineered and defend your reasons for engineering those variables. You
+should be able to mathematically represent your metrics as formulas
+and/or provide written descriptions. You should be able to explain why
+you think the variable you created would help in predicting any of the
+three outcome variables. Feel free to make citations to whoever you want
+to credit for leading you to your idea. The variables you engineer
+should be creative and well-defended.</p>
+</div>
+<div id="methodology-for-spread" class="section level3">
+<h3>2) Methodology for <span class="math inline">\(Spread\)</span></h3>
+<p>You should clearly describe your group’s best predictive model for
+<span class="math inline">\(Spread\)</span> and the steps you took to
+get there. Discuss what variables were useful and useless for predicting
+<span class="math inline">\(Spread\)</span>. Since <span class="math inline">\(Spread\)</span> is a numeric variable, I highly
+recommend a basic linear regression as a baseline with stepwise
+algorithms or regularization for variable selection. To ensure you are
+seeking the best model for prediction, I highly advise considering many
+different types of models (neural nets, regression trees, time series,
+etc.), utilizing cross-validation/out-of-sample testing, and adding
+interaction/polynomial terms. In this part, you should chronologically
+write about everything your group did to find the “best” model.
+Challenge yourselves to a thorough investigation from multiple angles
+and organize your process professionally for an audience with basic
+understanding in statistics and the sport. You are not required to
+present tables or figures, but these can be used to defend why the model
+you are calling the “best” is actually best. Talk about all of the
+models your group considered, but put some extra attention on describing
+your “best” model since this is the model that your group used to
+generate predictions. For example, if your “best” model is a linear
+regression model, you can show the coefficients in a table or write it
+out mathematically. In more advanced machine learning methods, I should
+know every value of every hyperparameter/tuning parameter and how your
+group chose those values. Finally, make sure that you explain how your
+group used the “best” model to generate predictions for future games
+where everything is unknown. Just giving a description of your best
+model is not enough if you don’t explain exactly how that model was used
+to make real predictions.</p>
+</div>
+<div id="methodology-for-total" class="section level3">
+<h3>3) Methodology for <span class="math inline">\(Total\)</span></h3>
+<p>You should clearly describe your group’s best predictive model for
+<span class="math inline">\(Total\)</span> and the steps you took to get
+there. Discuss what variables were useful and useless for predicting
+<span class="math inline">\(Total\)</span>. Since <span class="math inline">\(Total\)</span> is a numeric variable but could be
+highly skewed, I highly recommend nonlinear transformations. To ensure
+you are seeking the best model for prediction, I highly advise
+considering many different types of models (neural nets, regression
+trees, time series, etc.), utilizing cross-validation/out-of-sample
+testing, and adding interaction/polynomial terms. In this part, you
+should chronologically write about everything your group did to find the
+“best” model. Challenge yourselves to a thorough investigation from
+multiple angles and organize your process professionally for an audience
+with basic understanding in statistics and the sport. You are not
+required to present tables or figures, but these can be used to defend
+why the model you are calling the “best” is actually best. Talk about
+all of the models your group considered, but put some extra attention on
+describing your “best” model since this is the model that your group
+used to generate predictions. For example, if your “best” model is a
+linear regression model, you can show the coefficients in a table or
+write it out mathematically. In more advanced machine learning methods,
+I should know every value of every hyperparameter/tuning parameter and
+how your group chose those values. Finally, make sure that you explain
+how your group used the “best” model to generate predictions for future
+games where everything is unknown. Just giving a description of your
+best model is not enough if you don’t explain exactly how that model was
+used to make real predictions.</p>
+<p>Some groups want to predict <span class="math inline">\(Spread\)</span> and <span class="math inline">\(Total\)</span> only using models for home points
+and away points. I think if you are going to do that there should be
+some comparison of your models for points to other models for the <span class="math inline">\(Spread\)</span> and <span class="math inline">\(Total\)</span> variables directly.</p>
+</div>
+<div id="methodology-for-pass" class="section level3">
+<h3>4) Methodology for <span class="math inline">\(Pass\)</span></h3>
+<p>You should clearly describe your group’s best predictive model for
+<span class="math inline">\(Pass\)</span> and the steps you took to get
+there. Take the first step to understand how passing yards are
+calculated in the NFL. Discuss what variables were useful and useless
+for predicting <span class="math inline">\(Pass\)</span>. This variable
+may be highly skewed like <span class="math inline">\(Total\)</span>. To
+ensure you are seeking the best model for prediction, I highly advise
+considering many different types of models (neural nets, regression
+trees, time series, etc.), utilizing cross-validation/out-of-sample
+testing, and adding interaction/polynomial terms. In this part, you
+should chronologically write about everything your group did to find the
+“best” model. Challenge yourselves to a thorough investigation from
+multiple angles and organize your process professionally for an audience
+with basic understanding in statistics and the sport. You are not
+required to present tables or figures, but these can be used to defend
+why the model you are calling the “best” is actually best. Talk about
+all of the models your group considered, but put some extra attention on
+describing your “best” model since this is the model that your group
+used to generate predictions. For example, if your “best” model is a
+linear regression model, you can show the coefficients in a table or
+write it out mathematically. In more advanced machine learning methods,
+I should know every value of every hyperparameter/tuning parameter and
+how your group chose those values. Finally, make sure that you explain
+how your group used the “best” model to generate predictions for future
+games where everything is unknown. Just giving a description of your
+best model is not enough if you don’t explain exactly how that model was
+used to make real predictions.</p>
+<p>Again, if you are going to solve this problem by predicting the
+passing yards for a team and then adding them up, you should justify
+this by using cross-validation to compare prediction accuracy to models
+designed to directly predict the total passing yards.</p>
+</div>
+<div id="rubric" class="section level3">
+<h3>Rubric</h3>
+<p>The second playoff round is worth a total of 48 points based on the
+following rubric:</p>
+<table>
+<colgroup>
+<col width="28%" />
+<col width="17%" />
+<col width="17%" />
+<col width="17%" />
+<col width="17%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">Criteria</th>
+<th align="center">0</th>
+<th align="center">1</th>
+<th align="center">2</th>
+<th align="center">3</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">Title Page</td>
+<td align="center">Instructions Not Followed</td>
+<td align="center">Missing Entire Element</td>
+<td align="center">Missing a Team Member</td>
+<td align="center">Title+Team Members</td>
+</tr>
+<tr class="even">
+<td align="center">Data: Cleaning Summary</td>
+<td align="center">Unclear</td>
+<td align="center">Slightly Unclear</td>
+<td align="center">Slightly Clear</td>
+<td align="center">Clear</td>
+</tr>
+<tr class="odd">
+<td align="center">Data: Outside Data</td>
+<td align="center">Poor</td>
+<td align="center">Not Innovative But Defended</td>
+<td align="center">Innovative But Not Well Defended</td>
+<td align="center">Innovative and Defended</td>
+</tr>
+<tr class="even">
+<td align="center">Data: New Variable</td>
+<td align="center">Poor</td>
+<td align="center">Not Innovative But Defended</td>
+<td align="center">Innovative But Not Well Defended</td>
+<td align="center">Innovative and Defended</td>
+</tr>
+<tr class="odd">
+<td align="center">Spread: Methodology</td>
+<td align="center">Poor</td>
+<td align="center">Lazy But Well Explained</td>
+<td align="center">Clear, Thorough, but Lacking Innovation</td>
+<td align="center">Clear, Innovative, and Thorough</td>
+</tr>
+<tr class="even">
+<td align="center">Spread: Best Model</td>
+<td align="center">Poor Description</td>
+<td align="center">Adequate Description</td>
+<td align="center">Good Description</td>
+<td align="center">Excellent Description</td>
+</tr>
+<tr class="odd">
+<td align="center">Spread: Prediction</td>
+<td align="center">None</td>
+<td align="center">Bottom 5</td>
+<td align="center">Middle 6</td>
+<td align="center">Top 6</td>
+</tr>
+<tr class="even">
+<td align="center">Total: Methodology</td>
+<td align="center">Poor</td>
+<td align="center">Lazy But Well Explained</td>
+<td align="center">Clear, Thorough, but Lacking Innovation</td>
+<td align="center">Clear, Innovative, and Thorough</td>
+</tr>
+<tr class="odd">
+<td align="center">Total: Best Model</td>
+<td align="center">Poor Description</td>
+<td align="center">Adequate Description</td>
+<td align="center">Good Description</td>
+<td align="center">Excellent Description</td>
+</tr>
+<tr class="even">
+<td align="center">Total: Prediction</td>
+<td align="center">None</td>
+<td align="center">Bottom 5</td>
+<td align="center">Middle 6</td>
+<td align="center">Top 6</td>
+</tr>
+<tr class="odd">
+<td align="center">Pass: Methodology</td>
+<td align="center">Poor</td>
+<td align="center">Lazy But Well Explained</td>
+<td align="center">Clear, Thorough, but Lacking Innovation</td>
+<td align="center">Clear, Innovative, and Thorough</td>
+</tr>
+<tr class="even">
+<td align="center">Pass: Best Model</td>
+<td align="center">Poor Description</td>
+<td align="center">Adequate Description</td>
+<td align="center">Good Description</td>
+<td align="center">Excellent Description</td>
+</tr>
+<tr class="odd">
+<td align="center">Pass: Prediction</td>
+<td align="center">None</td>
+<td align="center">Bottom 5</td>
+<td align="center">Middle 6</td>
+<td align="center">Top 6</td>
+</tr>
+<tr class="even">
+<td align="center">Spelling</td>
+<td align="center">&gt;5 Errors</td>
+<td align="center">3-5 Errors</td>
+<td align="center">1-2 Errors</td>
+<td align="center">No Errors</td>
+</tr>
+<tr class="odd">
+<td align="center">Submitted</td>
+<td align="center">Late</td>
+<td align="center"></td>
+<td align="center">Not a PDF</td>
+<td align="center">On Time</td>
+</tr>
+<tr class="even">
+<td align="center"><strong>Criteria</strong></td>
+<td align="center"><strong>0-1</strong></td>
+<td align="center"><strong>2-3</strong></td>
+<td align="center"><strong>4-5</strong></td>
+<td align="center"><strong>6</strong></td>
+</tr>
+<tr class="odd">
+<td align="center">Value</td>
+<td align="center">Bad</td>
+<td align="center">Okay</td>
+<td align="center">Good</td>
+<td align="center">Excellent</td>
+</tr>
+</tbody>
+</table>
 <hr />
 <blockquote>
 <p>People judge you by the way you play in the playoffs.</p>
@@ -4676,6 +5021,7 @@ football season.</p>
 <p>~ <em>Sammy Sosa</em></p>
 </blockquote>
 <hr />
+</div>
 </div>
 <div id="championship" class="section level2">
 <h2>Championship</h2>
@@ -4899,7 +5245,7 @@ negatively impacted if someone in your group is allowed to present, and
 they perform poorly. Also, I wouldn’t want a group member submitting a
 paper where their only contribution is making the title page.</p>
 </div>
-<div id="rubric" class="section level3">
+<div id="rubric-1" class="section level3">
 <h3>Rubric</h3>
 <p>The first playoff round is worth a total of 69 points based on the
 following rubric:</p>
@@ -5318,8 +5664,8 @@ given assignment. A decent portion of your final grade will be
 influenced by this. The following link contains all teams
 alphabetically: <strong><a href="Group%20Assignments/allTeams2.pdf">All
 Teams</a></strong></p>
-<div class="datatables html-widget html-fill-item" id="htmlwidget-777c0f9fdbd6c1e8b14a" style="width:100%;height:auto;"></div>
-<script type="application/json" data-for="htmlwidget-777c0f9fdbd6c1e8b14a">{"x":{"filter":"none","vertical":false,"data":[["Joshi","Mendoza-Alonso","Payette","Connelly","Miller","Cluff","Draghici","Patel","Wang","Lu","Rayen","Tasleem","Waitt","Artuso","Bridges","Edmonds","Larson","Rowland","Bhonsle","Katowitz","Havenstein","Andrews","Secan","Trenkamp","Fleischer","Abdu","Lederer","Haile","Gleason","Martin","Schwerman","Brodie","Hinckley","Ramirez-Perez","Nguyen","Brantley","Loo","Nachnani","Copland","Matada","Promislow","Nguyen","Posey","Zhou","Abraham","Stippich","Cao","Stiles","Gan"],["Diya","Victor","James","James","Cooper","Ella","Sophia","Vishnu","Bobby","Sherry","Sarah","Jassenia","David","Nicola","Stephen","Jacob","Daniel","Gavin","Saania","Tyler","Lauren","Hayden","Rachel","Robert","Max","Riham","Gregory","Esey","Aidan","Owen","Riley","Sloane","Casey","Jacob","Truongan","Beckett","Joshua","Robert","Nicholas","Siddharth","Caleb","Minh","Noah","Sandy","Winta","Claire","Sarah","Parker","Carrie"],[1,11,2,13,10,5,3,1,6,13,3,9,4,13,1,11,10,3,8,12,6,2,7,12,1,7,2,11,8,8,7,8,12,9,11,6,6,9,12,7,10,5,4,5,4,2,10,9,4],[10,1,13,13,13,2,4,1,11,11,9,6,13,7,3,8,2,3,3,11,9,1,12,5,10,10,9,10,1,7,5,6,4,4,5,9,8,6,8,6,12,2,8,3,7,7,11,5,12],[11,3,8,13,2,1,3,10,4,9,6,10,6,13,7,5,12,8,11,11,8,12,1,7,4,9,6,4,5,13,9,1,3,5,7,11,9,2,12,10,4,1,8,3,10,7,2,5,2],[12,1,13,9,7,4,11,4,2,12,11,6,11,6,10,1,5,3,7,5,6,4,2,7,5,4,9,8,10,6,2,8,11,13,9,9,10,10,3,1,8,5,8,3,12,3,7,12,2],[11,13,11,7,10,8,8,9,10,4,4,4,2,2,9,2,9,6,1,3,12,13,12,6,2,11,12,11,5,3,13,10,8,1,3,5,7,7,12,8,5,1,1,6,4,7,9,6,5],[1,12,8,6,8,1,11,5,8,2,2,8,5,10,12,5,12,10,7,7,6,2,1,9,4,1,6,11,3,7,11,13,2,13,4,11,4,9,4,3,10,5,13,9,3,9,10,7,12],[5,5,5,6,7,1,3,4,4,7,1,1,1,2,3,8,3,4,5,7,8,9,2,7,8,9,9,4,6,6,6,7,8,1,2,4,5,9,3,4,5,6,6,8,2,2,3,3,9],[1,1,1,1,1,2,2,2,2,2,3,3,3,3,3,3,4,4,4,4,4,4,5,5,5,5,5,6,6,6,6,6,6,7,7,7,7,7,8,8,8,8,8,8,9,9,9,9,9]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>Last Name<\/th>\n      <th>First Name<\/th>\n      <th>GS1<\/th>\n      <th>GS2<\/th>\n      <th>GS3<\/th>\n      <th>GS4<\/th>\n      <th>GS5<\/th>\n      <th>GS6<\/th>\n      <th>P<\/th>\n      <th>C<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"scrollX":true,"columnDefs":[{"className":"dt-center","targets":[0,1,2]},{"className":"dt-right","targets":[3,4,5,6,7,8,9]},{"name":"Last Name","targets":0},{"name":"First Name","targets":1},{"name":"GS1","targets":2},{"name":"GS2","targets":3},{"name":"GS3","targets":4},{"name":"GS4","targets":5},{"name":"GS5","targets":6},{"name":"GS6","targets":7},{"name":"P","targets":8},{"name":"C","targets":9}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<div class="datatables html-widget html-fill-item" id="htmlwidget-155d1b5827c4b91aadda" style="width:100%;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-155d1b5827c4b91aadda">{"x":{"filter":"none","vertical":false,"data":[["Joshi","Mendoza-Alonso","Payette","Connelly","Miller","Cluff","Draghici","Patel","Wang","Lu","Rayen","Tasleem","Waitt","Artuso","Bridges","Edmonds","Larson","Rowland","Bhonsle","Katowitz","Havenstein","Andrews","Secan","Trenkamp","Fleischer","Abdu","Lederer","Haile","Gleason","Martin","Schwerman","Brodie","Hinckley","Ramirez-Perez","Nguyen","Brantley","Loo","Nachnani","Copland","Matada","Promislow","Nguyen","Posey","Zhou","Abraham","Stippich","Cao","Stiles","Gan"],["Diya","Victor","James","James","Cooper","Ella","Sophia","Vishnu","Bobby","Sherry","Sarah","Jassenia","David","Nicola","Stephen","Jacob","Daniel","Gavin","Saania","Tyler","Lauren","Hayden","Rachel","Robert","Max","Riham","Gregory","Esey","Aidan","Owen","Riley","Sloane","Casey","Jacob","Truongan","Beckett","Joshua","Robert","Nicholas","Siddharth","Caleb","Minh","Noah","Sandy","Winta","Claire","Sarah","Parker","Carrie"],[1,11,2,13,10,5,3,1,6,13,3,9,4,13,1,11,10,3,8,12,6,2,7,12,1,7,2,11,8,8,7,8,12,9,11,6,6,9,12,7,10,5,4,5,4,2,10,9,4],[10,1,13,13,13,2,4,1,11,11,9,6,13,7,3,8,2,3,3,11,9,1,12,5,10,10,9,10,1,7,5,6,4,4,5,9,8,6,8,6,12,2,8,3,7,7,11,5,12],[11,3,8,13,2,1,3,10,4,9,6,10,6,13,7,5,12,8,11,11,8,12,1,7,4,9,6,4,5,13,9,1,3,5,7,11,9,2,12,10,4,1,8,3,10,7,2,5,2],[12,1,13,9,7,4,11,4,2,12,11,6,11,6,10,1,5,3,7,5,6,4,2,7,5,4,9,8,10,6,2,8,11,13,9,9,10,10,3,1,8,5,8,3,12,3,7,12,2],[11,13,11,7,10,8,8,9,10,4,4,4,2,2,9,2,9,6,1,3,12,13,12,6,2,11,12,11,5,3,13,10,8,1,3,5,7,7,12,8,5,1,1,6,4,7,9,6,5],[1,12,8,6,8,1,11,5,8,2,2,8,5,10,12,5,12,10,7,7,6,2,1,9,4,1,6,11,3,7,11,13,2,13,4,11,4,9,4,3,10,5,13,9,3,9,10,7,12],[5,5,5,6,7,1,3,4,4,7,1,1,1,2,3,8,3,4,5,7,8,9,2,7,8,9,9,4,6,6,6,7,8,1,2,4,5,9,3,4,5,6,6,8,2,2,3,3,9],[1,1,1,1,1,2,2,2,2,2,3,3,3,3,3,3,4,4,4,4,4,4,5,5,5,5,5,6,6,6,6,6,6,7,7,7,7,7,8,8,8,8,8,8,9,9,9,9,9]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>Last Name<\/th>\n      <th>First Name<\/th>\n      <th>GS1<\/th>\n      <th>GS2<\/th>\n      <th>GS3<\/th>\n      <th>GS4<\/th>\n      <th>GS5<\/th>\n      <th>GS6<\/th>\n      <th>P<\/th>\n      <th>C<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"scrollX":true,"columnDefs":[{"className":"dt-center","targets":[0,1,2]},{"className":"dt-right","targets":[3,4,5,6,7,8,9]},{"name":"Last Name","targets":0},{"name":"First Name","targets":1},{"name":"GS1","targets":2},{"name":"GS2","targets":3},{"name":"GS3","targets":4},{"name":"GS4","targets":5},{"name":"GS5","targets":6},{"name":"GS6","targets":7},{"name":"P","targets":8},{"name":"C","targets":9}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
 <p>In the table below, you can find your group for each of the specific
 team-based assignments. Make sure you fill out the value survey before
 the time the assignment is due on the due date. Do not assess the value
@@ -5408,7 +5754,7 @@ for Championship 2</a></td>
 <!-- - [Total](Playoff/TOTAL_class.csv) -->
 <!-- - [OREB](Playoff/OREB_class.csv) -->
 <!-- The table below shows each group's MAE for $Spread$, $Total$, and $OREB$, respectively. Also, you will see your group ranking for each of the three variables. It may be helpful to sort the table for each variable to see where your group is currently ranked. -->
-<p>This page was last updated on 2025-09-11 14:23:23.32094 Eastern Time
+<p>This page was last updated on 2025-09-15 11:24:01.644288 Eastern Time
 by Super Mario.</p>
 </div>
 
