@@ -173,8 +173,9 @@ The statistical programming language R will be used to generate visualizations a
 || Baseball III | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH|
 |SEP 18| Discussion of Playoff | ||
 |SEP 23| Baseball IV| [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)|
-|| Baseball V| [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH, [Web](https://batsandstats.com/2016/08/03/one-of-my-favorite-baseball-stats/)|
-|SEP 25| Baseball VI | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 7-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp),[Web 3](https://gregstoll.com/~gregstoll/baseball/stats.html#V.0.1.0.1.0.0), [Web 4](https://baseballsavant.mlb.com/leaderboard/outs_above_average?type=Fielder&startYear=2019&endYear=2019&split=no&team=&range=year&min=q&pos=of&roles=&viz=show), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)|
+|SEP 25| Baseball V| [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH, [Web](https://batsandstats.com/2016/08/03/one-of-my-favorite-baseball-stats/)|
+|SEP 30| Baseball V (Cont.)| [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH, [Web](https://batsandstats.com/2016/08/03/one-of-my-favorite-baseball-stats/)|
+|| Baseball VI | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 7-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp),[Web 3](https://gregstoll.com/~gregstoll/baseball/stats.html#V.0.1.0.1.0.0), [Web 4](https://baseballsavant.mlb.com/leaderboard/outs_above_average?type=Fielder&startYear=2019&endYear=2019&split=no&team=&range=year&min=q&pos=of&roles=&viz=show), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)|
 || Baseball VII | [Slides](Slides/Baseball 7/Baseball_7_Lecture.pdf) |Ch. 11,16 MATH, [Article 1](Articles/Baseball/Baseball2_Albert.pdf), [Article 2](Baseball_Arbseman_Strogatz.pdf)|
 |||||
 
@@ -578,7 +579,7 @@ Any assignments requiring a deliverable will be submitted via **Canvas** as a PD
 |SEP 25 (12:30PM)| |GS3 ||||
 |OCT 2 (12:30PM)|||RS3|||
 |OCT 9 (12:30PM)| |GS4 |||| 
-|OCT 14 (7PM)||||P||
+|OCT 14 (11:59PM)||||P||
 |OCT 23 (12:30PM)|||RS4|||
 |OCT 30 (12:30PM) ||GS5 ||||
 |NOV 6  (12:30PM)|||RS5|||
