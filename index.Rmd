@@ -186,13 +186,14 @@ The statistical programming language R will be used to generate visualizations a
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-|OCT 9| Basketball I | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) |
-|OCT 14| Basketball II | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) |
-|| Basketball III | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 32-33 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)|
-|OCT 16| Well-Being | No Class ||
-|OCT 21| Basketball IV| [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 31,34 MATH, [Web 1](https://www.basketball-reference.com/about/bpm2.html)|
-|| Basketball V | [Slides](Slides/Basketball 5/Basketball_5_Lecture.pdf) |Ch. 35 MATH, [Article 1](Articles/Basketball/Basketball_PriceWolfers.pdf)|
-|OCT 23| Basketball VI | [Slides](Slides/Basketball 6/Basketball_6_Lecture.pdf) |Ch. 38 MATH, [Web 1](https://www.inpredictable.com/2016/05/endgame-strategy-in-nba.html), [Web 2](http://www.82games.com/lawhorn.htm),[Article 1](Articles/Basketball/Basketball_Gill.pdf), [Article 2](Articles/Basketball/Basketball_Kenter.pdf), [Article 3](Articles/Basketball/Basketball_Annis.pdf)|
+|OCT 14| Basketball I | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) |
+|| Basketball II | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) |
+|OCT 16| Fall Break | No Class ||
+|OCT 21| Basketball III | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 32-33 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)|
+|| Basketball IV| [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 31,34 MATH, [Web 1](https://www.basketball-reference.com/about/bpm2.html)|
+|OCT 23| Basketball V | [Slides](Slides/Basketball 5/Basketball_5_Lecture.pdf) |Ch. 35 MATH, [Article 1](Articles/Basketball/Basketball_PriceWolfers.pdf)|
+|| Basketball VI | [Slides](Slides/Basketball 6/Basketball_6_Lecture.pdf) |Ch. 38 MATH, [Web 1](https://www.inpredictable.com/2016/05/endgame-strategy-in-nba.html), [Web 2](http://www.82games.com/lawhorn.htm),[Article 1](Articles/Basketball/Basketball_Gill.pdf), [Article 2](Articles/Basketball/Basketball_Kenter.pdf), [Article 3](Articles/Basketball/Basketball_Annis.pdf)|
+|NOV 27| Thanksgiving | No Class ||
 |||||
 
 <!-- |MAR 17| Championship | | [Example](Championship/Spikeball.pdf) | -->
@@ -575,7 +576,7 @@ Any assignments requiring a deliverable will be submitted via **Canvas** as a PD
 |SEP 25 (12:30PM)| |GS3 ||||
 |OCT 2 (12:30PM)|||RS3|||
 |OCT 9 (12:30PM)| |GS4 |||| 
-|OCT 14 (11:59PM)||||P||
+|OCT 15 (11:59PM)||||P||
 |OCT 23 (12:30PM)|||RS4|||
 |OCT 30 (12:30PM) ||GS5 ||||
 |NOV 6  (12:30PM)|||RS5|||
@@ -607,7 +608,7 @@ In the table below, you can find your group for each of the specific team-based 
 | SEP 11 | GS2 | [Value for GS2](https://docs.google.com/forms/d/e/1FAIpQLScQ967bd2WRx9nmMDfeoJD5UZZTFN4bPjYwyvXXBGw7ZEQBKA/viewform?usp=sf_link) |
 | SEP 25 | GS3 | [Value for GS3](https://docs.google.com/forms/d/e/1FAIpQLSeTAEas1kqxGZmJYQ640iX9AQIlgcirVJoxciEnn2UU7WcqAQ/viewform?usp=sf_link) |
 | OCT 9 | GS4 | [Value for GS4](https://docs.google.com/forms/d/e/1FAIpQLSchVRUxeiKYCfcRBWQ8Y85najkEO0FgPzhNFnYmmwIwWOp7VA/viewform?usp=sf_link) |
-| OCT 14 | P | [Value for Playoff](https://forms.gle/DPdTLLWDqFFtU1Rk7) |
+| OCT 15 | P | [Value for Playoff](https://forms.gle/DPdTLLWDqFFtU1Rk7) |
 | OCT 30 | GS5 | [Value for GS5](https://docs.google.com/forms/d/e/1FAIpQLSdMncyMUUZZPk10QyFVMqymyQs4iCiqjombEuGP5jzwL3k0lA/viewform?usp=sf_link) |
 | NOV 11 | C (Data) | [Value for Championship 1](https://forms.gle/Z85rGWemhw24m3qj8) |
 | NOV 13 | GS6 | [Value for GS6](https://docs.google.com/forms/d/e/1FAIpQLSdBlXUND1NfwBjZviwYhfGpS54nlEvsMaOK51yuAWh1tN9gFQ/viewform?usp=sharing) |
