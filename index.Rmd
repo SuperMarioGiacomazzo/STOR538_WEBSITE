@@ -618,29 +618,29 @@ In the table below, you can find your group for each of the specific team-based 
 
 # **Playoff Results**
 
-<!-- The predictions of all 14 teams can be accessed from the hyperlinks below. These three files contain predictions, actual values, calculations of MAE, and ranking. If you find any mistakes that cause the grades to change, I will adjust them.  -->
+The predictions of all 9 teams can be accessed from the hyperlinks below. These three files contain predictions, actual values, calculations of MAE, and ranking. If you find any mistakes that cause the grades to change, I will adjust them.
 
-<!-- - [Spread](Playoff/SPREAD_class.csv) -->
-<!-- - [Total](Playoff/TOTAL_class.csv) -->
-<!-- - [OREB](Playoff/OREB_class.csv) -->
+- [Spread](Playoff/SPREAD_class.csv)
+- [Total](Playoff/TOTAL_class.csv)
+- [OREB](Playoff/OREB_class.csv)
 
 
-<!-- The table below shows each group's MAE for $Spread$, $Total$, and $OREB$, respectively. Also, you will see your group ranking for each of the three variables. It may be helpful to sort the table for each variable to see where your group is currently ranked. -->
+The table below shows each group's MAE for $Spread$, $Total$, and $OREB$, respectively. Also, you will see your group ranking for each of the three variables. It may be helpful to sort the table for each variable to see where your group is currently ranked.
 
 ```{r,echo=F,results=TRUE,message=F}
-# library(DT)
-# library(tidyverse)
-# library(readxl)
-# library(plyr)
-# 
-# setwd("D:/DoctorMario/UNC/STOR 538/STOR538_WEBSITE/Playoff")
-# 
-# ClassResults=read.csv(file="Class_Results.csv")
-# 
-# ClassResults=mutate_at(ClassResults,.vars=2:7,.funs=round,digits=2)
-# 
-# datatable(ClassResults,class="display",options = list(scrollX=F,
-#             columnDefs = list(list(className = 'dt-center', targets = 0:6))),rownames=F)
+library(DT)
+library(tidyverse)
+library(readxl)
+library(plyr)
+
+setwd("D:/DoctorMario/UNC/STOR 538/STOR538_WEBSITE/Playoff")
+
+ClassResults=read.csv(file="Class_Results.csv")
+
+ClassResults=mutate_at(ClassResults,.vars=2:7,.funs=round,digits=2)
+
+datatable(ClassResults,class="display",options = list(scrollX=F,
+            columnDefs = list(list(className = 'dt-center', targets = 0:6))),rownames=F)
 ```
 
 
