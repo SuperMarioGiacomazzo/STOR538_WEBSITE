@@ -329,7 +329,7 @@ The playoff will be a predictive modeling project for actual NFL games. The prim
 - $Pass = \textrm{Home Passing Yards} + \textrm{Away Passing Yards}$
 
 
-It is imperative that you follow these specifications. Your group will be making predictions of the three variables for all NFL games between October 15 and November 18, inclusively. This corresponds with NFL weeks 7 to 11. Your predictions should be saved in the dataset called **[Predictions](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/blob/master/Playoff/Predictions.csv)**. Here you will find missing values where future predictions will be placed. This completed file should be submitted along with a paper summarizing your methodology. You will not only be graded by your methodology, but also by your predictive accuracy. The variables, $Spread$, $Total$, and $Pass$ will all be evaluated by mean absolute error (MAE). For each of the variables, the top 3 groups will get 3 points, the middle 3 groups will get 2 points, and the bottom 3 groups will get 1 point. All three variables are numeric. If you fail to submit predictions on time or the predictions are not numeric values, you will get 0 points and your predictions will not be considered. 
+It is imperative that you follow these specifications. Your group will be making predictions of the three variables for all NFL games between October 15 and November 18, inclusively. This corresponds with NFL weeks 7 to 11. Your predictions should be saved in the dataset called **[Predictions](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/blob/master/Playoff/Predictions.csv)**. Here you will find missing values where future predictions will be placed. This completed file (CSV) should be submitted along with a paper (PDF) summarizing your methodology. You will not only be graded by your methodology, but also by your predictive accuracy. The variables, $Spread$, $Total$, and $Pass$ will all be evaluated by mean absolute error (MAE). For each of the variables, the top 3 groups will get 3 points, the middle 3 groups will get 2 points, and the bottom 3 groups will get 1 point. All three variables are numeric. If you fail to submit predictions on time or the predictions are not numeric values, you will get 0 points and your predictions will not be considered. 
 
 For the use of outside data, research variables that could be important for prediction of the three variables. This could be injury data, advanced metrics on players,  play-by-play data, or recent data that you webscraped. I am grading you on your creativity so utilizing recent data for your outside data requirement would be helpful for predicting, but would definitely be less creative than other options. Below is a list of some potential options:
 
@@ -343,7 +343,7 @@ For the use of outside data, research variables that could be important for pred
 
 For the engineering of new variables, consider creating differences and ratios between the stats for the home and away teams. Also, it may be useful to create variables that represent past information such as moving averages or lagged variables. You should be able to explain and defend the variables you create. This is your opportunity to test different ideas, and I do not care if any of the variables you engineer end up in your final model for prediction. You should defend any engineered on how you think they will be specifically helpful for predicting the three variables you are being asked to predict. 
 
-Your study should be summarized in a paper of at least 5 pages. The paper and predictions should be submitted on Canvas before 11:59PM on the due date (10/14/2025). Each group should have their own paper and predictions, but both need to be submitted by every member of the group. Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 6 (Excellent). Use the Google form provided on the course website.
+Your study should be summarized in a paper of at least 5 pages. The paper (PDF) and predictions (CSV) should be submitted on Canvas before 11:59PM on the due date (10/14/2025). Each group should have their own paper and predictions, but both need to be submitted by every member of the group. Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 6 (Excellent). Use the Google form provided on the course website.
 
 This project is extremely demanding. I believe that you should split the responsibilities into clear defined jobs and hold to this recommended timeline. If your group fails to submit the predictions on time, your entire group will get 0's for all of the predictions. If your group fails to complete the paper on time, then you will get a penalty dependent on how late your group turns it in. If I discover that the methodology in your paper doesn't lead to your predictions that you submit or your predictions were generated using any form of AI where the work is not your own and the methodology is unable to be explained, I will report this as an academic violation and require you to show me your code and prove to me that your predictions are valid and from your methodology. At a minimum, I will do whatever I can to ensure your group gets a 0 on this assignment.
 
@@ -415,7 +415,7 @@ The second playoff round is worth a total of 48 points based on the following ru
 |Pass: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description|
 |Pass: Prediction|None|Bottom 5|Middle 6|Top 6|
 |Spelling|>5 Errors| 3-5 Errors|1-2 Errors|No Errors|
-|Submitted|Late||Not a PDF|On Time|
+|Submitted|Late||Not a PDF/CSV|On Time|
 |**Criteria**|**0-1**|**2-3**|**4-5**|**6**|
 |Value|Bad|Okay|Good|Excellent|
 
@@ -622,10 +622,10 @@ The predictions of all 9 teams can be accessed from the hyperlinks below. These 
 
 - [Spread](Playoff/SPREAD_class.csv)
 - [Total](Playoff/TOTAL_class.csv)
-- [OREB](Playoff/OREB_class.csv)
+- [Pass](Playoff/PASS_class.csv)
 
 
-The table below shows each group's MAE for $Spread$, $Total$, and $OREB$, respectively. Also, you will see your group ranking for each of the three variables. It may be helpful to sort the table for each variable to see where your group is currently ranked.
+The table below shows each group's MAE for $Spread$, $Total$, and $Pass$, respectively. Also, you will see your group ranking for each of the three variables. It may be helpful to sort the table for each variable to see where your group is currently ranked.
 
 ```{r,echo=F,results=TRUE,message=F}
 library(DT)

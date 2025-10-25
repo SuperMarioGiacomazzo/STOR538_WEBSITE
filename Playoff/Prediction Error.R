@@ -5,79 +5,72 @@ library(plyr)
 
 setwd("D:/DoctorMario/UNC/STOR 538/STOR538_WEBSITE/Playoff")
 
-Actual=read.csv(file="Actual.csv")
+Actual=read.csv(file="Actual.csv",fileEncoding="latin1")
+Actual$Home=gsub('^.', '', Actual$Home)
+Actual$Away=gsub('^.', '', Actual$Away)
+Actual[58,2]="Miami Dolphins"
+Actual=Actual[,c(1,2,3,5,4,6)]
+Actual=dplyr::rename(Actual,Total=Total.Points,Pass=Total.Passing.Yards)
 
 P1=read.csv(file="Predictions_1.csv")
 P2=read.csv(file="Predictions_2.csv")
-P3=read.csv(file="Predictions_3.csv")
-P4=read.csv(file="Predictions_4.csv")
+P2[58,2]="Miami Dolphins"
+P3=read.csv(file="Predictions_3.csv",fileEncoding="latin1")
+P3$Home=gsub('^.', '', P3$Home)
+P3$Away=gsub('^.', '', P3$Away)
+P3[58,2]="Miami Dolphins"
+#P4=read.csv(file="Predictions_4.csv")
 P5=read.csv(file="Predictions_5.csv")
-P6=read.csv(file="Predictions_6.csv")
+P5$Home=gsub('^.', '', P5$Home)
+P5$Away=gsub('^.', '', P5$Away)
+P5[58,2]="Miami Dolphins"
+P6=read.csv(file="Predictions_6.csv",fileEncoding="latin1")
+P6$Home=gsub('^.', '', P6$Home)
+P6$Away=gsub('^.', '', P6$Away)
+P6[58,2]="Miami Dolphins"
 P7=read.csv(file="Predictions_7.csv")
 P8=read.csv(file="Predictions_8.csv")
+P8$Home=gsub('^.', '', P8$Home)
+P8$Away=gsub('^.', '', P8$Away)
 P9=read.csv(file="Predictions_9.csv")
-P10=read.csv(file="Predictions_10.csv")
-P11=read.csv(file="Predictions_11.csv")
-P12=read.csv(file="Predictions_12.csv")
-P13=read.csv(file="Predictions_13.csv")
-P14=read.csv(file="Predictions_14.csv")
-PCV=read.csv(file="Predictions_CV.csv")
+P9$Home=gsub('^.', '', P9$Home)
+P9$Away=gsub('^.', '', P9$Away)
+P9[58,2]="Miami Dolphins"
 
 SPREAD=join_all(list(dplyr::rename(P1,Spread_1=Spread)[,1:4],
                      dplyr::rename(P2,Spread_2=Spread)[,1:4],
                      dplyr::rename(P3,Spread_3=Spread)[,1:4],
-                     dplyr::rename(P4,Spread_4=Spread)[,1:4],
                      dplyr::rename(P5,Spread_5=Spread)[,1:4],
                      dplyr::rename(P6,Spread_6=Spread)[,1:4],
                      dplyr::rename(P7,Spread_7=Spread)[,1:4],
                      dplyr::rename(P8,Spread_8=Spread)[,1:4],
-                     dplyr::rename(P9,Spread_9=Spread)[,1:4],
-                     dplyr::rename(P10,Spread_10=Spread)[,1:4],
-                     dplyr::rename(P11,Spread_11=Spread)[,c(1,3,2,4)],
-                     dplyr::rename(P12,Spread_12=Spread)[,1:4],
-                     dplyr::rename(P13,Spread_13=Spread)[,1:4],
-                     dplyr::rename(P14,Spread_14=Spread)[,1:4],
-                     dplyr::rename(PCV,Spread_CV=Spread)[,1:4]),
-                by=c("Date","Away","Home"),type="left")
+                     dplyr::rename(P9,Spread_9=Spread)[,1:4]),
+                by=c("Week","Home","Away"),type="left")
                  
 
 TOTAL=join_all(list(dplyr::rename(P1,Total_1=Total)[,c(1:3,5)],
                      dplyr::rename(P2,Total_2=Total)[,c(1:3,5)],
                      dplyr::rename(P3,Total_3=Total)[,c(1:3,5)],
-                     dplyr::rename(P4,Total_4=Total)[,c(1:3,5)],
                      dplyr::rename(P5,Total_5=Total)[,c(1:3,5)],
                      dplyr::rename(P6,Total_6=Total)[,c(1:3,5)],
                      dplyr::rename(P7,Total_7=Total)[,c(1:3,5)],
                      dplyr::rename(P8,Total_8=Total)[,c(1:3,5)],
-                     dplyr::rename(P9,Total_9=Total)[,c(1:3,5)],
-                     dplyr::rename(P10,Total_10=Total)[,c(1:3,5)],
-                     dplyr::rename(P11,Total_11=TOTAL)[,c(1:3,5)],
-                     dplyr::rename(P12,Total_12=Total)[,c(1:3,5)],
-                     dplyr::rename(P13,Total_13=Total)[,c(1:3,5)],
-                     dplyr::rename(P14,Total_14=Total)[,c(1:3,5)],
-                     dplyr::rename(PCV,Total_CV=Total)[,c(1:3,5)]),
-                by=c("Date","Away","Home"),type="left")
+                     dplyr::rename(P9,Total_9=Total)[,c(1:3,5)]),
+               by=c("Week","Home","Away"),type="left")
 
-OREB=join_all(list(dplyr::rename(P1,OREB_1=OREB)[,c(1:3,6)],
-                    dplyr::rename(P2,OREB_2=OREB)[,c(1:3,6)],
-                    dplyr::rename(P3,OREB_3=OREB)[,c(1:3,6)],
-                    dplyr::rename(P4,OREB_4=OREB)[,c(1:3,6)],
-                    dplyr::rename(P5,OREB_5=OREB)[,c(1:3,6)],
-                    dplyr::rename(P6,OREB_6=OREB)[,c(1:3,6)],
-                    dplyr::rename(P7,OREB_7=OREB)[,c(1:3,6)],
-                    dplyr::rename(P8,OREB_8=OREB)[,c(1:3,6)],
-                    dplyr::rename(P9,OREB_9=OREB)[,c(1:3,6)],
-                    dplyr::rename(P10,OREB_10=OREB)[,c(1:3,6)],
-                    dplyr::rename(P11,OREB_11=OREB)[,c(1:3,6)],
-                    dplyr::rename(P12,OREB_12=OREB)[,c(1:3,6)],
-                    dplyr::rename(P13,OREB_13=OREB)[,c(1:3,6)],
-                    dplyr::rename(P14,OREB_14=OREB)[,c(1:3,6)],
-                    dplyr::rename(PCV,OREB_CV=OREB)[,c(1:3,6)]),
-               by=c("Date","Away","Home"),type="left")
+PASS=join_all(list(dplyr::rename(P1,Pass_1=Pass)[,c(1:3,6)],
+                    dplyr::rename(P2,Pass_2=Pass)[,c(1:3,6)],
+                    dplyr::rename(P3,Pass_3=Pass)[,c(1:3,6)],
+                    dplyr::rename(P5,Pass_5=Pass)[,c(1:3,6)],
+                    dplyr::rename(P6,Pass_6=Pass)[,c(1:3,6)],
+                    dplyr::rename(P7,Pass_7=Pass)[,c(1:3,6)],
+                    dplyr::rename(P8,Pass_8=Pass)[,c(1:3,6)],
+                    dplyr::rename(P9,Pass_9=Pass)[,c(1:3,6)]),
+              by=c("Week","Home","Away"),type="left")
 
-write.csv(dplyr::select(mutate(SPREAD,Actual=Actual$Spread),"Date","Away","Home","Actual",everything()),"SPREAD_class.csv")
-write.csv(dplyr::select(mutate(TOTAL,Actual=Actual$Total),"Date","Away","Home","Actual",everything()),"TOTAL_class.csv")
-write.csv(dplyr::select(mutate(OREB,Actual=Actual$OREB),"Date","Away","Home","Actual",everything()),"OREB_class.csv")
+write.csv(dplyr::select(mutate(SPREAD,Actual=Actual$Spread),"Week","Home","Away","Actual",everything()),"SPREAD_class.csv")
+write.csv(dplyr::select(mutate(TOTAL,Actual=Actual$Total),"Week","Home","Away","Actual",everything()),"TOTAL_class.csv")
+write.csv(dplyr::select(mutate(PASS,Actual=Actual$Pass),"Week","Home","Away","Actual",everything()),"PASS_class.csv")
 
 mae.func=function(prediction,actual){
   mean(abs(actual-prediction),na.rm=T)
@@ -87,17 +80,17 @@ SPREAD.RESULT=apply(SPREAD[,-(1:3)],2,mae.func,actual=Actual$Spread)
 SPREAD.RANK=rank(SPREAD.RESULT)
 TOTAL.RESULT=apply(TOTAL[,-(1:3)],2,mae.func,actual=Actual$Total)
 TOTAL.RANK=rank(TOTAL.RESULT)
-OREB.RESULT=apply(OREB[,-(1:3)],2,mae.func,actual=Actual$OREB)
-OREB.RANK=rank(OREB.RESULT)
+PASS.RESULT=apply(PASS[,-(1:3)],2,mae.func,actual=Actual$Pass)
+PASS.RANK=rank(PASS.RESULT)
 
-Group = c(1:14,"CV")
+Group = c(1:3,5:9)
 Class_Results = tibble(Group=Group,
                        `Spread MAE`=SPREAD.RESULT,
                        `Spread Rank`=SPREAD.RANK,
                        `Total MAE`=TOTAL.RESULT,
                        `Total Rank`=TOTAL.RANK,
-                       `OREB MAE`=OREB.RESULT,
-                       `OREB Rank`=OREB.RANK)
+                       `Pass MAE`=PASS.RESULT,
+                       `Pass Rank`=PASS.RANK)
 
 write.csv(Class_Results,"Class_Results.csv",row.names=F)
 
