@@ -19,7 +19,7 @@ P3=read.csv(file="Predictions_3.csv",fileEncoding="latin1")
 P3$Home=gsub('^.', '', P3$Home)
 P3$Away=gsub('^.', '', P3$Away)
 P3[58,2]="Miami Dolphins"
-#P4=read.csv(file="Predictions_4.csv")
+P4=read.csv(file="Predictions_4.csv")
 P5=read.csv(file="Predictions_5.csv")
 P5$Home=gsub('^.', '', P5$Home)
 P5$Away=gsub('^.', '', P5$Away)
@@ -40,6 +40,7 @@ P9[58,2]="Miami Dolphins"
 SPREAD=join_all(list(dplyr::rename(P1,Spread_1=Spread)[,1:4],
                      dplyr::rename(P2,Spread_2=Spread)[,1:4],
                      dplyr::rename(P3,Spread_3=Spread)[,1:4],
+                     dplyr::rename(P4,Spread_4=Spread)[,1:4],
                      dplyr::rename(P5,Spread_5=Spread)[,1:4],
                      dplyr::rename(P6,Spread_6=Spread)[,1:4],
                      dplyr::rename(P7,Spread_7=Spread)[,1:4],
@@ -51,6 +52,7 @@ SPREAD=join_all(list(dplyr::rename(P1,Spread_1=Spread)[,1:4],
 TOTAL=join_all(list(dplyr::rename(P1,Total_1=Total)[,c(1:3,5)],
                      dplyr::rename(P2,Total_2=Total)[,c(1:3,5)],
                      dplyr::rename(P3,Total_3=Total)[,c(1:3,5)],
+                     dplyr::rename(P4,Total_4=Total)[,c(1:3,5)],
                      dplyr::rename(P5,Total_5=Total)[,c(1:3,5)],
                      dplyr::rename(P6,Total_6=Total)[,c(1:3,5)],
                      dplyr::rename(P7,Total_7=Total)[,c(1:3,5)],
@@ -61,6 +63,7 @@ TOTAL=join_all(list(dplyr::rename(P1,Total_1=Total)[,c(1:3,5)],
 PASS=join_all(list(dplyr::rename(P1,Pass_1=Pass)[,c(1:3,6)],
                     dplyr::rename(P2,Pass_2=Pass)[,c(1:3,6)],
                     dplyr::rename(P3,Pass_3=Pass)[,c(1:3,6)],
+                    dplyr::rename(P4,Pass_4=Pass)[,c(1:3,6)],
                     dplyr::rename(P5,Pass_5=Pass)[,c(1:3,6)],
                     dplyr::rename(P6,Pass_6=Pass)[,c(1:3,6)],
                     dplyr::rename(P7,Pass_7=Pass)[,c(1:3,6)],
@@ -83,7 +86,7 @@ TOTAL.RANK=rank(TOTAL.RESULT)
 PASS.RESULT=apply(PASS[,-(1:3)],2,mae.func,actual=Actual$Pass)
 PASS.RANK=rank(PASS.RESULT)
 
-Group = c(1:3,5:9)
+Group = c(1:9)
 Class_Results = tibble(Group=Group,
                        `Spread MAE`=SPREAD.RESULT,
                        `Spread Rank`=SPREAD.RANK,
