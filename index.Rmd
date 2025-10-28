@@ -192,7 +192,8 @@ The statistical programming language R will be used to generate visualizations a
 || Basketball II | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) |
 |OCT 23| Championship | | [Example](Championship/Spikeball.pdf) |
 || Basketball III | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 32-33 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)|
-|OCT 28| Basketball IV| [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 31,34 MATH, [Web 1](https://www.basketball-reference.com/about/bpm2.html)|
+|OCT 28| Basketball III (Cont.) | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 32-33 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)|
+|| Basketball IV| [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 31,34 MATH, [Web 1](https://www.basketball-reference.com/about/bpm2.html)|
 || Basketball V | [Slides](Slides/Basketball 5/Basketball_5_Lecture.pdf) |Ch. 35 MATH, [Article 1](Articles/Basketball/Basketball_PriceWolfers.pdf)|
 |OCT 30| Basketball VI | [Slides](Slides/Basketball 6/Basketball_6_Lecture.pdf) |Ch. 38 MATH, [Web 1](https://www.inpredictable.com/2016/05/endgame-strategy-in-nba.html), [Web 2](http://www.82games.com/lawhorn.htm),[Article 1](Articles/Basketball/Basketball_Gill.pdf), [Article 2](Articles/Basketball/Basketball_Kenter.pdf), [Article 3](Articles/Basketball/Basketball_Annis.pdf)|
 |NOV 27| Thanksgiving | No Class ||
