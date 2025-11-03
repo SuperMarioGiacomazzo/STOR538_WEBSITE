@@ -470,7 +470,7 @@ Imagine you are an analyst working for the coach or athlete and want to discover
      - All Data Must Be Recorded in the Same Electronic Spreadsheet (Excel,CSV, etc.)
      - Each Row Should Be a Different Observation According to the Level Selected
      - Keep Track of the Data Collected by Each Member For Proof that Each Member Actually Collected Data
-     - Each Group Member is Expected to Participate in the Data Collection and if Group Member Refuses or is Unable to Participate in the Data Collection by April 11, then I Will Remove that Group Member and Require that Individual to Collect 250 Observations and Write Their Own Paper
+     - Each Group Member is Expected to Participate in the Data Collection and if Group Member Refuses or is Unable to Participate in the Data Collection by November 11, then I Will Remove that Group Member and Require that Individual to Collect 250 Observations and Write Their Own Paper
 
 To ensure that every group stays on a reasonable pace, I will require each member of your group to submit the exact portion of the dataset that they collected. I am expecting 50 or more observations per person. This needs to be submitted to **Canvas** before 11:59PM on November 11. For each member of the group, I am expecting the same number of variables and exact same variable names to show that your group worked together and coordinated efforts. Also, each group member can assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). Fill out the appropriate Google Form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group.
 
