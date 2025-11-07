@@ -1,72 +1,72 @@
-Week,Home,Away,Total Points,Spread,Total Passing Yards
-7, Cincinnati Bengals, Pittsburgh Steelers,64,2,577
-7, Jacksonville Jaguars, Los Angeles Rams,42,-28,446
-7, New York Jets, Carolina Panthers,19,-7,316
-7, Kansas City Chiefs, Las Vegas Raiders,31,31,352
-7, Cleveland Browns, Miami Dolphins,37,25,222
-7, Tennessee Titans, New England Patriots,44,-18,428
-7, Chicago Bears, New Orleans Saints,40,12,373
-7, Minnesota Vikings, Philadelphia Eagles,50,-6,614
-7, Los Angeles Chargers, Indianapolis Colts,62,-14,672
-7, Denver Broncos, New York Giants,64,2,533
-7, Arizona Cardinals, Green Bay Packers,50,-4,404
-7, Dallas Cowboys, Washington Commanders,66,22,462
-7, San Francisco 49ers, Atlanta Falcons,30,10,380
-7, Detroit Lions, Tampa Bay Buccaneers,33,15,425
-7, Seattle Seahawks, Houston Texans,46,8,396
-8, Los Angeles Chargers, Minnesota Vikings,47,27,342
-8, Carolina Panthers, Buffalo Bills,49,-31,295
-8, Baltimore Ravens, Chicago Bears,46,14,454
-8, New England Patriots, Cleveland Browns,45,19,390
-8, Atlanta Falcons, Miami Dolphins,44,-24,365
-8, Philadelphia Eagles, New York Giants,58,18,329
-8, Cincinnati Bengals, New York Jets,77,-1,465
-8, Houston Texans, San Francisco 49ers,41,11,493
-8, New Orleans Saints, Tampa Bay Buccaneers,26,-20,351
-8, Denver Broncos, Dallas Cowboys,68,20,478
-8, Indianapolis Colts, Tennessee Titans,52,24,484
-8, Pittsburgh Steelers, Green Bay Packers,60,-10,562
-8, Kansas City Chiefs, Washington Commanders,35,21,484
-9, Miami Dolphins, Baltimore Ravens,,,
-9, New England Patriots, Atlanta Falcons,,,
-9, Green Bay Packers, Carolina Panthers,,,
-9, Cincinnati Bengals, Chicago Bears,,,
-9, Houston Texans, Denver Broncos,,,
-9, Pittsburgh Steelers, Indianapolis Colts,,,
-9, Tennessee Titans, Los Angeles Chargers,,,
-9, Detroit Lions, Minnesota Vikings,,,
-9, New York Giants, San Francisco 49ers,,,
-9, Las Vegas Raiders, Jacksonville Jaguars,,,
-9, Los Angeles Rams, New Orleans Saints,,,
-9, Buffalo Bills, Kansas City Chiefs,,,
-9, Washington Commanders, Seattle Seahawks,,,
-9, Dallas Cowboys, Arizona Cardinals,,,
-10, Denver Broncos, Las Vegas Raiders,,,
-10, Indianapolis Colts, Atlanta Falcons,,,
-10, Minnesota Vikings, Baltimore Ravens,,,
-10, Miami Dolphins, Buffalo Bills,,,
-10, New York Jets, Cleveland Browns,,,
-10, Houston Texans, Jacksonville Jaguars,,,
-10, Tampa Bay Buccaneers, New England Patriots,,,
-10, Carolina Panthers, New Orleans Saints,,,
-10, Chicago Bears, New York Giants,,,
-10, Seattle Seahawks, Arizona Cardinals,,,
-10, Washington Commanders, Detroit Lions,,,
-10, San Francisco 49ers, Los Angeles Rams,,,
-10, Los Angeles Chargers, Pittsburgh Steelers,,,
-10, Green Bay Packers, Philadelphia Eagles,,,
-11, New England Patriots, New York Jets,,,
-11, Miami Dolphins , Washington Commanders,,,
-11, Atlanta Falcons, Carolina Panthers,,,
-11, Minnesota Vikings, Chicago Bears,,,
-11, Pittsburgh Steelers, Cincinnati Bengals,,,
-11, New York Giants, Green Bay Packers,,,
-11, Tennessee Titans, Houston Texans,,,
-11, Jacksonville Jaguars, Los Angeles Chargers,,,
-11, Buffalo Bills, Tampa Bay Buccaneers,,,
-11, Arizona Cardinals, San Francisco 49ers,,,
-11, Los Angeles Rams, Seattle Seahawks,,,
-11, Cleveland Browns, Baltimore Ravens,,,
-11, Denver Broncos, Kansas City Chiefs,,,
-11, Philadelphia Eagles, Detroit Lions,,,
-11, Las Vegas Raiders, Dallas Cowboys,,,
+ï»¿Week,Home,Away,Total Points,Spread,Total Passing Yards
+7,Â Cincinnati Bengals,Â Pittsburgh Steelers,64,2,577
+7,Â Jacksonville Jaguars,Â Los Angeles Rams,42,-28,446
+7,Â New York Jets,Â Carolina Panthers,19,-7,316
+7,Â Kansas City Chiefs,Â Las Vegas Raiders,31,31,352
+7,Â Cleveland Browns,Â Miami Dolphins,37,25,222
+7,Â Tennessee Titans,Â New England Patriots,44,-18,428
+7,Â Chicago Bears,Â New Orleans Saints,40,12,373
+7,Â Minnesota Vikings,Â Philadelphia Eagles,50,-6,614
+7,Â Los Angeles Chargers,Â Indianapolis Colts,62,-14,672
+7,Â Denver Broncos,Â New York Giants,64,2,533
+7,Â Arizona Cardinals,Â Green Bay Packers,50,-4,404
+7,Â Dallas Cowboys,Â Washington Commanders,66,22,462
+7,Â San Francisco 49ers,Â Atlanta Falcons,30,10,380
+7,Â Detroit Lions,Â Tampa Bay Buccaneers,33,15,425
+7,Â Seattle Seahawks,Â Houston Texans,46,8,396
+8,Â Los Angeles Chargers,Â Minnesota Vikings,47,27,342
+8,Â Carolina Panthers,Â Buffalo Bills,49,-31,295
+8,Â Baltimore Ravens,Â Chicago Bears,46,14,454
+8,Â New England Patriots,Â Cleveland Browns,45,19,390
+8,Â Atlanta Falcons,Â Miami Dolphins,44,-24,365
+8,Â Philadelphia Eagles,Â New York Giants,58,18,329
+8,Â Cincinnati Bengals,Â New York Jets,77,-1,465
+8,Â Houston Texans,Â San Francisco 49ers,41,11,493
+8,Â New Orleans Saints,Â Tampa Bay Buccaneers,26,-20,351
+8,Â Denver Broncos,Â Dallas Cowboys,68,20,478
+8,Â Indianapolis Colts,Â Tennessee Titans,52,24,484
+8,Â Pittsburgh Steelers,Â Green Bay Packers,60,-10,562
+8,Â Kansas City Chiefs,Â Washington Commanders,35,21,484
+9,Â Miami Dolphins,Â Baltimore Ravens,34,-22,433
+9,Â New England Patriots,Â Atlanta Falcons,47,1,438
+9,Â Green Bay Packers,Â Carolina Panthers,29,-3,367
+9,Â Cincinnati Bengals,Â Chicago Bears,89,-5,742
+9,Â Houston Texans,Â Denver Broncos,33,-3,362
+9,Â Pittsburgh Steelers,Â Indianapolis Colts,47,7,500
+9,Â Tennessee Titans,Â Los Angeles Chargers,47,-7,330
+9,Â Detroit Lions,Â Minnesota Vikings,51,-3,356
+9,Â New York Giants,Â San Francisco 49ers,58,-10,400
+9,Â Las Vegas Raiders,Â Jacksonville Jaguars,59,-1,490
+9,Â Los Angeles Rams,Â New Orleans Saints,44,24,434
+9,Â Buffalo Bills,Â Kansas City Chiefs,49,7,489
+9,Â Washington Commanders,Â Seattle Seahawks,52,-24,463
+9,Â Dallas Cowboys,Â Arizona Cardinals,44,-10,431
+10,Â Denver Broncos,Â Las Vegas Raiders,,,
+10,Â Indianapolis Colts,Â Atlanta Falcons,,,
+10,Â Minnesota Vikings,Â Baltimore Ravens,,,
+10,Â Miami Dolphins,Â Buffalo Bills,,,
+10,Â New York Jets,Â Cleveland Browns,,,
+10,Â Houston Texans,Â Jacksonville Jaguars,,,
+10,Â Tampa Bay Buccaneers,Â New England Patriots,,,
+10,Â Carolina Panthers,Â New Orleans Saints,,,
+10,Â Chicago Bears,Â New York Giants,,,
+10,Â Seattle Seahawks,Â Arizona Cardinals,,,
+10,Â Washington Commanders,Â Detroit Lions,,,
+10,Â San Francisco 49ers,Â Los Angeles Rams,,,
+10,Â Los Angeles Chargers,Â Pittsburgh Steelers,,,
+10,Â Green Bay Packers,Â Philadelphia Eagles,,,
+11,Â New England Patriots,Â New York Jets,,,
+11,Â Miami Dolphins ,Â Washington Commanders,,,
+11,Â Atlanta Falcons,Â Carolina Panthers,,,
+11,Â Minnesota Vikings,Â Chicago Bears,,,
+11,Â Pittsburgh Steelers,Â Cincinnati Bengals,,,
+11,Â New York Giants,Â Green Bay Packers,,,
+11,Â Tennessee Titans,Â Houston Texans,,,
+11,Â Jacksonville Jaguars,Â Los Angeles Chargers,,,
+11,Â Buffalo Bills,Â Tampa Bay Buccaneers,,,
+11,Â Arizona Cardinals,Â San Francisco 49ers,,,
+11,Â Los Angeles Rams,Â Seattle Seahawks,,,
+11,Â Cleveland Browns,Â Baltimore Ravens,,,
+11,Â Denver Broncos,Â Kansas City Chiefs,,,
+11,Â Philadelphia Eagles,Â Detroit Lions,,,
+11,Â Las Vegas Raiders,Â Dallas Cowboys,,,

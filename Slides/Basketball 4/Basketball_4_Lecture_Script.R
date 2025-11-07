@@ -3,9 +3,9 @@ library(tidyverse)
 library(rvest)
 
 #Import Game Data
-Player=read_csv("D:/Mario Documents/UNC/STOR 538/STOR538_WEBSITE/Slides/Basketball 4/players.csv")
-Salary=read_csv("D:/Mario Documents/UNC/STOR 538/STOR538_WEBSITE/Slides/Basketball 4/salaries_1985to2018.csv")
-Games=read_csv("D:/Mario Documents/UNC/STOR 538/STOR538_WEBSITE/Slides/Basketball 4/nba.games.stats.csv")
+Player=read_csv("D:/DoctorMario/UNC/STOR 538/STOR538_WEBSITE/Slides/Basketball 4/players.csv")
+Salary=read_csv("D:/DoctorMario/UNC/STOR 538/STOR538_WEBSITE/Slides/Basketball 4/salaries_1985to2018.csv")
+Games=read_csv("D:/DoctorMario/UNC/STOR 538/STOR538_WEBSITE/Slides/Basketball 4/nba.games.stats.csv")
 
 #Investigation of Salary
 head(Salary)
@@ -18,6 +18,7 @@ Salary.Data=Salary %>%
             sd.salary=sd(total.salary))
 head(Salary.Data)
 
+out=filter(Salary.Data,season_start==1986)
 
 ggplot(Salary.Data) +
   geom_line(aes(x=season_start,y=mean.salary),size=2,color="deepskyblue1") +

@@ -580,8 +580,8 @@ Any assignments requiring a deliverable will be submitted via **Canvas** as a PD
 |OCT 23 (12:30PM)|||RS4|||
 |OCT 30 (12:30PM) ||GS5 ||||
 |NOV 6  (12:30PM)|||RS5|||
-|NOV 11 (11:59PM) |||||C (Data)|
 |NOV 13 (12:30PM) ||GS6 ||||
+|NOV 18 (11:59PM) |||||C (Data)|
 |NOV 20 (12:30PM)|||RS6|||
 |DEC 2 (11:59PM) |||||C (Paper)|
 |DEC 8 (4PM) |||||C (Presentation)|
@@ -610,8 +610,8 @@ In the table below, you can find your group for each of the specific team-based 
 | OCT 9 | GS4 | [Value for GS4](https://docs.google.com/forms/d/e/1FAIpQLSchVRUxeiKYCfcRBWQ8Y85najkEO0FgPzhNFnYmmwIwWOp7VA/viewform?usp=sf_link) |
 | OCT 15 | P | [Value for Playoff](https://forms.gle/DPdTLLWDqFFtU1Rk7) |
 | OCT 30 | GS5 | [Value for GS5](https://docs.google.com/forms/d/e/1FAIpQLSdMncyMUUZZPk10QyFVMqymyQs4iCiqjombEuGP5jzwL3k0lA/viewform?usp=sf_link) |
-| NOV 11 | C (Data) | [Value for Championship 1](https://forms.gle/Z85rGWemhw24m3qj8) |
 | NOV 13 | GS6 | [Value for GS6](https://docs.google.com/forms/d/e/1FAIpQLSdBlXUND1NfwBjZviwYhfGpS54nlEvsMaOK51yuAWh1tN9gFQ/viewform?usp=sharing) |
+| NOV 18 | C (Data) | [Value for Championship 1](https://forms.gle/Z85rGWemhw24m3qj8) |
 | DEC 8| C (Paper) | [Value for Championship 2](https://docs.google.com/forms/d/e/1FAIpQLSeIoeRjDLc0FtRn8qvxzhFb5ebaVc4xjh1xdlnC8saEtgIlxA/viewform?usp=sharing) |
 | ||||
 
