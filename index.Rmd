@@ -415,7 +415,7 @@ The second playoff round is worth a total of 48 points based on the following ru
 |Pass: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough|
 |Pass: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description|
 |Pass: Prediction|None|Bottom 5|Middle 6|Top 6|
-|Spelling|>5 Errors| 3-5 Errors|1-2 Errors|No Errors|
+|Spelling/Grammar|>5 Errors| 3-5 Errors|1-2 Errors|No Errors|
 |Submitted|Late||Not a PDF/CSV|On Time|
 |**Criteria**|**0-1**|**2-3**|**4-5**|**6**|
 |Value|Bad|Okay|Good|Excellent|
