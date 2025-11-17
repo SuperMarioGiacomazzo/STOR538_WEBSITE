@@ -41,20 +41,20 @@
 "40",9,"Buffalo Bills","Kansas City Chiefs",7,6,-2,4.2,-16,4,2.039473909,-0.5,7.293396,-5.50309
 "41",9,"Washington Commanders","Seattle Seahawks",-24,11,0,2,-9,4,-4.465542386,-0.1,-7.8733,8.50845
 "42",9,"Dallas Cowboys","Arizona Cardinals",-10,2,5,2.3,5,1,-5.457569907,1,13.64726,-2.63186
-"43",10,"Denver Broncos","Las Vegas Raiders",NA,-6,10,10.1,-11,9,6.902456012,-6.5,7.586512,-8.46699
-"44",10,"Indianapolis Colts","Atlanta Falcons",NA,-7,8,8.3,-3,1,5.394130372,13.2,9.456564,3.35318
-"45",10,"Minnesota Vikings","Baltimore Ravens",NA,-14,3,4.1,27,7,-3.410274116,0.5,8.214955,1.27806
-"46",10,"Miami Dolphins","Buffalo Bills",NA,9,-2,-7.6,15,-3,-7.032659654,-2.6,-6.91275,-7.83299
-"47",10,"New York Jets","Cleveland Browns",NA,-11,7,3.1,-10,5,5.816948016,7.5,6.894182,-5.65047
-"48",10,"Houston Texans","Jacksonville Jaguars",NA,3,3,3.2,0,2,-5.37974864,-6.6,9.100023,4.48153
-"49",10,"Tampa Bay Buccaneers","New England Patriots",NA,3,0,1,-18,1,-1.316723281,-1,0.167365,7.58245
-"50",10,"Carolina Panthers","New Orleans Saints",NA,-4,6,4.6,-21,3,2.6492506,-4.9,4.78376,-0.82935
-"51",10,"Chicago Bears","New York Giants",NA,-2,0,5,5,2,6.644081054,0.7,-2.06107,-2.89227
-"52",10,"Seattle Seahawks","Arizona Cardinals",NA,2,6,5.4,4,5,-2.631610068,-4.2,14.09961,7.30102
-"53",10,"Washington Commanders","Detroit Lions",NA,13,0,-1.1,-1,4,-6.837334725,-0.1,-2.89154,8.33049
-"54",10,"San Francisco 49ers","Los Angeles Rams",NA,1,-1,0.4,-2,1,-5.835152924,-2.9,-9.19361,13.99182
-"55",10,"Los Angeles Chargers","Pittsburgh Steelers",NA,5,-2,3.1,-9,4,6.312756511,-0.2,3.078502,-5.66478
-"56",10,"Green Bay Packers","Philadelphia Eagles",NA,3,5,2.2,20,1,1.4848221,17.4,6.501486,-2.74464
+"43",10,"Denver Broncos","Las Vegas Raiders",3,-6,10,10.1,-11,9,6.902456012,-6.5,7.586512,-8.46699
+"44",10,"Indianapolis Colts","Atlanta Falcons",6,-7,8,8.3,-3,1,5.394130372,13.2,9.456564,3.35318
+"45",10,"Minnesota Vikings","Baltimore Ravens",-8,-14,3,4.1,27,7,-3.410274116,0.5,8.214955,1.27806
+"46",10,"Miami Dolphins","Buffalo Bills",17,9,-2,-7.6,15,-3,-7.032659654,-2.6,-6.91275,-7.83299
+"47",10,"New York Jets","Cleveland Browns",7,-11,7,3.1,-10,5,5.816948016,7.5,6.894182,-5.65047
+"48",10,"Houston Texans","Jacksonville Jaguars",7,3,3,3.2,0,2,-5.37974864,-6.6,9.100023,4.48153
+"49",10,"Tampa Bay Buccaneers","New England Patriots",-5,3,0,1,-18,1,-1.316723281,-1,0.167365,7.58245
+"50",10,"Carolina Panthers","New Orleans Saints",-10,-4,6,4.6,-21,3,2.6492506,-4.9,4.78376,-0.82935
+"51",10,"Chicago Bears","New York Giants",4,-2,0,5,5,2,6.644081054,0.7,-2.06107,-2.89227
+"52",10,"Seattle Seahawks","Arizona Cardinals",22,2,6,5.4,4,5,-2.631610068,-4.2,14.09961,7.30102
+"53",10,"Washington Commanders","Detroit Lions",22,13,0,-1.1,-1,4,-6.837334725,-0.1,-2.89154,8.33049
+"54",10,"San Francisco 49ers","Los Angeles Rams",-16,1,-1,0.4,-2,1,-5.835152924,-2.9,-9.19361,13.99182
+"55",10,"Los Angeles Chargers","Pittsburgh Steelers",15,5,-2,3.1,-9,4,6.312756511,-0.2,3.078502,-5.66478
+"56",10,"Green Bay Packers","Philadelphia Eagles",-3,3,5,2.2,20,1,1.4848221,17.4,6.501486,-2.74464
 "57",11,"New England Patriots","New York Jets",NA,-8,6,8.4,-3,7,3.085276214,1.7,12.38618,-5.20472
 "58",11,"Miami Dolphins","Washington Commanders",NA,6,-3,-6.3,9,0,-6.292583245,-0.2,-4.29174,-0.08049
 "59",11,"Atlanta Falcons","Carolina Panthers",NA,-1,1,2.8,-3,3,7.19213823,-2.2,16.52526,-1.16783
