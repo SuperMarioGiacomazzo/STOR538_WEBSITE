@@ -204,9 +204,10 @@ The statistical programming language R will be used to generate visualizations a
 || Football III | [Slides](Slides/Football 3/Footballl_3_Lecture.pdf) |Ch. 20 MATH, [Web 1](http://www.advancedfootballanalytics.com/2010/01/expected-points-ep-and-expected-points.html), [Article 1](Articles/Football/Football_CarterMachol.pdf), [Article 2](Articles/Football/Football_Romer.pdf), [Article 3](Articles/Football/Football_Goldner.pdf) |
 |NOV 20| Football IV | [Slides](Slides/Football 4/Footballl_4_Lecture.pdf) | Ch. 21 MATH, [Web 1](https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c), [Article 1](Articles/Football/Football_Pelechrinis2.pdf), [Article 2](Articles/Football/Football_PelechrinisPapalexakis.pdf) |
 || Football V | [Slides](Slides/Football 5/Footballl_5_Lecture.pdf) | Ch. 22 MATH, [Web 1](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html), [Web 2](https://plato.stanford.edu/entries/game-theory/), [Web 3](http://www.advancedfootballanalytics.com/2008/06/game-theory-and-runpass-balance.html) |
-|NOV 25| Football VI | [Slides](Slides/Football 6/Footballl_6_Lecture.pdf)  | Ch. 25-26 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1), [Article 1](Articles/Football/Football_King.pdf), [Article 2](Articles/Football/Football_MasseyThaler.pdf) |
+|| Football VI | [Slides](Slides/Football 6/Footballl_6_Lecture.pdf)  | Ch. 25-26 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1), [Article 1](Articles/Football/Football_King.pdf), [Article 2](Articles/Football/Football_MasseyThaler.pdf) |
+|NOV 25| Work on Project| No Class ||
 |NOV 27| Thanksgiving | No Class ||
-|DEC 2| Work on Project| No Class ||
+|DEC 2| Final Regular Season Quiz | Final Class ||
 |||||
 
 
@@ -476,7 +477,7 @@ Imagine you are an analyst working for the coach or athlete and want to discover
 
 To ensure that every group stays on a reasonable pace, I will require each member of your group to submit the exact portion of the dataset that they collected. I am expecting 50 or more observations per person. This needs to be submitted to **Canvas** before 11:59PM on November 11. For each member of the group, I am expecting the same number of variables and exact same variable names to show that your group worked together and coordinated efforts. Also, each group member can assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). Fill out the appropriate Google Form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group.
 
-Your study should be summarized in a paper with at least 5 pages (a minimum of 3 pages worth of writing). The paper should be submitted on **Canvas** before 11:59PM on the last day of class, December 2. Submit the paper as a PDF only. Each group should have their own paper, but the paper needs to be submitted by every member of the group. 
+Your study should be summarized in a paper with at least 5 pages (a minimum of 3 pages worth of writing). The paper should be submitted on **Canvas** before 11:59PM on the last day of class, December 3. Submit the paper as a PDF only. Each group should have their own paper, but the paper needs to be submitted by every member of the group. 
 
 On the first page, you should title your paper, write your group number, and give the names of the team members who contributed. The content of the paper should be organized in the following 3 subsections:
 
@@ -584,8 +585,8 @@ Any assignments requiring a deliverable will be submitted via **Canvas** as a PD
 |NOV 6  (12:30PM)|||RS5|||
 |NOV 13 (12:30PM) ||GS6 ||||
 |NOV 18 (11:59PM) |||||C (Data)|
-|NOV 25 (12:30PM)|||RS6|||
-|DEC 2 (11:59PM) |||||C (Paper)|
+|DEC 2 (12:30PM)|||RS6|||
+|DEC 3 (11:59PM) |||||C (Paper)|
 |DEC 8 (4PM) |||||C (Presentation)|
 |          |                   |               |           |              |       |
 
