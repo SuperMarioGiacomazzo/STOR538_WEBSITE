@@ -89,15 +89,15 @@ The statistical programming language R will be used to generate visualizations a
 
 - Head Coach: **[Mario Giacomazzo](https://stor.unc.edu/people/faculty/)**
 
-- Personal Trainer: **[Mark Cahill](https://stor.unc.edu/people/graduate-students/)**
+- Personal Trainer: **[Lily Feingold](https://stor.unc.edu/people/graduate-students/)**
 
 - Syllabus: **[Section 1](Syllabi\STOR 538 Section 1 Syllabus.pdf)**
 
-- Game Days: TTh, 12:30PM - 1:45PM, Gardner 105
+- Game Days: MWF, 11:15AM - 12:05PM, Gardner 105
 
 - Office Hours: 
-    - Press Conference (Dr. Mario): M, 1:30PM - 4:30PM, Hanes 134
-    - Training Day (Mark): Th, 2:00PM - 4:00PM, Hanes B-04
+    - Press Conference (Dr. Mario): M, 3PM - 4PM & F, 2PM - 3PM in Hanes 403
+    - Training Day (Lily): TBD
 
 - University Approved Absences: **[Online Form](https://uaao.unc.edu/submit-a-request/)**
 
@@ -159,56 +159,18 @@ The statistical programming language R will be used to generate visualizations a
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-|AUG 19| Syllabus     | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeUZhibzggxIDcUYNzg42y8EEzNfwVCb3JkSvARvzwfSIT01Q/viewform?usp=sf_link)||
-|AUG 21| Sports Analytics I | [Slides](Slides/Sports Analytics 1/Sports_Analytics_1_Lecture.pdf) |Ch. 1 SPAN, [Web 1](https://www.hdled.com/top-20-most-popular-sports-in-the-world/),[Web 2](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html), [Web 3](https://news.gallup.com/poll/610046/football-retains-dominant-position-favorite-sport.aspx), [Web 4](https://news.harvard.edu/gazette/story/2022/10/is-mlb-ready-to-compete-for-next-generation-of-fans/), [Web 5](https://en.wikipedia.org/wiki/List_of_professional_sports_leagues_by_revenue#:~:text=%20%20%20%20Rank%20%20%20,%20%20380%20%2014%20more%20rows%20), [Web 6](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america), [Web 7](https://twitter.com/thesfia/status/1120787424832045067), [Web 8](https://sgbonline.com/report-team-sports-participation-grows-in-2021-but-falls-short-of-2019/),[Web 9](https://www.athleticbusiness.com/operations/programming/article/15705426/sfia-report-team-sports-participants-increased-in-2023-by-8m-over-2022-numbers#:~:text=Programming-,SFIA%20Report%3A%20Team%20Sports%20Participants%20Increased%20in,by%208M%20Over%202022%20Numbers&text=The%20Sports%20%26%20Fitness%20Industry%20Association,2022%2C%20an%2011%25%20increase.), [Web 10](https://www.statista.com/chart/30240/respondents-who-do-the-following-sports-at-least-occasionally/), [Web 11](https://biggestglobalsports.com/worlds-biggest-sports/4580873435), [Web 12](https://youthsportsbusinessreport.com/unpacking-the-sfias-record-breaking-2025-participation-report/), [Web 13](https://www.usta.com/es/content/dam/usta/sections/intermountain/districts/colorado/pdfs/sfia-reports/2024-sfia-topline.pdf) |
-|AUG 26| Sports Analytics I (Cont.) | [Slides](Slides/Sports Analytics 1/Sports_Analytics_1_Lecture.pdf) |Ch. 1 SPAN, [Web 1](https://www.hdled.com/top-20-most-popular-sports-in-the-world/),[Web 2](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html), [Web 3](https://news.gallup.com/poll/610046/football-retains-dominant-position-favorite-sport.aspx), [Web 4](https://news.harvard.edu/gazette/story/2022/10/is-mlb-ready-to-compete-for-next-generation-of-fans/), [Web 5](https://en.wikipedia.org/wiki/List_of_professional_sports_leagues_by_revenue#:~:text=%20%20%20%20Rank%20%20%20,%20%20380%20%2014%20more%20rows%20), [Web 6](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america), [Web 7](https://twitter.com/thesfia/status/1120787424832045067), [Web 8](https://sgbonline.com/report-team-sports-participation-grows-in-2021-but-falls-short-of-2019/),[Web 9](https://www.athleticbusiness.com/operations/programming/article/15705426/sfia-report-team-sports-participants-increased-in-2023-by-8m-over-2022-numbers#:~:text=Programming-,SFIA%20Report%3A%20Team%20Sports%20Participants%20Increased%20in,by%208M%20Over%202022%20Numbers&text=The%20Sports%20%26%20Fitness%20Industry%20Association,2022%2C%20an%2011%25%20increase.), [Web 10](https://www.statista.com/chart/30240/respondents-who-do-the-following-sports-at-least-occasionally/), [Web 11](https://biggestglobalsports.com/worlds-biggest-sports/4580873435), [Web 12](https://youthsportsbusinessreport.com/unpacking-the-sfias-record-breaking-2025-participation-report/), [Web 13](https://www.usta.com/es/content/dam/usta/sections/intermountain/districts/colorado/pdfs/sfia-reports/2024-sfia-topline.pdf) |
-|| Sports Analytics II | [Slides](Slides/Sports Analytics 2/Sports_Analytics_2_Lecture.pdf) | Ch. 1-7 SPAN,[Web 1](https://cupblog.org/2024/05/08/benjamin-c-alamar-on-the-second-edition-of-sports-analytics/) ,[Web 2](https://www.fandomanalytics.com/)|
-|AUG 28| Sports Analytics II (Cont.) | [Slides](Slides/Sports Analytics 2/Sports_Analytics_2_Lecture.pdf) | Ch. 1-7 SPAN,[Web 1](https://cupblog.org/2024/05/08/benjamin-c-alamar-on-the-second-edition-of-sports-analytics/) ,[Web 2](https://www.fandomanalytics.com/)|
-|SEP 2| Sports Analytics II (Cont.) | [Slides](Slides/Sports Analytics 2/Sports_Analytics_2_Lecture.pdf) | Ch. 1-7 SPAN,[Web 1](https://cupblog.org/2024/05/08/benjamin-c-alamar-on-the-second-edition-of-sports-analytics/) ,[Web 2](https://www.fandomanalytics.com/)|
-|| Sports Analytics III | [Slides](Slides/Sports Analytics 3/Sports_Analytics_3_Lecture.pdf) | [Web 1](https://www.thebusinessresearchcompany.com/report/sports-global-market-report), [Web 2](https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/sports-business-trends-disruption.html), [Web 3](https://www.grandviewresearch.com/industry-analysis/sports-analytics-market), [Web 4](https://www.forbes.com/sites/forbestechcouncil/2019/01/31/how-data-analysis-in-sports-is-changing-the-game/?sh=7bccb29b3f7b), [Web 5](https://www.soccermetrics.net/misc-stuff/sports-analytics-career-advice), [Web 6](https://www.datacamp.com/blog/sports-analytics-how-different-sports-use-data-analysis), [Web 7](https://www.grandviewresearch.com/industry-analysis/us-sports-betting-market-report), [Web 8](https://conferenceindex.org/conferences/sport-analytics)|
-|SEP 4| Sports Analytics IV| [Slides](Slides/Sports Analytics 4/Sports_Analytics_4_Lecture.pdf) | [Web 1](https://www.sportsmanagementworldwide.com/), [Web 2](https://www.udemy.com/courses/search/?src=ukw&q=sports%20analytics), [Web 3](https://sweepsportsanalytics.com/2021/08/01/10-steps-to-get-started-in-sports-analytics/), [Article 1](Articles/General/SportsAnalytics_Swartz.pdf) |
-|SEP 9| Baseball I | [Slides](Slides/Baseball 1/Baseball_1_Lecture.pdf) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](Articles/Baseball/Baseball_Albert.pdf) |
-|SEP 11| Baseball II | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM|
-|SEP 16| Baseball II (Cont.) | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM|
-|| Baseball III | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH|
-|SEP 18| Discussion of Playoff | ||
-|SEP 23| Baseball IV| [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)|
-|SEP 25| Baseball V| [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH, [Web](https://batsandstats.com/2016/08/03/one-of-my-favorite-baseball-stats/)|
-|SEP 30| Baseball V (Cont.)| [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH, [Web](https://batsandstats.com/2016/08/03/one-of-my-favorite-baseball-stats/)|
-|| Baseball VI | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 7-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp),[Web 3](https://gregstoll.com/~gregstoll/baseball/stats.html#V.0.1.0.1.0.0), [Web 4](https://baseballsavant.mlb.com/leaderboard/outs_above_average?type=Fielder&startYear=2019&endYear=2019&split=no&team=&range=year&min=q&pos=of&roles=&viz=show), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)|
-|OCT 2| Baseball VI | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 7-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp),[Web 3](https://gregstoll.com/~gregstoll/baseball/stats.html#V.0.1.0.1.0.0), [Web 4](https://baseballsavant.mlb.com/leaderboard/outs_above_average?type=Fielder&startYear=2019&endYear=2019&split=no&team=&range=year&min=q&pos=of&roles=&viz=show), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)|
-|| Baseball VII | [Slides](Slides/Baseball 7/Baseball_7_Lecture.pdf) |Ch. 11,16 MATH, [Article 1](Articles/Baseball/Baseball2_Albert.pdf), [Article 2](Baseball_Arbseman_Strogatz.pdf)|
-|OCT 7| Well-Being | No Class ||
-|OCT  9| Baseball VII (Cont.) | [Slides](Slides/Baseball 7/Baseball_7_Lecture.pdf) |Ch. 11,16 MATH, [Article 1](Articles/Baseball/Baseball2_Albert.pdf), [Article 2](Baseball_Arbseman_Strogatz.pdf)|
+|JAN 7| Syllabus     | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeUZhibzggxIDcUYNzg42y8EEzNfwVCb3JkSvARvzwfSIT01Q/viewform?usp=sf_link)||
+|JAN 19 | MLK | No Class ||
+|FEB 9 | Well-being Day| No Class ||
+|MAR 16 | Spring Break| No Class ||
+|MAR 18 | Spring Break| No Class ||
+|MAR 20 | Spring Break| No Class ||
+|APR 3 | Best Friday| No Class ||
+|APR 27| Work on Championship | | |
 |||||
 
 ## Second Half
 
-| Date | Lecture | Material | Reading |
-|------|---------|--------:|---------:|
-|OCT 14| Basketball I | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) |
-|OCT 16| Fall Break | No Class ||
-|OCT 21| Basketball I (Cont.)| [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) |
-|| Basketball II | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) |
-|OCT 23| Championship | | [Example](Championship/Spikeball.pdf) |
-|| Basketball III | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 32-33 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)|
-|OCT 28| Basketball III (Cont.) | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 32-33 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)|
-|OCT 30| Basketball IV| [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 31,34 MATH, [Web 1](https://www.basketball-reference.com/about/bpm2.html)|
-|NOV 4| Basketball IV (Cont.)| [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 31,34 MATH, [Web 1](https://www.basketball-reference.com/about/bpm2.html)|
-|| Basketball V | [Slides](Slides/Basketball 5/Basketball_5_Lecture.pdf) |Ch. 35 MATH, [Article 1](Articles/Basketball/Basketball_PriceWolfers.pdf)|
-|NOV 6| Basketball VI | [Slides](Slides/Basketball 6/Basketball_6_Lecture.pdf) |Ch. 38 MATH, [Web 1](https://www.inpredictable.com/2016/05/endgame-strategy-in-nba.html), [Web 2](http://www.82games.com/lawhorn.htm),[Article 1](Articles/Basketball/Basketball_Gill.pdf), [Article 2](Articles/Basketball/Basketball_Kenter.pdf), [Article 3](Articles/Basketball/Basketball_Annis.pdf)|
-|NOV 11| Football I | [Slides](Slides/Football 1/Footballl_1_Lecture.pdf) |Ch. 18 MATH|
-|| Football II | [Slides](Slides/Football 2/Footballl_2_Lecture.pdf) |Ch. 19 MATH, [Web 1](https://hbr.org/2019/04/whos-the-most-important-member-of-an-nfl-franchise), [Web 2](https://bleacherreport.com/articles/1691533-which-metric-matters-most-when-evaluating-nfl-quarterbacks), [Web 3](https://www.espn.com/blog/statsinfo/post/_/id/123701/how-is-total-qbr-calculated-we-explain-our-quarterback-rating), [Article 1](Articles/Football/Football_WhiteBerry.pdf) |
-|NOV 13| Work on Project| Only Gameday Speeches ||
-|NOV 18| Football II | [Slides](Slides/Football 2/Footballl_2_Lecture.pdf) |Ch. 19 MATH, [Web 1](https://hbr.org/2019/04/whos-the-most-important-member-of-an-nfl-franchise), [Web 2](https://bleacherreport.com/articles/1691533-which-metric-matters-most-when-evaluating-nfl-quarterbacks), [Web 3](https://www.espn.com/blog/statsinfo/post/_/id/123701/how-is-total-qbr-calculated-we-explain-our-quarterback-rating), [Article 1](Articles/Football/Football_WhiteBerry.pdf) |
-|| Football III | [Slides](Slides/Football 3/Footballl_3_Lecture.pdf) |Ch. 20 MATH, [Web 1](http://www.advancedfootballanalytics.com/2010/01/expected-points-ep-and-expected-points.html), [Article 1](Articles/Football/Football_CarterMachol.pdf), [Article 2](Articles/Football/Football_Romer.pdf), [Article 3](Articles/Football/Football_Goldner.pdf) |
-|NOV 20| Football IV | [Slides](Slides/Football 4/Footballl_4_Lecture.pdf) | Ch. 21 MATH, [Web 1](https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c), [Article 1](Articles/Football/Football_Pelechrinis2.pdf), [Article 2](Articles/Football/Football_PelechrinisPapalexakis.pdf) |
-|| Football V | [Slides](Slides/Football 5/Footballl_5_Lecture.pdf) | Ch. 22 MATH, [Web 1](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html), [Web 2](https://plato.stanford.edu/entries/game-theory/), [Web 3](http://www.advancedfootballanalytics.com/2008/06/game-theory-and-runpass-balance.html) |
-|| Football VI | [Slides](Slides/Football 6/Footballl_6_Lecture.pdf)  | Ch. 25-26 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1), [Article 1](Articles/Football/Football_King.pdf), [Article 2](Articles/Football/Football_MasseyThaler.pdf) |
-|NOV 25| Work on Project| No Class ||
-|NOV 27| Thanksgiving | No Class ||
-|DEC 2| Final Regular Season Quiz | Final Class ||
-|||||
 
 
 <!-- |APR 23| Last Lecture | | | -->
@@ -217,6 +179,54 @@ The statistical programming language R will be used to generate visualizations a
 <!-- ||||| -->
 
 
+<!-- |AUG 21| Sports Analytics I | [Slides](Slides/Sports Analytics 1/Sports_Analytics_1_Lecture.pdf) |Ch. 1 SPAN, [Web 1](https://www.hdled.com/top-20-most-popular-sports-in-the-world/),[Web 2](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html), [Web 3](https://news.gallup.com/poll/610046/football-retains-dominant-position-favorite-sport.aspx), [Web 4](https://news.harvard.edu/gazette/story/2022/10/is-mlb-ready-to-compete-for-next-generation-of-fans/), [Web 5](https://en.wikipedia.org/wiki/List_of_professional_sports_leagues_by_revenue#:~:text=%20%20%20%20Rank%20%20%20,%20%20380%20%2014%20more%20rows%20), [Web 6](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america), [Web 7](https://twitter.com/thesfia/status/1120787424832045067), [Web 8](https://sgbonline.com/report-team-sports-participation-grows-in-2021-but-falls-short-of-2019/),[Web 9](https://www.athleticbusiness.com/operations/programming/article/15705426/sfia-report-team-sports-participants-increased-in-2023-by-8m-over-2022-numbers#:~:text=Programming-,SFIA%20Report%3A%20Team%20Sports%20Participants%20Increased%20in,by%208M%20Over%202022%20Numbers&text=The%20Sports%20%26%20Fitness%20Industry%20Association,2022%2C%20an%2011%25%20increase.), [Web 10](https://www.statista.com/chart/30240/respondents-who-do-the-following-sports-at-least-occasionally/), [Web 11](https://biggestglobalsports.com/worlds-biggest-sports/4580873435), [Web 12](https://youthsportsbusinessreport.com/unpacking-the-sfias-record-breaking-2025-participation-report/), [Web 13](https://www.usta.com/es/content/dam/usta/sections/intermountain/districts/colorado/pdfs/sfia-reports/2024-sfia-topline.pdf) | -->
+<!-- |AUG 26| Sports Analytics I (Cont.) | [Slides](Slides/Sports Analytics 1/Sports_Analytics_1_Lecture.pdf) |Ch. 1 SPAN, [Web 1](https://www.hdled.com/top-20-most-popular-sports-in-the-world/),[Web 2](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html), [Web 3](https://news.gallup.com/poll/610046/football-retains-dominant-position-favorite-sport.aspx), [Web 4](https://news.harvard.edu/gazette/story/2022/10/is-mlb-ready-to-compete-for-next-generation-of-fans/), [Web 5](https://en.wikipedia.org/wiki/List_of_professional_sports_leagues_by_revenue#:~:text=%20%20%20%20Rank%20%20%20,%20%20380%20%2014%20more%20rows%20), [Web 6](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america), [Web 7](https://twitter.com/thesfia/status/1120787424832045067), [Web 8](https://sgbonline.com/report-team-sports-participation-grows-in-2021-but-falls-short-of-2019/),[Web 9](https://www.athleticbusiness.com/operations/programming/article/15705426/sfia-report-team-sports-participants-increased-in-2023-by-8m-over-2022-numbers#:~:text=Programming-,SFIA%20Report%3A%20Team%20Sports%20Participants%20Increased%20in,by%208M%20Over%202022%20Numbers&text=The%20Sports%20%26%20Fitness%20Industry%20Association,2022%2C%20an%2011%25%20increase.), [Web 10](https://www.statista.com/chart/30240/respondents-who-do-the-following-sports-at-least-occasionally/), [Web 11](https://biggestglobalsports.com/worlds-biggest-sports/4580873435), [Web 12](https://youthsportsbusinessreport.com/unpacking-the-sfias-record-breaking-2025-participation-report/), [Web 13](https://www.usta.com/es/content/dam/usta/sections/intermountain/districts/colorado/pdfs/sfia-reports/2024-sfia-topline.pdf) | -->
+<!-- || Sports Analytics II | [Slides](Slides/Sports Analytics 2/Sports_Analytics_2_Lecture.pdf) | Ch. 1-7 SPAN,[Web 1](https://cupblog.org/2024/05/08/benjamin-c-alamar-on-the-second-edition-of-sports-analytics/) ,[Web 2](https://www.fandomanalytics.com/)| -->
+<!-- |AUG 28| Sports Analytics II (Cont.) | [Slides](Slides/Sports Analytics 2/Sports_Analytics_2_Lecture.pdf) | Ch. 1-7 SPAN,[Web 1](https://cupblog.org/2024/05/08/benjamin-c-alamar-on-the-second-edition-of-sports-analytics/) ,[Web 2](https://www.fandomanalytics.com/)| -->
+<!-- |SEP 2| Sports Analytics II (Cont.) | [Slides](Slides/Sports Analytics 2/Sports_Analytics_2_Lecture.pdf) | Ch. 1-7 SPAN,[Web 1](https://cupblog.org/2024/05/08/benjamin-c-alamar-on-the-second-edition-of-sports-analytics/) ,[Web 2](https://www.fandomanalytics.com/)| -->
+<!-- || Sports Analytics III | [Slides](Slides/Sports Analytics 3/Sports_Analytics_3_Lecture.pdf) | [Web 1](https://www.thebusinessresearchcompany.com/report/sports-global-market-report), [Web 2](https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/sports-business-trends-disruption.html), [Web 3](https://www.grandviewresearch.com/industry-analysis/sports-analytics-market), [Web 4](https://www.forbes.com/sites/forbestechcouncil/2019/01/31/how-data-analysis-in-sports-is-changing-the-game/?sh=7bccb29b3f7b), [Web 5](https://www.soccermetrics.net/misc-stuff/sports-analytics-career-advice), [Web 6](https://www.datacamp.com/blog/sports-analytics-how-different-sports-use-data-analysis), [Web 7](https://www.grandviewresearch.com/industry-analysis/us-sports-betting-market-report), [Web 8](https://conferenceindex.org/conferences/sport-analytics)| -->
+<!-- |SEP 4| Sports Analytics IV| [Slides](Slides/Sports Analytics 4/Sports_Analytics_4_Lecture.pdf) | [Web 1](https://www.sportsmanagementworldwide.com/), [Web 2](https://www.udemy.com/courses/search/?src=ukw&q=sports%20analytics), [Web 3](https://sweepsportsanalytics.com/2021/08/01/10-steps-to-get-started-in-sports-analytics/), [Article 1](Articles/General/SportsAnalytics_Swartz.pdf) | -->
+<!-- |SEP 9| Baseball I | [Slides](Slides/Baseball 1/Baseball_1_Lecture.pdf) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](Articles/Baseball/Baseball_Albert.pdf) | -->
+<!-- |SEP 11| Baseball II | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM| -->
+<!-- |SEP 16| Baseball II (Cont.) | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM| -->
+<!-- || Baseball III | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH| -->
+<!-- |SEP 18| Discussion of Playoff | || -->
+<!-- |SEP 23| Baseball IV| [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)| -->
+<!-- |SEP 25| Baseball V| [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH, [Web](https://batsandstats.com/2016/08/03/one-of-my-favorite-baseball-stats/)| -->
+<!-- |SEP 30| Baseball V (Cont.)| [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH, [Web](https://batsandstats.com/2016/08/03/one-of-my-favorite-baseball-stats/)| -->
+<!-- || Baseball VI | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 7-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp),[Web 3](https://gregstoll.com/~gregstoll/baseball/stats.html#V.0.1.0.1.0.0), [Web 4](https://baseballsavant.mlb.com/leaderboard/outs_above_average?type=Fielder&startYear=2019&endYear=2019&split=no&team=&range=year&min=q&pos=of&roles=&viz=show), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)| -->
+<!-- |OCT 2| Baseball VI | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 7-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp),[Web 3](https://gregstoll.com/~gregstoll/baseball/stats.html#V.0.1.0.1.0.0), [Web 4](https://baseballsavant.mlb.com/leaderboard/outs_above_average?type=Fielder&startYear=2019&endYear=2019&split=no&team=&range=year&min=q&pos=of&roles=&viz=show), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)| -->
+<!-- || Baseball VII | [Slides](Slides/Baseball 7/Baseball_7_Lecture.pdf) |Ch. 11,16 MATH, [Article 1](Articles/Baseball/Baseball2_Albert.pdf), [Article 2](Baseball_Arbseman_Strogatz.pdf)| -->
+<!-- |OCT 7| Well-Being | No Class || -->
+<!-- |OCT  9| Baseball VII (Cont.) | [Slides](Slides/Baseball 7/Baseball_7_Lecture.pdf) |Ch. 11,16 MATH, [Article 1](Articles/Baseball/Baseball2_Albert.pdf), [Article 2](Baseball_Arbseman_Strogatz.pdf)| -->
+<!-- ||||| -->
+
+<!-- ## Second Half -->
+
+<!-- | Date | Lecture | Material | Reading | -->
+<!-- |------|---------|--------:|---------:| -->
+<!-- |OCT 14| Basketball I | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) | -->
+<!-- |OCT 16| Fall Break | No Class || -->
+<!-- |OCT 21| Basketball I (Cont.)| [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) | -->
+<!-- || Basketball II | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) | -->
+<!-- |OCT 23| Championship | | [Example](Championship/Spikeball.pdf) | -->
+<!-- || Basketball III | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 32-33 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)| -->
+<!-- |OCT 28| Basketball III (Cont.) | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 32-33 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)| -->
+<!-- |OCT 30| Basketball IV| [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 31,34 MATH, [Web 1](https://www.basketball-reference.com/about/bpm2.html)| -->
+<!-- |NOV 4| Basketball IV (Cont.)| [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 31,34 MATH, [Web 1](https://www.basketball-reference.com/about/bpm2.html)| -->
+<!-- || Basketball V | [Slides](Slides/Basketball 5/Basketball_5_Lecture.pdf) |Ch. 35 MATH, [Article 1](Articles/Basketball/Basketball_PriceWolfers.pdf)| -->
+<!-- |NOV 6| Basketball VI | [Slides](Slides/Basketball 6/Basketball_6_Lecture.pdf) |Ch. 38 MATH, [Web 1](https://www.inpredictable.com/2016/05/endgame-strategy-in-nba.html), [Web 2](http://www.82games.com/lawhorn.htm),[Article 1](Articles/Basketball/Basketball_Gill.pdf), [Article 2](Articles/Basketball/Basketball_Kenter.pdf), [Article 3](Articles/Basketball/Basketball_Annis.pdf)| -->
+<!-- |NOV 11| Football I | [Slides](Slides/Football 1/Footballl_1_Lecture.pdf) |Ch. 18 MATH| -->
+<!-- || Football II | [Slides](Slides/Football 2/Footballl_2_Lecture.pdf) |Ch. 19 MATH, [Web 1](https://hbr.org/2019/04/whos-the-most-important-member-of-an-nfl-franchise), [Web 2](https://bleacherreport.com/articles/1691533-which-metric-matters-most-when-evaluating-nfl-quarterbacks), [Web 3](https://www.espn.com/blog/statsinfo/post/_/id/123701/how-is-total-qbr-calculated-we-explain-our-quarterback-rating), [Article 1](Articles/Football/Football_WhiteBerry.pdf) | -->
+<!-- |NOV 13| Work on Project| Only Gameday Speeches || -->
+<!-- |NOV 18| Football II | [Slides](Slides/Football 2/Footballl_2_Lecture.pdf) |Ch. 19 MATH, [Web 1](https://hbr.org/2019/04/whos-the-most-important-member-of-an-nfl-franchise), [Web 2](https://bleacherreport.com/articles/1691533-which-metric-matters-most-when-evaluating-nfl-quarterbacks), [Web 3](https://www.espn.com/blog/statsinfo/post/_/id/123701/how-is-total-qbr-calculated-we-explain-our-quarterback-rating), [Article 1](Articles/Football/Football_WhiteBerry.pdf) | -->
+<!-- || Football III | [Slides](Slides/Football 3/Footballl_3_Lecture.pdf) |Ch. 20 MATH, [Web 1](http://www.advancedfootballanalytics.com/2010/01/expected-points-ep-and-expected-points.html), [Article 1](Articles/Football/Football_CarterMachol.pdf), [Article 2](Articles/Football/Football_Romer.pdf), [Article 3](Articles/Football/Football_Goldner.pdf) | -->
+<!-- |NOV 20| Football IV | [Slides](Slides/Football 4/Footballl_4_Lecture.pdf) | Ch. 21 MATH, [Web 1](https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c), [Article 1](Articles/Football/Football_Pelechrinis2.pdf), [Article 2](Articles/Football/Football_PelechrinisPapalexakis.pdf) | -->
+<!-- || Football V | [Slides](Slides/Football 5/Footballl_5_Lecture.pdf) | Ch. 22 MATH, [Web 1](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html), [Web 2](https://plato.stanford.edu/entries/game-theory/), [Web 3](http://www.advancedfootballanalytics.com/2008/06/game-theory-and-runpass-balance.html) | -->
+<!-- || Football VI | [Slides](Slides/Football 6/Footballl_6_Lecture.pdf)  | Ch. 25-26 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1), [Article 1](Articles/Football/Football_King.pdf), [Article 2](Articles/Football/Football_MasseyThaler.pdf) | -->
+<!-- |NOV 25| Work on Project| No Class || -->
+<!-- |NOV 27| Thanksgiving | No Class || -->
+<!-- |DEC 2| Final Regular Season Quiz | Final Class || -->
 
 <!-- |NOV 19| Hockey I | [Slides](Slides/Hockey 1/Hockey_1_Lecture.pdf) | Ch. 13-15 HSMAS, [Article 1](Articles/Hockey/Hockey_Thomas_Ventura_Jensen_Ma.pdf), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick),[Web 2](http://hockeygoalies.org/stats/glossary.html), [Web 3](https://rdrr.io/cran/nhlscrapr/) | -->
 <!-- |NOV 22| Hockey II |  [Slides](Slides/Hockey 2/Hockey_2_Lecture.pdf) | Ch. 13-15 HSMAS, [Article 1](Articles/Hockey/Hockey_Thomas_Ventura_Jensen_Ma.pdf), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick),[Web 2](http://hockeygoalies.org/stats/glossary.html), [Web 3](https://rdrr.io/cran/nhlscrapr/) | -->
@@ -308,7 +318,7 @@ Consider the following rubric and notice the bonus points for the lucky presenti
 
 ## Reg. Season
 
-The regular season consists of biweekly quizzes on the material presented in class over the previous lectures. Coach Mario will tell you which specific material to study. This can include what was taught in lecture, what was in the reading, and what was presented during gameday speeches. You will be given at least 15 minutes to complete the quiz. These quizzes taken in Canvas on your laptop live in class. You can use the slides, notes, internet. The only thing I prohibit is the use of generative AI. You will also need a calculator, R, Python, etc. to perform some basic calculations to answer some questions.
+The regular season consists of biweekly quizzes on the material presented in class over the previous lectures. Coach Mario will tell you which specific material to study. This can include what was taught in lecture, what was in the reading, and what was presented during gameday speeches. You will be given at least 15 minutes to complete the quiz. These quizzes taken in Canvas on your laptop live in class. You can use the slides, notes, internet. The only thing I prohibit is the use of generative AI in all forms. You will also need a calculator, R, Python, etc. to perform some basic calculations to answer some questions.
 
 -------
 
@@ -322,104 +332,104 @@ The regular season consists of biweekly quizzes on the material presented in cla
 
 ## Playoff
 
-The playoff will be a predictive modeling project for actual NFL games. The primary goal of this project is to design models for prediction of three variables -- $Spread$, $Total$, and $Pass$. Below you can find clear definitions of these three outcome variables:
+<!-- The playoff will be a predictive modeling project for actual NFL games. The primary goal of this project is to design models for prediction of three variables -- $Spread$, $Total$, and $Pass$. Below you can find clear definitions of these three outcome variables: -->
 
-- $Spread = \textrm{Home Points} - \textrm{Away Points}$
+<!-- - $Spread = \textrm{Home Points} - \textrm{Away Points}$ -->
 
-- $Total = \textrm{Home Points} + \textrm{Away Points}$
+<!-- - $Total = \textrm{Home Points} + \textrm{Away Points}$ -->
 
-- $Pass = \textrm{Home Passing Yards} + \textrm{Away Passing Yards}$
-
-
-It is imperative that you follow these specifications. Your group will be making predictions of the three variables for all NFL games between October 15 and November 18, inclusively. This corresponds with NFL weeks 7 to 11. Your predictions should be saved in the dataset called **[Predictions](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/blob/master/Playoff/Predictions.csv)**. Here you will find missing values where future predictions will be placed. This completed file (CSV) should be submitted along with a paper (PDF) summarizing your methodology. You will not only be graded by your methodology, but also by your predictive accuracy. The variables, $Spread$, $Total$, and $Pass$ will all be evaluated by mean absolute error (MAE). For each of the variables, the top 3 groups will get 3 points, the middle 3 groups will get 2 points, and the bottom 3 groups will get 1 point. All three variables are numeric. If you fail to submit predictions on time or the predictions are not numeric values, you will get 0 points and your predictions will not be considered. 
-
-For the use of outside data, research variables that could be important for prediction of the three variables. This could be injury data, advanced metrics on players,  play-by-play data, or recent data that you webscraped. I am grading you on your creativity so utilizing recent data for your outside data requirement would be helpful for predicting, but would definitely be less creative than other options. Below is a list of some potential options:
-
-- [Game Scores Dataset from Kaggle](https://www.kaggle.com/datasets/keonim/nfl-game-scores-dataset-2017-2023)
-- [NFL Big Data Bowl](https://www.kaggle.com/c/nfl-big-data-bowl-2025/data)
-- [Injury Data from Kaggle](https://www.kaggle.com/datasets/thedevastator/nfl-injury-analysis-2012-2017)
-- [Webscraping from Pro Football Reference](https://stmorse.github.io/journal/pfr-scrape-python.html)
-- [R Package: nflfastR](https://www.nflfastr.com/)
-- [Summary of Other Sources from OSU](https://sportsandsociety.osu.edu/sports-data-sets)
-<!-- - [Mario's Example of nbastatR](https://raw.githubusercontent.com/SuperMarioGiacomazzo/STOR538_WEBSITE/master/Playoff/NBA_Demo.R) -->
-
-For the engineering of new variables, consider creating differences and ratios between the stats for the home and away teams. Also, it may be useful to create variables that represent past information such as moving averages or lagged variables. You should be able to explain and defend the variables you create. This is your opportunity to test different ideas, and I do not care if any of the variables you engineer end up in your final model for prediction. You should defend any engineered on how you think they will be specifically helpful for predicting the three variables you are being asked to predict. 
-
-Your study should be summarized in a paper of at least 5 pages. The paper (PDF) and predictions (CSV) should be submitted on Canvas before 11:59PM on the due date (10/14/2025). Each group should have their own paper and predictions, but both need to be submitted by every member of the group. Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 6 (Excellent). Use the Google form provided on the course website.
-
-This project is extremely demanding. I believe that you should split the responsibilities into clear defined jobs and hold to this recommended timeline. If your group fails to submit the predictions on time, your entire group will get 0's for all of the predictions. If your group fails to complete the paper on time, then you will get a penalty dependent on how late your group turns it in. If I discover that the methodology in your paper doesn't lead to your predictions that you submit or your predictions were generated using any form of AI where the work is not your own and the methodology is unable to be explained, I will report this as an academic violation and require you to show me your code and prove to me that your predictions are valid and from your methodology. At a minimum, I will do whatever I can to ensure your group gets a 0 on this assignment.
-
-|Start|End|Task|
-|:---|:---|:---|
-|NOW|9/30|Build and Clean Dataset|
-|9/30|10/2|Start Writing Section 1 of Paper|
-|10/2|10/7|Each Group Member Builds and Evaluates One Model for Each Variable|
-|10/7|10/9|Start Writing Sections 2-4 of Paper|
-|10/9|10/13|Implement Models to Make Predictions and Finish Paper|
-|10/13|10/14|Edit and Submit Paper + Predictions|
-||||
-
-On the first page, you should title your paper and give the names of the team members who contributed. If someone didn't do any work, don't put their name on it so I can give them a 0. The content of the paper should be organized in the following 4 subsections:
-
-### 1) Data Information
-
-In this section, you should outline in chronological order how your group built the dataset that your group used to fit, evaluate, and implement the predictive models you will discuss in future sections. Every step to build and clean the dataset should be written so that someone could read it, follow the steps, and get to the same data your group used.
-
-Examples of some questions that need to be answered if applicable:
-
-- What datasets did you use and where did you get these datasets? What are the sources? Did you use an API and what data did you acquire from using the API?
-- How did you clean the datasets individually? How did you merge the datasets?
-- How did you handle missing data or outliers? Did you ignore certain games for some reason?
-- Did you split the data into train sets and test sets?
-- Did you acquire any current data for generating predictions for the current year?
-- Did you create any variables or aggregate the data for the purpose of generating predictions for the current year?
-
-Also, you should discuss all outside data you utilized to build your dataset for predictive modeling.  You need to explain where you got the outside data and why you are including it. I should know your sources and see citations where necessary. All outside data utilized should be explained and defended. 
-
-In this section, you should discuss any variables your group engineered and defend your reasons for engineering those variables. You should be able to mathematically represent your metrics as formulas and/or provide written descriptions. You should be able to explain why you think the variable you created would help in predicting any of the three outcome variables. Feel free to make citations to whoever you want to credit for leading you to your idea. The variables you engineer should be creative and well-defended.
+<!-- - $Pass = \textrm{Home Passing Yards} + \textrm{Away Passing Yards}$ -->
 
 
-### 2) Methodology for $Spread$
+<!-- It is imperative that you follow these specifications. Your group will be making predictions of the three variables for all NFL games between October 15 and November 18, inclusively. This corresponds with NFL weeks 7 to 11. Your predictions should be saved in the dataset called **[Predictions](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/blob/master/Playoff/Predictions.csv)**. Here you will find missing values where future predictions will be placed. This completed file (CSV) should be submitted along with a paper (PDF) summarizing your methodology. You will not only be graded by your methodology, but also by your predictive accuracy. The variables, $Spread$, $Total$, and $Pass$ will all be evaluated by mean absolute error (MAE). For each of the variables, the top 3 groups will get 3 points, the middle 3 groups will get 2 points, and the bottom 3 groups will get 1 point. All three variables are numeric. If you fail to submit predictions on time or the predictions are not numeric values, you will get 0 points and your predictions will not be considered.  -->
 
-You should clearly describe your group's best predictive model for $Spread$ and the steps you took to get there. Discuss what variables were useful and useless for predicting $Spread$. Since $Spread$ is a numeric variable, I highly recommend a basic linear regression as a baseline with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation/out-of-sample testing, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the "best" model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best. Talk about all of the models your group considered, but put some extra attention on describing your "best" model since this is the model that your group used to generate predictions. For example, if your "best" model is a linear regression model, you can show the coefficients in a table or write it out mathematically. In more advanced machine learning methods, I should know every value of every hyperparameter/tuning parameter and how your group chose those values. Finally, make sure that you explain how your group used the "best" model to generate predictions for future games where everything is unknown. Just giving a description of your best model is not enough if you don't explain exactly how that model was used to make real predictions.
+<!-- For the use of outside data, research variables that could be important for prediction of the three variables. This could be injury data, advanced metrics on players,  play-by-play data, or recent data that you webscraped. I am grading you on your creativity so utilizing recent data for your outside data requirement would be helpful for predicting, but would definitely be less creative than other options. Below is a list of some potential options: -->
 
-### 3) Methodology for $Total$
+<!-- - [Game Scores Dataset from Kaggle](https://www.kaggle.com/datasets/keonim/nfl-game-scores-dataset-2017-2023) -->
+<!-- - [NFL Big Data Bowl](https://www.kaggle.com/c/nfl-big-data-bowl-2025/data) -->
+<!-- - [Injury Data from Kaggle](https://www.kaggle.com/datasets/thedevastator/nfl-injury-analysis-2012-2017) -->
+<!-- - [Webscraping from Pro Football Reference](https://stmorse.github.io/journal/pfr-scrape-python.html) -->
+<!-- - [R Package: nflfastR](https://www.nflfastr.com/) -->
+<!-- - [Summary of Other Sources from OSU](https://sportsandsociety.osu.edu/sports-data-sets) -->
+<!-- <!-- - [Mario's Example of nbastatR](https://raw.githubusercontent.com/SuperMarioGiacomazzo/STOR538_WEBSITE/master/Playoff/NBA_Demo.R) --> -->
 
-You should clearly describe your group's best predictive model for $Total$ and the steps you took to get there. Discuss what variables were useful and useless for predicting $Total$. Since $Total$ is a numeric variable but could be highly skewed, I highly recommend nonlinear transformations. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation/out-of-sample testing, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the "best" model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best. Talk about all of the models your group considered, but put some extra attention on describing your "best" model since this is the model that your group used to generate predictions. For example, if your "best" model is a linear regression model, you can show the coefficients in a table or write it out mathematically. In more advanced machine learning methods, I should know every value of every hyperparameter/tuning parameter and how your group chose those values. Finally, make sure that you explain how your group used the "best" model to generate predictions for future games where everything is unknown. Just giving a description of your best model is not enough if you don't explain exactly how that model was used to make real predictions.
+<!-- For the engineering of new variables, consider creating differences and ratios between the stats for the home and away teams. Also, it may be useful to create variables that represent past information such as moving averages or lagged variables. You should be able to explain and defend the variables you create. This is your opportunity to test different ideas, and I do not care if any of the variables you engineer end up in your final model for prediction. You should defend any engineered on how you think they will be specifically helpful for predicting the three variables you are being asked to predict.  -->
 
-Some groups want to predict $Spread$ and $Total$ only using models for home points and away points. I think if you are going to do that there should be some comparison of your models for points to other models for the $Spread$ and $Total$ variables directly.
+<!-- Your study should be summarized in a paper of at least 5 pages. The paper (PDF) and predictions (CSV) should be submitted on Canvas before 11:59PM on the due date (10/14/2025). Each group should have their own paper and predictions, but both need to be submitted by every member of the group. Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 6 (Excellent). Use the Google form provided on the course website. -->
+
+<!-- This project is extremely demanding. I believe that you should split the responsibilities into clear defined jobs and hold to this recommended timeline. If your group fails to submit the predictions on time, your entire group will get 0's for all of the predictions. If your group fails to complete the paper on time, then you will get a penalty dependent on how late your group turns it in. If I discover that the methodology in your paper doesn't lead to your predictions that you submit or your predictions were generated using any form of AI where the work is not your own and the methodology is unable to be explained, I will report this as an academic violation and require you to show me your code and prove to me that your predictions are valid and from your methodology. At a minimum, I will do whatever I can to ensure your group gets a 0 on this assignment. -->
+
+<!-- |Start|End|Task| -->
+<!-- |:---|:---|:---| -->
+<!-- |NOW|9/30|Build and Clean Dataset| -->
+<!-- |9/30|10/2|Start Writing Section 1 of Paper| -->
+<!-- |10/2|10/7|Each Group Member Builds and Evaluates One Model for Each Variable| -->
+<!-- |10/7|10/9|Start Writing Sections 2-4 of Paper| -->
+<!-- |10/9|10/13|Implement Models to Make Predictions and Finish Paper| -->
+<!-- |10/13|10/14|Edit and Submit Paper + Predictions| -->
+<!-- |||| -->
+
+<!-- On the first page, you should title your paper and give the names of the team members who contributed. If someone didn't do any work, don't put their name on it so I can give them a 0. The content of the paper should be organized in the following 4 subsections: -->
+
+<!-- ### 1) Data Information -->
+
+<!-- In this section, you should outline in chronological order how your group built the dataset that your group used to fit, evaluate, and implement the predictive models you will discuss in future sections. Every step to build and clean the dataset should be written so that someone could read it, follow the steps, and get to the same data your group used. -->
+
+<!-- Examples of some questions that need to be answered if applicable: -->
+
+<!-- - What datasets did you use and where did you get these datasets? What are the sources? Did you use an API and what data did you acquire from using the API? -->
+<!-- - How did you clean the datasets individually? How did you merge the datasets? -->
+<!-- - How did you handle missing data or outliers? Did you ignore certain games for some reason? -->
+<!-- - Did you split the data into train sets and test sets? -->
+<!-- - Did you acquire any current data for generating predictions for the current year? -->
+<!-- - Did you create any variables or aggregate the data for the purpose of generating predictions for the current year? -->
+
+<!-- Also, you should discuss all outside data you utilized to build your dataset for predictive modeling.  You need to explain where you got the outside data and why you are including it. I should know your sources and see citations where necessary. All outside data utilized should be explained and defended.  -->
+
+<!-- In this section, you should discuss any variables your group engineered and defend your reasons for engineering those variables. You should be able to mathematically represent your metrics as formulas and/or provide written descriptions. You should be able to explain why you think the variable you created would help in predicting any of the three outcome variables. Feel free to make citations to whoever you want to credit for leading you to your idea. The variables you engineer should be creative and well-defended. -->
 
 
-### 4) Methodology for $Pass$
+<!-- ### 2) Methodology for $Spread$ -->
 
-You should clearly describe your group's best predictive model for $Pass$ and the steps you took to get there. Take the first step to understand how passing yards are calculated in the NFL. Discuss what variables were useful and useless for predicting $Pass$. This variable may be highly skewed like $Total$. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation/out-of-sample testing, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the "best" model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best. Talk about all of the models your group considered, but put some extra attention on describing your "best" model since this is the model that your group used to generate predictions. For example, if your "best" model is a linear regression model, you can show the coefficients in a table or write it out mathematically. In more advanced machine learning methods, I should know every value of every hyperparameter/tuning parameter and how your group chose those values. Finally, make sure that you explain how your group used the "best" model to generate predictions for future games where everything is unknown. Just giving a description of your best model is not enough if you don't explain exactly how that model was used to make real predictions.
+<!-- You should clearly describe your group's best predictive model for $Spread$ and the steps you took to get there. Discuss what variables were useful and useless for predicting $Spread$. Since $Spread$ is a numeric variable, I highly recommend a basic linear regression as a baseline with stepwise algorithms or regularization for variable selection. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation/out-of-sample testing, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the "best" model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best. Talk about all of the models your group considered, but put some extra attention on describing your "best" model since this is the model that your group used to generate predictions. For example, if your "best" model is a linear regression model, you can show the coefficients in a table or write it out mathematically. In more advanced machine learning methods, I should know every value of every hyperparameter/tuning parameter and how your group chose those values. Finally, make sure that you explain how your group used the "best" model to generate predictions for future games where everything is unknown. Just giving a description of your best model is not enough if you don't explain exactly how that model was used to make real predictions. -->
 
-Again, if you are going to solve this problem by predicting the passing yards for a team and then adding them up, you should justify this by using cross-validation to compare prediction accuracy to models designed to directly predict the total passing yards. 
+<!-- ### 3) Methodology for $Total$ -->
+
+<!-- You should clearly describe your group's best predictive model for $Total$ and the steps you took to get there. Discuss what variables were useful and useless for predicting $Total$. Since $Total$ is a numeric variable but could be highly skewed, I highly recommend nonlinear transformations. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation/out-of-sample testing, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the "best" model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best. Talk about all of the models your group considered, but put some extra attention on describing your "best" model since this is the model that your group used to generate predictions. For example, if your "best" model is a linear regression model, you can show the coefficients in a table or write it out mathematically. In more advanced machine learning methods, I should know every value of every hyperparameter/tuning parameter and how your group chose those values. Finally, make sure that you explain how your group used the "best" model to generate predictions for future games where everything is unknown. Just giving a description of your best model is not enough if you don't explain exactly how that model was used to make real predictions. -->
+
+<!-- Some groups want to predict $Spread$ and $Total$ only using models for home points and away points. I think if you are going to do that there should be some comparison of your models for points to other models for the $Spread$ and $Total$ variables directly. -->
 
 
-### Rubric
+<!-- ### 4) Methodology for $Pass$ -->
 
-The second playoff round is worth a total of 48 points based on the following rubric:
+<!-- You should clearly describe your group's best predictive model for $Pass$ and the steps you took to get there. Take the first step to understand how passing yards are calculated in the NFL. Discuss what variables were useful and useless for predicting $Pass$. This variable may be highly skewed like $Total$. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation/out-of-sample testing, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the "best" model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best. Talk about all of the models your group considered, but put some extra attention on describing your "best" model since this is the model that your group used to generate predictions. For example, if your "best" model is a linear regression model, you can show the coefficients in a table or write it out mathematically. In more advanced machine learning methods, I should know every value of every hyperparameter/tuning parameter and how your group chose those values. Finally, make sure that you explain how your group used the "best" model to generate predictions for future games where everything is unknown. Just giving a description of your best model is not enough if you don't explain exactly how that model was used to make real predictions. -->
 
-| Criteria | 0 | 1 | 2 | 3 |
-|:-----------:|:------:|:------:|:------:|:------:|
-|Title Page |Instructions Not Followed|Missing Entire Element|Missing a Team Member|Title+Team Members |
-|Data: Cleaning Summary|Unclear|Slightly Unclear|Slightly Clear|Clear|
-|Data: Outside Data|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended|
-|Data: New Variable|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended|
-|Spread: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough|
-|Spread: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description|
-|Spread: Prediction|None|Bottom 5| Middle 6 |Top 6|
-|Total: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough|
-|Total: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description|
-|Total: Prediction|None|Bottom 5|Middle 6|Top 6|
-|Pass: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough|
-|Pass: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description|
-|Pass: Prediction|None|Bottom 5|Middle 6|Top 6|
-|Spelling/Grammar|>5 Errors| 3-5 Errors|1-2 Errors|No Errors|
-|Submitted|Late||Not a PDF/CSV|On Time|
-|**Criteria**|**0-1**|**2-3**|**4-5**|**6**|
-|Value|Bad|Okay|Good|Excellent|
+<!-- Again, if you are going to solve this problem by predicting the passing yards for a team and then adding them up, you should justify this by using cross-validation to compare prediction accuracy to models designed to directly predict the total passing yards.  -->
+
+
+<!-- ### Rubric -->
+
+<!-- The second playoff round is worth a total of 48 points based on the following rubric: -->
+
+<!-- | Criteria | 0 | 1 | 2 | 3 | -->
+<!-- |:-----------:|:------:|:------:|:------:|:------:| -->
+<!-- |Title Page |Instructions Not Followed|Missing Entire Element|Missing a Team Member|Title+Team Members | -->
+<!-- |Data: Cleaning Summary|Unclear|Slightly Unclear|Slightly Clear|Clear| -->
+<!-- |Data: Outside Data|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended| -->
+<!-- |Data: New Variable|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended| -->
+<!-- |Spread: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough| -->
+<!-- |Spread: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description| -->
+<!-- |Spread: Prediction|None|Bottom 5| Middle 6 |Top 6| -->
+<!-- |Total: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough| -->
+<!-- |Total: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description| -->
+<!-- |Total: Prediction|None|Bottom 5|Middle 6|Top 6| -->
+<!-- |Pass: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough| -->
+<!-- |Pass: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description| -->
+<!-- |Pass: Prediction|None|Bottom 5|Middle 6|Top 6| -->
+<!-- |Spelling/Grammar|>5 Errors| 3-5 Errors|1-2 Errors|No Errors| -->
+<!-- |Submitted|Late||Not a PDF/CSV|On Time| -->
+<!-- |**Criteria**|**0-1**|**2-3**|**4-5**|**6**| -->
+<!-- |Value|Bad|Okay|Good|Excellent| -->
 
 -------
 
@@ -473,15 +483,15 @@ Imagine you are an analyst working for the coach or athlete and want to discover
      - All Data Must Be Recorded in the Same Electronic Spreadsheet (Excel,CSV, etc.)
      - Each Row Should Be a Different Observation According to the Level Selected
      - Keep Track of the Data Collected by Each Member For Proof that Each Member Actually Collected Data
-     - Each Group Member is Expected to Participate in the Data Collection and if Group Member Refuses or is Unable to Participate in the Data Collection by November 11, then I Will Remove that Group Member and Require that Individual to Collect 250 Observations and Write Their Own Paper
+     - Each Group Member is Expected to Participate in the Data Collection and if Group Member Refuses or is Unable to Participate in the Data Collection by TBD, then I Will Remove that Group Member and Require that Individual to Collect 200 Observations and Write Their Own Paper
 
-To ensure that every group stays on a reasonable pace, I will require each member of your group to submit the exact portion of the dataset that they collected. I am expecting 50 or more observations per person. This needs to be submitted to **Canvas** before 11:59PM on November 11. For each member of the group, I am expecting the same number of variables and exact same variable names to show that your group worked together and coordinated efforts. Also, each group member can assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). Fill out the appropriate Google Form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group.
+To ensure that every group stays on a reasonable pace, I will require each member of your group to submit the exact portion of the dataset that they collected. I am expecting 50 or more observations per person. This needs to be submitted to **Canvas** before 11:59PM on April 8. For each member of the group, I am expecting the same number of variables and exact same variable names to show that your group worked together and coordinated efforts. Also, each group member can assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). Fill out the appropriate Google Form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group.
 
-Your study should be summarized in a paper with at least 5 pages (a minimum of 3 pages worth of writing). The paper should be submitted on **Canvas** before 11:59PM on the last day of class, December 3. Submit the paper as a PDF only. Each group should have their own paper, but the paper needs to be submitted by every member of the group. 
+Your study should be summarized in a paper with at least 5 pages (a minimum of 3 pages worth of writing). The paper should be submitted on **Canvas** before 11:59PM on the last day of class, April 27. Submit the paper as a PDF only. Each group should have their own paper, but the paper needs to be submitted by every member of the group. 
 
 On the first page, you should title your paper, write your group number, and give the names of the team members who contributed. The content of the paper should be organized in the following 3 subsections:
 
-### 1) Introduction to the Data
+### Section 1: Introduction to the Data
 
 In this section, you should discuss three things.
 
@@ -491,7 +501,7 @@ Second, you should give a preview of your data showing at least 5 rows of your d
 
 Third, you should briefly describe your data. When did you gather your data? Where did you gather your data? How did you gather your data (Watch or Play Game)? What does each observation (i.e. row in data) represent and how many observations do you have? Describe the five variables and how they were measured. I want a clear description of how the data was collected by the group.
 
-### 2) Summary of the Data
+### Section 2: Summary of the Data
 In this section, I want a table(s) and two figures summarizing the data. Each table and each figure you give should have a couple sentences describing the information summarized.
 
 The table(s) should be the same style as the table in the introduction (not different colors, fonts, rounding, etc.). The table(s) should efficiently summarize the five variables using popular statistics. If the variable is numeric (continuous or discrete), you should give the minimum, maximum, mean, and standard deviation, at least. If the variable is categorical, you should give the possible values with frequencies (counts) and relative frequencies (%). If you have a combination of categorical and numeric, I advise doing separate tables which will count as a single table. All tables should be formatted similarly.
@@ -502,15 +512,17 @@ If you create any visuals with new metrics that your group designed. Make sure y
 
 Following all instructions gets you two points. The last point is reserved for creativity, design, and over-achievement. This will be determined by comparing what you do to what the other teams do. I reward you for taking risks that that lead to better results then I require. For example in the table(s), calculating confidence intervals for numeric variables, creating contingency tables, or summarizing numeric variables for different subgroups from categorical variables. For example in the figures, tile, 3D, or map plots showing relationships across multiple variables. Also, I don't mind if you give more than two figures or put multiple figures together in a grid. If you create a ton of figures, I will grade your two worst figures so make sure each figure is valuable and worth discussing.
 
-### 3) Insights from the Data
+### Section 3 Insights from the Data
 
 The content in the previous two sections should be used to support two insights. An insight is a deeper understanding you gained about the sport from gathering and summarizing data. The insights should be connected to the purpose you outlined in the "Introduction to the Data" section and defended from the tables/figures in the "Summary of the Data" section. I recommend giving your figures and tables numbers so you can reference them in this section (e.g. Table 1, Figure 2). Write, at least, one paragraph for each insight. What were the two most interesting things you learned from the data? If you don't reference statistics or figures you created, you will lose two points, at least. To get full credit, I advise supplementing your insights with p-values from appropriate hypothesis tests (t-test, anova, regression, difference in proportions, independence tests, etc.) or provide confidence intervals (means, proportions, etc.). Excellent insights should not be obvious but lead to innovations that would give a decision maker or athlete the competitive edge. Tests for statistical significance are the strongest way to defend your arguments. This section should be written so someone with a technical/statistical background would understand your methodology and someone without a technical/statistical background would understand your conclusions.
 
 Also, in this section, after discussing your insights, you should write, at least, one paragraph where you critique what your group would have done differently. Would you have gathered another variable which could potentially be a confounding variable? Would you have measured a particular variable differently? What other information that you did not gather would have made this study better or have been of use? No study is done perfect and there are always aspects that could be improved. After I read your entire paper, I will take off a point for every single thing that I think you should have done differently that you did not highlight in this section. If there is a criticism that I incorrectly identify because you are extremely vague in the description of your study or in the summary of your insights, then you are at fault. Be very clear in describing all aspects of the data and method of collection in the first 2 sections.
 
-Also, each group member can assess the contribution value **twice** of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). One time you will fill it out on April 11 and another time on the last day of class.  Fill out the appropriate Google Form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group. 
+### Final Evaluation and Presentation
 
-Finally, each group will present their group's work using a slideshow presentation during our scheduled final exam period which is December 8 at 4PM in Gardner 105. Presentation slides should be submitted on **Canvas** prior to 4PM on December 8 by each group member. On December 8, each of you will have 5 to 7 minutes to present your work to the class. Your presentation should be persuasive as if you are talking to a group of coaches or players. I recommend starting with the purpose of your project and talk briefly about data collection. All group members involved should be utilized as evenly as possible in the presentation. It should be clear that your group has practiced your presentation several times prior. I am expecting a high level of eye contact, smooth transitions, slides with few words, no verbatim reading, etc. I want your slides to look absolutely stunning as if you were presenting this in a job interview.
+Also, each group member can assess the contribution value **twice** of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). One time you will fill it out on April 8 and another time on the final presentation day.  Fill out the appropriate Google Form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group. 
+
+Finally, each group will present their group's work using a slideshow presentation during our scheduled final exam period which is April 29 at 4PM in Gardner 105. Presentation slides should be submitted on **Canvas** prior to 4PM on April 29 by each group member. On April 29, each of you will have 5 to 7 minutes to present your work to the class. Your presentation should be persuasive as if you are talking to a group of coaches or players. I recommend starting with the purpose of your project and talk briefly about data collection. All group members involved should be utilized as evenly as possible in the presentation. It should be clear that your group has practiced your presentation several times prior. I am expecting a high level of eye contact, smooth transitions, slides with few words, no verbatim reading, etc. I want your slides to look absolutely stunning as if you were presenting this in a job interview. If you do cannot attend the day of presentations and you do not have a university approved reason for missing, you will automatically get a 5 point penalty. 
 
 If there is a group who is clearly incompetent, lazy, etc., your group should notify me as soon as possible so I can help your group adapt to the situation. For example, I wouldn't want a useless member of your group being able to participate in a presentation that they didn't prepare or practice with the rest of the time. Your grade will be negatively impacted if someone in your group is allowed to present, and they perform poorly. Also, I wouldn't want a group member submitting a paper where their only contribution is making the title page.
 
@@ -541,7 +553,7 @@ The first playoff round is worth a total of 69 points based on the following rub
 |Paper|Not Submitted or Late||Not a PDF|On Time|
 |Paper Value|Bad|Okay|Good|Excellent|
 |Presentation Motivation|No Good Explanation|Weak Defense of Work |Okay Explanation and Defense|Exciting and Persuasive |
-|Presentation Slides|Bad|Okay|Good|Excellent|
+|Presentation Slides|Bad|Some Major Issues|Minor Issues|Beautiful and Well-Organized|
 |Presentation Professionalism|Bad||Some Reading of Slides|Clearly Prepared and Well-Distributed|
 |Presentation Time|Poorly Planned|Barely Missed Time||Between 5 and 7 Minutes|
 |Presentation|Not Submitted or Late||Not a PDF|On Time|
@@ -570,24 +582,24 @@ Any assignments requiring a deliverable will be submitted via **Canvas** as a PD
 
 | Date (Time) | Practice (PR) | Gameday Speech (GS) | Reg. Season (RS) | Playoff (P) | Champ (C)| 
 |-----------------|:---------------------:|:---------------------:|:-------------------:|:------------:|:---------------:|
-|AUG 28 (12:30PM) ||GS1 ||||
-|SEP 2 (11:59PM) |[PR1](Practice/Practice1.pdf)([.zip](Practice/Practice1.zip))|||||
-|SEP 4 (12:30PM) |||RS1|||
-|SEP 11 (12:30PM)||GS2 ||||
-|SEP 16 (11:59PM) |[PR2](Practice/Practice2.pdf)([.zip](Practice/Practice2.zip))|||||
-|SEP 18  (12:30PM)|||RS2|||
-|SEP 25 (12:30PM)| |GS3 ||||
-|OCT 2 (12:30PM)|||RS3|||
-|OCT 9 (12:30PM)| |GS4 |||| 
-|OCT 15 (11:59PM)||||P||
-|OCT 23 (12:30PM)|||RS4|||
-|OCT 30 (12:30PM) ||GS5 ||||
-|NOV 6  (12:30PM)|||RS5|||
-|NOV 13 (12:30PM) ||GS6 ||||
-|NOV 18 (11:59PM) |||||C (Data)|
-|DEC 2 (12:30PM)|||RS6|||
-|DEC 3 (11:59PM) |||||C (Paper)|
-|DEC 8 (4PM) |||||C (Presentation)|
+|JAN 16 (11:15AM) ||GS1 ||||
+|JAN 21 (11:59PM) |[PR1](Practice/Practice1.pdf)([.zip](Practice/Practice1.zip))|||||
+|JAN 23 (11:15AM) |||RS1|||
+|JAN 30 (11:15AM)||GS2 ||||
+|FEB 4 (11:59PM) |[PR2](Practice/Practice2.pdf)([.zip](Practice/Practice2.zip))|||||
+|FEB 6  (11:15AM)|||RS2|||
+|FEB 13 (11:15AM)| |GS3 ||||
+|FEB 20 (11:15AM)|||RS3|||
+|FEB 27 (11:15AM)| |GS4 |||| 
+|MAR 6 (11:15AM)|||RS4|||
+|MAR 13 (11:59PM)||||P||
+|MAR 27 (11:15AM) ||GS5 ||||
+|APR 8 (11:59PM) |||||C (Data)|
+|APR 10  (11:15AM)|||RS5|||
+|APR 17 (11:15AM) ||GS6 ||||
+|APR 24 (11:15AM)|||RS6|||
+|APR 27 (11:59PM) |||||C (Paper)|
+|APR 29 (4PM) |||||C (Presentation)|
 |          |                   |               |           |              |       |
 
 
@@ -596,10 +608,10 @@ Any assignments requiring a deliverable will be submitted via **Canvas** as a PD
 Many of the assessments in this course will be done in a teams of 3 to 6 playas randomly chosen. For each team-based assignment, you will be given a different team. This will force you to interact with the majority of the class throughout the semester. After each team-based assignment, you will grade the contribution of your teammates on a scale from 0 to 3, and this will contribute to your overall grade for the given assignment. A decent portion of your final grade will be influenced by this. The following link contains all teams alphabetically: **[All Teams](Group Assignments/allTeams2.pdf)**
 
 ```{r,echo=F,results=TRUE,message=F}
-library(DT)
-library(tidyverse)
-library(readxl)
-datatable(read_csv("Group Assignments/allTeams2.csv"),class="display",options = list(scrollX=T, columnDefs = list(list(className = 'dt-center', targets = 0:2)) ),rownames=F)
+# library(DT)
+# library(tidyverse)
+# library(readxl)
+# datatable(read_csv("Group Assignments/allTeams2.csv"),class="display",options = list(scrollX=T, columnDefs = list(list(className = 'dt-center', targets = 0:2)) ),rownames=F)
 ```
 
 
@@ -607,42 +619,42 @@ In the table below, you can find your group for each of the specific team-based 
 
 |Due Date  | Assessment | Value Survey |
 |:----------:|:------------:|:--------------:|
-| AUG 28 | GS1 | [Value for GS1](https://docs.google.com/forms/d/e/1FAIpQLSdqPjLn-IrA-hqBUCNHbe8sgf3kxMSPNaLEE2mg_S31LAGuvg/viewform?usp=sf_link) |
-| SEP 11 | GS2 | [Value for GS2](https://docs.google.com/forms/d/e/1FAIpQLScQ967bd2WRx9nmMDfeoJD5UZZTFN4bPjYwyvXXBGw7ZEQBKA/viewform?usp=sf_link) |
-| SEP 25 | GS3 | [Value for GS3](https://docs.google.com/forms/d/e/1FAIpQLSeTAEas1kqxGZmJYQ640iX9AQIlgcirVJoxciEnn2UU7WcqAQ/viewform?usp=sf_link) |
-| OCT 9 | GS4 | [Value for GS4](https://docs.google.com/forms/d/e/1FAIpQLSchVRUxeiKYCfcRBWQ8Y85najkEO0FgPzhNFnYmmwIwWOp7VA/viewform?usp=sf_link) |
-| OCT 15 | P | [Value for Playoff](https://forms.gle/DPdTLLWDqFFtU1Rk7) |
-| OCT 30 | GS5 | [Value for GS5](https://docs.google.com/forms/d/e/1FAIpQLSdMncyMUUZZPk10QyFVMqymyQs4iCiqjombEuGP5jzwL3k0lA/viewform?usp=sf_link) |
-| NOV 13 | GS6 | [Value for GS6](https://docs.google.com/forms/d/e/1FAIpQLSdBlXUND1NfwBjZviwYhfGpS54nlEvsMaOK51yuAWh1tN9gFQ/viewform?usp=sharing) |
-| NOV 18 | C (Data) | [Value for Championship 1](https://forms.gle/Z85rGWemhw24m3qj8) |
-| DEC 8| C (Paper) | [Value for Championship 2](https://docs.google.com/forms/d/e/1FAIpQLSeIoeRjDLc0FtRn8qvxzhFb5ebaVc4xjh1xdlnC8saEtgIlxA/viewform?usp=sharing) |
+| JAN 16 | GS1 | [Value for GS1](https://docs.google.com/forms/d/e/1FAIpQLSdqPjLn-IrA-hqBUCNHbe8sgf3kxMSPNaLEE2mg_S31LAGuvg/viewform?usp=sf_link) |
+| JAN 23 | GS2 | [Value for GS2](https://docs.google.com/forms/d/e/1FAIpQLScQ967bd2WRx9nmMDfeoJD5UZZTFN4bPjYwyvXXBGw7ZEQBKA/viewform?usp=sf_link) |
+| FEB 13 | GS3 | [Value for GS3](https://docs.google.com/forms/d/e/1FAIpQLSeTAEas1kqxGZmJYQ640iX9AQIlgcirVJoxciEnn2UU7WcqAQ/viewform?usp=sf_link) |
+| FEB 27 | GS4 | [Value for GS4](https://docs.google.com/forms/d/e/1FAIpQLSchVRUxeiKYCfcRBWQ8Y85najkEO0FgPzhNFnYmmwIwWOp7VA/viewform?usp=sf_link) |
+| MAR 13 | P | [Value for Playoff](https://forms.gle/DPdTLLWDqFFtU1Rk7) |
+| MAR 27 | GS5 | [Value for GS5](https://docs.google.com/forms/d/e/1FAIpQLSdMncyMUUZZPk10QyFVMqymyQs4iCiqjombEuGP5jzwL3k0lA/viewform?usp=sf_link) |
+| APR 8 | C (Data) | [Value for Championship 1](https://forms.gle/Z85rGWemhw24m3qj8) |
+| APR 17 | GS6 | [Value for GS6](https://docs.google.com/forms/d/e/1FAIpQLSdBlXUND1NfwBjZviwYhfGpS54nlEvsMaOK51yuAWh1tN9gFQ/viewform?usp=sharing) |
+| APR 29| C (Paper) | [Value for Championship 2](https://docs.google.com/forms/d/e/1FAIpQLSeIoeRjDLc0FtRn8qvxzhFb5ebaVc4xjh1xdlnC8saEtgIlxA/viewform?usp=sharing) |
 | ||||
 
 # **Playoff Results**
 
-The predictions of all 9 teams can be accessed from the hyperlinks below. These three files contain predictions, actual values, calculations of MAE, and ranking. If you find any mistakes that cause the grades to change, I will adjust them.
+<!-- The predictions of all 9 teams can be accessed from the hyperlinks below. These three files contain predictions, actual values, calculations of MAE, and ranking. If you find any mistakes that cause the grades to change, I will adjust them. -->
 
-- [Spread](Playoff/SPREAD_class.csv)
-- [Total](Playoff/TOTAL_class.csv)
-- [Pass](Playoff/PASS_class.csv)
+<!-- - [Spread](Playoff/SPREAD_class.csv) -->
+<!-- - [Total](Playoff/TOTAL_class.csv) -->
+<!-- - [Pass](Playoff/PASS_class.csv) -->
 
 
-The table below shows each group's MAE for $Spread$, $Total$, and $Pass$, respectively. Also, you will see your group ranking for each of the three variables. It may be helpful to sort the table for each variable to see where your group is currently ranked.
+<!-- The table below shows each group's MAE for $Spread$, $Total$, and $Pass$, respectively. Also, you will see your group ranking for each of the three variables. It may be helpful to sort the table for each variable to see where your group is currently ranked. -->
 
 ```{r,echo=F,results=TRUE,message=F}
-library(DT)
-library(tidyverse)
-library(readxl)
-library(plyr)
-
-setwd("D:/DoctorMario/UNC/STOR 538/STOR538_WEBSITE/Playoff")
-
-ClassResults=read.csv(file="Class_Results.csv")
-
-ClassResults=mutate_at(ClassResults,.vars=2:7,.funs=round,digits=2)
-
-datatable(ClassResults,class="display",options = list(scrollX=F,
-            columnDefs = list(list(className = 'dt-center', targets = 0:6))),rownames=F)
+# library(DT)
+# library(tidyverse)
+# library(readxl)
+# library(plyr)
+# 
+# setwd("D:/DoctorMario/UNC/STOR 538/STOR538_WEBSITE/Playoff")
+# 
+# ClassResults=read.csv(file="Class_Results.csv")
+# 
+# ClassResults=mutate_at(ClassResults,.vars=2:7,.funs=round,digits=2)
+# 
+# datatable(ClassResults,class="display",options = list(scrollX=F,
+#             columnDefs = list(list(className = 'dt-center', targets = 0:6))),rownames=F)
 ```
 
 
