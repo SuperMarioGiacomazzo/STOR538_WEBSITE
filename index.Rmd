@@ -96,16 +96,29 @@ The statistical programming language R will be used to generate visualizations a
 - Game Days: MWF, 11:15AM - 12:05PM, Gardner 105
 
 - Office Hours: 
-    - Press Conference (Dr. Mario): M, 3PM - 4PM & F, 2PM - 3PM in Hanes 403
-    - Training Day (Lily): TBD
+    - Press Conference (Dr. Mario)
+        - M, 3PM - 4PM
+        - F, 2PM - 3PM
+        - Location: Hanes 403
+    - Training Day (Lily)
+        - TTh, 1:30PM - 2:30PM
+        - Location: Hanes B-07
 
 - University Approved Absences: **[Online Form](https://uaao.unc.edu/submit-a-request/)**
 
   </div>
   <div class="column">
-  <img src="UNC_Logo.png" width="auto" height="auto">
+  <img src="UNC_Logo.png" width="140px" height="auto">
   </div>
 </div> 
+
+# **Complete Before First Day**
+- Bookmark this **[course website](https://supermariogiacomazzo.github.io/STOR538_WEBSITE/)** in your browser
+- Get familiar with the course website and Canvas
+- View the syllabus using the hyperlink on the course website
+- Download the **[UNC Check-in App](https://unccheckin.unc.edu/#studentFAQ)** on your Mobile Phone
+-Complete the [survey](https://docs.google.com/forms/d/e/1FAIpQLSeUZhibzggxIDcUYNzg42y8EEzNfwVCb3JkSvARvzwfSIT01Q/viewform?usp=sf_link)
+- Remember to bring your laptop and mobile phone to class
 
 
 # **Playbook** {.tabset}
