@@ -80,7 +80,9 @@ Survey the application of statistics and mathematics to the sports industry expl
 
 The course will be organized by sport to ensure a comprehensive exploration of sports analytics. We will start with in-depth studies in Baseball, Basketball, American Football, Hockey, and Soccer. Later in the course, we will branch out according to the diverse interests of the class.
 
-The statistical programming language R will be used to generate visualizations and perform basic modeling.
+The statistical programming language R will be used to generate visualizations and perform basic modeling. When doing work, you will be able to use any programming language or software package of your choice. 
+
+This class is designed to be a research-focused course where you produce two high-level group projects that could potentially get you an internship or job in sports analytics or data science. You will not be taught how to code in this course so you will need a strong background in statistical programming in R or Python. Prior experience in visualization software like Tableau or Power BI is also a plus. Since this a 500-level course, I have extremely high expectations for the quality of these projects. Originality and creativity is essential. Papers should be professionally written and edited by the individuals in the group.
 
 
 
@@ -364,7 +366,7 @@ The regular season consists of biweekly quizzes on the material presented in cla
 <!-- - [Webscraping from Pro Football Reference](https://stmorse.github.io/journal/pfr-scrape-python.html) -->
 <!-- - [R Package: nflfastR](https://www.nflfastr.com/) -->
 <!-- - [Summary of Other Sources from OSU](https://sportsandsociety.osu.edu/sports-data-sets) -->
-<!-- <!-- - [Mario's Example of nbastatR](https://raw.githubusercontent.com/SuperMarioGiacomazzo/STOR538_WEBSITE/master/Playoff/NBA_Demo.R) --> -->
+<!-- <!-- - [Mario's Example of nbastatR](https://raw.githubusercontent.com/SuperMarioGiacomazzo/STOR538_WEBSITE/master/Playoff/NBA_Demo.R) -->
 
 <!-- For the engineering of new variables, consider creating differences and ratios between the stats for the home and away teams. Also, it may be useful to create variables that represent past information such as moving averages or lagged variables. You should be able to explain and defend the variables you create. This is your opportunity to test different ideas, and I do not care if any of the variables you engineer end up in your final model for prediction. You should defend any engineered on how you think they will be specifically helpful for predicting the three variables you are being asked to predict.  -->
 
