@@ -103,7 +103,7 @@ This class is designed to be a research-focused course where you produce two hig
         - F, 2PM - 3PM
         - Location: Hanes 403
     - Training Day (Lily)
-        - TTh, 1:30PM - 2:30PM
+        - TTh, 8:15AM - 9:15AM
         - Location: Hanes B-07
 
 - University Approved Absences: **[Online Form](https://uaao.unc.edu/submit-a-request/)**
