@@ -14,10 +14,11 @@ output:
     toc: yes
 ---
 
-```{r setup, include=FALSE} 
+```{r setup, include=FALSE}
 knitr::opts_chunk$set(warning = FALSE, message = FALSE) 
 ```
 
+```{=html}
 <style type="text/css">
 
 div {
@@ -73,186 +74,220 @@ background-color: #13294B;
 }
 
 </style>
-
+```
 # **Overview** {.tabset}
 
 Survey the application of statistics and mathematics to the sports industry exploring the history of analytics across various sports, understanding the advantages of sports analytics for both on-field performance and off-field business decisions, and examining current research to encourage creative thought of future development.
 
 The course will be organized by sport to ensure a comprehensive exploration of sports analytics. We will start with in-depth studies in Baseball, Basketball, American Football, Hockey, and Soccer. Later in the course, we will branch out according to the diverse interests of the class.
 
-The statistical programming language R will be used to generate visualizations and perform basic modeling. When doing work, you will be able to use any programming language or software package of your choice. 
+The statistical programming language R will be used to generate visualizations and perform basic modeling. When doing work, you will be able to use any programming language or software package of your choice.
 
 This class is designed to be a research-focused course where you produce two high-level group projects that could potentially get you an internship or job in sports analytics or data science. You will not be taught how to code in this course so you will need a strong background in statistical programming in R or Python. Prior experience in visualization software like Tableau or Power BI is also a plus. Since this a 500-level course, I have extremely high expectations for the quality of these projects. Originality and creativity is essential. Papers should be professionally written and edited by the individuals in the group.
 
-
-
 <div class="row">
-  <div class="column">
 
-- Head Coach: **[Mario Giacomazzo](https://stor.unc.edu/people/faculty/)**
+::: column
+-   Head Coach: [**Mario Giacomazzo**](https://stor.unc.edu/people/faculty/)
 
-- Personal Trainer: **[Lily Feingold](https://stor.unc.edu/people/graduate-students/)**
+-   Personal Trainer: [**Lily Feingold**](https://stor.unc.edu/people/graduate-students/)
 
-- Syllabus: **[Section 1](Syllabi\STOR 538 Section 1 Syllabus.pdf)**
+-   Syllabus: [**Section 1**](Syllabi\STOR%20538%20Section%201%20Syllabus.pdf)
 
-- Game Days: MWF, 11:15AM - 12:05PM, Gardner 105
+-   Game Days: MWF, 11:15AM - 12:05PM, Gardner 105
 
-- Office Hours: 
-    - Press Conference (Dr. Mario)
-        - M, 3PM - 4PM
-        - F, 2PM - 3PM
-        - Location: Hanes 403
-    - Training Day (Lily)
-        - TTh, 8:15AM - 9:15AM
-        - Location: Hanes B-07
+-   Office Hours:
 
-- University Approved Absences: **[Online Form](https://uaao.unc.edu/submit-a-request/)**
+    -   Press Conference (Dr. Mario)
+        -   M, 3PM - 4PM
+        -   F, 2PM - 3PM
+        -   Location: Hanes 403
+    -   Training Day (Lily)
+        -   TTh, 8:15AM - 9:15AM
+        -   Location: Hanes B-07
 
-  </div>
-  <div class="column">
-  <img src="UNC_Logo.png" width="140px" height="auto">
-  </div>
-</div> 
+-   University Approved Absences: [**Online Form**](https://uaao.unc.edu/submit-a-request/)
+
+    </div>
+
+    ::: column
+    <img src="UNC_Logo.png" width="140px" height="auto"/>
+    :::
+:::
 
 # **Complete Before First Day**
-- Bookmark this **[course website](https://supermariogiacomazzo.github.io/STOR538_WEBSITE/)** in your browser
-- Get familiar with the course website and Canvas
-- View the syllabus using the hyperlink on the course website
-- Download the **[UNC Check-in App](https://unccheckin.unc.edu/#studentFAQ)** on your Mobile Phone
--Complete the [survey](https://docs.google.com/forms/d/e/1FAIpQLSeUZhibzggxIDcUYNzg42y8EEzNfwVCb3JkSvARvzwfSIT01Q/viewform?usp=sf_link)
-- Remember to bring your laptop and mobile phone to class
 
+-   Bookmark this [**course website**](https://supermariogiacomazzo.github.io/STOR538_WEBSITE/) in your browser
+-   Get familiar with the course website and Canvas
+-   View the syllabus using the hyperlink on the course website
+-   Download the [**UNC Check-in App**](https://unccheckin.unc.edu/#studentFAQ) on your Mobile Phone -Complete the [survey](https://docs.google.com/forms/d/e/1FAIpQLSeUZhibzggxIDcUYNzg42y8EEzNfwVCb3JkSvARvzwfSIT01Q/viewform?usp=sf_link)
+-   Remember to bring your laptop and mobile phone to class
 
 # **Playbook** {.tabset}
 
 ## Required
 
-- Mathletics (2nd Edition), Winston Et al., 2022, [ISBN: 9780691177625](https://www.amazon.com/Mathletics-Gamblers-Managers-Mathematics-Sports/dp/0691177627/ref=pd_lpo_1?pd_rd_w=Huo2i&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=ED5MDSAZ4VPN2XB2ND8T&pd_rd_wg=FMEFX&pd_rd_r=0498b611-9f4f-45a8-8a78-0ff980ecc143&pd_rd_i=0691177627&psc=1) (MATH)
+-   Mathletics (2nd Edition), Winston Et al., 2022, [ISBN: 9780691177625](https://www.amazon.com/Mathletics-Gamblers-Managers-Mathematics-Sports/dp/0691177627/ref=pd_lpo_1?pd_rd_w=Huo2i&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=ED5MDSAZ4VPN2XB2ND8T&pd_rd_wg=FMEFX&pd_rd_r=0498b611-9f4f-45a8-8a78-0ff980ecc143&pd_rd_i=0691177627&psc=1) (MATH)
 
 ## Optional
 
-- Handbook of Statistical Methods and Analyses in Sports, Albert, Glickman, Et al., 2017, [ISBN: 9781498737364](https://www.amazon.com/Handbook-Statistical-Methods-Analyses-Handbooks-ebook/dp/B071X4CCVX/ref=sr_1_1?keywords=handbook+of+statistical+methods+and+analyses+in+sports&qid=1566148999&s=gateway&sr=8-1) (HSMAS)
+-   Handbook of Statistical Methods and Analyses in Sports, Albert, Glickman, Et al., 2017, [ISBN: 9781498737364](https://www.amazon.com/Handbook-Statistical-Methods-Analyses-Handbooks-ebook/dp/B071X4CCVX/ref=sr_1_1?keywords=handbook+of+statistical+methods+and+analyses+in+sports&qid=1566148999&s=gateway&sr=8-1) (HSMAS)
 
-- Sports Analytics: A Guide for Coaches, Managers, and Other Decision Makers, Alamar, 2013, [ISBN: 9780231162920](https://www.amazon.com/Sports-Analytics-Coaches-Managers-Decision/dp/0231162928/ref=sr_1_1?keywords=sports+analytics+alamar&qid=1565993176&s=books&sr=1-1) (SPAN)
+-   Sports Analytics: A Guide for Coaches, Managers, and Other Decision Makers, Alamar, 2013, [ISBN: 9780231162920](https://www.amazon.com/Sports-Analytics-Coaches-Managers-Decision/dp/0231162928/ref=sr_1_1?keywords=sports+analytics+alamar&qid=1565993176&s=books&sr=1-1) (SPAN)
 
-- Sports Analytics: A Guide for Coaches, Managers, and Other Decision Makers (2nd Edition), Alamar, 2024, [ISBN: 9780231205207](https://www.amazon.com/Sports-Analytics-Coaches-Managers-Decision-dp-0231205201/dp/0231205201/ref=dp_ob_title_bk) (SPAN2)
+-   Sports Analytics: A Guide for Coaches, Managers, and Other Decision Makers (2nd Edition), Alamar, 2024, [ISBN: 9780231205207](https://www.amazon.com/Sports-Analytics-Coaches-Managers-Decision-dp-0231205201/dp/0231205201/ref=dp_ob_title_bk) (SPAN2)
 
-- Analytic Methods in Sports, Severini, 2015, [ISBN: 9781482237016](https://www.amazon.com/Analytic-Methods-Sports-Mathematics-Statistics/dp/1482237016/ref=sr_1_1?keywords=severini+sports+analytics&qid=1565993126&s=gateway&sr=8-1) (AMS)
+-   Analytic Methods in Sports, Severini, 2015, [ISBN: 9781482237016](https://www.amazon.com/Analytic-Methods-Sports-Mathematics-Statistics/dp/1482237016/ref=sr_1_1?keywords=severini+sports+analytics&qid=1565993126&s=gateway&sr=8-1) (AMS)
 
-- Practicing Sabermetrics: Putting the Science of Baseball Statistics to Work, Costa et Al., 2009, [ISBN: 9780786441778](https://www.amazon.com/Practicing-Sabermetrics-Putting-Baseball-Statistics-ebook/dp/B00EEQ65J6/ref=sr_1_1?keywords=9780786441778&qid=1567533724&s=gateway&sr=8-1) (PS)
+-   Practicing Sabermetrics: Putting the Science of Baseball Statistics to Work, Costa et Al., 2009, [ISBN: 9780786441778](https://www.amazon.com/Practicing-Sabermetrics-Putting-Baseball-Statistics-ebook/dp/B00EEQ65J6/ref=sr_1_1?keywords=9780786441778&qid=1567533724&s=gateway&sr=8-1) (PS)
 
-- Analyzing Baseball Data with R, Marchi and Albert, 2014, [ISBN:9781466570238](https://www.amazon.com/Analyzing-Baseball-Data-Chapman-Hall-ebook/dp/B00GBC36S4/ref=sr_1_1?keywords=9781466570238&qid=1567536374&s=gateway&sr=8-1) (ABDR)
+-   Analyzing Baseball Data with R, Marchi and Albert, 2014, [ISBN:9781466570238](https://www.amazon.com/Analyzing-Baseball-Data-Chapman-Hall-ebook/dp/B00GBC36S4/ref=sr_1_1?keywords=9781466570238&qid=1567536374&s=gateway&sr=8-1) (ABDR)
 
-- Sports Math: An Introductory Course in the Mathematics of Sports Science and Sports Analytics, Minton, 2017, [ISBN:9781498706261](https://www.amazon.com/Sports-Math-Introductory-Mathematics-Analytics-ebook/dp/B01N6Y6EVT/ref=sr_1_1?keywords=9781498706261&qid=1567565121&s=gateway&sr=8-1) (SM)
+-   Sports Math: An Introductory Course in the Mathematics of Sports Science and Sports Analytics, Minton, 2017, [ISBN:9781498706261](https://www.amazon.com/Sports-Math-Introductory-Mathematics-Analytics-ebook/dp/B01N6Y6EVT/ref=sr_1_1?keywords=9781498706261&qid=1567565121&s=gateway&sr=8-1) (SM)
 
-- Introduction to NFL Analytics with R, Congelio, 2023, [ISBN:9781032427751](https://www.amazon.com/Introduction-Analytics-Chapman-Hall-Science/dp/1032427752/ref=sr_1_1?crid=3JET8VKTXMVN5&keywords=introduction+to+nfl+analytics+with+R&qid=1704903750&sprefix=introduction+to+nfl+analytics+with+r%2Caps%2C126&sr=8-1) (INAR)
+-   Introduction to NFL Analytics with R, Congelio, 2023, [ISBN:9781032427751](https://www.amazon.com/Introduction-Analytics-Chapman-Hall-Science/dp/1032427752/ref=sr_1_1?crid=3JET8VKTXMVN5&keywords=introduction+to+nfl+analytics+with+R&qid=1704903750&sprefix=introduction+to+nfl+analytics+with+r%2Caps%2C126&sr=8-1) (INAR)
 
 ## Programming
 
-- [An Introduction to Statistical Learning](Textbooks in R/An Introduction to Statistical Learning.pdf)
+-   [An Introduction to Statistical Learning](Textbooks%20in%20R/An%20Introduction%20to%20Statistical%20Learning.pdf)
 
-- [R for Data Science](Textbooks in R/R for Data Science- Import, Tidy, Transform, Visualize, and Model Data.pdf)
+-   [R for Data Science](Textbooks%20in%20R/R%20for%20Data%20Science-%20Import,%20Tidy,%20Transform,%20Visualize,%20and%20Model%20Data.pdf)
 
 ## Mathletics Files
 
-- [Baseball](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Baseball)
-- [Basketball](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Basketball)
-- [Football](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Football)
-- [Gambling](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Gambling)
+-   [Baseball](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Baseball)
+-   [Basketball](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Basketball)
+-   [Football](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Football)
+-   [Gambling](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Gambling)
 
 ## Sports Research
 
-- [Score Network](https://scorenetwork.org/)
-- [Journal of Quantitative Analysis in Sports](https://www.degruyterbrill.com/journal/key/jqas/html?lang=en&srsltid=AfmBOortUyRlPVHVH9JelLVxa9za0HQAohimpbGE0MHMZmP2RKQQKlPM)
-- [Journal of Sports Analytics](https://journals.sagepub.com/home/SAN)
-
-
+-   [Score Network](https://scorenetwork.org/)
+-   [Journal of Quantitative Analysis in Sports](https://www.degruyterbrill.com/journal/key/jqas/html?lang=en&srsltid=AfmBOortUyRlPVHVH9JelLVxa9za0HQAohimpbGE0MHMZmP2RKQQKlPM)
+-   [Journal of Sports Analytics](https://journals.sagepub.com/home/SAN)
 
 # **Film Sessions** {.tabset}
 
 ## First Half
 
-| Date | Lecture | Material | Reading |
-|------|---------|--------:|---------:|
-|JAN 7| Syllabus     | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeUZhibzggxIDcUYNzg42y8EEzNfwVCb3JkSvARvzwfSIT01Q/viewform?usp=sf_link)||
-|JAN 9| Sports Analytics I | [Slides](Slides/Sports Analytics 1/Sports_Analytics_1_Lecture.pdf) |Ch. 1 SPAN, [Web 1](https://www.hdled.com/top-20-most-popular-sports-in-the-world/),[Web 2](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html), [Web 3](https://news.gallup.com/poll/610046/football-retains-dominant-position-favorite-sport.aspx), [Web 4](https://news.harvard.edu/gazette/story/2022/10/is-mlb-ready-to-compete-for-next-generation-of-fans/), [Web 5](https://en.wikipedia.org/wiki/List_of_professional_sports_leagues_by_revenue#:~:text=%20%20%20%20Rank%20%20%20,%20%20380%20%2014%20more%20rows%20), [Web 6](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america), [Web 7](https://twitter.com/thesfia/status/1120787424832045067), [Web 8](https://sgbonline.com/report-team-sports-participation-grows-in-2021-but-falls-short-of-2019/),[Web 9](https://www.athleticbusiness.com/operations/programming/article/15705426/sfia-report-team-sports-participants-increased-in-2023-by-8m-over-2022-numbers#:~:text=Programming-,SFIA%20Report%3A%20Team%20Sports%20Participants%20Increased%20in,by%208M%20Over%202022%20Numbers&text=The%20Sports%20%26%20Fitness%20Industry%20Association,2022%2C%20an%2011%25%20increase.), [Web 10](https://www.statista.com/chart/30240/respondents-who-do-the-following-sports-at-least-occasionally/), [Web 11](https://biggestglobalsports.com/worlds-biggest-sports/4580873435), [Web 12](https://youthsportsbusinessreport.com/unpacking-the-sfias-record-breaking-2025-participation-report/), [Web 13](https://www.usta.com/es/content/dam/usta/sections/intermountain/districts/colorado/pdfs/sfia-reports/2024-sfia-topline.pdf) |
-|JAN 12| Sports Analytics I (Cont.)| [Slides](Slides/Sports Analytics 1/Sports_Analytics_1_Lecture.pdf) |Ch. 1 SPAN, [Web 1](https://www.hdled.com/top-20-most-popular-sports-in-the-world/),[Web 2](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html), [Web 3](https://news.gallup.com/poll/610046/football-retains-dominant-position-favorite-sport.aspx), [Web 4](https://news.harvard.edu/gazette/story/2022/10/is-mlb-ready-to-compete-for-next-generation-of-fans/), [Web 5](https://en.wikipedia.org/wiki/List_of_professional_sports_leagues_by_revenue#:~:text=%20%20%20%20Rank%20%20%20,%20%20380%20%2014%20more%20rows%20), [Web 6](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america), [Web 7](https://twitter.com/thesfia/status/1120787424832045067), [Web 8](https://sgbonline.com/report-team-sports-participation-grows-in-2021-but-falls-short-of-2019/),[Web 9](https://www.athleticbusiness.com/operations/programming/article/15705426/sfia-report-team-sports-participants-increased-in-2023-by-8m-over-2022-numbers#:~:text=Programming-,SFIA%20Report%3A%20Team%20Sports%20Participants%20Increased%20in,by%208M%20Over%202022%20Numbers&text=The%20Sports%20%26%20Fitness%20Industry%20Association,2022%2C%20an%2011%25%20increase.), [Web 10](https://www.statista.com/chart/30240/respondents-who-do-the-following-sports-at-least-occasionally/), [Web 11](https://biggestglobalsports.com/worlds-biggest-sports/4580873435), [Web 12](https://youthsportsbusinessreport.com/unpacking-the-sfias-record-breaking-2025-participation-report/), [Web 13](https://www.usta.com/es/content/dam/usta/sections/intermountain/districts/colorado/pdfs/sfia-reports/2024-sfia-topline.pdf) |
-|| Sports Analytics II | [Slides](Slides/Sports Analytics 2/Sports_Analytics_2_Lecture.pdf) | Ch. 1-7 SPAN,[Web 1](https://cupblog.org/2024/05/08/benjamin-c-alamar-on-the-second-edition-of-sports-analytics/) ,[Web 2](https://www.fandomanalytics.com/)|
-|JAN 14| Sports Analytics III | [Slides](Slides/Sports Analytics 3/Sports_Analytics_3_Lecture.pdf) | [Web 1](https://www.thebusinessresearchcompany.com/report/sports-global-market-report), [Web 2](https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/sports-business-trends-disruption.html), [Web 3](https://www.grandviewresearch.com/industry-analysis/sports-analytics-market), [Web 4](https://www.forbes.com/sites/forbestechcouncil/2019/01/31/how-data-analysis-in-sports-is-changing-the-game/?sh=7bccb29b3f7b), [Web 5](https://www.soccermetrics.net/misc-stuff/sports-analytics-career-advice), [Web 6](https://www.datacamp.com/blog/sports-analytics-how-different-sports-use-data-analysis), [Web 7](https://www.grandviewresearch.com/industry-analysis/us-sports-betting-market-report), [Web 8](https://conferenceindex.org/conferences/sport-analytics)|
-|JAN 16| Sports Analytics IV| [Slides](Slides/Sports Analytics 4/Sports_Analytics_4_Lecture.pdf) | [Web 1](https://www.sportsmanagementworldwide.com/), [Web 2](https://www.udemy.com/courses/search/?src=ukw&q=sports%20analytics), [Web 3](https://sweepsportsanalytics.com/2021/08/01/10-steps-to-get-started-in-sports-analytics/), [Article 1](Articles/General/SportsAnalytics_Swartz.pdf) |
-|JAN 19 | MLK | No Class ||
-|FEB 9 | Well-being Day| No Class ||
-|MAR 16 | Spring Break| No Class ||
-|MAR 18 | Spring Break| No Class ||
-|MAR 20 | Spring Break| No Class ||
-|APR 3 | Best Friday| No Class ||
-|APR 27| Work on Championship | | |
-|||||
+| Date   | Lecture                    |                                                                                                                  Material |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Reading |
+|-----------------|------------------|-----------------:|-------------------:|
+| JAN 7  | Syllabus                   | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeUZhibzggxIDcUYNzg42y8EEzNfwVCb3JkSvARvzwfSIT01Q/viewform?usp=sf_link) |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| JAN 9  | Sports Analytics I         |                                                    [Slides](Slides/Sports%20Analytics%201/Sports_Analytics_1_Lecture.pdf) | Ch. 1 SPAN, [Web 1](https://www.hdled.com/top-20-most-popular-sports-in-the-world/),[Web 2](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html), [Web 3](https://news.gallup.com/poll/610046/football-retains-dominant-position-favorite-sport.aspx), [Web 4](https://news.harvard.edu/gazette/story/2022/10/is-mlb-ready-to-compete-for-next-generation-of-fans/), [Web 5](https://en.wikipedia.org/wiki/List_of_professional_sports_leagues_by_revenue#:~:text=%20%20%20%20Rank%20%20%20,%20%20380%20%2014%20more%20rows%20), [Web 6](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america), [Web 7](https://twitter.com/thesfia/status/1120787424832045067), [Web 8](https://sgbonline.com/report-team-sports-participation-grows-in-2021-but-falls-short-of-2019/),[Web 9](https://www.athleticbusiness.com/operations/programming/article/15705426/sfia-report-team-sports-participants-increased-in-2023-by-8m-over-2022-numbers#:~:text=Programming-,SFIA%20Report%3A%20Team%20Sports%20Participants%20Increased%20in,by%208M%20Over%202022%20Numbers&text=The%20Sports%20%26%20Fitness%20Industry%20Association,2022%2C%20an%2011%25%20increase.), [Web 10](https://www.statista.com/chart/30240/respondents-who-do-the-following-sports-at-least-occasionally/), [Web 11](https://biggestglobalsports.com/worlds-biggest-sports/4580873435), [Web 12](https://youthsportsbusinessreport.com/unpacking-the-sfias-record-breaking-2025-participation-report/), [Web 13](https://www.usta.com/es/content/dam/usta/sections/intermountain/districts/colorado/pdfs/sfia-reports/2024-sfia-topline.pdf) |
+| JAN 12 | Sports Analytics I (Cont.) |                                                    [Slides](Slides/Sports%20Analytics%201/Sports_Analytics_1_Lecture.pdf) | Ch. 1 SPAN, [Web 1](https://www.hdled.com/top-20-most-popular-sports-in-the-world/),[Web 2](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html), [Web 3](https://news.gallup.com/poll/610046/football-retains-dominant-position-favorite-sport.aspx), [Web 4](https://news.harvard.edu/gazette/story/2022/10/is-mlb-ready-to-compete-for-next-generation-of-fans/), [Web 5](https://en.wikipedia.org/wiki/List_of_professional_sports_leagues_by_revenue#:~:text=%20%20%20%20Rank%20%20%20,%20%20380%20%2014%20more%20rows%20), [Web 6](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america), [Web 7](https://twitter.com/thesfia/status/1120787424832045067), [Web 8](https://sgbonline.com/report-team-sports-participation-grows-in-2021-but-falls-short-of-2019/),[Web 9](https://www.athleticbusiness.com/operations/programming/article/15705426/sfia-report-team-sports-participants-increased-in-2023-by-8m-over-2022-numbers#:~:text=Programming-,SFIA%20Report%3A%20Team%20Sports%20Participants%20Increased%20in,by%208M%20Over%202022%20Numbers&text=The%20Sports%20%26%20Fitness%20Industry%20Association,2022%2C%20an%2011%25%20increase.), [Web 10](https://www.statista.com/chart/30240/respondents-who-do-the-following-sports-at-least-occasionally/), [Web 11](https://biggestglobalsports.com/worlds-biggest-sports/4580873435), [Web 12](https://youthsportsbusinessreport.com/unpacking-the-sfias-record-breaking-2025-participation-report/), [Web 13](https://www.usta.com/es/content/dam/usta/sections/intermountain/districts/colorado/pdfs/sfia-reports/2024-sfia-topline.pdf) |
+|        | Sports Analytics II        |                                                    [Slides](Slides/Sports%20Analytics%202/Sports_Analytics_2_Lecture.pdf) |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Ch. 1-7 SPAN,[Web 1](https://cupblog.org/2024/05/08/benjamin-c-alamar-on-the-second-edition-of-sports-analytics/) ,[Web 2](https://www.fandomanalytics.com/) |
+| JAN 14 | Sports Analytics III       |                                                    [Slides](Slides/Sports%20Analytics%203/Sports_Analytics_3_Lecture.pdf) |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      [Web 1](https://www.thebusinessresearchcompany.com/report/sports-global-market-report), [Web 2](https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/sports-business-trends-disruption.html), [Web 3](https://www.grandviewresearch.com/industry-analysis/sports-analytics-market), [Web 4](https://www.forbes.com/sites/forbestechcouncil/2019/01/31/how-data-analysis-in-sports-is-changing-the-game/?sh=7bccb29b3f7b), [Web 5](https://www.soccermetrics.net/misc-stuff/sports-analytics-career-advice), [Web 6](https://www.datacamp.com/blog/sports-analytics-how-different-sports-use-data-analysis), [Web 7](https://www.grandviewresearch.com/industry-analysis/us-sports-betting-market-report), [Web 8](https://conferenceindex.org/conferences/sport-analytics) |
+| JAN 16 | Sports Analytics IV        |                                                    [Slides](Slides/Sports%20Analytics%204/Sports_Analytics_4_Lecture.pdf) |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     [Web 1](https://www.sportsmanagementworldwide.com/), [Web 2](https://www.udemy.com/courses/search/?src=ukw&q=sports%20analytics), [Web 3](https://sweepsportsanalytics.com/2021/08/01/10-steps-to-get-started-in-sports-analytics/), [Article 1](Articles/General/SportsAnalytics_Swartz.pdf) |
+| JAN 19 | MLK                        |                                                                                                                  No Class |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| FEB 9  | Well-being Day             |                                                                                                                  No Class |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| MAR 16 | Spring Break               |                                                                                                                  No Class |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| MAR 18 | Spring Break               |                                                                                                                  No Class |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| MAR 20 | Spring Break               |                                                                                                                  No Class |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| APR 3  | Best Friday                |                                                                                                                  No Class |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| APR 27 | Work on Championship       |                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|        |                            |                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 ## Second Half
 
-
-
 <!-- |APR 23| Last Lecture | | | -->
+
 <!-- |APR 25| Work on Championship | | | -->
+
 <!-- |APR 28| Work on Championship | | | -->
+
 <!-- ||||| -->
 
-
-
-
-
 <!-- |SEP 9| Baseball I | [Slides](Slides/Baseball 1/Baseball_1_Lecture.pdf) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](Articles/Baseball/Baseball_Albert.pdf) | -->
+
 <!-- |SEP 11| Baseball II | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM| -->
+
 <!-- |SEP 16| Baseball II (Cont.) | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM| -->
+
 <!-- || Baseball III | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH| -->
+
 <!-- |SEP 18| Discussion of Playoff | || -->
+
 <!-- |SEP 23| Baseball IV| [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)| -->
+
 <!-- |SEP 25| Baseball V| [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH, [Web](https://batsandstats.com/2016/08/03/one-of-my-favorite-baseball-stats/)| -->
+
 <!-- |SEP 30| Baseball V (Cont.)| [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH, [Web](https://batsandstats.com/2016/08/03/one-of-my-favorite-baseball-stats/)| -->
+
 <!-- || Baseball VI | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 7-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp),[Web 3](https://gregstoll.com/~gregstoll/baseball/stats.html#V.0.1.0.1.0.0), [Web 4](https://baseballsavant.mlb.com/leaderboard/outs_above_average?type=Fielder&startYear=2019&endYear=2019&split=no&team=&range=year&min=q&pos=of&roles=&viz=show), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)| -->
+
 <!-- |OCT 2| Baseball VI | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 7-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp),[Web 3](https://gregstoll.com/~gregstoll/baseball/stats.html#V.0.1.0.1.0.0), [Web 4](https://baseballsavant.mlb.com/leaderboard/outs_above_average?type=Fielder&startYear=2019&endYear=2019&split=no&team=&range=year&min=q&pos=of&roles=&viz=show), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)| -->
+
 <!-- || Baseball VII | [Slides](Slides/Baseball 7/Baseball_7_Lecture.pdf) |Ch. 11,16 MATH, [Article 1](Articles/Baseball/Baseball2_Albert.pdf), [Article 2](Baseball_Arbseman_Strogatz.pdf)| -->
+
 <!-- |OCT 7| Well-Being | No Class || -->
+
 <!-- |OCT  9| Baseball VII (Cont.) | [Slides](Slides/Baseball 7/Baseball_7_Lecture.pdf) |Ch. 11,16 MATH, [Article 1](Articles/Baseball/Baseball2_Albert.pdf), [Article 2](Baseball_Arbseman_Strogatz.pdf)| -->
+
 <!-- ||||| -->
 
 <!-- ## Second Half -->
 
 <!-- | Date | Lecture | Material | Reading | -->
+
 <!-- |------|---------|--------:|---------:| -->
+
 <!-- |OCT 14| Basketball I | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) | -->
+
 <!-- |OCT 16| Fall Break | No Class || -->
+
 <!-- |OCT 21| Basketball I (Cont.)| [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) | -->
+
 <!-- || Basketball II | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) | -->
+
 <!-- |OCT 23| Championship | | [Example](Championship/Spikeball.pdf) | -->
+
 <!-- || Basketball III | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 32-33 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)| -->
+
 <!-- |OCT 28| Basketball III (Cont.) | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 32-33 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)| -->
+
 <!-- |OCT 30| Basketball IV| [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 31,34 MATH, [Web 1](https://www.basketball-reference.com/about/bpm2.html)| -->
+
 <!-- |NOV 4| Basketball IV (Cont.)| [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 31,34 MATH, [Web 1](https://www.basketball-reference.com/about/bpm2.html)| -->
+
 <!-- || Basketball V | [Slides](Slides/Basketball 5/Basketball_5_Lecture.pdf) |Ch. 35 MATH, [Article 1](Articles/Basketball/Basketball_PriceWolfers.pdf)| -->
+
 <!-- |NOV 6| Basketball VI | [Slides](Slides/Basketball 6/Basketball_6_Lecture.pdf) |Ch. 38 MATH, [Web 1](https://www.inpredictable.com/2016/05/endgame-strategy-in-nba.html), [Web 2](http://www.82games.com/lawhorn.htm),[Article 1](Articles/Basketball/Basketball_Gill.pdf), [Article 2](Articles/Basketball/Basketball_Kenter.pdf), [Article 3](Articles/Basketball/Basketball_Annis.pdf)| -->
+
 <!-- |NOV 11| Football I | [Slides](Slides/Football 1/Footballl_1_Lecture.pdf) |Ch. 18 MATH| -->
+
 <!-- || Football II | [Slides](Slides/Football 2/Footballl_2_Lecture.pdf) |Ch. 19 MATH, [Web 1](https://hbr.org/2019/04/whos-the-most-important-member-of-an-nfl-franchise), [Web 2](https://bleacherreport.com/articles/1691533-which-metric-matters-most-when-evaluating-nfl-quarterbacks), [Web 3](https://www.espn.com/blog/statsinfo/post/_/id/123701/how-is-total-qbr-calculated-we-explain-our-quarterback-rating), [Article 1](Articles/Football/Football_WhiteBerry.pdf) | -->
+
 <!-- |NOV 13| Work on Project| Only Gameday Speeches || -->
+
 <!-- |NOV 18| Football II | [Slides](Slides/Football 2/Footballl_2_Lecture.pdf) |Ch. 19 MATH, [Web 1](https://hbr.org/2019/04/whos-the-most-important-member-of-an-nfl-franchise), [Web 2](https://bleacherreport.com/articles/1691533-which-metric-matters-most-when-evaluating-nfl-quarterbacks), [Web 3](https://www.espn.com/blog/statsinfo/post/_/id/123701/how-is-total-qbr-calculated-we-explain-our-quarterback-rating), [Article 1](Articles/Football/Football_WhiteBerry.pdf) | -->
+
 <!-- || Football III | [Slides](Slides/Football 3/Footballl_3_Lecture.pdf) |Ch. 20 MATH, [Web 1](http://www.advancedfootballanalytics.com/2010/01/expected-points-ep-and-expected-points.html), [Article 1](Articles/Football/Football_CarterMachol.pdf), [Article 2](Articles/Football/Football_Romer.pdf), [Article 3](Articles/Football/Football_Goldner.pdf) | -->
+
 <!-- |NOV 20| Football IV | [Slides](Slides/Football 4/Footballl_4_Lecture.pdf) | Ch. 21 MATH, [Web 1](https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c), [Article 1](Articles/Football/Football_Pelechrinis2.pdf), [Article 2](Articles/Football/Football_PelechrinisPapalexakis.pdf) | -->
+
 <!-- || Football V | [Slides](Slides/Football 5/Footballl_5_Lecture.pdf) | Ch. 22 MATH, [Web 1](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html), [Web 2](https://plato.stanford.edu/entries/game-theory/), [Web 3](http://www.advancedfootballanalytics.com/2008/06/game-theory-and-runpass-balance.html) | -->
+
 <!-- || Football VI | [Slides](Slides/Football 6/Footballl_6_Lecture.pdf)  | Ch. 25-26 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1), [Article 1](Articles/Football/Football_King.pdf), [Article 2](Articles/Football/Football_MasseyThaler.pdf) | -->
+
 <!-- |NOV 25| Work on Project| No Class || -->
+
 <!-- |NOV 27| Thanksgiving | No Class || -->
+
 <!-- |DEC 2| Final Regular Season Quiz | Final Class || -->
 
 <!-- |NOV 19| Hockey I | [Slides](Slides/Hockey 1/Hockey_1_Lecture.pdf) | Ch. 13-15 HSMAS, [Article 1](Articles/Hockey/Hockey_Thomas_Ventura_Jensen_Ma.pdf), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick),[Web 2](http://hockeygoalies.org/stats/glossary.html), [Web 3](https://rdrr.io/cran/nhlscrapr/) | -->
+
 <!-- |NOV 22| Hockey II |  [Slides](Slides/Hockey 2/Hockey_2_Lecture.pdf) | Ch. 13-15 HSMAS, [Article 1](Articles/Hockey/Hockey_Thomas_Ventura_Jensen_Ma.pdf), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick),[Web 2](http://hockeygoalies.org/stats/glossary.html), [Web 3](https://rdrr.io/cran/nhlscrapr/) | -->
+
 <!-- |NOV 24| Thanksgiving #SWAG | | | -->
+
 <!-- |NOV 26| Thanksgiving #SWAG | | | -->
+
 <!-- |NOV 29| Work on Championship| | | -->
+
 <!-- |DEC 1| Last Regular Season Quiz | | | -->
+
 <!-- ||||| -->
-
-
 
 # **Fundamentals of Sports Analytics** {.tabset}
 
@@ -260,91 +295,86 @@ In this class, your performance will be graded using **six** different assessmen
 
 ## Attendance
 
-Attendance will be taken every class using the UNC Check-in App. You will need to install the UNC Check-in app to your mobile device and bring it to every class. Starting at the beginning of class, you will have 15 minutes to check-in using the mobile app. Instructions for installing and using the UNC Check-in App are available at <https://unccheckin.unc.edu/>. Go to this website to learn more. You need to attend at least 70% of the lectures to get credit for attendance, otherwise you will receive a 0 for your attendance grade. If you need to miss class for a reason permitted by the university and you don’t want to be penalized, you will need to get a university approved absence at <https://uaao.unc.edu/submit-a-request/>. If you cannot get a university approved absence and don’t want to be penalized, you must notify your instructor of the reason and provide documentation of the reason in email. The reason should line up with UNC’S definition of a university approved absence. For example, a job interview would not be approved by the university or me. 
+Attendance will be taken every class using the UNC Check-in App. You will need to install the UNC Check-in app to your mobile device and bring it to every class. Starting at the beginning of class, you will have 15 minutes to check-in using the mobile app. Instructions for installing and using the UNC Check-in App are available at <https://unccheckin.unc.edu/>. Go to this website to learn more. You need to attend at least 70% of the lectures to get credit for attendance, otherwise you will receive a 0 for your attendance grade. If you need to miss class for a reason permitted by the university and you don’t want to be penalized, you will need to get a university approved absence at <https://uaao.unc.edu/submit-a-request/>. If you cannot get a university approved absence and don’t want to be penalized, you must notify your instructor of the reason and provide documentation of the reason in email. The reason should line up with UNC’S definition of a university approved absence. For example, a job interview would not be approved by the university or me.
 
--------
+------------------------------------------------------------------------
 
->Your best ability is availability.
+> Your best ability is availability.
 >
->
-> ~ _George Kittle_ et. al.
+> \~ *George Kittle* et. al.
 
--------
+------------------------------------------------------------------------
 
 ## Practice
 
 There will be at least one assignment designed to test proficiency in data science. This class involves group projects that require strong data science skills. These assignments will require you to perform data science tasks with data and must be done individually without the help of any other students in the course. The work required for these assignments will not be taught in the course but will come from material and topics taught in STOR 320 and/or STOR 455 and/or other provided material. These assignments will be submitted to either Canvas or Gradescope by the due date. You will receive a 25% penalty for less than one day late, 50% penalty for less than two days late, and 75% penalty for less than three days late. After three days, practice assignments will not be accepted. Expect these assignments early in the semester.
 
--------
+------------------------------------------------------------------------
 
->Practice makes perfect.
+> Practice makes perfect.
 >
->
-> ~ _Bruce Lee_ et. al.
+> \~ *Bruce Lee* et. al.
 
--------
+------------------------------------------------------------------------
 
 ## Gameday Speech
 
 Gameday speeches are to be done in teams. Biweekly, your team will find a journal article from a refereed journal to read and summarize in an 8 slide gameday speech. You need to pick an article that none of the group members have read (previous gameday speech) and that hasn't already been presented in class.
 
-- Slide 1: Title of the article, the names of the author(s), source of the article, and the name(s) of the presenters. If you have a team member who did not participate in reading the article or making the slides, **DO NOT** put their name on this slide. They will receive an automatic 0.
+-   Slide 1: Title of the article, the names of the author(s), source of the article, and the name(s) of the presenters. If you have a team member who did not participate in reading the article or making the slides, **DO NOT** put their name on this slide. They will receive an automatic 0.
 
-- Slide 2-3: Summarize the overarching themes of the article(s). Discuss the research goal(s) of the paper in at least 6 bullet points.
+-   Slide 2-3: Summarize the overarching themes of the article(s). Discuss the research goal(s) of the paper in at least 6 bullet points.
 
-- Slide 4-6: Talk about the methodology. What did the author(s) do to answer their research goal? Discuss the methodology in at least 8 bullet points.
+-   Slide 4-6: Talk about the methodology. What did the author(s) do to answer their research goal? Discuss the methodology in at least 8 bullet points.
 
-- Slide 7: What did you like? What did you find confusing? Provide three positive critiques of the paper. Focus on the methodology used in the article.
+-   Slide 7: What did you like? What did you find confusing? Provide three positive critiques of the paper. Focus on the methodology used in the article.
 
-- Slide 8: What did you not like or think could have been improved? Give three negative critiques of the paper. Focus on the methodology used in the article.
+-   Slide 8: What did you not like or think could have been improved? Give three negative critiques of the paper. Focus on the methodology used in the article.
 
 On gameday, I will use a random number generator to pick 3 or 4 groups to present in 5 to 8 minutes. All groups will be graded based on the criteria, but only 3 groups will present.
 
-The presentation should be submitted on Canvas before class starts on the due date. Each group should have their own presentation, but needs to be submitted by every member of the group as a **pdf**. Also, each group member can assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). Fill out the appropriate Google Form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group. 
+The presentation should be submitted on Canvas before class starts on the due date. Each group should have their own presentation, but needs to be submitted by every member of the group as a **pdf**. Also, each group member can assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). Fill out the appropriate Google Form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group.
 
-Gameday speeches are worth a total of 24 points with minor exceptions: 
+Gameday speeches are worth a total of 24 points with minor exceptions:
 
-- The 3 or 4 groups that present will have the chance to get 0 to 3 bonus points based on presentation quality.
+-   The 3 or 4 groups that present will have the chance to get 0 to 3 bonus points based on presentation quality.
 
-- If your group presents and you are not present in class, you will receive a 3 point penalty and not get the bonus points awarded to your group for the presentation. 
+-   If your group presents and you are not present in class, you will receive a 3 point penalty and not get the bonus points awarded to your group for the presentation.
 
 Consider the following rubric and notice the bonus points for the lucky presenting groups:
 
-| Criteria | 0 | 1 | 2 | 3 |
-|:-----------:|:------:|:------:|:------:|:------:|
-|Slide 1|Missing All Components|Missing 2 Components|Missing 1 Component|Followed Directions|
-|Slides 2-3|1-2 Bullet Points|2-3 Bullet Points|4-5 Bullet Points|At least 6 Bullet Points|
-|Slides 4-6|1-3 Bullet Points|4-6 Bullet Points|5-7 Bullet Points|At least 8 Bullet Points|
-|Slide 7|Missing All Three|Missing Two|Missing One|3 Positive Critiques|
-|Slide 8|Missing All Three|Missing Two|Missing One|3 Negative Critiques|
-|Spelling/Grammar|>5 Errors| 3-5 Errors|1-2 Errors|No Errors|
-|Value|Bad|Okay|Good|Excellent|
-|Submitted|Late||Not a PDF|On Time|
-|Bonus (Presenting Groups)|Not Prepared|Prepared (Reading Slides)|Semi-Prepared (Mediocre Creativity)|Well-Prepared and Creative|
-||||||
+|         Criteria          |           0            |             1             |                  2                  |             3              |
+|:---------------:|:------------:|:------------:|:------------:|:------------:|
+|          Slide 1          | Missing All Components |   Missing 2 Components    |         Missing 1 Component         |    Followed Directions     |
+|        Slides 2-3         |   1-2 Bullet Points    |     2-3 Bullet Points     |          4-5 Bullet Points          |  At least 6 Bullet Points  |
+|        Slides 4-6         |   1-3 Bullet Points    |     4-6 Bullet Points     |          5-7 Bullet Points          |  At least 8 Bullet Points  |
+|          Slide 7          |   Missing All Three    |        Missing Two        |             Missing One             |    3 Positive Critiques    |
+|          Slide 8          |   Missing All Three    |        Missing Two        |             Missing One             |    3 Negative Critiques    |
+|     Spelling/Grammar      |       \>5 Errors       |        3-5 Errors         |             1-2 Errors              |         No Errors          |
+|           Value           |          Bad           |           Okay            |                Good                 |         Excellent          |
+|         Submitted         |          Late          |                           |              Not a PDF              |          On Time           |
+| Bonus (Presenting Groups) |      Not Prepared      | Prepared (Reading Slides) | Semi-Prepared (Mediocre Creativity) | Well-Prepared and Creative |
+|                           |                        |                           |                                     |                            |
 
--------
+------------------------------------------------------------------------
 
->And just when you think they are about to break apart, Ducks fly together.
+> And just when you think they are about to break apart, Ducks fly together.
 >
->
-> ~ _Gordon Bombay_
+> \~ *Gordon Bombay*
 
--------
+------------------------------------------------------------------------
 
 ## Reg. Season
 
 The regular season consists of biweekly quizzes on the material presented in class over the previous lectures. Coach Mario will tell you which specific material to study. This can include what was taught in lecture, what was in the reading, and what was presented during gameday speeches. You will be given at least 15 minutes to complete the quiz. These quizzes taken in Canvas on your laptop live in class. You can use the slides, notes, internet. The only thing I prohibit is the use of generative AI in all forms. You will also need a calculator, R, Python, etc. to perform some basic calculations to answer some questions.
 
--------
+------------------------------------------------------------------------
 
->There's two times of year for me: Football season, and waiting for football season. 
+> There's two times of year for me: Football season, and waiting for football season.
 >
->
-> ~ _Darius Rucker_
+> \~ *Darius Rucker*
 
--------
-
+------------------------------------------------------------------------
 
 ## Playoff
 
@@ -356,17 +386,22 @@ The regular season consists of biweekly quizzes on the material presented in cla
 
 <!-- - $Pass = \textrm{Home Passing Yards} + \textrm{Away Passing Yards}$ -->
 
-
 <!-- It is imperative that you follow these specifications. Your group will be making predictions of the three variables for all NFL games between October 15 and November 18, inclusively. This corresponds with NFL weeks 7 to 11. Your predictions should be saved in the dataset called **[Predictions](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/blob/master/Playoff/Predictions.csv)**. Here you will find missing values where future predictions will be placed. This completed file (CSV) should be submitted along with a paper (PDF) summarizing your methodology. You will not only be graded by your methodology, but also by your predictive accuracy. The variables, $Spread$, $Total$, and $Pass$ will all be evaluated by mean absolute error (MAE). For each of the variables, the top 3 groups will get 3 points, the middle 3 groups will get 2 points, and the bottom 3 groups will get 1 point. All three variables are numeric. If you fail to submit predictions on time or the predictions are not numeric values, you will get 0 points and your predictions will not be considered.  -->
 
 <!-- For the use of outside data, research variables that could be important for prediction of the three variables. This could be injury data, advanced metrics on players,  play-by-play data, or recent data that you webscraped. I am grading you on your creativity so utilizing recent data for your outside data requirement would be helpful for predicting, but would definitely be less creative than other options. Below is a list of some potential options: -->
 
 <!-- - [Game Scores Dataset from Kaggle](https://www.kaggle.com/datasets/keonim/nfl-game-scores-dataset-2017-2023) -->
+
 <!-- - [NFL Big Data Bowl](https://www.kaggle.com/c/nfl-big-data-bowl-2025/data) -->
+
 <!-- - [Injury Data from Kaggle](https://www.kaggle.com/datasets/thedevastator/nfl-injury-analysis-2012-2017) -->
+
 <!-- - [Webscraping from Pro Football Reference](https://stmorse.github.io/journal/pfr-scrape-python.html) -->
+
 <!-- - [R Package: nflfastR](https://www.nflfastr.com/) -->
+
 <!-- - [Summary of Other Sources from OSU](https://sportsandsociety.osu.edu/sports-data-sets) -->
+
 <!-- <!-- - [Mario's Example of nbastatR](https://raw.githubusercontent.com/SuperMarioGiacomazzo/STOR538_WEBSITE/master/Playoff/NBA_Demo.R) -->
 
 <!-- For the engineering of new variables, consider creating differences and ratios between the stats for the home and away teams. Also, it may be useful to create variables that represent past information such as moving averages or lagged variables. You should be able to explain and defend the variables you create. This is your opportunity to test different ideas, and I do not care if any of the variables you engineer end up in your final model for prediction. You should defend any engineered on how you think they will be specifically helpful for predicting the three variables you are being asked to predict.  -->
@@ -376,13 +411,21 @@ The regular season consists of biweekly quizzes on the material presented in cla
 <!-- This project is extremely demanding. I believe that you should split the responsibilities into clear defined jobs and hold to this recommended timeline. If your group fails to submit the predictions on time, your entire group will get 0's for all of the predictions. If your group fails to complete the paper on time, then you will get a penalty dependent on how late your group turns it in. If I discover that the methodology in your paper doesn't lead to your predictions that you submit or your predictions were generated using any form of AI where the work is not your own and the methodology is unable to be explained, I will report this as an academic violation and require you to show me your code and prove to me that your predictions are valid and from your methodology. At a minimum, I will do whatever I can to ensure your group gets a 0 on this assignment. -->
 
 <!-- |Start|End|Task| -->
+
 <!-- |:---|:---|:---| -->
+
 <!-- |NOW|9/30|Build and Clean Dataset| -->
+
 <!-- |9/30|10/2|Start Writing Section 1 of Paper| -->
+
 <!-- |10/2|10/7|Each Group Member Builds and Evaluates One Model for Each Variable| -->
+
 <!-- |10/7|10/9|Start Writing Sections 2-4 of Paper| -->
+
 <!-- |10/9|10/13|Implement Models to Make Predictions and Finish Paper| -->
+
 <!-- |10/13|10/14|Edit and Submit Paper + Predictions| -->
+
 <!-- |||| -->
 
 <!-- On the first page, you should title your paper and give the names of the team members who contributed. If someone didn't do any work, don't put their name on it so I can give them a 0. The content of the paper should be organized in the following 4 subsections: -->
@@ -394,16 +437,20 @@ The regular season consists of biweekly quizzes on the material presented in cla
 <!-- Examples of some questions that need to be answered if applicable: -->
 
 <!-- - What datasets did you use and where did you get these datasets? What are the sources? Did you use an API and what data did you acquire from using the API? -->
+
 <!-- - How did you clean the datasets individually? How did you merge the datasets? -->
+
 <!-- - How did you handle missing data or outliers? Did you ignore certain games for some reason? -->
+
 <!-- - Did you split the data into train sets and test sets? -->
+
 <!-- - Did you acquire any current data for generating predictions for the current year? -->
+
 <!-- - Did you create any variables or aggregate the data for the purpose of generating predictions for the current year? -->
 
 <!-- Also, you should discuss all outside data you utilized to build your dataset for predictive modeling.  You need to explain where you got the outside data and why you are including it. I should know your sources and see citations where necessary. All outside data utilized should be explained and defended.  -->
 
 <!-- In this section, you should discuss any variables your group engineered and defend your reasons for engineering those variables. You should be able to mathematically represent your metrics as formulas and/or provide written descriptions. You should be able to explain why you think the variable you created would help in predicting any of the three outcome variables. Feel free to make citations to whoever you want to credit for leading you to your idea. The variables you engineer should be creative and well-defended. -->
-
 
 <!-- ### 2) Methodology for $Spread$ -->
 
@@ -415,95 +462,104 @@ The regular season consists of biweekly quizzes on the material presented in cla
 
 <!-- Some groups want to predict $Spread$ and $Total$ only using models for home points and away points. I think if you are going to do that there should be some comparison of your models for points to other models for the $Spread$ and $Total$ variables directly. -->
 
-
 <!-- ### 4) Methodology for $Pass$ -->
 
 <!-- You should clearly describe your group's best predictive model for $Pass$ and the steps you took to get there. Take the first step to understand how passing yards are calculated in the NFL. Discuss what variables were useful and useless for predicting $Pass$. This variable may be highly skewed like $Total$. To ensure you are seeking the best model for prediction, I highly advise considering many different types of models (neural nets, regression  trees, time series, etc.), utilizing cross-validation/out-of-sample testing, and adding interaction/polynomial terms. In this part, you should chronologically write about everything your group did to find the "best" model. Challenge yourselves to a thorough investigation from multiple angles and organize your process professionally for an audience with basic understanding in statistics and the sport. You are not required to present tables or figures, but these can be used to defend why the model you are calling the "best" is actually best. Talk about all of the models your group considered, but put some extra attention on describing your "best" model since this is the model that your group used to generate predictions. For example, if your "best" model is a linear regression model, you can show the coefficients in a table or write it out mathematically. In more advanced machine learning methods, I should know every value of every hyperparameter/tuning parameter and how your group chose those values. Finally, make sure that you explain how your group used the "best" model to generate predictions for future games where everything is unknown. Just giving a description of your best model is not enough if you don't explain exactly how that model was used to make real predictions. -->
 
 <!-- Again, if you are going to solve this problem by predicting the passing yards for a team and then adding them up, you should justify this by using cross-validation to compare prediction accuracy to models designed to directly predict the total passing yards.  -->
 
-
 <!-- ### Rubric -->
 
 <!-- The second playoff round is worth a total of 48 points based on the following rubric: -->
 
 <!-- | Criteria | 0 | 1 | 2 | 3 | -->
+
 <!-- |:-----------:|:------:|:------:|:------:|:------:| -->
+
 <!-- |Title Page |Instructions Not Followed|Missing Entire Element|Missing a Team Member|Title+Team Members | -->
+
 <!-- |Data: Cleaning Summary|Unclear|Slightly Unclear|Slightly Clear|Clear| -->
+
 <!-- |Data: Outside Data|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended| -->
+
 <!-- |Data: New Variable|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended| -->
+
 <!-- |Spread: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough| -->
+
 <!-- |Spread: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description| -->
+
 <!-- |Spread: Prediction|None|Bottom 5| Middle 6 |Top 6| -->
+
 <!-- |Total: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough| -->
+
 <!-- |Total: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description| -->
+
 <!-- |Total: Prediction|None|Bottom 5|Middle 6|Top 6| -->
+
 <!-- |Pass: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough| -->
+
 <!-- |Pass: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description| -->
+
 <!-- |Pass: Prediction|None|Bottom 5|Middle 6|Top 6| -->
+
 <!-- |Spelling/Grammar|>5 Errors| 3-5 Errors|1-2 Errors|No Errors| -->
+
 <!-- |Submitted|Late||Not a PDF/CSV|On Time| -->
+
 <!-- |**Criteria**|**0-1**|**2-3**|**4-5**|**6**| -->
+
 <!-- |Value|Bad|Okay|Good|Excellent| -->
 
--------
+------------------------------------------------------------------------
 
->People judge you by the way you play in the playoffs.
+> People judge you by the way you play in the playoffs.
 >
+> \~ *Jaromir Jagr*
+
+------------------------------------------------------------------------
+
+> I'm not looking for home runs, I'm looking for the playoffs.
 >
-> ~ _Jaromir Jagr_
+> \~ *Sammy Sosa*
 
--------
-
->I'm not looking for home runs, I'm looking for the playoffs.
->
->
-> ~ _Sammy Sosa_
-
--------
-
+------------------------------------------------------------------------
 
 ## Championship
 
 Imagine you are an analyst working for the coach or athlete and want to discover insights that would bring a competitive edge. In a world saturated with data, the way to ensure your analysis is unique and creative is to get the data yourself. To successfully conduct your study, you should follow the steps below:
 
-1. Decide on What Area of Sports You Would Like to Analyze
-     - This Can Be Any Traditional Sport (Baseball, NASCAR, Soccer, Volleyball, Tennis, etc.)
-     - This Can Be A Less Traditional Sport (Cornhole, Climbing, Drone Racing, etc.)
-     - This Can Be A Video Game that Is Played Competitively
-     - This Can Be A Board Game that Is Played Competitively
-
-2. Critically Think About What Questions/Opinions That You or Society Have About the Sport
-     - What Statistics or Metrics Can Be Used to Describe Success
-     - What Information Contributes to Success
-
-3. Plan the Study After Discussing the Sport With Your Team
-     - Choose the Level at Which to Gather Data (Team, Player, Game, Play/Event, Time, etc.)
-     - Choosing Levels at Higher Resolutions Make it Easier to Gather Enough Data
-     - Identify at Least 5 Variables You Want to Gather at the Specified Level
-     - Variables Can Be All Categorical, All Numeric, or Mixture
-     - You Can Have More Than 5 Variables, but At Least 5 Need to Be Gathered Through Observing the Sport Being Played
-     - Focus on Variables that are Not Already Being Constantly Tracked to Add Creativity to Your Project
-
-4. Watch or Play the Sport Enough Times to Get a Minimum of 50 Observations per Person in Group
-     - Groups of 5 Need a Sample Size of 250
-     - Groups of 6 Need a Sample Size of 300
-     - Depends on the Level at Which You're Gathering Data
-     - Example: If the Level is Game, You Would Need to Watch or Play the Sport at Least 50 Times
-     - Example: If the Level is Play/Event, You Would Need to Watch Enough to Gather Data for 50 Plays or Events
-     - Example: If the Level is Time (minutes), You Would have to Gather Information for A Minimum of 50 Minutes
-     - If Your Group is Tracking Something Complex and Desire Less Observations Per Person, have a Discussion with Dr. Mario for Approval.
-
-5. As a Team, Track the Data in a Spreadsheet
-     - All Data Must Be Recorded in the Same Electronic Spreadsheet (Excel,CSV, etc.)
-     - Each Row Should Be a Different Observation According to the Level Selected
-     - Keep Track of the Data Collected by Each Member For Proof that Each Member Actually Collected Data
-     - Each Group Member is Expected to Participate in the Data Collection and if Group Member Refuses or is Unable to Participate in the Data Collection by TBD, then I Will Remove that Group Member and Require that Individual to Collect 200 Observations and Write Their Own Paper
+1.  Decide on What Area of Sports You Would Like to Analyze
+    -   This Can Be Any Traditional Sport (Baseball, NASCAR, Soccer, Volleyball, Tennis, etc.)
+    -   This Can Be A Less Traditional Sport (Cornhole, Climbing, Drone Racing, etc.)
+    -   This Can Be A Video Game that Is Played Competitively
+    -   This Can Be A Board Game that Is Played Competitively
+2.  Critically Think About What Questions/Opinions That You or Society Have About the Sport
+    -   What Statistics or Metrics Can Be Used to Describe Success
+    -   What Information Contributes to Success
+3.  Plan the Study After Discussing the Sport With Your Team
+    -   Choose the Level at Which to Gather Data (Team, Player, Game, Play/Event, Time, etc.)
+    -   Choosing Levels at Higher Resolutions Make it Easier to Gather Enough Data
+    -   Identify at Least 5 Variables You Want to Gather at the Specified Level
+    -   Variables Can Be All Categorical, All Numeric, or Mixture
+    -   You Can Have More Than 5 Variables, but At Least 5 Need to Be Gathered Through Observing the Sport Being Played
+    -   Focus on Variables that are Not Already Being Constantly Tracked to Add Creativity to Your Project
+4.  Watch or Play the Sport Enough Times to Get a Minimum of 50 Observations per Person in Group
+    -   Groups of 5 Need a Sample Size of 250
+    -   Groups of 6 Need a Sample Size of 300
+    -   Depends on the Level at Which You're Gathering Data
+    -   Example: If the Level is Game, You Would Need to Watch or Play the Sport at Least 50 Times
+    -   Example: If the Level is Play/Event, You Would Need to Watch Enough to Gather Data for 50 Plays or Events
+    -   Example: If the Level is Time (minutes), You Would have to Gather Information for A Minimum of 50 Minutes
+    -   If Your Group is Tracking Something Complex and Desire Less Observations Per Person, have a Discussion with Dr. Mario for Approval.
+5.  As a Team, Track the Data in a Spreadsheet
+    -   All Data Must Be Recorded in the Same Electronic Spreadsheet (Excel,CSV, etc.)
+    -   Each Row Should Be a Different Observation According to the Level Selected
+    -   Keep Track of the Data Collected by Each Member For Proof that Each Member Actually Collected Data
+    -   Each Group Member is Expected to Participate in the Data Collection and if Group Member Refuses or is Unable to Participate in the Data Collection by TBD, then I Will Remove that Group Member and Require that Individual to Collect 200 Observations and Write Their Own Paper
 
 To ensure that every group stays on a reasonable pace, I will require each member of your group to submit the exact portion of the dataset that they collected. I am expecting 50 or more observations per person. This needs to be submitted to **Canvas** before 11:59PM on April 8. For each member of the group, I am expecting the same number of variables and exact same variable names to show that your group worked together and coordinated efforts. Also, each group member can assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). Fill out the appropriate Google Form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group.
 
-Your study should be summarized in a paper with at least 5 pages (a minimum of 3 pages worth of writing). The paper should be submitted on **Canvas** before 11:59PM on the last day of class, April 27. Submit the paper as a PDF only. Each group should have their own paper, but the paper needs to be submitted by every member of the group. 
+Your study should be summarized in a paper with at least 5 pages (a minimum of 3 pages worth of writing). The paper should be submitted on **Canvas** before 11:59PM on the last day of class, April 27. Submit the paper as a PDF only. Each group should have their own paper, but the paper needs to be submitted by every member of the group.
 
 On the first page, you should title your paper, write your group number, and give the names of the team members who contributed. The content of the paper should be organized in the following 3 subsections:
 
@@ -518,13 +574,14 @@ Second, you should give a preview of your data showing at least 5 rows of your d
 Third, you should briefly describe your data. When did you gather your data? Where did you gather your data? How did you gather your data (Watch or Play Game)? What does each observation (i.e. row in data) represent and how many observations do you have? Describe the five variables and how they were measured. I want a clear description of how the data was collected by the group.
 
 ### Section 2: Summary of the Data
+
 In this section, I want a table(s) and two figures summarizing the data. Each table and each figure you give should have a couple sentences describing the information summarized.
 
 The table(s) should be the same style as the table in the introduction (not different colors, fonts, rounding, etc.). The table(s) should efficiently summarize the five variables using popular statistics. If the variable is numeric (continuous or discrete), you should give the minimum, maximum, mean, and standard deviation, at least. If the variable is categorical, you should give the possible values with frequencies (counts) and relative frequencies (%). If you have a combination of categorical and numeric, I advise doing separate tables which will count as a single table. All tables should be formatted similarly.
 
 Then, you should have two figures summarizing relationships between the variables you selected. In each figure, at least 2 variables, should be summarized. Appropriate axis names and scales should be used. Fonts should be large enough to read. These figures should be chosen for the purpose to be cited later in your paper. I recommend labeling each image and table that you create (i.e. Fig 1) so that you can easily reference them later.
 
-If you create any visuals with new metrics that your group designed. Make sure you clearly define the metric using appropriate mathematical syntax prior to showing the visual with the new metric. 
+If you create any visuals with new metrics that your group designed. Make sure you clearly define the metric using appropriate mathematical syntax prior to showing the visual with the new metric.
 
 Following all instructions gets you two points. The last point is reserved for creativity, design, and over-achievement. This will be determined by comparing what you do to what the other teams do. I reward you for taking risks that that lead to better results then I require. For example in the table(s), calculating confidence intervals for numeric variables, creating contingency tables, or summarizing numeric variables for different subgroups from categorical variables. For example in the figures, tile, 3D, or map plots showing relationships across multiple variables. Also, I don't mind if you give more than two figures or put multiple figures together in a grid. If you create a ton of figures, I will grade your two worst figures so make sure each figure is valuable and worth discussing.
 
@@ -536,124 +593,119 @@ Also, in this section, after discussing your insights, you should write, at leas
 
 ### Final Evaluation and Presentation
 
-Also, each group member can assess the contribution value **twice** of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). One time you will fill it out on April 8 and another time on the final presentation day.  Fill out the appropriate Google Form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group. 
+Also, each group member can assess the contribution value **twice** of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). One time you will fill it out on April 8 and another time on the final presentation day. Fill out the appropriate Google Form in the section below called **Team Sport** to turn in your ratings of your group members. Your value will be determined by the average score of the other members in your group.
 
-Finally, each group will present their group's work using a slideshow presentation during our scheduled final exam period which is April 29 at 4PM in Gardner 105. Presentation slides should be submitted on **Canvas** prior to 4PM on April 29 by each group member. On April 29, each of you will have 5 to 7 minutes to present your work to the class. Your presentation should be persuasive as if you are talking to a group of coaches or players. I recommend starting with the purpose of your project and talk briefly about data collection. All group members involved should be utilized as evenly as possible in the presentation. It should be clear that your group has practiced your presentation several times prior. I am expecting a high level of eye contact, smooth transitions, slides with few words, no verbatim reading, etc. I want your slides to look absolutely stunning as if you were presenting this in a job interview. If you do cannot attend the day of presentations and you do not have a university approved reason for missing, you will automatically get a 5 point penalty. 
+Finally, each group will present their group's work using a slideshow presentation during our scheduled final exam period which is April 29 at 4PM in Gardner 105. Presentation slides should be submitted on **Canvas** prior to 4PM on April 29 by each group member. On April 29, each of you will have 5 to 7 minutes to present your work to the class. Your presentation should be persuasive as if you are talking to a group of coaches or players. I recommend starting with the purpose of your project and talk briefly about data collection. All group members involved should be utilized as evenly as possible in the presentation. It should be clear that your group has practiced your presentation several times prior. I am expecting a high level of eye contact, smooth transitions, slides with few words, no verbatim reading, etc. I want your slides to look absolutely stunning as if you were presenting this in a job interview. If you do cannot attend the day of presentations and you do not have a university approved reason for missing, you will automatically get a 5 point penalty.
 
 If there is a group who is clearly incompetent, lazy, etc., your group should notify me as soon as possible so I can help your group adapt to the situation. For example, I wouldn't want a useless member of your group being able to participate in a presentation that they didn't prepare or practice with the rest of the time. Your grade will be negatively impacted if someone in your group is allowed to present, and they perform poorly. Also, I wouldn't want a group member submitting a paper where their only contribution is making the title page.
-
 
 ### Rubric
 
 The first playoff round is worth a total of 69 points based on the following rubric:
 
-| Criteria | 0 | 1 | 2 | 3 |
-|:-----------:|:------:|:------:|:------:|:------:|
-|Data |Inadequate Consistency|Some Inconsistencies||Consistency Across Group |
-|Data |$n<30$ and/or $<4$ Observed Vars|$30<=n<40$ and/or $4$ Observed Vars|$40<=n<50$ & $>=5$ Observed Vars|$n>=50$ & $>=5$ Observed Vars |
-|Data |Not Submitted or Late|non-CSV||Submitted |
-|Data Value|Bad|Okay|Good|Excellent|
-|Title Page |Instructions Not Followed|Major Mistake|Minor Mistake|Followed Instructions |
-|Introduction: Purpose |Not Innovative or Clearly Described|Not Innovative and/or Not Clearly Described|Somewhat Innovative and Clearly Described|Innovative and Clearly Described|
-|Introduction: Preview |Not Attempted|Missing Rows or Columns|5 Rows and 5 Columns|Outstanding|
-|Introduction: Description |Not Attempted|Missing Key Information|Answers Questions But Poorly Written|Addresses All Questions Well|
-|Summary: Table |Missing More Than 1 Statistic|Missing 1 Statistic|Followed Instructions|Excellent|
-|Summary: Figure 1 |Not Attempted|Not 2 Variables or Messy|2 Variables and Clear|Excellent|
-|Summary: Figure 2 |Not Attempted|Not 2 Variables or Messy|2 Variables and Clear|Excellent|
-|Summary: Table/Figure Descriptions|Not Attempted|Missing Important Descriptions|Some Descriptions Unclear|Everything Clearly Described|
-|Insights: First Insight|Not Attempted|Mediocre/Weak|No Reference to Summary Section|Excellent|
-|Insights: Second Insight|Not Attempted|Mediocre/Weak|No Reference to Summary Section|Excellent|
-|Insights: Done Differently |Missing 3 Obvious Things|Missing 2 Obvious Things|Missing 1 Obvious Thing|Got Everything|
-|Instructions Followed|Organized Incorrectly|Organized Correctly without Section Headings||Organized Correctly with Section Headings|
-|Spelling/Grammar|>5 Errors| 3-5 Errors|1-2 Errors|No Errors|
-|Paper|Not Submitted or Late||Not a PDF|On Time|
-|Paper Value|Bad|Okay|Good|Excellent|
-|Presentation Motivation|No Good Explanation|Weak Defense of Work |Okay Explanation and Defense|Exciting and Persuasive |
-|Presentation Slides|Bad|Some Major Issues|Minor Issues|Beautiful and Well-Organized|
-|Presentation Professionalism|Bad||Some Reading of Slides|Clearly Prepared and Well-Distributed|
-|Presentation Time|Poorly Planned|Barely Missed Time||Between 5 and 7 Minutes|
-|Presentation|Not Submitted or Late||Not a PDF|On Time|
-||||||
+|              Criteria              |                  0                  |                      1                       |                     2                     |                     3                     |
+|:---------------:|:------------:|:------------:|:------------:|:------------:|
+|                Data                |       Inadequate Consistency        |             Some Inconsistencies             |                                           |         Consistency Across Group          |
+|                Data                |  $n<30$ and/or $<4$ Observed Vars   |     $30<=n<40$ and/or $4$ Observed Vars      |     $40<=n<50$ & $>=5$ Observed Vars      |       $n>=50$ & $>=5$ Observed Vars       |
+|                Data                |        Not Submitted or Late        |                   non-CSV                    |                                           |                 Submitted                 |
+|             Data Value             |                 Bad                 |                     Okay                     |                   Good                    |                 Excellent                 |
+|             Title Page             |      Instructions Not Followed      |                Major Mistake                 |               Minor Mistake               |           Followed Instructions           |
+|       Introduction: Purpose        | Not Innovative or Clearly Described | Not Innovative and/or Not Clearly Described  | Somewhat Innovative and Clearly Described |     Innovative and Clearly Described      |
+|       Introduction: Preview        |            Not Attempted            |           Missing Rows or Columns            |           5 Rows and 5 Columns            |                Outstanding                |
+|     Introduction: Description      |            Not Attempted            |           Missing Key Information            |   Answers Questions But Poorly Written    |       Addresses All Questions Well        |
+|           Summary: Table           |    Missing More Than 1 Statistic    |             Missing 1 Statistic              |           Followed Instructions           |                 Excellent                 |
+|         Summary: Figure 1          |            Not Attempted            |           Not 2 Variables or Messy           |           2 Variables and Clear           |                 Excellent                 |
+|         Summary: Figure 2          |            Not Attempted            |           Not 2 Variables or Messy           |           2 Variables and Clear           |                 Excellent                 |
+| Summary: Table/Figure Descriptions |            Not Attempted            |        Missing Important Descriptions        |         Some Descriptions Unclear         |       Everything Clearly Described        |
+|      Insights: First Insight       |            Not Attempted            |                Mediocre/Weak                 |      No Reference to Summary Section      |                 Excellent                 |
+|      Insights: Second Insight      |            Not Attempted            |                Mediocre/Weak                 |      No Reference to Summary Section      |                 Excellent                 |
+|     Insights: Done Differently     |      Missing 3 Obvious Things       |           Missing 2 Obvious Things           |          Missing 1 Obvious Thing          |              Got Everything               |
+|       Instructions Followed        |        Organized Incorrectly        | Organized Correctly without Section Headings |                                           | Organized Correctly with Section Headings |
+|          Spelling/Grammar          |             \>5 Errors              |                  3-5 Errors                  |                1-2 Errors                 |                 No Errors                 |
+|               Paper                |        Not Submitted or Late        |                                              |                 Not a PDF                 |                  On Time                  |
+|            Paper Value             |                 Bad                 |                     Okay                     |                   Good                    |                 Excellent                 |
+|      Presentation Motivation       |         No Good Explanation         |             Weak Defense of Work             |       Okay Explanation and Defense        |          Exciting and Persuasive          |
+|        Presentation Slides         |                 Bad                 |              Some Major Issues               |               Minor Issues                |       Beautiful and Well-Organized        |
+|    Presentation Professionalism    |                 Bad                 |                                              |          Some Reading of Slides           |   Clearly Prepared and Well-Distributed   |
+|         Presentation Time          |           Poorly Planned            |              Barely Missed Time              |                                           |          Between 5 and 7 Minutes          |
+|            Presentation            |        Not Submitted or Late        |                                              |                 Not a PDF                 |                  On Time                  |
+|                                    |                                     |                                              |                                           |                                           |
 
 Important: After the final grades are submitted, I plan on modifying either this website or my personal website to make all of your datasets public. I don't plan on publicizing your papers, although I recommend you do this. All of your names will be attached as authors for the dataset that your group has built which will require your names to be cited. Furthermore, you can make your data public on the ScoreNetwork by following the steps here <https://data.scorenetwork.org/submit-data.html>. This network would increase the exposure for your dataset across the world. If you would like to opt-out, let me know after the semester ends and the grades are finalized
 
+------------------------------------------------------------------------
 
--------
+> Talent wins games, but teamwork and intelligence wins championships.
+>
+> \~ *Jordan*
 
->Talent wins games, but teamwork and intelligence wins championships.
+> No matter how good one individual is, it takes a whole team to win a championship.
 >
->
-> ~ _Jordan_
+> \~ *King James*
 
->No matter how good one individual is, it takes a whole team to win a championship.
->
->
-> ~ _King James_
-
--------
+------------------------------------------------------------------------
 
 # **Assignment Tracker** {.tabset}
 
-Any assignments requiring a deliverable will be submitted via **Canvas** as a PDF. 
+Any assignments requiring a deliverable will be submitted via **Canvas** as a PDF.
 
-| Date (Time) | Practice (PR) | Gameday Speech (GS) | Reg. Season (RS) | Playoff (P) | Champ (C)| 
-|-----------------|:---------------------:|:---------------------:|:-------------------:|:------------:|:---------------:|
-|JAN 16 (11:15AM) ||GS1 ||||
-|JAN 21 (11:59PM) |[PR1](Practice/Practice1.pdf)([.zip](Practice/Practice1.zip))|||||
-|JAN 23 (11:15AM) |||RS1|||
-|JAN 30 (11:15AM)||GS2 ||||
-|FEB 4 (11:59PM) |[PR2](Practice/Practice2.pdf)([.zip](Practice/Practice2.zip))|||||
-|FEB 6  (11:15AM)|||RS2|||
-|FEB 13 (11:15AM)| |GS3 ||||
-|FEB 20 (11:15AM)|||RS3|||
-|FEB 27 (11:15AM)| |GS4 |||| 
-|MAR 6 (11:15AM)|||RS4|||
-|MAR 13 (11:59PM)||||P||
-|MAR 27 (11:15AM) ||GS5 ||||
-|APR 8 (11:59PM) |||||C (Data)|
-|APR 10  (11:15AM)|||RS5|||
-|APR 17 (11:15AM) ||GS6 ||||
-|APR 24 (11:15AM)|||RS6|||
-|APR 27 (11:59PM) |||||C (Paper)|
-|APR 29 (4PM) |||||C (Presentation)|
-|          |                   |               |           |              |       |
-
+| Date (Time)      |                         Practice (PR)                         | Gameday Speech (GS) | Reg. Season (RS) | Playoff (P) |    Champ (C)     |
+|------------|:----------:|:----------:|:----------:|:----------:|:----------:|
+| JAN 16 (11:15AM) |                                                               |         GS1         |                  |             |                  |
+| JAN 21 (11:59PM) | [PR1](Practice/Practice1.pdf)([.zip](Practice/Practice1.zip)) |                     |                  |             |                  |
+| JAN 23 (11:15AM) |                                                               |                     |       RS1        |             |                  |
+| JAN 30 (11:15AM) |                                                               |         GS2         |                  |             |                  |
+| FEB 4 (11:59PM)  | [PR2](Practice/Practice2.pdf)([.zip](Practice/Practice2.zip)) |                     |                  |             |                  |
+| FEB 6 (11:15AM)  |                                                               |                     |       RS2        |             |                  |
+| FEB 13 (11:15AM) |                                                               |         GS3         |                  |             |                  |
+| FEB 20 (11:15AM) |                                                               |                     |       RS3        |             |                  |
+| FEB 27 (11:15AM) |                                                               |         GS4         |                  |             |                  |
+| MAR 6 (11:15AM)  |                                                               |                     |       RS4        |             |                  |
+| MAR 13 (11:59PM) |                                                               |                     |                  |      P      |                  |
+| MAR 27 (11:15AM) |                                                               |         GS5         |                  |             |                  |
+| APR 8 (11:59PM)  |                                                               |                     |                  |             |     C (Data)     |
+| APR 10 (11:15AM) |                                                               |                     |       RS5        |             |                  |
+| APR 17 (11:15AM) |                                                               |         GS6         |                  |             |                  |
+| APR 24 (11:15AM) |                                                               |                     |       RS6        |             |                  |
+| APR 27 (11:59PM) |                                                               |                     |                  |             |    C (Paper)     |
+| APR 29 (4PM)     |                                                               |                     |                  |             | C (Presentation) |
+|                  |                                                               |                     |                  |             |                  |
 
 # **Team Sport**
 
-Many of the assessments in this course will be done in a teams of 3 to 6 playas randomly chosen. For each team-based assignment, you will be given a different team. This will force you to interact with the majority of the class throughout the semester. After each team-based assignment, you will grade the contribution of your teammates on a scale from 0 to 3, and this will contribute to your overall grade for the given assignment. A decent portion of your final grade will be influenced by this. The following link contains all teams alphabetically: **[All Teams](Group Assignments/allTeams2.pdf)**
+Many of the assessments in this course will be done in a teams of 3 to 5 playas randomly chosen. For each team-based assignment, you will be given a different team. This will force you to interact with the majority of the class throughout the semester. After each team-based assignment, you will grade the contribution of your teammates on a scale from 0 to 3, and this will contribute to your overall grade for the given assignment. A decent portion of your final grade will be influenced by this. The following link contains all teams alphabetically: [**All Teams**](Group%20Assignments/allTeams.pdf)
 
 ```{r,echo=F,results=TRUE,message=F}
-# library(DT)
-# library(tidyverse)
-# library(readxl)
-# datatable(read_csv("Group Assignments/allTeams2.csv"),class="display",options = list(scrollX=T, columnDefs = list(list(className = 'dt-center', targets = 0:2)) ),rownames=F)
+library(DT)
+library(tidyverse)
+library(readxl)
+datatable(read_csv("Group Assignments/allTeams.csv"),class="display",options = list(scrollX=T, columnDefs = list(list(className = 'dt-center', targets = 0:2)) ),rownames=F)
 ```
-
 
 In the table below, you can find your group for each of the specific team-based assignments. Make sure you fill out the value survey before the time the assignment is due on the due date. Do not assess the value of yourself in the survey. You don't need to fill out the form if you are giving everyone in your group a perfect score.
 
-|Due Date  | Assessment | Value Survey |
-|:----------:|:------------:|:--------------:|
-| JAN 16 | GS1 | [Value for GS1](https://docs.google.com/forms/d/e/1FAIpQLSdqPjLn-IrA-hqBUCNHbe8sgf3kxMSPNaLEE2mg_S31LAGuvg/viewform?usp=sf_link) |
-| JAN 23 | GS2 | [Value for GS2](https://docs.google.com/forms/d/e/1FAIpQLScQ967bd2WRx9nmMDfeoJD5UZZTFN4bPjYwyvXXBGw7ZEQBKA/viewform?usp=sf_link) |
-| FEB 13 | GS3 | [Value for GS3](https://docs.google.com/forms/d/e/1FAIpQLSeTAEas1kqxGZmJYQ640iX9AQIlgcirVJoxciEnn2UU7WcqAQ/viewform?usp=sf_link) |
-| FEB 27 | GS4 | [Value for GS4](https://docs.google.com/forms/d/e/1FAIpQLSchVRUxeiKYCfcRBWQ8Y85najkEO0FgPzhNFnYmmwIwWOp7VA/viewform?usp=sf_link) |
-| MAR 13 | P | [Value for Playoff](https://forms.gle/DPdTLLWDqFFtU1Rk7) |
-| MAR 27 | GS5 | [Value for GS5](https://docs.google.com/forms/d/e/1FAIpQLSdMncyMUUZZPk10QyFVMqymyQs4iCiqjombEuGP5jzwL3k0lA/viewform?usp=sf_link) |
-| APR 8 | C (Data) | [Value for Championship 1](https://forms.gle/Z85rGWemhw24m3qj8) |
-| APR 17 | GS6 | [Value for GS6](https://docs.google.com/forms/d/e/1FAIpQLSdBlXUND1NfwBjZviwYhfGpS54nlEvsMaOK51yuAWh1tN9gFQ/viewform?usp=sharing) |
-| APR 29| C (Paper) | [Value for Championship 2](https://docs.google.com/forms/d/e/1FAIpQLSeIoeRjDLc0FtRn8qvxzhFb5ebaVc4xjh1xdlnC8saEtgIlxA/viewform?usp=sharing) |
-| ||||
+| Due Date | Assessment |                                                                Value Survey                                                                 |
+|:-------------------:|:----------------------:|:-------------------------:|
+|  JAN 16  |    GS1     |      [Value for GS1](https://docs.google.com/forms/d/e/1FAIpQLSdqPjLn-IrA-hqBUCNHbe8sgf3kxMSPNaLEE2mg_S31LAGuvg/viewform?usp=sf_link)       |
+|  JAN 23  |    GS2     |      [Value for GS2](https://docs.google.com/forms/d/e/1FAIpQLScQ967bd2WRx9nmMDfeoJD5UZZTFN4bPjYwyvXXBGw7ZEQBKA/viewform?usp=sf_link)       |
+|  FEB 13  |    GS3     |      [Value for GS3](https://docs.google.com/forms/d/e/1FAIpQLSeTAEas1kqxGZmJYQ640iX9AQIlgcirVJoxciEnn2UU7WcqAQ/viewform?usp=sf_link)       |
+|  FEB 27  |    GS4     |      [Value for GS4](https://docs.google.com/forms/d/e/1FAIpQLSchVRUxeiKYCfcRBWQ8Y85najkEO0FgPzhNFnYmmwIwWOp7VA/viewform?usp=sf_link)       |
+|  MAR 13  |     P      |                                          [Value for Playoff](https://forms.gle/DPdTLLWDqFFtU1Rk7)                                           |
+|  MAR 27  |    GS5     |      [Value for GS5](https://docs.google.com/forms/d/e/1FAIpQLSdMncyMUUZZPk10QyFVMqymyQs4iCiqjombEuGP5jzwL3k0lA/viewform?usp=sf_link)       |
+|  APR 8   |  C (Data)  |                                       [Value for Championship 1](https://forms.gle/Z85rGWemhw24m3qj8)                                       |
+|  APR 17  |    GS6     |      [Value for GS6](https://docs.google.com/forms/d/e/1FAIpQLSdBlXUND1NfwBjZviwYhfGpS54nlEvsMaOK51yuAWh1tN9gFQ/viewform?usp=sharing)       |
+|  APR 29  | C (Paper)  | [Value for Championship 2](https://docs.google.com/forms/d/e/1FAIpQLSeIoeRjDLc0FtRn8qvxzhFb5ebaVc4xjh1xdlnC8saEtgIlxA/viewform?usp=sharing) |
+|          |            |                                                                                                                                             |
 
 # **Playoff Results**
 
 <!-- The predictions of all 9 teams can be accessed from the hyperlinks below. These three files contain predictions, actual values, calculations of MAE, and ranking. If you find any mistakes that cause the grades to change, I will adjust them. -->
 
 <!-- - [Spread](Playoff/SPREAD_class.csv) -->
-<!-- - [Total](Playoff/TOTAL_class.csv) -->
-<!-- - [Pass](Playoff/PASS_class.csv) -->
 
+<!-- - [Total](Playoff/TOTAL_class.csv) -->
+
+<!-- - [Pass](Playoff/PASS_class.csv) -->
 
 <!-- The table below shows each group's MAE for $Spread$, $Total$, and $Pass$, respectively. Also, you will see your group ranking for each of the three variables. It may be helpful to sort the table for each variable to see where your group is currently ranked. -->
 
@@ -672,7 +724,5 @@ In the table below, you can find your group for each of the specific team-based 
 # datatable(ClassResults,class="display",options = list(scrollX=F,
 #             columnDefs = list(list(className = 'dt-center', targets = 0:6))),rownames=F)
 ```
-
-
 
 This page was last updated on `r Sys.time()` Eastern Time by Super Mario.
