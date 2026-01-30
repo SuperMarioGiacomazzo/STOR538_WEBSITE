@@ -190,7 +190,8 @@ This class is designed to be a research-focused course where you produce two hig
 | | Sports Analytics IV        |                                                    [Slides](Slides/Sports%20Analytics%204/Sports_Analytics_4_Lecture.pdf) | [Web 1](https://www.sportsmanagementworldwide.com/), [Web 2](https://www.udemy.com/courses/search/?src=ukw&q=sports%20analytics), [Web 3](https://sweepsportsanalytics.com/2021/08/01/10-steps-to-get-started-in-sports-analytics/), [Article 1](Articles/General/SportsAnalytics_Swartz.pdf) |  
 | JAN 26 | Snow Day                        |    No Class | |     
 |JAN 28| Baseball I | [Slides](Slides/Baseball 1/Baseball_1_Lecture.pdf) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](Articles/Baseball/Baseball_Albert.pdf) |
-|JAN 30| Baseball II | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM|
+|JAN 30| Baseball I (Cont.)| [Slides](Slides/Baseball 1/Baseball_1_Lecture.pdf) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](Articles/Baseball/Baseball_Albert.pdf) |
+|| Baseball II | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM|
 |FEB 2| Baseball III | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH|
 |FEB 4| Baseball IV| [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)|
 |FEB 6| Discussion of Playoff | ||
