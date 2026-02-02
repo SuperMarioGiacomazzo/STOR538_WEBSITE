@@ -624,11 +624,11 @@ Any assignments requiring a deliverable will be submitted via **Canvas** as a PD
 | JAN 23 (11:15AM) |                                                               |                     |       RS1        |             |                  |
 | JAN 30 (11:15AM) |                                                               |         GS2         |                  |             |                  |
 | FEB 4 (11:59PM)  | [PR2](Practice/Practice2.pdf)([.zip](Practice/Practice2.zip)) |                     |                  |             |                  |
-| FEB 6 (11:15AM)  |                                                               |                     |       RS2        |             |                  |
-| FEB 13 (11:15AM) |                                                               |         GS3         |                  |             |                  |
-| FEB 20 (11:15AM) |                                                               |                     |       RS3        |             |                  |
-| FEB 27 (11:15AM) |                                                               |         GS4         |                  |             |                  |
-| MAR 6 (11:15AM)  |                                                               |                     |       RS4        |             |                  |
+| FEB 13 (11:15AM)  |                                                               |                     |       RS2        |             |                  |
+| FEB 20 (11:15AM) |                                                               |         GS3         |                  |             |                  |
+| FEB 27 (11:15AM) |                                                               |                     |       RS3        |             |                  |
+| MAR 6 (11:15AM) |                                                               |         GS4         |                  |             |                  |
+| MAR 13 (11:15AM)  |                                                               |                     |       RS4        |             |                  |
 | MAR 13 (11:59PM) |                                                               |                     |                  |      P      |                  |
 | MAR 27 (11:15AM) |                                                               |         GS5         |                  |             |                  |
 | APR 8 (11:59PM)  |                                                               |                     |                  |             |     C (Data)     |
@@ -656,8 +656,8 @@ In the table below, you can find your group for each of the specific team-based 
 |:--------:|:--------:|:--------------------------------------------------:|
 |  JAN 16  |    GS1     |      [Value for GS1](https://docs.google.com/forms/d/e/1FAIpQLSdqPjLn-IrA-hqBUCNHbe8sgf3kxMSPNaLEE2mg_S31LAGuvg/viewform?usp=sf_link)       |
 |  JAN 23  |    GS2     |      [Value for GS2](https://docs.google.com/forms/d/e/1FAIpQLScQ967bd2WRx9nmMDfeoJD5UZZTFN4bPjYwyvXXBGw7ZEQBKA/viewform?usp=sf_link)       |
-|  FEB 13  |    GS3     |      [Value for GS3](https://docs.google.com/forms/d/e/1FAIpQLSeTAEas1kqxGZmJYQ640iX9AQIlgcirVJoxciEnn2UU7WcqAQ/viewform?usp=sf_link)       |
-|  FEB 27  |    GS4     |      [Value for GS4](https://docs.google.com/forms/d/e/1FAIpQLSchVRUxeiKYCfcRBWQ8Y85najkEO0FgPzhNFnYmmwIwWOp7VA/viewform?usp=sf_link)       |
+|  FEB 20  |    GS3     |      [Value for GS3](https://docs.google.com/forms/d/e/1FAIpQLSeTAEas1kqxGZmJYQ640iX9AQIlgcirVJoxciEnn2UU7WcqAQ/viewform?usp=sf_link)       |
+|  MAR 6  |    GS4     |      [Value for GS4](https://docs.google.com/forms/d/e/1FAIpQLSchVRUxeiKYCfcRBWQ8Y85najkEO0FgPzhNFnYmmwIwWOp7VA/viewform?usp=sf_link)       |
 |  MAR 13  |     P      |                                          [Value for Playoff](https://forms.gle/DPdTLLWDqFFtU1Rk7)                                           |
 |  MAR 27  |    GS5     |      [Value for GS5](https://docs.google.com/forms/d/e/1FAIpQLSdMncyMUUZZPk10QyFVMqymyQs4iCiqjombEuGP5jzwL3k0lA/viewform?usp=sf_link)       |
 |  APR 8   |  C (Data)  |                                       [Value for Championship 1](https://forms.gle/Z85rGWemhw24m3qj8)                                       |
@@ -673,9 +673,9 @@ In the table below, you can find your group for each of the specific team-based 
 
 <!-- - [Total](Playoff/TOTAL_class.csv) -->
 
-<!-- - [Pass](Playoff/PASS_class.csv) -->
+<!-- - [OREB](Playoff/OREB_class.csv) -->
 
-<!-- The table below shows each group's MAE for $Spread$, $Total$, and $Pass$, respectively. Also, you will see your group ranking for each of the three variables. It may be helpful to sort the table for each variable to see where your group is currently ranked. -->
+<!-- The table below shows each group's MAE for $Spread$, $Total$, and $OREB$, respectively. Also, you will see your group ranking for each of the three variables. It may be helpful to sort the table for each variable to see where your group is currently ranked. -->
 
 ```{r,echo=F,results=TRUE,message=F}
 # library(DT)
