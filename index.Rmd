@@ -623,7 +623,7 @@ Any assignments requiring a deliverable will be submitted via **Canvas** as a PD
 | JAN 21 (11:59PM) | [PR1](Practice/Practice1.pdf)([.zip](Practice/Practice1.zip)) |                     |                  |             |                  |
 | JAN 23 (11:15AM) |                                                               |                     |       RS1        |             |                  |
 | JAN 30 (11:15AM) |                                                               |         GS2         |                  |             |                  |
-| FEB 4 (11:59PM)  | [PR2](Practice/Practice2.pdf)([.zip](Practice/Practice2.zip)) |                     |                  |             |                  |
+| FEB 6 (11:59PM)  | [PR2](Practice/Practice2.pdf)([.zip](Practice/Practice2.zip)) |                     |                  |             |                  |
 | FEB 13 (11:15AM)  |                                                               |                     |       RS2        |             |                  |
 | FEB 20 (11:15AM) |                                                               |         GS3         |                  |             |                  |
 | FEB 27 (11:15AM) |                                                               |                     |       RS3        |             |                  |
