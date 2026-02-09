@@ -49,3 +49,5 @@ BOX2025=unnest(box_scores(game_ids=c(22400062),
                       result_types="team"
 ))
 
+?box_scores
+
