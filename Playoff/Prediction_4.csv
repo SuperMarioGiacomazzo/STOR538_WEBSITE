@@ -1,0 +1,234 @@
+Date,Home,Away,Spread,Total,OREB
+"Sat, Mar 14, 2026",Philadelphia 76ers,Brooklyn Nets,5.93601761948726,218.71,18.5167123576459
+"Sat, Mar 14, 2026",Atlanta Hawks,Milwaukee Bucks,11.1095131501658,219.45,22.56784607
+"Sat, Mar 14, 2026",Boston Celtics,Washington Wizards,12.7665958375401,219.65,30.0818190714278
+"Sat, Mar 14, 2026",Miami Heat,Orlando Magic,3.09636764125308,218.09,25.2242336918749
+"Sat, Mar 14, 2026",San Antonio Spurs,Charlotte Hornets,5.89047121606646,218.07,22.0881375374206
+"Sat, Mar 14, 2026",Los Angeles Lakers,Denver Nuggets,4.35815248032755,221.94,20.8525158178091
+"Sat, Mar 14, 2026",Los Angeles Clippers,Sacramento Kings,-1.848979015,221.84,26.2626262653239
+"Sun, Mar 15, 2026",Oklahoma City Thunder,Minnesota Timberwolves,2.91160764627521,223.19,20.6151711609727
+"Sun, Mar 15, 2026",Cleveland Cavaliers,Dallas Mavericks,4.95068737805634,219.48,19.6717384388269
+"Sun, Mar 15, 2026",Milwaukee Bucks,Indiana Pacers,8.75950699706373,219.13,23.1480410654176
+"Sun, Mar 15, 2026",Toronto Raptors,Detroit Pistons,-1.097680742,217.95,22.029484076068
+"Sun, Mar 15, 2026",Philadelphia 76ers,Portland Trail Blazers,0.827314957216795,219.71,22.819688524668
+"Sun, Mar 15, 2026",New York Knicks,Golden State Warriors,7.47034800846955,222.47,22.1846666035498
+"Sun, Mar 15, 2026",Sacramento Kings,Utah Jazz,-1.744711783,220.54,24.2117168802091
+"Mon, Mar 16, 2026",Atlanta Hawks,Orlando Magic,2.45092503833788,218.65,22.5397663320494
+"Mon, Mar 16, 2026",Washington Wizards,Golden State Warriors,-1.996183225,223.64,26.6284887398693
+"Mon, Mar 16, 2026",Brooklyn Nets,Portland Trail Blazers,-1.24372445,219.18,19.8311668978484
+"Mon, Mar 16, 2026",Boston Celtics,Phoenix Suns,1.06498891596431,220.99,25.7056749201653
+"Mon, Mar 16, 2026",Chicago Bulls,Memphis Grizzlies,11.9115708585983,219.5,20.6583485574043
+"Mon, Mar 16, 2026",New Orleans Pelicans,Dallas Mavericks,7.37751781427641,223.83,22.2432341342461
+"Mon, Mar 16, 2026",Houston Rockets,Los Angeles Lakers,1.23047962927274,220.74,24.6150829763352
+"Mon, Mar 16, 2026",Los Angeles Clippers,San Antonio Spurs,-4.374338334,219.87,24.6301103561689
+"Tue, Mar 17, 2026",Charlotte Hornets,Miami Heat,-1.255892959,217.86,23.7887663313592
+"Tue, Mar 17, 2026",Orlando Magic,Oklahoma City Thunder,6.07451900161563,221.24,23.1046163916667
+"Tue, Mar 17, 2026",Washington Wizards,Detroit Pistons,-6.737230254,217.81,27.8861237408016
+"Tue, Mar 17, 2026",New York Knicks,Indiana Pacers,13.0162401623696,218.06,19.1081223916707
+"Tue, Mar 17, 2026",Milwaukee Bucks,Cleveland Cavaliers,0.845659737674861,219.61,23.3239021651813
+"Tue, Mar 17, 2026",Minnesota Timberwolves,Phoenix Suns,0.956255808768793,223.03,22.5268880527375
+"Tue, Mar 17, 2026",Denver Nuggets,Philadelphia 76ers,9.75916459204516,221.55,19.1293491972205
+"Tue, Mar 17, 2026",Sacramento Kings,San Antonio Spurs,-5.072779935,219.73,26.2696598004186
+"Wed, Mar 18, 2026",Boston Celtics,Golden State Warriors,6.82331863237959,222.65,24.8984172824077
+"Wed, Mar 18, 2026",Brooklyn Nets,Oklahoma City Thunder,-5.459533937,220.91,19.5216324385639
+"Wed, Mar 18, 2026",Indiana Pacers,Portland Trail Blazers,-2.159919871,218.99,23.9085722007895
+"Wed, Mar 18, 2026",Chicago Bulls,Toronto Raptors,4.33846520756838,219.75,20.7068580119343
+"Wed, Mar 18, 2026",Memphis Grizzlies,Denver Nuggets,-4.160688599,222.14,19.4939675736556
+"Wed, Mar 18, 2026",Minnesota Timberwolves,Utah Jazz,0.47030217626373,221.06,19.5558880824561
+"Wed, Mar 18, 2026",New Orleans Pelicans,Los Angeles Clippers,-5.472871151,224.73,26.0111355854952
+"Wed, Mar 18, 2026",Dallas Mavericks,Atlanta Hawks,-9.209364165,219.32,19.4487152514767
+"Wed, Mar 18, 2026",Houston Rockets,Los Angeles Lakers,1.23047962927274,220.74,24.6150829763352
+"Thu, Mar 19, 2026",Charlotte Hornets,Orlando Magic,-1.771613768,218.62,22.8674043808689
+"Thu, Mar 19, 2026",Washington Wizards,Detroit Pistons,-6.737230254,217.81,27.8861237408016
+"Thu, Mar 19, 2026",Chicago Bulls,Cleveland Cavaliers,3.55914196677753,218.68,22.2534528442217
+"Thu, Mar 19, 2026",Miami Heat,Los Angeles Lakers,7.50055775680634,218.68,25.2765791548142
+"Thu, Mar 19, 2026",New Orleans Pelicans,Los Angeles Clippers,-5.472871151,224.73,26.0111355854952
+"Thu, Mar 19, 2026",San Antonio Spurs,Phoenix Suns,5.25743592869509,220.54,22.6037445901865
+"Thu, Mar 19, 2026",Utah Jazz,Milwaukee Bucks,6.685156802,219.91,22.9688763145463
+"Thu, Mar 19, 2026",Sacramento Kings,Philadelphia 76ers,6.33145347853678,220.48,23.0344352664195
+"Fri, Mar 20, 2026",Brooklyn Nets,New York Knicks,-3.537317742,218.25,18.0955709516868
+"Fri, Mar 20, 2026",Detroit Pistons,Golden State Warriors,6.94610837913445,220.81,24.3420218573431
+"Fri, Mar 20, 2026",Houston Rockets,Atlanta Hawks,-2.849153211,219.96,23.2652841334293
+"Fri, Mar 20, 2026",Memphis Grizzlies,Boston Celtics,-5.825091448,219.55,26.5882299265135
+"Fri, Mar 20, 2026",Minnesota Timberwolves,Portland Trail Blazers,5.62424725751985,221.46,22.345496000696
+"Fri, Mar 20, 2026",Denver Nuggets,Toronto Raptors,6.33865081458068,222.39,18.3817090793651
+"Sat, Mar 21, 2026",Washington Wizards,Oklahoma City Thunder,-7.30233098,222.14,24.4650856162612
+"Sat, Mar 21, 2026",Charlotte Hornets,Memphis Grizzlies,13.9022809124077,219.41,22.9413663216123
+"Sat, Mar 21, 2026",New Orleans Pelicans,Cleveland Cavaliers,3.81284988684566,223.13,23.443465899995
+"Sat, Mar 21, 2026",Orlando Magic,Los Angeles Lakers,6.09543597753243,219.44,24.0531358549477
+"Sat, Mar 21, 2026",Atlanta Hawks,Golden State Warriors,12.1403459324097,222.54,21.1556779736661
+"Sat, Mar 21, 2026",Houston Rockets,Miami Heat,-2.657989677,219.4,25.1623363143597
+"Sat, Mar 21, 2026",San Antonio Spurs,Indiana Pacers,16.5616577990104,217.78,23.0036737552157
+"Sat, Mar 21, 2026",Dallas Mavericks,Los Angeles Clippers,6.12508291727088,221.08,21.392906765703
+"Sat, Mar 21, 2026",Utah Jazz,Philadelphia 76ers,9.54787149662039,219.31,23.354018712766
+"Sat, Mar 21, 2026",Phoenix Suns,Milwaukee Bucks,7.31752595634625,221.88,25.141170534794
+"Sun, Mar 22, 2026",Denver Nuggets,Portland Trail Blazers,6.83694441161442,222.01,22.9441988713892
+"Sun, Mar 22, 2026",Sacramento Kings,Brooklyn Nets,8.5179359603765,219.94,22.0799914400193
+"Sun, Mar 22, 2026",New York Knicks,Washington Wizards,13.41362521,219.47,22.7004671925867
+"Sun, Mar 22, 2026",Boston Celtics,Minnesota Timberwolves,1.91600401635936,220.71,24.5630568075215
+"Sun, Mar 22, 2026",Phoenix Suns,Toronto Raptors,6.75972687389216,222.12,22.2520632830605
+"Mon, Mar 23, 2026",Atlanta Hawks,Memphis Grizzlies,18.1248197187417,219.44,20.9921831566826
+"Mon, Mar 23, 2026",Detroit Pistons,Los Angeles Lakers,1.66087760061585,217.51,24.4868551211248
+"Mon, Mar 23, 2026",Orlando Magic,Indiana Pacers,16.926558909951,218.33,22.1401998840939
+"Mon, Mar 23, 2026",Philadelphia 76ers,Oklahoma City Thunder,-3.38849453,221.45,20.9862172490431
+"Mon, Mar 23, 2026",Miami Heat,San Antonio Spurs,3.21343703493024,217.54,25.0618422872599
+"Mon, Mar 23, 2026",Chicago Bulls,Houston Rockets,3.43737342428893,220.02,23.9803677955081
+"Mon, Mar 23, 2026",Utah Jazz,Toronto Raptors,6.12735771915592,220.14,19.4052445468021
+"Mon, Mar 23, 2026",Dallas Mavericks,Golden State Warriors,0.155499453526285,223.41,21.070149541144
+"Mon, Mar 23, 2026",Portland Trail Blazers,Brooklyn Nets,7.29647535736299,219.18,19.3136530503272
+"Mon, Mar 23, 2026",Los Angeles Clippers,Milwaukee Bucks,-1.966046093,221.22,25.6309307727015
+"Tue, Mar 24, 2026",Charlotte Hornets,Sacramento Kings,5.96134124402017,220.05,24.7042013370244
+"Tue, Mar 24, 2026",New York Knicks,New Orleans Pelicans,4.25855128301747,222.89,23.1532123307012
+"Tue, Mar 24, 2026",Cleveland Cavaliers,Orlando Magic,-5.935446338,218.81,22.5168969021792
+"Tue, Mar 24, 2026",Phoenix Suns,Denver Nuggets,4.27411547826708,223.59,22.7297397970232
+"Wed, Mar 25, 2026",Detroit Pistons,Atlanta Hawks,-2.418755239,216.72,23.2643334992891
+"Wed, Mar 25, 2026",Indiana Pacers,Los Angeles Lakers,-6.354812382,218.92,22.3494805269944
+"Wed, Mar 25, 2026",Philadelphia 76ers,Chicago Bulls,1.59267292311603,218.91,20.9960821440524
+"Wed, Mar 25, 2026",Boston Celtics,Oklahoma City Thunder,1.51717087794419,221.16,25.9259234151122
+"Wed, Mar 25, 2026",Cleveland Cavaliers,Miami Heat,-5.419725529,218.06,23.8443058633018
+"Wed, Mar 25, 2026",Memphis Grizzlies,San Antonio Spurs,-9.658796839,219.09,25.745050867128
+"Wed, Mar 25, 2026",Utah Jazz,Washington Wizards,13.6592667890144,220,24.430474903558
+"Wed, Mar 25, 2026",Minnesota Timberwolves,Houston Rockets,4.22486187720661,222.1,22.1750828837214
+"Wed, Mar 25, 2026",Denver Nuggets,Dallas Mavericks,9.12399550122059,222.02,18.079469631861
+"Wed, Mar 25, 2026",Golden State Warriors,Brooklyn Nets,6.3113615527769,222.41,19.9376972946377
+"Wed, Mar 25, 2026",Portland Trail Blazers,Milwaukee Bucks,2.24727818051287,220.31,25.6096501664259
+"Wed, Mar 25, 2026",Los Angeles Clippers,Toronto Raptors,-20.39150864,221.45,21.3461637498624
+"Thu, Mar 26, 2026",Charlotte Hornets,New York Knicks,4.53387556666544,218.35,20.6589612341721
+"Thu, Mar 26, 2026",Detroit Pistons,New Orleans Pelicans,3.73431165368238,221.23,26.791928105235
+"Thu, Mar 26, 2026",Orlando Magic,Sacramento Kings,9.42420087399548,220.28,25.2654346912853
+"Fri, Mar 27, 2026",Indiana Pacers,Los Angeles Clippers,21.9364686673034,219.9,17.9626850529483
+"Fri, Mar 27, 2026",Boston Celtics,Atlanta Hawks,-2.541544986,218.56,24.3514383190657
+"Fri, Mar 27, 2026",Cleveland Cavaliers,Miami Heat,-5.419725529,218.06,23.8443058633018
+"Fri, Mar 27, 2026",Memphis Grizzlies,Houston Rockets,-2.576168987,220.94,25.9716295715979
+"Fri, Mar 27, 2026",Oklahoma City Thunder,Chicago Bulls,7.49394196053043,221.11,21.925897240981
+"Fri, Mar 27, 2026",Toronto Raptors,New Orleans Pelicans,0.431569561516121,224.2,21.7140440394248
+"Fri, Mar 27, 2026",Denver Nuggets,Utah Jazz,1.68299933035834,221.61,19.9554891989676
+"Fri, Mar 27, 2026",Golden State Warriors,Washington Wizards,8.23627436333119,223.64,26.1766677562721
+"Fri, Mar 27, 2026",Portland Trail Blazers,Dallas Mavericks,4.47482378469869,220.18,21.6914875254964
+"Fri, Mar 27, 2026",Los Angeles Lakers,Brooklyn Nets,12.4507601352569,219.11,20.3267813164154
+"Sat, Mar 28, 2026",Milwaukee Bucks,San Antonio Spurs,-6.358736657,219.1,24.8682645410197
+"Sat, Mar 28, 2026",Charlotte Hornets,Philadelphia 76ers,9.7496890388422,218.82,21.2453829724241
+"Sat, Mar 28, 2026",Atlanta Hawks,Sacramento Kings,10.1838800503542,220.08,23.2826466700272
+"Sat, Mar 28, 2026",Memphis Grizzlies,Chicago Bulls,-0.411425641,219.5,21.4176255189809
+"Sat, Mar 28, 2026",Minnesota Timberwolves,Detroit Pistons,1.97353849633772,218.86,22.1498752694105
+"Sat, Mar 28, 2026",Phoenix Suns,Utah Jazz,2.10407538966982,221.34,21.9569444878463
+"Sun, Mar 29, 2026",Milwaukee Bucks,Los Angeles Clippers,5.34880074906545,221.22,26.0798804760827
+"Sun, Mar 29, 2026",Indiana Pacers,Miami Heat,-10.24328169,217.57,23.7550966201125
+"Sun, Mar 29, 2026",Brooklyn Nets,Sacramento Kings,-2.109852064,219.94,22.1901882171351
+"Sun, Mar 29, 2026",Charlotte Hornets,Boston Celtics,2.17916101710797,218.53,22.3357171432875
+"Sun, Mar 29, 2026",Portland Trail Blazers,Washington Wizards,9.22138816791727,220.4,27.507769136777
+"Sun, Mar 29, 2026",Toronto Raptors,Orlando Magic,-6.046054607,219.88,21.9719680380762
+"Sun, Mar 29, 2026",New Orleans Pelicans,Houston Rockets,3.69108134435703,224.46,26.4548793894404
+"Sun, Mar 29, 2026",Oklahoma City Thunder,New York Knicks,4.43499070288517,220.98,17.9353161930881
+"Sun, Mar 29, 2026",Denver Nuggets,Golden State Warriors,7.92728267927866,225.24,21.7929473428121
+"Mon, Mar 30, 2026",Miami Heat,Philadelphia 76ers,14.6176704480914,218.29,22.6414338366109
+"Mon, Mar 30, 2026",Atlanta Hawks,Boston Celtics,6.40169982344199,218.56,23.7209011302401
+"Mon, Mar 30, 2026",Memphis Grizzlies,Phoenix Suns,-5.844775055,221.87,26.3982333521461
+"Mon, Mar 30, 2026",San Antonio Spurs,Chicago Bulls,10.6907853433454,218.17,21.5657634096115
+"Mon, Mar 30, 2026",Dallas Mavericks,Minnesota Timberwolves,-4.751815162,221.46,18.9676464954709
+"Mon, Mar 30, 2026",Utah Jazz,Cleveland Cavaliers,5.34803447836505,219.08,21.3134894463504
+"Mon, Mar 30, 2026",Oklahoma City Thunder,Detroit Pistons,3.07787523344909,219.31,24.3466854493786
+"Mon, Mar 30, 2026",Los Angeles Lakers,Washington Wizards,14.3756729458111,220.33,26.3805927668806
+"Tue, Mar 31, 2026",Orlando Magic,Phoenix Suns,5.62233703963575,221.08,25.8166228470581
+"Tue, Mar 31, 2026",Brooklyn Nets,Charlotte Hornets,-5.278680611,218.29,18.7969917230294
+"Tue, Mar 31, 2026",Detroit Pistons,Toronto Raptors,5.35747651443646,217.95,21.8650962704381
+"Tue, Mar 31, 2026",Houston Rockets,New York Knicks,3.13177884838108,219.88,23.0913896960563
+"Tue, Mar 31, 2026",Milwaukee Bucks,Dallas Mavericks,4.41032766510562,220.31,23.2123063545081
+"Tue, Mar 31, 2026",Los Angeles Lakers,Cleveland Cavaliers,6.06444063516178,219.41,23.1477447363549
+"Tue, Mar 31, 2026",Los Angeles Clippers,Portland Trail Blazers,18.7720128367355,221.08,24.4550890066478
+"Wed, Apr 1, 2026",Washington Wizards,Philadelphia 76ers,-0.164301313,219.94,23.258418712236
+"Wed, Apr 1, 2026",Miami Heat,Boston Celtics,7.04714242635718,218,26.1258116859377
+"Wed, Apr 1, 2026",Orlando Magic,Atlanta Hawks,2.01580313745353,218.65,22.2897678281812
+"Wed, Apr 1, 2026",Chicago Bulls,Indiana Pacers,11.4729892261664,218.2,21.7143778793597
+"Wed, Apr 1, 2026",Houston Rockets,Milwaukee Bucks,5.48487762554744,220.95,25.9256613127547
+"Wed, Apr 1, 2026",Memphis Grizzlies,New York Knicks,-3.470376898,219.37,18.5990865442701
+"Wed, Apr 1, 2026",Toronto Raptors,Sacramento Kings,1.68690040491263,221.31,23.1068233047242
+"Wed, Apr 1, 2026",Utah Jazz,Denver Nuggets,3.64174632353082,221.61,19.6201892826434
+"Wed, Apr 1, 2026",Golden State Warriors,San Antonio Spurs,-7.279354342,222.19,22.3736925520033
+"Thu, Apr 2, 2026",Charlotte Hornets,Phoenix Suns,2.15947740966043,220.85,22.365526476741
+"Thu, Apr 2, 2026",Detroit Pistons,Minnesota Timberwolves,2.03879376311422,218.86,22.8191200606482
+"Thu, Apr 2, 2026",Oklahoma City Thunder,Los Angeles Lakers,2.53369148377685,221.84,22.5471081551906
+"Thu, Apr 2, 2026",Golden State Warriors,Cleveland Cavaliers,-0.074957947,222.71,21.9296218994847
+"Thu, Apr 2, 2026",Portland Trail Blazers,New Orleans Pelicans,0.066314237304693,223.82,24.5710736229556
+"Thu, Apr 2, 2026",Los Angeles Clippers,San Antonio Spurs,-4.374338334,219.87,24.6301103561689
+"Fri, Apr 3, 2026",Charlotte Hornets,Indiana Pacers,13.4636992799757,218.1,21.3728897970054
+"Fri, Apr 3, 2026",Philadelphia 76ers,Minnesota Timberwolves,-2.989661391,221,19.2409387188566
+"Fri, Apr 3, 2026",Brooklyn Nets,Atlanta Hawks,-9.518249801,218.32,19.1729276289341
+"Fri, Apr 3, 2026",New York Knicks,Chicago Bulls,7.14536770670453,218.45,20.1122830856971
+"Fri, Apr 3, 2026",Houston Rockets,Utah Jazz,0.271427058871013,220.41,23.0933718235646
+"Fri, Apr 3, 2026",Memphis Grizzlies,Toronto Raptors,-1.675077203,220.67,18.6648805230032
+"Fri, Apr 3, 2026",Milwaukee Bucks,Boston Celtics,-2.525031266,219.56,28.2498511905265
+"Fri, Apr 3, 2026",Dallas Mavericks,Orlando Magic,-9.533921441,219.51,21.9231842490354
+"Fri, Apr 3, 2026",Sacramento Kings,New Orleans Pelicans,1.2877748403182,224.59,27.3054684061664
+"Sat, Apr 4, 2026",Miami Heat,Washington Wizards,18.7290657404854,218.99,27.5339073602309
+"Sat, Apr 4, 2026",Denver Nuggets,San Antonio Spurs,-1.645068821,220.81,21.3297962744641
+"Sat, Apr 4, 2026",Philadelphia 76ers,Detroit Pistons,-2.823393804,217.11,23.8179715796178
+"Sun, Apr 5, 2026",Boston Celtics,Toronto Raptors,5.2346867676816,219.79,24.2400242077912
+"Sun, Apr 5, 2026",Brooklyn Nets,Washington Wizards,5.78989102277803,219.41,22.09921996
+"Sun, Apr 5, 2026",Chicago Bulls,Phoenix Suns,0.168767355851079,220.95,22.7860668935174
+"Sun, Apr 5, 2026",Milwaukee Bucks,Memphis Grizzlies,9.19808862949568,220.44,22.3441912639513
+"Sun, Apr 5, 2026",Cleveland Cavaliers,Indiana Pacers,9.29986671001446,218.29,21.8677418045217
+"Sun, Apr 5, 2026",Minnesota Timberwolves,Charlotte Hornets,1.58929109614016,220.57,21.3964755754641
+"Sun, Apr 5, 2026",New Orleans Pelicans,Orlando Magic,-3.508615902,223.16,25.634348739349
+"Sun, Apr 5, 2026",Oklahoma City Thunder,Utah Jazz,1.57463891337513,221.51,22.6910698260193
+"Sun, Apr 5, 2026",Dallas Mavericks,Los Angeles Lakers,-5.129731325,220.11,21.1689776259033
+"Sun, Apr 5, 2026",Sacramento Kings,Los Angeles Clippers,5.59205729395333,221.84,25.8960507654305
+"Sun, Apr 5, 2026",Golden State Warriors,Houston Rockets,-0.19672649,224.05,25.2305418851236
+"Mon, Apr 6, 2026",Atlanta Hawks,New York Knicks,8.75641437299948,218.38,19.3082602448144
+"Mon, Apr 6, 2026",Orlando Magic,Detroit Pistons,6.63961972720467,216.91,25.5256565641365
+"Mon, Apr 6, 2026",Memphis Grizzlies,Cleveland Cavaliers,-2.454400444,219.6,22.126332765787
+"Mon, Apr 6, 2026",San Antonio Spurs,Philadelphia 76ers,12.8476475578769,218.5,21.3773441672497
+"Mon, Apr 6, 2026",Denver Nuggets,Portland Trail Blazers,6.83694441161442,222.01,22.9441988713892
+"Tue, Apr 7, 2026",Washington Wizards,Chicago Bulls,-2.321163527,219.61,23.9056571479688
+"Tue, Apr 7, 2026",Boston Celtics,Charlotte Hornets,1.69802420333568,218.53,22.3734246247947
+"Tue, Apr 7, 2026",Brooklyn Nets,Milwaukee Bucks,-1.184218965,219.31,21.497895763994
+"Tue, Apr 7, 2026",Toronto Raptors,Miami Heat,-5.530333798,219.13,22.9625017462714
+"Tue, Apr 7, 2026",Indiana Pacers,Minnesota Timberwolves,-5.976896219,220.28,20.663034303271
+"Tue, Apr 7, 2026",New Orleans Pelicans,Utah Jazz,-0.063478357,223.42,22.427521948918
+"Tue, Apr 7, 2026",Golden State Warriors,Sacramento Kings,0.336531276115128,224.17,26.7756332865022
+"Tue, Apr 7, 2026",Los Angeles Lakers,Oklahoma City Thunder,3.12624798621522,221.84,22.9348741832261
+"Tue, Apr 7, 2026",Los Angeles Clippers,Dallas Mavericks,-3.572898046,221.08,21.389300376405
+"Tue, Apr 7, 2026",Phoenix Suns,Houston Rockets,5.85863509061268,222.39,25.7073703942947
+"Wed, Apr 8, 2026",Cleveland Cavaliers,Atlanta Hawks,-5.610889062,218.62,20.5643301531257
+"Wed, Apr 8, 2026",Orlando Magic,Minnesota Timberwolves,6.47335214003079,220.8,20.6166460325474
+"Wed, Apr 8, 2026",Detroit Pistons,Milwaukee Bucks,5.91527559689055,217.71,25.9414764349567
+"Wed, Apr 8, 2026",San Antonio Spurs,Portland Trail Blazers,9.92542737744614,218.96,22.5158973845903
+"Wed, Apr 8, 2026",Denver Nuggets,Memphis Grizzlies,13.9117564656106,222.14,18.9530691613583
+"Wed, Apr 8, 2026",Los Angeles Clippers,Oklahoma City Thunder,-32.11299289,222.81,22.1475421037119
+"Wed, Apr 8, 2026",Phoenix Suns,Dallas Mavericks,9.54507156053206,221.75,22.0591449905592
+"Thu, Apr 9, 2026",Toronto Raptors,Miami Heat,-5.530333798,219.13,22.9625017462714
+"Thu, Apr 9, 2026",Washington Wizards,Chicago Bulls,-2.321163527,219.61,23.9056571479688
+"Thu, Apr 9, 2026",Brooklyn Nets,Indiana Pacers,5.39250597151757,217.99,19.9064382882212
+"Thu, Apr 9, 2026",New York Knicks,Boston Celtics,1.73170189950182,218.49,24.4861103028494
+"Thu, Apr 9, 2026",Houston Rockets,Philadelphia 76ers,8.34759232055783,220.35,23.4042116387531
+"Thu, Apr 9, 2026",Golden State Warriors,Los Angeles Lakers,-2.99223362,223.33,24.5212425784783
+"Fri, Apr 10, 2026",Washington Wizards,Miami Heat,-11.16988331,218.99,27.1500139072919
+"Fri, Apr 10, 2026",Charlotte Hornets,Detroit Pistons,3.17676009722936,216.69,23.4086266966227
+"Fri, Apr 10, 2026",Atlanta Hawks,Cleveland Cavaliers,9.77239082692089,218.62,21.1737425245426
+"Fri, Apr 10, 2026",Boston Celtics,New Orleans Pelicans,3.61152190692751,223.07,26.0660379888943
+"Fri, Apr 10, 2026",Indiana Pacers,Philadelphia 76ers,0.762300309642616,218.53,20.1998489967358
+"Fri, Apr 10, 2026",New York Knicks,Toronto Raptors,5.88171614377157,219.62,18.2835225728488
+"Fri, Apr 10, 2026",Chicago Bulls,Orlando Magic,-3.762323822,218.71,22.8075334770151
+"Fri, Apr 10, 2026",Milwaukee Bucks,Brooklyn Nets,7.23197923776992,219.31,22.0488205133899
+"Fri, Apr 10, 2026",San Antonio Spurs,Dallas Mavericks,12.2124784670523,218.97,21.4014005472837
+"Fri, Apr 10, 2026",Denver Nuggets,Oklahoma City Thunder,2.62113492484326,223.75,20.7679273644186
+"Fri, Apr 10, 2026",Houston Rockets,Minnesota Timberwolves,1.60839579177111,222.1,23.3583271924512
+"Fri, Apr 10, 2026",Utah Jazz,Memphis Grizzlies,13.7004633701859,219.9,21.2079793901434
+"Fri, Apr 10, 2026",Portland Trail Blazers,Los Angeles Clippers,-15.38426755,221.08,25.0421107083168
+"Fri, Apr 10, 2026",Sacramento Kings,Golden State Warriors,4.49957156577026,224.17,26.7338479458826
+"Fri, Apr 10, 2026",Los Angeles Lakers,Phoenix Suns,2.67406602423532,221.67,24.3283293044385
+"Sun, Apr 12, 2026",Boston Celtics,Orlando Magic,-2.866102262,218.76,26.18973446
+"Sun, Apr 12, 2026",Cleveland Cavaliers,Washington Wizards,9.69725176127492,219.71,24.9572811739368
+"Sun, Apr 12, 2026",Indiana Pacers,Detroit Pistons,-5.810628632,216.4,24.3585638421559
+"Sun, Apr 12, 2026",Miami Heat,Atlanta Hawks,3.42092491672742,217.89,22.8470359369872
+"Sun, Apr 12, 2026",New York Knicks,Charlotte Hornets,2.34505357942564,218.35,21.1682930664204
+"Sun, Apr 12, 2026",Philadelphia 76ers,Milwaukee Bucks,0.886820442637139,219.85,22.9712184208542
+"Sun, Apr 12, 2026",Toronto Raptors,Brooklyn Nets,7.66173068157442,219.55,19.4093181408838
+"Sun, Apr 12, 2026",Dallas Mavericks,Chicago Bulls,-0.169480848,219.38,20.7190637461913
+"Sun, Apr 12, 2026",Houston Rockets,Memphis Grizzlies,12.5001841941233,220.94,26.3955218265638
+"Sun, Apr 12, 2026",Los Angeles Clippers,Golden State Warriors,31.2406930635172,224.31,25.1915286917658
+"Sun, Apr 12, 2026",Los Angeles Lakers,Utah Jazz,2.1881123917303,219.7,22.4680538588276
+"Sun, Apr 12, 2026",Minnesota Timberwolves,New Orleans Pelicans,3.50278879973198,225.11,22.1479462242722
+"Sun, Apr 12, 2026",Oklahoma City Thunder,Phoenix Suns,2.06059254588015,223.48,23.5694816174393
+"Sun, Apr 12, 2026",Portland Trail Blazers,Sacramento Kings,1.32164508070122,220.94,26.5777441476026
+"Sun, Apr 12, 2026",San Antonio Spurs,Denver Nuggets,6.9415223847873,220.81,21.0658077218942
