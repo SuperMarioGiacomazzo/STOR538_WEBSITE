@@ -6,62 +6,62 @@ Date,Home,Away,Spread,Total,OREB
 "Sat, Mar 14, 2026",San Antonio Spurs,Charlotte Hornets,13,217,26
 "Sat, Mar 14, 2026",Los Angeles Lakers,Denver Nuggets,2,252,14
 "Sat, Mar 14, 2026",Los Angeles Clippers,Sacramento Kings,-9,227,18
-"Sun, Mar 15, 2026",Oklahoma City Thunder,Minnesota Timberwolves,,,
-"Sun, Mar 15, 2026",Cleveland Cavaliers,Dallas Mavericks,,,
-"Sun, Mar 15, 2026",Milwaukee Bucks,Indiana Pacers,,,
-"Sun, Mar 15, 2026",Toronto Raptors,Detroit Pistons,,,
-"Sun, Mar 15, 2026",Philadelphia 76ers,Portland Trail Blazers,,,
-"Sun, Mar 15, 2026",New York Knicks,Golden State Warriors,,,
-"Sun, Mar 15, 2026",Sacramento Kings,Utah Jazz,,,
-"Mon, Mar 16, 2026",Atlanta Hawks,Orlando Magic,,,
-"Mon, Mar 16, 2026",Washington Wizards,Golden State Warriors,,,
-"Mon, Mar 16, 2026",Brooklyn Nets,Portland Trail Blazers,,,
-"Mon, Mar 16, 2026",Boston Celtics,Phoenix Suns,,,
-"Mon, Mar 16, 2026",Chicago Bulls,Memphis Grizzlies,,,
-"Mon, Mar 16, 2026",New Orleans Pelicans,Dallas Mavericks,,,
-"Mon, Mar 16, 2026",Houston Rockets,Los Angeles Lakers,,,
-"Mon, Mar 16, 2026",Los Angeles Clippers,San Antonio Spurs,,,
-"Tue, Mar 17, 2026",Charlotte Hornets,Miami Heat,,,
-"Tue, Mar 17, 2026",Orlando Magic,Oklahoma City Thunder,,,
-"Tue, Mar 17, 2026",Washington Wizards,Detroit Pistons,,,
-"Tue, Mar 17, 2026",New York Knicks,Indiana Pacers,,,
-"Tue, Mar 17, 2026",Milwaukee Bucks,Cleveland Cavaliers,,,
-"Tue, Mar 17, 2026",Minnesota Timberwolves,Phoenix Suns,,,
-"Tue, Mar 17, 2026",Denver Nuggets,Philadelphia 76ers,,,
-"Tue, Mar 17, 2026",Sacramento Kings,San Antonio Spurs,,,
-"Wed, Mar 18, 2026",Boston Celtics,Golden State Warriors,,,
-"Wed, Mar 18, 2026",Brooklyn Nets,Oklahoma City Thunder,,,
-"Wed, Mar 18, 2026",Indiana Pacers,Portland Trail Blazers,,,
-"Wed, Mar 18, 2026",Chicago Bulls,Toronto Raptors,,,
-"Wed, Mar 18, 2026",Memphis Grizzlies,Denver Nuggets,,,
-"Wed, Mar 18, 2026",Minnesota Timberwolves,Utah Jazz,,,
-"Wed, Mar 18, 2026",New Orleans Pelicans,Los Angeles Clippers,,,
-"Wed, Mar 18, 2026",Dallas Mavericks,Atlanta Hawks,,,
-"Wed, Mar 18, 2026",Houston Rockets,Los Angeles Lakers,,,
-"Thu, Mar 19, 2026",Charlotte Hornets,Orlando Magic,,,
-"Thu, Mar 19, 2026",Washington Wizards,Detroit Pistons,,,
-"Thu, Mar 19, 2026",Chicago Bulls,Cleveland Cavaliers,,,
-"Thu, Mar 19, 2026",Miami Heat,Los Angeles Lakers,,,
-"Thu, Mar 19, 2026",New Orleans Pelicans,Los Angeles Clippers,,,
-"Thu, Mar 19, 2026",San Antonio Spurs,Phoenix Suns,,,
-"Thu, Mar 19, 2026",Utah Jazz,Milwaukee Bucks,,,
-"Thu, Mar 19, 2026",Sacramento Kings,Philadelphia 76ers,,,
-"Fri, Mar 20, 2026",Brooklyn Nets,New York Knicks,,,
-"Fri, Mar 20, 2026",Detroit Pistons,Golden State Warriors,,,
-"Fri, Mar 20, 2026",Houston Rockets,Atlanta Hawks,,,
-"Fri, Mar 20, 2026",Memphis Grizzlies,Boston Celtics,,,
-"Fri, Mar 20, 2026",Minnesota Timberwolves,Portland Trail Blazers,,,
-"Fri, Mar 20, 2026",Denver Nuggets,Toronto Raptors,,,
-"Sat, Mar 21, 2026",Washington Wizards,Oklahoma City Thunder,,,
-"Sat, Mar 21, 2026",Charlotte Hornets,Memphis Grizzlies,,,
-"Sat, Mar 21, 2026",New Orleans Pelicans,Cleveland Cavaliers,,,
-"Sat, Mar 21, 2026",Orlando Magic,Los Angeles Lakers,,,
-"Sat, Mar 21, 2026",Atlanta Hawks,Golden State Warriors,,,
-"Sat, Mar 21, 2026",Houston Rockets,Miami Heat,,,
-"Sat, Mar 21, 2026",San Antonio Spurs,Indiana Pacers,,,
-"Sat, Mar 21, 2026",Dallas Mavericks,Los Angeles Clippers,,,
-"Sat, Mar 21, 2026",Utah Jazz,Philadelphia 76ers,,,
-"Sat, Mar 21, 2026",Phoenix Suns,Milwaukee Bucks,,,
+"Sun, Mar 15, 2026",Oklahoma City Thunder,Minnesota Timberwolves,13,219,23
+"Sun, Mar 15, 2026",Cleveland Cavaliers,Dallas Mavericks,-10,250,19
+"Sun, Mar 15, 2026",Milwaukee Bucks,Indiana Pacers,11,257,23
+"Sun, Mar 15, 2026",Toronto Raptors,Detroit Pistons,11,227,33
+"Sun, Mar 15, 2026",Philadelphia 76ers,Portland Trail Blazers,6,212,29
+"Sun, Mar 15, 2026",New York Knicks,Golden State Warriors,3,217,27
+"Sun, Mar 15, 2026",Sacramento Kings,Utah Jazz,5,227,22
+"Mon, Mar 16, 2026",Atlanta Hawks,Orlando Magic,12,236,23
+"Mon, Mar 16, 2026",Washington Wizards,Golden State Warriors,-8,242,23
+"Mon, Mar 16, 2026",Brooklyn Nets,Portland Trail Blazers,-19,209,28
+"Mon, Mar 16, 2026",Boston Celtics,Phoenix Suns,8,232,15
+"Mon, Mar 16, 2026",Chicago Bulls,Memphis Grizzlies,25,239,23
+"Mon, Mar 16, 2026",New Orleans Pelicans,Dallas Mavericks,18,240,25
+"Mon, Mar 16, 2026",Houston Rockets,Los Angeles Lakers,-8,192,27
+"Mon, Mar 16, 2026",Los Angeles Clippers,San Antonio Spurs,-4,234,34
+"Tue, Mar 17, 2026",Charlotte Hornets,Miami Heat,30,242,22
+"Tue, Mar 17, 2026",Orlando Magic,Oklahoma City Thunder,-5,221,21
+"Tue, Mar 17, 2026",Washington Wizards,Detroit Pistons,-13,247,23
+"Tue, Mar 17, 2026",New York Knicks,Indiana Pacers,26,246,27
+"Tue, Mar 17, 2026",Milwaukee Bucks,Cleveland Cavaliers,-7,239,17
+"Tue, Mar 17, 2026",Minnesota Timberwolves,Phoenix Suns,12,220,32
+"Tue, Mar 17, 2026",Denver Nuggets,Philadelphia 76ers,28,220,18
+"Tue, Mar 17, 2026",Sacramento Kings,San Antonio Spurs,-28,236,11
+"Wed, Mar 18, 2026",Boston Celtics,Golden State Warriors,21,219,29
+"Wed, Mar 18, 2026",Brooklyn Nets,Oklahoma City Thunder,-29,213,20
+"Wed, Mar 18, 2026",Indiana Pacers,Portland Trail Blazers,-8,246,32
+"Wed, Mar 18, 2026",Chicago Bulls,Toronto Raptors,-30,248,15
+"Wed, Mar 18, 2026",Memphis Grizzlies,Denver Nuggets,7,243,19
+"Wed, Mar 18, 2026",Minnesota Timberwolves,Utah Jazz,36,258,29
+"Wed, Mar 18, 2026",New Orleans Pelicans,Los Angeles Clippers,15,233,27
+"Wed, Mar 18, 2026",Dallas Mavericks,Atlanta Hawks,-15,255,23
+"Wed, Mar 18, 2026",Houston Rockets,Los Angeles Lakers,-8,240,17
+"Thu, Mar 19, 2026",Charlotte Hornets,Orlando Magic,19,241,22
+"Thu, Mar 19, 2026",Washington Wizards,Detroit Pistons,-22,212,23
+"Thu, Mar 19, 2026",Chicago Bulls,Cleveland Cavaliers,-5,225,28
+"Thu, Mar 19, 2026",Miami Heat,Los Angeles Lakers,-8,260,25
+"Thu, Mar 19, 2026",New Orleans Pelicans,Los Angeles Clippers,6,204,17
+"Thu, Mar 19, 2026",San Antonio Spurs,Phoenix Suns,1,201,19
+"Thu, Mar 19, 2026",Utah Jazz,Milwaukee Bucks,32,232,20
+"Thu, Mar 19, 2026",Sacramento Kings,Philadelphia 76ers,-21,257,31
+"Fri, Mar 20, 2026",Brooklyn Nets,New York Knicks,-1,185,21
+"Fri, Mar 20, 2026",Detroit Pistons,Golden State Warriors,14,216,19
+"Fri, Mar 20, 2026",Houston Rockets,Atlanta Hawks,22,212,21
+"Fri, Mar 20, 2026",Memphis Grizzlies,Boston Celtics,-5,229,25
+"Fri, Mar 20, 2026",Minnesota Timberwolves,Portland Trail Blazers,-4,212,32
+"Fri, Mar 20, 2026",Denver Nuggets,Toronto Raptors,6,236,20
+"Sat, Mar 21, 2026",Washington Wizards,Oklahoma City Thunder,-21,243,26
+"Sat, Mar 21, 2026",Charlotte Hornets,Memphis Grizzlies,23,225,22
+"Sat, Mar 21, 2026",New Orleans Pelicans,Cleveland Cavaliers,-5,217,24
+"Sat, Mar 21, 2026",Orlando Magic,Los Angeles Lakers,-1,209,26
+"Sat, Mar 21, 2026",Atlanta Hawks,Golden State Warriors,16,236,17
+"Sat, Mar 21, 2026",Houston Rockets,Miami Heat,1,245,24
+"Sat, Mar 21, 2026",San Antonio Spurs,Indiana Pacers,15,253,17
+"Sat, Mar 21, 2026",Dallas Mavericks,Los Angeles Clippers,-7,269,23
+"Sat, Mar 21, 2026",Utah Jazz,Philadelphia 76ers,-10,242,27
+"Sat, Mar 21, 2026",Phoenix Suns,Milwaukee Bucks,-3,213,20
 "Sun, Mar 22, 2026",Denver Nuggets,Portland Trail Blazers,,,
 "Sun, Mar 22, 2026",Sacramento Kings,Brooklyn Nets,,,
 "Sun, Mar 22, 2026",New York Knicks,Washington Wizards,,,
