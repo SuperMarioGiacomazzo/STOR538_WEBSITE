@@ -445,13 +445,13 @@ The second playoff round is worth a total of 48 points based on the following ru
 |Data: New Variable|Poor|Not Innovative But Defended|Innovative But Not Well Defended|Innovative and Defended|
 |Spread: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough|
 |Spread: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description|
-|Spread: Prediction|None|Bottom 5| Middle 6 |Top 6|
+|Spread: Prediction|None|Bottom 3| Middle 4 |Top 3|
 |Total: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough|
 |Total: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description|
-|Total: Prediction|None|Bottom 5|Middle 6|Top 6|
+|Total: Prediction|None|Bottom 3|Middle 4|Top 3|
 |OREB: Methodology|Poor|Lazy But Well Explained|Clear, Thorough, but Lacking Innovation|Clear, Innovative, and Thorough|
 |OREB: Best Model|Poor Description|Adequate Description|Good Description|Excellent Description|
-|OREB: Prediction|None|Bottom 5|Middle 6|Top 6|
+|OREB: Prediction|None|Bottom 3|Middle 4|Top 3|
 |Spelling/Grammar|>5 Errors| 3-5 Errors|1-2 Errors|No Errors|
 |Submitted|Late||Not a PDF/CSV|On Time|
 |**Criteria**|**0-1**|**2-3**|**4-5**|**6**|
