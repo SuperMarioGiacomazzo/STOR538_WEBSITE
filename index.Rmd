@@ -267,7 +267,7 @@ This class is designed to be a research-focused course where you produce two hig
 
 # **Fundamentals of Sports Analytics** {.tabset}
 
-In this class, your performance will be graded using **six** different assessments: attendance (5%), practice (5%), gameday speeches (15%), regular season (20%), playoffs (25%), and championship (30%). For the gameday speeches, playoffs, and the championship, you will be randomly assigned to a team. This class is a team sport.
+In this class, your performance will be graded using **six** different assessments: attendance (5%), practice (5%), gameday speeches (10%), regular season (20%), playoffs (25%), and championship (25%). For the gameday speeches, playoffs, and the championship, you will be randomly assigned to a team. This class is a team sport.
 
 ## Attendance
 
@@ -548,7 +548,7 @@ If there is a group who is clearly incompetent, lazy, etc., your group should no
 
 ### Rubric
 
-The first playoff round is worth a total of 69 points based on the following rubric:
+The championship round is worth a total of 72 points based on the following rubric:
 
 |              Criteria              |                  0                  |                      1                       |                     2                     |                     3                     |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
