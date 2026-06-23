@@ -578,10 +578,9 @@ Any assignments requiring a deliverable will be submitted via **Canvas** as a PD
 | JUL 2 (1:15PM) |                                                               |         GS2         |                  |             |                  |
 | JUL 7 (1:15PM)  |                                                               |                     |       RS2        |             |                  |
 | JUL 9 (1:15PM) |                                                               |         GS3         |                  |             |                  |
-| JUL 10 (11:59PM) |                                                               |                     |                  |      P      |                  |
+| JUL 13 (11:59PM)  |                                                               |                     |                  |             |     C (Data)     |
 | JUL 14 (1:15PM) |                                                               |                     |       RS3        |             |                  |
 | JUL 16 (1:15PM) |                                                               |         GS4         |                  |             |                  |
-| JUL 20 (11:59PM)  |                                                               |                     |                  |             |     C (Data)     
 | JUL 21 (11:15AM)  |                                                               |                     |       RS4        |             |                |
 | JUL 28 (11:30AM) |                                                               |                     |                  |             |    C (Paper)     |
 | JUL 28 (11:30AM)     |                                                               |                     |                  |             | C (Presentation) |
